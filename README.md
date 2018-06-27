@@ -24,15 +24,13 @@ More focus on Florida's native tribes and pagans
 
 More Provinces!
 
-Last updated 6/27/2018
-
 #################### THANKS TO #######################################
 
 Special Thanks to: 9Kbits / Cactus Hat / Dryhad (After the End Fan Fork)
 
 SlimeMan96 (Earth - A random alternate future mod)
 
-Phi (Atheism Mod)Subreddit coming soon
+Phi (Atheism Mod)
 
 #################### INSTALLATION INSTRUCTIONS #######################
 
@@ -60,3 +58,6 @@ Phi (Atheism Mod)Subreddit coming soon
 
 Find me at /u/quorum12 on reddit or check out https://www.patreon.com/user?u=11964883 for updates on the project!
 
+Subreddit coming soon!
+
+Mod last updated 6/27/2018
