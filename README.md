@@ -3,6 +3,7 @@ A deeply detailed map of Florida and surrounding lands set in an alternate timel
 ##################################
 FEATURES
 ##################################
+
 A deeply detailed (300 land, 40 water provinces) of Florida and surrounding lands, including Louisiana, Alabama / Mississippi, Western Cuba, and the tip of the Yucatan.
 
 Hundreds of playable characters with ~15 all new cultures and many unique religions, including the baptists and their heresies.
@@ -28,6 +29,7 @@ More focus on Florida's native tribes and pagans
 More Provinces!
 
 Last updated 6/27/2018
+
 #################################THANKS TO#################################
 
 Special Thanks to: 9Kbits / Cactus Hat / Dryhad (After the End Fan Fork)
