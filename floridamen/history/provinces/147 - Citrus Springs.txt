@@ -1,0 +1,8 @@
+# 147 - Citrus Springs
+title = c_citrus_springs
+max_settlements = 4
+culture = tampanian
+religion = baptist
+b_citrus_springs_a = castle
+b_citrus_springs_b = city
+b_citrus_springs_c = temple

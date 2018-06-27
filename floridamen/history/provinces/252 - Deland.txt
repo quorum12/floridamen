@@ -1,0 +1,8 @@
+# 252 - Deland
+title = c_deland
+max_settlements = 5
+culture = americo_hispanic
+religion = baptist
+b_deland_a = castle
+b_deland_b = city
+b_deland_c = temple

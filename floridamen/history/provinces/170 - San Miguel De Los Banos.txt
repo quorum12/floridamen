@@ -1,0 +1,8 @@
+# 170 - San Miguel De Los Banos
+title = c_san_miguel_de_los_banos
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_san_miguel_de_los_banos_a = castle
+b_san_miguel_de_los_banos_b = city
+b_san_miguel_de_los_banos_c = temple

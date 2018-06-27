@@ -1,0 +1,8 @@
+# 297 - Hollywood
+title = c_hollywood
+max_settlements = 5
+culture = americo_hispanic
+religion = jewish
+b_hollywood_a = castle
+b_hollywood_b = city
+b_hollywood_c = temple

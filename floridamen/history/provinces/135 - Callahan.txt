@@ -1,0 +1,8 @@
+# 187 - Callahan
+title = c_callahan
+max_settlements = 4
+culture = jacksonvillean
+religion = catholic
+b_callahan_a = castle
+b_callahan_b = city
+b_callahan_c = temple

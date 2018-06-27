@@ -1,0 +1,8 @@
+# 216 - Santa Clara
+title = c_santa_clara
+max_settlements = 5
+culture = cubano
+religion = catholic
+b_santa_clara_a = castle
+b_santa_clara_b = city
+b_santa_clara_c = temple

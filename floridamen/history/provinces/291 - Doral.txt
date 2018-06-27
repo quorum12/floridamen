@@ -1,0 +1,8 @@
+# 291 - Doral
+title = c_doral
+max_settlements = 4
+culture = americo_hispanic
+religion = catholic
+b_doral_a = castle
+b_doral_b = city
+b_doral_c = temple

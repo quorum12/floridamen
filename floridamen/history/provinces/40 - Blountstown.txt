@@ -1,0 +1,8 @@
+# 40 - Blountstown
+title = c_blountstown
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_blountstown_a = castle
+b_blountstown_b = city
+b_blountstown_c = temple

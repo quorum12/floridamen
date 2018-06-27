@@ -1,0 +1,8 @@
+# 189 - Saint Petersburg
+title = c_saint_petersburg
+max_settlements = 4
+culture = southerner
+religion = catholic
+b_saint_petersburg_a = castle
+b_saint_petersburg_b = city
+b_saint_petersburg_c = temple

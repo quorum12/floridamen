@@ -1,0 +1,8 @@
+# 24 - Hammond
+title = c_hammond
+max_settlements = 4
+culture = new_orleanser
+religion = voodoo
+b_hammond_a = castle
+b_hammond_b = city
+b_hammond_c = temple

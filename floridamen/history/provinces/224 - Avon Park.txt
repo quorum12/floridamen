@@ -1,0 +1,8 @@
+# 224 - Avon Park
+title = c_avon_park
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_avon_park_a = castle
+b_avon_park_b = city
+b_avon_park_c = temple

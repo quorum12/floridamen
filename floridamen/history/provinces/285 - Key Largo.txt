@@ -1,0 +1,8 @@
+# 285 - Key Largo
+title = c_key_largo
+max_settlements = 5
+culture = miamimen
+religion = jewish
+b_key_largo_a = castle
+b_key_largo_b = city
+b_key_largo_c = temple

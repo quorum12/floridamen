@@ -1,0 +1,8 @@
+# 276 - Buckhead Ridge
+title = c_buckhead_ridge
+max_settlements = 4
+culture = calusa
+religion = american_totemist_pagan
+b_buckhead_ridge_a = castle
+b_buckhead_ridge_b = city
+b_buckhead_ridge_c = temple

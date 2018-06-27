@@ -1,0 +1,8 @@
+# 66 - Foxen Defunkiak Springsin
+title = c_foxen_defunkiak_springsin
+max_settlements = 4
+culture = mexican
+religion = catholic
+b_foxen_defunkiak_springsin_a = castle
+b_foxen_defunkiak_springsin_b = city
+b_foxen_defunkiak_springsin_c = temple

@@ -1,0 +1,9 @@
+# 215 - Cayo Fragoso
+title = c_cayo_fragoso
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_cayo_fragoso_a = castle
+b_cayo_fragoso_b = city
+b_cayo_fragoso_c = temple
+2134.1.1 = {

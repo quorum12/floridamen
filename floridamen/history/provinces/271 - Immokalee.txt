@@ -1,0 +1,8 @@
+# 271 - Immokalee
+title = c_immokalee
+max_settlements = 4
+culture = calusa
+religion = american_totemist_pagan
+b_immokalee_a = castle
+b_immokalee_b = city
+b_immokalee_c = temple

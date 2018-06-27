@@ -1,0 +1,8 @@
+# 75 - El Cuyo
+title = c_el_cuyo
+max_settlements = 4
+culture = mexican
+religion = catholic
+b_el_cuyo_a = castle
+b_el_cuyo_b = city
+b_el_cuyo_c = temple

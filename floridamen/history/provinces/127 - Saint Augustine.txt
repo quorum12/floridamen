@@ -1,0 +1,8 @@
+# 127 - Saint Augustine
+title = c_saint_augustine
+max_settlements = 4
+culture = jacksonvillean
+religion = catholic
+b_saint_augustine_a = castle
+b_saint_augustine_b = city
+b_saint_augustine_c = temple

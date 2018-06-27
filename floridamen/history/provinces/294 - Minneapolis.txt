@@ -1,0 +1,8 @@
+# 294 - Minneapolis
+title = c_minneapolis
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_minneapolis_a = castle
+b_minneapolis_b = city
+b_minneapolis_c = temple

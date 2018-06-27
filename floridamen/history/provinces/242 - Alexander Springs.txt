@@ -1,0 +1,8 @@
+# 242 - Alexander Springs
+title = c_alexander_springs
+max_settlements = 4
+culture = orlandoan
+religion = catholic
+b_alexander_springs_a = castle
+b_alexander_springs_b = city
+b_alexander_springs_c = temple

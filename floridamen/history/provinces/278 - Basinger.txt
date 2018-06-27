@@ -1,0 +1,8 @@
+# 278 - Basinger
+title = c_basinger
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_basinger_a = castle
+b_basinger_b = city
+b_basinger_c = temple

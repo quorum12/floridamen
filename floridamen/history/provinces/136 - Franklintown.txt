@@ -1,0 +1,8 @@
+# 187 - Franklintown
+title = c_franklintown
+max_settlements = 4
+culture = jacksonvillean
+religion = baptist
+b_franklintown_a = castle
+b_franklintown_b = city
+b_franklintown_c = temple

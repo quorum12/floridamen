@@ -1,0 +1,1200 @@
+1 = {
+	title = c_cameron
+	max_settlements = 4
+}
+2 = {
+	title = c_hackberry
+	max_settlements = 4
+}
+3 = {
+	title = c_lake_charles
+	max_settlements = 4
+}
+4 = {
+	title = c_jennings
+	max_settlements = 4
+}
+5 = {
+	title = c_iota
+	max_settlements = 4
+}
+6 = {
+	title = c_gueydan
+	max_settlements = 4
+}
+7 = {
+	title = c_creole
+	max_settlements = 4
+}
+8 = {
+	title = c_white_lake_wetlands_conservation_area
+	max_settlements = 2
+}
+9 = {
+	title = c_crowley
+	max_settlements = 4
+}
+10 = {
+	title = c_pecan_island
+	max_settlements = 4
+}
+11 = {
+	title = c_lafayette
+	max_settlements = 6
+}
+12 = {
+	title = c_abbeville
+	max_settlements = 4
+}
+13 = {
+	title = c_breaux_bridge
+	max_settlements = 4
+}
+14 = {
+	title = c_marsh_island
+	max_settlements = 4
+}
+15 = {
+	title = c_new_iberia
+	max_settlements = 4
+}
+16 = {
+	title = c_atchafalaya_wildlife_refuge
+	max_settlements = 4
+}
+17 = {
+	title = c_plaquemine
+	max_settlements = 4
+}
+18 = {
+	title = c_morgan
+	max_settlements = 4
+}
+19 = {
+	title = c_baton_rouge
+	max_settlements = 4
+}
+20 = {
+	title = c_new_amelia_island
+	max_settlements = 4
+}
+21 = {
+	title = c_cocodrie
+	max_settlements = 4
+}
+22 = {
+	title = c_gray
+	max_settlements = 4
+}
+23 = {
+	title = c_houma
+	max_settlements = 4
+}
+24 = {
+	title = c_hammond
+	max_settlements = 4
+}
+25 = {
+	title = c_picayune
+	max_settlements = 4
+}
+26 = {
+	title = c_biloxi
+	max_settlements = 4
+}
+27 = {
+	title = c_new_orleans
+	max_settlements = 7
+}
+28 = {
+	title = c_empire
+	max_settlements = 4
+}
+29 = {
+	title = c_shell_beach
+	max_settlements = 4
+}
+30 = {
+	title = c_orange_beach
+	max_settlements = 4
+}
+31 = {
+	title = c_pensacola
+	max_settlements = 5
+}
+32 = {
+	title = c_fort_walton
+	max_settlements = 4
+}
+33 = {
+	title = c_crestview
+	max_settlements = 4
+}
+34 = {
+	title = c_niceville
+	max_settlements = 4
+}
+35 = {
+	title = c_defunkiak_springs
+	max_settlements = 4
+}
+36 = {
+	title = c_panama_city_beach
+	max_settlements = 4
+}
+37 = {
+	title = c_port_saint_joe
+	max_settlements = 4
+}
+38 = {
+	title = c_wewahitchka
+	max_settlements = 4
+}
+39 = {
+	title = c_estiffanulga
+	max_settlements = 4
+}
+40 = {
+	title = c_blountstown
+	max_settlements = 4
+}
+41 = {
+	title = c_cedar_keypoint
+	max_settlements = 4
+}
+42 = {
+	title = c_carrabelle
+	max_settlements = 4
+}
+43 = {
+	title = c_apalachicola_forest
+	max_settlements = 2
+}
+44 = {
+	title = c_hosford
+	max_settlements = 4
+}
+45 = {
+	title = c_fort_braden
+	max_settlements = 4
+}
+46 = {
+	title = c_sopchoppy
+	max_settlements = 4
+}
+47 = {
+	title = c_tallahassee
+	max_settlements = 6
+}
+48 = {
+	title = c_woodville
+	max_settlements = 4
+}
+49 = {
+	title = c_aucilla_wildlife_area
+	max_settlements = 4
+}
+50 = {
+	title = c_wacissa
+	max_settlements = 4
+}
+51 = {
+	title = c_franklin
+	max_settlements = 4
+}
+52 = {
+	title = c_live_oak
+	max_settlements = 4
+}
+53 = {
+	title = c_tennille
+	max_settlements = 4
+}
+54 = {
+	title = c_horseshoe_beach
+	max_settlements = 4
+}
+55 = {
+	title = c_cedar_key
+	max_settlements = 4
+}
+56 = {
+	title = c_chiefland
+	max_settlements = 4
+}
+57 = {
+	title = c_fort_white
+	max_settlements = 4
+}
+58 = {
+	title = c_white_springs
+	max_settlements = 4
+}
+59 = {
+	title = c_osceola_wildlife_management_area
+	max_settlements = 4
+}
+60 = {
+	title = c_lake_city
+	max_settlements = 4
+}
+61 = {
+	title = c_celestun
+	max_settlements = 4
+}
+62 = {
+	title = c_hunucma
+	max_settlements = 4
+}
+63 = {
+	title = c_uman
+	max_settlements = 4
+}
+64 = {
+	title = c_progreso
+	max_settlements = 4
+}
+65 = {
+	title = c_merida
+	max_settlements = 4
+}
+66 = {
+	title = c_foxen_defunkiak_springsin
+	max_settlements = 4
+}
+67 = {
+	title = c_izamal
+	max_settlements = 4
+}
+68 = {
+	title = c_dzidzantun
+	max_settlements = 4
+}
+69 = {
+	title = c_piste
+	max_settlements = 4
+}
+70 = {
+	title = c_la_gran_lucha
+	max_settlements = 5
+}
+71 = {
+	title = c_valladolid
+	max_settlements = 4
+}
+72 = {
+	title = c_tizimin
+	max_settlements = 4
+}
+73 = {
+	title = c_rio_lagartos
+	max_settlements = 4
+}
+74 = {
+	title = c_chemax
+	max_settlements = 4
+}
+75 = {
+	title = c_el_cuyo
+	max_settlements = 4
+}
+76 = {
+	title = c_kantunilkin
+	max_settlements = 4
+}
+77 = {
+	title = c_holbox
+	max_settlements = 4
+}
+78 = {
+	title = c_coba
+	max_settlements = 4
+}
+79 = {
+	title = c_play_del_carmen
+	max_settlements = 4
+}
+80 = {
+	title = c_cancun
+	max_settlements = 6
+}
+81 = {
+	title = c_maria_la_gorda
+	max_settlements = 4
+}
+82 = {
+	title = c_sandino
+	max_settlements = 4
+}
+83 = {
+	title = c_mantua
+	max_settlements = 4
+}
+84 = {
+	title = c_minas_de_matahambre
+	max_settlements = 4
+}
+85 = {
+	title = c_punta_de_la_sierra
+	max_settlements = 4
+}
+86 = {
+	title = c_san_juan_y_martinez
+	max_settlements = 4
+}
+87 = {
+	title = c_santa_maria
+	max_settlements = 4
+}
+88 = {
+	title = c_vinalas
+	max_settlements = 4
+}
+89 = {
+	title = c_la_palma
+	max_settlements = 4
+}
+90 = {
+	title = c_pinar_del_rio
+	max_settlements = 6
+}
+91 = {
+	title = c_las_tumbas
+	max_settlements = 4
+}
+92 = {
+	title = c_la_coloma
+	max_settlements = 4
+}
+93 = {
+	title = c_alonso_de_rojas
+	max_settlements = 4
+}
+94 = {
+	title = c_los_palacios
+	max_settlements = 4
+}
+95 = {
+	title = c_palma_rubia
+	max_settlements = 4
+}
+96 = {
+	title = c_los_pinos
+	max_settlements = 4
+}
+97 = {
+	title = c_san_cristobal
+	max_settlements = 4
+}
+98 = {
+	title = c_soroa
+	max_settlements = 5
+}
+99 = {
+	title = c_harlem_bahia_honda
+	max_settlements = 4
+}
+100 = {
+	title = c_parque_la_guira
+	max_settlements = 4
+}
+101 = {
+	title = c_cayos_de_san_felipe
+	max_settlements = 4
+}
+102 = {
+	title = c_islas_de_mangles
+	max_settlements = 4
+}
+103 = {
+	title = c_la_demajagua
+	max_settlements = 4
+}
+104 = {
+	title = c_carapachibey
+	max_settlements = 4
+}
+105 = {
+	title = c_delita
+	max_settlements = 4
+}
+106 = {
+	title = c_siguanea
+	max_settlements = 4
+}
+107 = {
+	title = c_parque_marino_de_punta
+	max_settlements = 4
+}
+108 = {
+	title = c_santa_fe
+	max_settlements = 4
+}
+109 = {
+	title = c_nueva_gerona
+	max_settlements = 4
+}
+110 = {
+	title = c_cayos_los_cayuelos
+	max_settlements = 4
+}
+111 = {
+	title = c_islas_de_batabanos
+	max_settlements = 4
+}
+112 = {
+	title = c_cayo_boca_de_alonso
+	max_settlements = 4
+}
+113 = {
+	title = c_cayo_campos
+	max_settlements = 4
+}
+114 = {
+	title = c_cayo_ciprey
+	max_settlements = 4
+}
+115 = {
+	title = c_cayo_diego_perez
+	max_settlements = 4
+}
+116 = {
+	title = c_cayo_divisa
+	max_settlements = 4
+}
+117 = {
+	title = c_playa_sirena
+	max_settlements = 4
+}
+118 = {
+	title = c_parque_cienaga_de_zapata
+	max_settlements = 4
+}
+119 = {
+	title = c_playa_larga
+	max_settlements = 4
+}
+120 = {
+	title = c_nueva_paz
+	max_settlements = 4
+}
+121 = {
+	title = c_gainesville
+	max_settlements = 5
+}
+122 = {
+	title = c_hawthorne
+	max_settlements = 4
+}
+123 = {
+	title = c_interlachen
+	max_settlements = 4
+}
+124 = {
+	title = c_palatka
+	max_settlements = 4
+}
+125 = {
+	title = c_hastings
+	max_settlements = 4
+}
+126 = {
+	title = c_palm_coast
+	max_settlements = 4
+}
+127 = {
+	title = c_saint_augustine
+	max_settlements = 4
+}
+128 = {
+	title = c_green_cove_springs
+	max_settlements = 4
+}
+129 = {
+	title = c_starke
+	max_settlements = 4
+}
+130 = {
+	title = c_alachua
+	max_settlements = 4
+}
+131 = {
+	title = c_moniac
+	max_settlements = 4
+}
+132 = {
+	title = c_macclenny
+	max_settlements = 4
+}
+133 = {
+	title = c_saint_george
+	max_settlements = 4
+}
+134 = {
+	title = c_baldwin
+	max_settlements = 4
+}
+135 = {
+	title = c_callahan
+	max_settlements = 4
+}
+136 = {
+	title = c_franklintown
+	max_settlements = 4
+}
+137 = {
+	title = c_middleburg
+	max_settlements = 4
+}
+138 = {
+	title = c_orange_park
+	max_settlements = 4
+}
+139 = {
+	title = c_jacksonville
+	max_settlements = 7
+}
+140 = {
+	title = c_arlington
+	max_settlements = 4
+}
+141 = {
+	title = c_ocala_forest
+	max_settlements = 3
+}
+142 = {
+	title = c_belleview
+	max_settlements = 4
+}
+143 = {
+	title = c_ocala
+	max_settlements = 4
+}
+144 = {
+	title = c_morriston
+	max_settlements = 4
+}
+145 = {
+	title = c_marion_oaks
+	max_settlements = 4
+}
+146 = {
+	title = c_chatmire
+	max_settlements = 4
+}
+147 = {
+	title = c_citrus_springs
+	max_settlements = 4
+}
+148 = {
+	title = c_dunnellon
+	max_settlements = 4
+}
+149 = {
+	title = c_goethe_forest
+	max_settlements = 3
+}
+150 = {
+	title = c_williston_highlands
+	max_settlements = 4
+}
+151 = {
+	title = c_lower_goethe_forest
+	max_settlements = 4
+}
+152 = {
+	title = c_inglis
+	max_settlements = 4
+}
+153 = {
+	title = c_cross_florida_greenway
+	max_settlements = 4
+}
+154 = {
+	title = c_gulf_hammock_wildlife_preserve
+	max_settlements = 4
+}
+155 = {
+	title = c_bronston
+	max_settlements = 4
+}
+156 = {
+	title = c_otter_creek
+	max_settlements = 4
+}
+157 = {
+	title = c_devils_hammock_wildlife_preserve
+	max_settlements = 4
+}
+158 = {
+	title = c_yellow_jacket
+	max_settlements = 4
+}
+159 = {
+	title = c_suwannee
+	max_settlements = 4
+}
+160 = {
+	title = c_spring_hill
+	max_settlements = 4
+}
+161 = {
+	title = c_jaguey_grande
+	max_settlements = 4
+}
+162 = {
+	title = c_cardenas
+	max_settlements = 4
+}
+163 = {
+	title = c_eastern_parque_cienaga_de_zapata
+	max_settlements = 4
+}
+164 = {
+	title = c_pedro_betancourt
+	max_settlements = 4
+}
+165 = {
+	title = c_matanzas
+	max_settlements = 5
+}
+166 = {
+	title = c_union_de_reyes
+	max_settlements = 4
+}
+167 = {
+	title = c_central_parque_cienaga_de_zapata
+	max_settlements = 4
+}
+168 = {
+	title = c_southern_parque_cienaga_de_zapata
+	max_settlements = 4
+}
+169 = {
+	title = c_far_parque_cienaga_de_zapata
+	max_settlements = 4
+}
+170 = {
+	title = c_san_miguel_de_los_banos
+	max_settlements = 4
+}
+171 = {
+	title = c_aguacate
+	max_settlements = 4
+}
+172 = {
+	title = c_bacunayagua
+	max_settlements = 4
+}
+173 = {
+	title = c_san_nicolas_de_bari
+	max_settlements = 4
+}
+174 = {
+	title = c_santa_cruz_del_norte
+	max_settlements = 4
+}
+175 = {
+	title = c_havana
+	max_settlements = 7
+}
+176 = {
+	title = c_surgidero_de_batabano
+	max_settlements = 4
+}
+177 = {
+	title = c_playa_baracoa
+	max_settlements = 4
+}
+178 = {
+	title = c_artemisa
+	max_settlements = 4
+}
+179 = {
+	title = c_cabanas
+	max_settlements = 4
+}
+180 = {
+	title = c_candelaria
+	max_settlements = 4
+}
+181 = {
+	title = c_pine_island_sound_aquatic_preserve
+	max_settlements = 4
+}
+182 = {
+	title = c_port_charlotte
+	max_settlements = 4
+}
+183 = {
+	title = c_venice
+	max_settlements = 4
+}
+184 = {
+	title = c_sarasota
+	max_settlements = 4
+}
+185 = {
+	title = c_brandenton
+	max_settlements = 4
+}
+186 = {
+	title = c_sun_city
+	max_settlements = 4
+}
+187 = {
+	title = c_apollo_beach
+	max_settlements = 4
+}
+188 = {
+	title = c_south_tampa
+	max_settlements = 5
+}
+189 = {
+	title = c_saint_petersburg
+	max_settlements = 4
+}
+190 = {
+	title = c_clearwater
+	max_settlements = 4
+}
+191 = {
+	title = c_town_n_country
+	max_settlements = 4
+}
+192 = {
+	title = c_palm_harbor
+	max_settlements = 4
+}
+193 = {
+	title = c_trinity
+	max_settlements = 4
+}
+194 = {
+	title = c_lutz
+	max_settlements = 4
+}
+195 = {
+	title = c_dade_city
+	max_settlements = 4
+}
+196 = {
+	title = c_wesley_chapel
+	max_settlements = 4
+}
+197 = {
+	title = c_lithia
+	max_settlements = 4
+}
+198 = {
+	title = c_myakka
+	max_settlements = 4
+}
+199 = {
+	title = c_mayakk_river_park
+	max_settlements = 4
+}
+200 = {
+	title = c_north_port
+	max_settlements = 4
+}
+201 = {
+	title = c_freeport
+	max_settlements = 4
+}
+202 = {
+	title = c_left_islands
+	max_settlements = 4
+}
+203 = {
+	title = c_right_islands
+	max_settlements = 4
+}
+204 = {
+	title = c_cayo_romano
+	max_settlements = 4
+}
+205 = {
+	title = c_puerto_padre
+	max_settlements = 4
+}
+206 = {
+	title = c_las_tunas
+	max_settlements = 4
+}
+207 = {
+	title = c_bayamo
+	max_settlements = 4
+}
+208 = {
+	title = c_sabalo
+	max_settlements = 4
+}
+209 = {
+	title = c_colobia
+	max_settlements = 4
+}
+210 = {
+	title = c_candido_gonzalez
+	max_settlements = 4
+}
+211 = {
+	title = c_venezuela
+	max_settlements = 4
+}
+212 = {
+	title = c_camaguey
+	max_settlements = 4
+}
+213 = {
+	title = c_vilato
+	max_settlements = 4
+}
+214 = {
+	title = c_moron
+	max_settlements = 4
+}
+215 = {
+	title = c_cayo_fragoso
+	max_settlements = 4
+}
+216 = {
+	title = c_santa_clara
+	max_settlements = 5
+}
+217 = {
+	title = c_cienfuegos
+	max_settlements = 4
+}
+218 = {
+	title = c_constancia
+	max_settlements = 4
+}
+219 = {
+	title = c_colon
+	max_settlements = 4
+}
+220 = {
+	title = c_la_teja
+	max_settlements = 4
+}
+221 = {
+	title = c_winter_haven
+	max_settlements = 4
+}
+222 = {
+	title = c_lakeland
+	max_settlements = 4
+}
+223 = {
+	title = c_plant_city
+	max_settlements = 4
+}
+224 = {
+	title = c_avon_park
+	max_settlements = 4
+}
+225 = {
+	title = c_bowling_green
+	max_settlements = 4
+}
+226 = {
+	title = c_arcadia
+	max_settlements = 4
+}
+227 = {
+	title = c_southeast_arcadia
+	max_settlements = 4
+}
+228 = {
+	title = c_babcock_ranch_preserve
+	max_settlements = 4
+}
+229 = {
+	title = c_ave_maria
+	max_settlements = 4
+}
+230 = {
+	title = c_naples
+	max_settlements = 5
+}
+231 = {
+	title = c_orangetree
+	max_settlements = 4
+}
+232 = {
+	title = c_cape_romano
+	max_settlements = 4
+}
+233 = {
+	title = c_carnestown
+	max_settlements = 5
+}
+234 = {
+	title = c_everglades_city
+	max_settlements = 4
+}
+235 = {
+	title = c_chokoloskee
+	max_settlements = 4
+}
+236 = {
+	title = c_everglades_park
+	max_settlements = 4
+}
+237 = {
+	title = c_big_pine_key
+	max_settlements = 4
+}
+238 = {
+	title = c_cudjoe_key
+	max_settlements = 4
+}
+239 = {
+	title = c_key_west
+	max_settlements = 4
+}
+240 = {
+	title = c_dry_tortugas_national_park
+	max_settlements = 4
+}
+241 = {
+	title = c_camp_ocala
+	max_settlements = 4
+}
+242 = {
+	title = c_alexander_springs
+	max_settlements = 4
+}
+243 = {
+	title = c_astor
+	max_settlements = 4
+}
+244 = {
+	title = c_de_leon_springs
+	max_settlements = 5
+}
+245 = {
+	title = c_paisley
+	max_settlements = 4
+}
+246 = {
+	title = c_eustis
+	max_settlements = 4
+}
+247 = {
+	title = c_apopka
+	max_settlements = 4
+}
+248 = {
+	title = c_sorrento
+	max_settlements = 4
+}
+249 = {
+	title = c_stirling
+	max_settlements = 4
+}
+250 = {
+	title = c_pine_lakes
+	max_settlements = 4
+}
+251 = {
+	title = c_sanford
+	max_settlements = 6
+}
+252 = {
+	title = c_deland
+	max_settlements = 5
+}
+253 = {
+	title = c_north_deland
+	max_settlements = 4
+}
+254 = {
+	title = c_relay_wma
+	max_settlements = 4
+}
+255 = {
+	title = c_ormond_beach
+	max_settlements = 4
+}
+256 = {
+	title = c_tiger_bay_forest
+	max_settlements = 2
+}
+257 = {
+	title = c_daytona_beach
+	max_settlements = 4
+}
+258 = {
+	title = c_south_tiger_bay_forest
+	max_settlements = 2
+}
+259 = {
+	title = c_sebastian
+	max_settlements = 4
+}
+260 = {
+	title = c_new_smyrna_beach
+	max_settlements = 4
+}
+261 = {
+	title = c_vero_beach
+	max_settlements = 5
+}
+262 = {
+	title = c_fort_pierce
+	max_settlements = 4
+}
+263 = {
+	title = c_port_saint_lucie
+	max_settlements = 4
+}
+264 = {
+	title = c_vero_corridor
+	max_settlements = 4
+}
+265 = {
+	title = c_yeehaw_junction
+	max_settlements = 4
+}
+266 = {
+	title = c_white
+	max_settlements = 4
+}
+267 = {
+	title = c_pahokee
+	max_settlements = 4
+}
+268 = {
+	title = c_west_palm_beach
+	max_settlements = 4
+}
+269 = {
+	title = c_belle_glade
+	max_settlements = 4
+}
+270 = {
+	title = c_clewiston
+	max_settlements = 4
+}
+271 = {
+	title = c_immokalee
+	max_settlements = 4
+}
+272 = {
+	title = c_labelle
+	max_settlements = 4
+}
+273 = {
+	title = c_muce
+	max_settlements = 4
+}
+274 = {
+	title = c_sebring
+	max_settlements = 4
+}
+275 = {
+	title = c_sylvan_shores
+	max_settlements = 4
+}
+276 = {
+	title = c_buckhead_ridge
+	max_settlements = 4
+}
+277 = {
+	title = c_kissimee_praire_preserve
+	max_settlements = 4
+}
+278 = {
+	title = c_basinger
+	max_settlements = 4
+}
+279 = {
+	title = c_whispering_pines
+	max_settlements = 4
+}
+280 = {
+	title = c_okeechobee
+	max_settlements = 4
+}
+281 = {
+	title = c_marathon
+	max_settlements = 4
+}
+282 = {
+	title = c_south_everglades
+	max_settlements = 4
+}
+283 = {
+	title = c_islamorada
+	max_settlements = 4
+}
+284 = {
+	title = c_north_everglades
+	max_settlements = 4
+}
+285 = {
+	title = c_key_largo
+	max_settlements = 5
+}
+286 = {
+	title = c_palmetto_bay
+	max_settlements = 4
+}
+287 = {
+	title = c_homestead
+	max_settlements = 5
+}
+288 = {
+	title = c_kendall
+	max_settlements = 4
+}
+289 = {
+	title = c_cutler_bay
+	max_settlements = 5
+}
+290 = {
+	title = c_coral_gables
+	max_settlements = 4
+}
+291 = {
+	title = c_doral
+	max_settlements = 4
+}
+292 = {
+	title = c_miami
+	max_settlements = 7
+}
+293 = {
+	title = c_hialeah
+	max_settlements = 6
+}
+294 = {
+	title = c_minneapolis
+	max_settlements = 4
+}
+295 = {
+	title = c_miami_shores
+	max_settlements = 5
+}
+296 = {
+	title = c_aventura
+	max_settlements = 4
+}
+297 = {
+	title = c_hollywood
+	max_settlements = 5
+}
+298 = {
+	title = c_horseshoe_beach_park
+	max_settlements = 4
+}
+299 = {
+	title = c_pembroke_pines
+	max_settlements = 4
+}
+300 = {
+	title = c_miramar
+	max_settlements = 4
+}

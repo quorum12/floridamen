@@ -1,0 +1,8 @@
+# 64 - Progreso
+title = c_progreso
+max_settlements = 4
+culture = mexican
+religion = catholic
+b_progreso_a = castle
+b_progreso_b = city
+b_progreso_c = temple

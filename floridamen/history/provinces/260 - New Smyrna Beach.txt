@@ -1,0 +1,8 @@
+# 260 - New Smyrna Beach
+title = c_new_smyrna_beach
+max_settlements = 4
+culture = miamimen
+religion = baptist
+b_new_smyrna_beach_a = castle
+b_new_smyrna_beach_b = city
+b_new_smyrna_beach_c = temple

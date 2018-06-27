@@ -1,0 +1,8 @@
+# 9 - Crowley
+title = c_crowley
+max_settlements = 4
+culture = louisianan
+religion = catholic
+b_crowley_a = castle
+b_crowley_b = city
+b_crowley_c = temple

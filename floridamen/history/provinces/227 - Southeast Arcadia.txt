@@ -1,0 +1,8 @@
+# 227 - Southeast Arcadia
+title = c_southeast_arcadia
+max_settlements = 4
+culture = tampanian
+religion = baptist
+b_southeast_arcadia_a = castle
+b_southeast_arcadia_b = city
+b_southeast_arcadia_c = temple

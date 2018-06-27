@@ -1,0 +1,8 @@
+# 172 - Bacunayagua
+title = c_bacunayagua
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_bacunayagua_a = castle
+b_bacunayagua_b = city
+b_bacunayagua_c = temple

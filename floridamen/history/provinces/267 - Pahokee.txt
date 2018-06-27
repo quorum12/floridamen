@@ -1,0 +1,8 @@
+# 267 - Pahokee
+title = c_pahokee
+max_settlements = 4
+culture = miamimen
+religion = baptist
+b_pahokee_a = castle
+b_pahokee_b = city
+b_pahokee_c = temple

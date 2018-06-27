@@ -1,0 +1,8 @@
+# 98 - Soroa
+title = c_soroa
+max_settlements = 5
+culture = cubano
+religion = catholic
+b_soroa_a = castle
+b_soroa_b = city
+b_soroa_c = temple

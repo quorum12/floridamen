@@ -1,0 +1,8 @@
+# 142 - Belleview
+title = c_belleview
+max_settlements = 4
+culture = dixie
+religion = catholic
+b_belleview_a = castle
+b_belleview_b = city
+b_belleview_c = temple

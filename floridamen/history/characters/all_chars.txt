@@ -1,0 +1,2164 @@
+4000000={
+	name="Emilio"
+	culture=cubano
+	religion=catholic
+	2118.9.8={birth=yes}
+	dynasty=1053
+}
+4000001={
+	name="Kyle"
+	culture=orlandoan
+	religion=baptist
+	2114.10.23={birth=yes}
+	dynasty=7000
+}
+4000002={
+	name="Ian"
+	culture=americo_hispanic
+	religion=catholic
+	2123.7.3={birth=yes}
+	dynasty=16000
+}
+4000003={
+	name="Raymond"
+	culture=louisianan
+	religion=voodoo
+	2121.1.8={birth=yes}
+	dynasty=2000
+}
+4000004={
+	name="Russell"
+	culture=tampanian
+	religion=catholic
+	2116.6.27={birth=yes}
+	dynasty=8000
+}
+4000005={
+	name="Austin"
+	culture=new_orleanser
+	religion=catholic
+	2120.7.14={birth=yes}
+	dynasty=3000
+}
+4000006={
+	name="Maximo"
+	culture=cubano
+	religion=catholic
+	2119.3.1={birth=yes}
+	dynasty=1052
+}
+4000007={
+	name="Jesse"
+	culture=orlandoan
+	religion=baptist
+	2117.5.20={birth=yes}
+	dynasty=7001
+}
+4000008={
+	name="Roy"
+	culture=orlandoan
+	religion=baptist
+	2121.12.3={birth=yes}
+	dynasty=7002
+}
+4000009={
+	name="alex"
+	culture=antillais
+	religion=catholic
+	2120.6.10={birth=yes}
+	dynasty=14000
+}
+4000010={
+	name="Dylan"
+	culture=cubano
+	religion=catholic
+	2114.8.24={birth=yes}
+	dynasty=1051
+}
+4000011={
+	name="Gael"
+	culture=mexican
+	religion=catholic
+	2115.11.27={birth=yes}
+	dynasty=13000
+}
+4000012={
+	name="Teresa"
+	culture=miamimen
+	religion=catholic
+	2123.4.20={birth=yes}
+	female = yes
+	dynasty=6000
+}
+4000013={
+	name="Alexander"
+	culture=dixie
+	religion=baptist
+	2118.5.26={birth=yes}
+	dynasty=5000
+}
+4000014={
+	name="Jordan"
+	culture=miamimen
+	religion=catholic
+	2117.10.21={birth=yes}
+	dynasty=6001
+}
+4000015={
+	name="Angelina"
+	culture=cubano
+	religion=catholic
+	2120.5.21={birth=yes}
+	female = yes
+	dynasty=1050
+}
+4000016={
+	name="Kenneth"
+	culture=tampanian
+	religion=baptist
+	2115.2.10={birth=yes}
+	dynasty=8001
+}
+4000017={
+	name="Henry"
+	culture=tallahassean
+	religion=baptist
+	2122.1.12={birth=yes}
+	dynasty=9000
+}
+4000018={
+	name="Paul"
+	culture=calusa
+	religion=american_totemist_pagan
+	2119.12.23={birth=yes}
+	dynasty=11000
+}
+4000019={
+	name="Victoria"
+	culture=tampanian
+	religion=baptist
+	2125.1.19={birth=yes}
+	female = yes
+	dynasty=8002
+}
+4000020={
+	name="Isaac"
+	culture=cubano
+	religion=catholic
+	2117.10.11={birth=yes}
+	dynasty=1048
+}
+4000021={
+	name="Betty"
+	culture=calusa
+	religion=baptist
+	2125.9.27={birth=yes}
+	female = yes
+	dynasty=11001
+}
+4000022={
+	name="Micaela"
+	culture=antillais
+	religion=none
+	2125.1.7={birth=yes}
+	female = yes
+	dynasty=14001
+	add_trait = fair
+	add_trait = kind
+	add_trait = gregarious
+	add_trait = just
+	add_trait = midas_touched
+}
+4000023={
+	name="Bobby"
+	culture=dixie
+	religion=baptist
+	2120.1.17={birth=yes}
+	dynasty=5001
+}
+4000024={
+	name="Brandon"
+	culture=tampanian
+	religion=catholic
+	2114.9.23={birth=yes}
+	dynasty=8003
+}
+4000025={
+	name="Oscar"
+	culture=americo_hispanic
+	religion=catholic
+	2116.4.16={birth=yes}
+	dynasty=16001
+}
+4000026={
+	name="Simon"
+	culture=cubano
+	religion=catholic
+	2122.3.13={birth=yes}
+	dynasty=1047
+}
+4000027={
+	name="Peter"
+	culture=miamimen
+	religion=reform
+	2120.12.7={birth=yes}
+	dynasty=6002
+}
+4000028={
+	name="Nicholas"
+	culture=tampanian
+	religion=baptist
+	2119.4.23={birth=yes}
+	dynasty=8004
+}
+4000029={
+	name="Alan"
+	culture=dixie
+	religion=baptist
+	2118.2.14={birth=yes}
+	dynasty=5002
+}
+4000030={
+	name="Gregory"
+	culture=tampanian
+	religion=catholic
+	2118.11.3={birth=yes}
+	dynasty=8005
+}
+4000031={
+	name="Shirley"
+	culture=tallahassean
+	religion=baptist
+	2124.5.25={birth=yes}
+	female = yes
+	dynasty=9001
+}
+4000032={
+	name="Eugene"
+	culture=louisianan
+	religion=catholic
+	2118.9.11={birth=yes}
+	dynasty=2001
+}
+4000033={
+	name="Joe"
+	culture=southerner
+	religion=catholic
+	2116.3.24={birth=yes}
+	dynasty=12000
+}
+4000034={
+	name="Sean"
+	culture=tampanian
+	religion=catholic
+	2117.6.24={birth=yes}
+	dynasty=8006
+}
+4000035={
+	name="Eduardo"
+	culture=americo_hispanic
+	religion=catholic
+	2121.7.22={birth=yes}
+	dynasty=16002
+}
+4000036={
+	name="John"
+	culture=dixie
+	religion=baptist
+	2123.4.28={birth=yes}
+	dynasty=5003
+}
+4000037={
+	name="Randy"
+	culture=miamimen
+	religion=catholic
+	2123.6.28={birth=yes}
+	dynasty=6003
+}
+4000038={
+	name="Andrew"
+	culture=orlandoan
+	religion=baptist
+	2119.3.8={birth=yes}
+	dynasty=7003
+}
+4000039={
+	name="Julia"
+	culture=tampanian
+	religion=catholic
+	2124.3.4={birth=yes}
+	female = yes
+	dynasty=8007
+}
+4000040={
+	name="Christopher"
+	culture=dixie
+	religion=baptist
+	2121.7.18={birth=yes}
+	dynasty=5004
+}
+4000041={
+	name="Gael"
+	culture=cubano
+	religion=catholic
+	2123.4.17={birth=yes}
+	dynasty=1044
+}
+4000042={
+	name="Willie"
+	culture=tampanian
+	religion=catholic
+	2120.9.2={birth=yes}
+	dynasty=8008
+}
+4000043={
+	name="Diana"
+	culture=antillais
+	religion=none
+	2125.8.16={birth=yes}
+	female = yes
+	dynasty=14002
+}
+4000044={
+	name="Maximiliano"
+	culture=americo_hispanic
+	religion=catholic
+	2121.4.8={birth=yes}
+	dynasty=16003
+}
+4000045={
+	name="Christian"
+	culture=cubano
+	religion=catholic
+	2117.5.16={birth=yes}
+	dynasty=1043
+}
+4000046={
+	name="David"
+	culture=mexican
+	religion=catholic
+	2117.1.17={birth=yes}
+	dynasty=13001
+}
+4000047={
+	name="Arturo"
+	culture=antillais
+	religion=catholic
+	2116.10.27={birth=yes}
+	dynasty=14003
+}
+4000048={
+	name="Ryan"
+	culture=calusa
+	religion=baptist
+	2118.10.8={birth=yes}
+	dynasty=11002
+}
+4000049={
+	name="Stephen"
+	culture=tampanian
+	religion=catholic
+	2122.10.21={birth=yes}
+	dynasty=8009
+}
+4000050={
+	name="Mario"
+	culture=mexican
+	religion=catholic
+	2123.9.21={birth=yes}
+	dynasty=13002
+}
+4000051={
+	name="Jonathan"
+	culture=tallahassean
+	religion=baptist
+	2117.8.2={birth=yes}
+	dynasty=9002
+}
+4000052={
+	name="Keith"
+	culture=texan
+	religion=catholic
+	2123.6.27={birth=yes}
+	dynasty=4000
+}
+4000053={
+	name="Louis"
+	culture=tampanian
+	religion=catholic
+	2115.3.10={birth=yes}
+	dynasty=8010
+}
+4000054={
+	name="Richard"
+	culture=orlandoan
+	religion=baptist
+	2122.5.20={birth=yes}
+	dynasty=7004
+}
+4000055={
+	name="Joshua"
+	culture=orlandoan
+	religion=baptist
+	2115.5.9={birth=yes}
+	dynasty=7005
+}
+4000056={
+	name="Patrick"
+	culture=dixie
+	religion=methodist
+	2116.7.11={birth=yes}
+	dynasty=5005
+}
+4000057={
+	name="Emilia"
+	culture=cubano
+	religion=catholic
+	2125.6.1={birth=yes}
+	female = yes
+	dynasty=1042
+}
+4000058={
+	name="Joan"
+	culture=tampanian
+	religion=catholic
+	2122.1.25={birth=yes}
+	female = yes
+	dynasty=8011
+}
+4000059={
+	name="Alonso"
+	culture=cubano
+	religion=catholic
+	2120.9.2={birth=yes}
+	dynasty=1041
+}
+4000060={
+	name="Bautista"
+	culture=mexican
+	religion=catholic
+	2115.3.5={birth=yes}
+	dynasty=13003
+}
+4000061={
+	name="Lucas"
+	culture=cubano
+	religion=catholic
+	2120.1.18={birth=yes}
+	dynasty=1010
+}
+4000062={
+	name="Danna"
+	culture=americo_hispanic
+	religion=jewish
+	2121.4.18={birth=yes}
+	female = yes
+	dynasty=16004
+}
+4000063={
+	name="Jonathan"
+	culture=mexican
+	religion=catholic
+	2115.12.23={birth=yes}
+	dynasty=13004
+}
+4000064={
+	name="Malena"
+	culture=antillais
+	religion=catholic
+	2124.6.27={birth=yes}
+	female = yes
+	dynasty=14004
+}
+4000065={
+	name="Peter"
+	culture=tampanian
+	religion=baptist
+	2117.2.14={birth=yes}
+	dynasty=8012
+}
+4000066={
+	name="Miguel angel"
+	culture=cubano
+	religion=catholic
+	2122.6.20={birth=yes}
+	dynasty=1039
+}
+4000067={
+	name="Terry"
+	culture=tampanian
+	religion=baptist
+	2115.8.15={birth=yes}
+	dynasty=8013
+}
+4000068={
+	name="Lucas"
+	culture=antillais
+	religion=catholic
+	2114.3.10={birth=yes}
+	dynasty=14005
+}
+4000069={
+	name="Vicente"
+	culture=antillais
+	religion=none
+	2121.6.20={birth=yes}
+	dynasty=14006
+}
+4000070={
+	name="Wayne"
+	culture=dixie
+	religion=baptist
+	2114.11.1={birth=yes}
+	dynasty=5006
+}
+4000071={
+	name="John"
+	culture=tampanian
+	religion=catholic
+	2117.2.24={birth=yes}
+	dynasty=8014
+}
+4000072={
+	name="Arthur"
+	culture=texan
+	religion=catholic
+	2119.8.7={birth=yes}
+	dynasty=4001
+}
+4000073={
+	name="Joshua"
+	culture=dixie
+	religion=baptist
+	2120.9.15={birth=yes}
+	dynasty=5007
+}
+4000074={
+	name="John"
+	culture=louisianan
+	religion=voodoo
+	2122.9.9={birth=yes}
+	dynasty=2002
+}
+4000075={
+	name="Dennis"
+	culture=louisianan
+	religion=catholic
+	2118.12.2={birth=yes}
+	dynasty=2003
+}
+4000076={
+	name="Jeremy"
+	culture=southerner
+	religion=baptist
+	2120.8.2={birth=yes}
+	dynasty=12001
+}
+4000077={
+	name="Jose"
+	culture=jacksonvillean
+	religion=catholic
+	2115.5.14={birth=yes}
+	dynasty=10000
+}
+4000078={
+	name="Tiffany"
+	culture=louisianan
+	religion=catholic
+	2120.8.4={birth=yes}
+	female = yes
+	dynasty=2004
+}
+4000079={
+	name="Gabriel"
+	culture=tampanian
+	religion=baptist
+	2116.6.7={birth=yes}
+	dynasty=8015
+}
+4000080={
+	name="Douglas"
+	culture=louisianan
+	religion=catholic
+	2116.2.12={birth=yes}
+	dynasty=2005
+}
+4000081={
+	name="Brian"
+	culture=dixie
+	religion=baptist
+	2120.3.14={birth=yes}
+	dynasty=5008
+}
+4000082={
+	name="Brian"
+	culture=tallahassean
+	religion=baptist
+	2122.11.21={birth=yes}
+	dynasty=9003
+}
+4000083={
+	name="Willie"
+	culture=tampanian
+	religion=catholic
+	2123.8.24={birth=yes}
+	dynasty=8016
+}
+4000084={
+	name="Brian"
+	culture=louisianan
+	religion=voodoo
+	2117.2.18={birth=yes}
+	dynasty=2006
+}
+4000085={
+	name="Charles"
+	culture=miamimen
+	religion=baptist
+	2123.2.11={birth=yes}
+	dynasty=6004
+}
+4000086={
+	name="Nicolas"
+	culture=cubano
+	religion=catholic
+	2122.3.2={birth=yes}
+	dynasty=1012
+}
+4000087={
+	name="Andres"
+	culture=cubano
+	religion=catholic
+	2120.5.13={birth=yes}
+	dynasty=1013
+}
+4000088={
+	name="Bruce"
+	culture=orlandoan
+	religion=catholic
+	2119.2.5={birth=yes}
+	dynasty=7006
+}
+4000089={
+	name="Kayla"
+	culture=tampanian
+	religion=baptist
+	2125.3.25={birth=yes}
+	female = yes
+	dynasty=8017
+}
+4000090={
+	name="Carlos"
+	culture=cubano
+	religion=catholic
+	2118.11.25={birth=yes}
+	dynasty=1014
+}
+4000091={
+	name="Harold"
+	culture=southerner
+	religion=catholic
+	2117.9.7={birth=yes}
+	dynasty=12002
+}
+4000092={
+	name="Joe"
+	culture=orlandoan
+	religion=baptist
+	2117.10.15={birth=yes}
+	dynasty=7007
+}
+4000093={
+	name="Miguel"
+	culture=antillais
+	religion=baptist
+	2123.6.25={birth=yes}
+	dynasty=14007
+}
+4000094={
+	name="Ximena"
+	culture=americo_hispanic
+	religion=baptist
+	2120.12.26={birth=yes}
+	female = yes
+	dynasty=16005
+}
+4000095={
+	name="Logan"
+	culture=miamimen
+	religion=catholic
+	2121.1.20={birth=yes}
+	dynasty=6005
+}
+4000096={
+	name="Austin"
+	culture=miamimen
+	religion=catholic
+	2122.12.16={birth=yes}
+	dynasty=6006
+}
+4000097={
+	name="Kenneth"
+	culture=tampanian
+	religion=baptist
+	2122.9.13={birth=yes}
+	dynasty=8018
+}
+4000098={
+	name="Eugene"
+	culture=miamimen
+	religion=catholic
+	2121.6.26={birth=yes}
+	dynasty=6007
+}
+4000099={
+	name="Zachary"
+	culture=miamimen
+	religion=jewish
+	2120.11.15={birth=yes}
+	dynasty=6008
+}
+4000100={
+	name="Kevin"
+	culture=tallahassean
+	religion=baptist
+	2119.1.16={birth=yes}
+	dynasty=9004
+}
+4000101={
+	name="Axel"
+	culture=cubano
+	religion=catholic
+	2114.9.24={birth=yes}
+	dynasty=1015
+}
+4000102={
+	name="Francisco"
+	culture=cubano
+	religion=catholic
+	2117.4.10={birth=yes}
+	dynasty=1016
+}
+4000103={
+	name="Rodrigo"
+	culture=cubano
+	religion=catholic
+	2117.3.17={birth=yes}
+	dynasty=1017
+}
+4000104={
+	name="Sergio"
+	culture=antillais
+	religion=none
+	2116.1.24={birth=yes}
+	dynasty=14008
+}
+4000105={
+	name="Diane"
+	culture=tallahassean
+	religion=baptist
+	2123.1.20={birth=yes}
+	female = yes
+	dynasty=9005
+}
+4000106={
+	name="Abigail"
+	culture=louisianan
+	religion=voodoo
+	2120.12.5={birth=yes}
+	female = yes
+	dynasty=2007
+}
+4000107={
+	name="Mauricio"
+	culture=antillais
+	religion=catholic
+	2119.3.1={birth=yes}
+	dynasty=14009
+}
+4000108={
+	name="Miguel"
+	culture=hispaniolan
+	religion=none
+	2121.6.2={birth=yes}
+	dynasty=15000
+}
+4000109={
+	name="Alexander"
+	culture=cubano
+	religion=catholic
+	2117.9.4={birth=yes}
+	dynasty=1018
+}
+4000110={
+	name="Christian"
+	culture=mexican
+	religion=catholic
+	2117.1.27={birth=yes}
+	dynasty=13005
+}
+4000111={
+	name="Patrick"
+	culture=miamimen
+	religion=catholic
+	2122.5.6={birth=yes}
+	dynasty=6009
+}
+4000112={
+	name="Harry"
+	culture=miamimen
+	religion=baptist
+	2120.7.21={birth=yes}
+	dynasty=6010
+}
+4000113={
+	name="Nathan"
+	culture=calusa
+	religion=american_totemist_pagan
+	2117.2.7={birth=yes}
+	dynasty=11003
+}
+4000114={
+	name="Juan"
+	culture=mexican
+	religion=cathar
+	2116.5.4={birth=yes}
+	dynasty=13006
+}
+4000115={
+	name="Josue"
+	culture=antillais
+	religion=none
+	2122.12.12={birth=yes}
+	dynasty=14010
+}
+4000116={
+	name="Thiago"
+	culture=mexican
+	religion=catholic
+	2118.12.6={birth=yes}
+	dynasty=13007
+}
+4000117={
+	name="Thomas"
+	culture=tampanian
+	religion=catholic
+	2120.6.9={birth=yes}
+	dynasty=8019
+}
+4000118={
+	name="Donald"
+	culture=jacksonvillean
+	religion=baptist
+	2115.11.2={birth=yes}
+	dynasty=10001
+}
+4000119={
+	name="David"
+	culture=miamimen
+	religion=catholic
+	2115.10.26={birth=yes}
+	dynasty=6011
+}
+4000120={
+	name="Daniel"
+	culture=miamimen
+	religion=baptist
+	2119.7.20={birth=yes}
+	dynasty=6012
+}
+4000121={
+	name="Ronald"
+	culture=new_orleanser
+	religion=voodoo
+	2114.12.18={birth=yes}
+	dynasty=3001
+}
+4000122={
+	name="Ethan"
+	culture=calusa
+	religion=american_totemist_pagan
+	2121.1.12={birth=yes}
+	dynasty=11004
+	add_trait = brilliant_strategist
+	add_trait = wroth
+	add_trait = ambitious
+	add_trait = quick
+	add_trait = duelist
+	add_trait = diligent
+}
+4000123={
+	name="Samuel"
+	culture=tallahassean
+	religion=baptist
+	2117.12.20={birth=yes}
+	dynasty=9006
+}
+4000124={
+	name="Tiffany"
+	culture=jacksonvillean
+	religion=catholic
+	2122.5.16={birth=yes}
+	female = yes
+	dynasty=10002
+}
+4000125={
+	name="Thomas"
+	culture=southerner
+	religion=baptist
+	2119.12.14={birth=yes}
+	dynasty=12003
+}
+4000126={
+	name="Jeremy"
+	culture=tallahassean
+	religion=baptist
+	2117.8.15={birth=yes}
+	dynasty=9007
+}
+4000127={
+	name="Malena"
+	culture=antillais
+	religion=none
+	2124.4.14={birth=yes}
+	female = yes
+	dynasty=14011
+}
+4000128={
+	name="Daniel"
+	culture=dixie
+	religion=baptist
+	2120.6.24={birth=yes}
+	dynasty=5009
+}
+4000129={
+	name="Andres"
+	culture=cubano
+	religion=catholic
+	2115.10.6={birth=yes}
+	dynasty=1019
+}
+4000130={
+	name="Robert"
+	culture=louisianan
+	religion=voodoo
+	2123.8.19={birth=yes}
+	dynasty=2008
+}
+4000131={
+	name="Adrian"
+	culture=cubano
+	religion=catholic
+	2120.7.16={birth=yes}
+	dynasty=1020
+}
+4000132={
+	name="Joshua"
+	culture=orlandoan
+	religion=baptist
+	2119.12.24={birth=yes}
+	dynasty=7008
+}
+4000133={
+	name="Juan Pablo"
+	culture=antillais
+	religion=none
+	2115.10.28={birth=yes}
+	dynasty=14012
+}
+4000134={
+	name="Arturo"
+	culture=cubano
+	religion=catholic
+	2117.2.9={birth=yes}
+	dynasty=1021
+}
+4000135={
+	name="Lawrence"
+	culture=calusa
+	religion=baptist
+	2115.4.18={birth=yes}
+	dynasty=11005
+}
+4000136={
+	name="Patrick"
+	culture=orlandoan
+	religion=baptist
+	2117.7.5={birth=yes}
+	dynasty=7009
+}
+4000137={
+	name="Pamela"
+	culture=tallahassean
+	religion=baptist
+	2125.10.22={birth=yes}
+	female = yes
+	dynasty=9008
+}
+4000138={
+	name="Danielle"
+	culture=dixie
+	religion=catholic
+	2123.1.18={birth=yes}
+	female = yes
+	dynasty=5010
+}
+4000139={
+	name="Jerry"
+	culture=tallahassean
+	religion=baptist
+	2119.5.11={birth=yes}
+	dynasty=9009
+}
+4000140={
+	name="Juan Camilo"
+	culture=mexican
+	religion=cathar
+	2116.12.13={birth=yes}
+	dynasty=13008
+}
+4000141={
+	name="Steven"
+	culture=dixie
+	religion=baptist
+	2117.2.27={birth=yes}
+	dynasty=5011
+}
+4000142={
+	name="Ariana"
+	culture=americo_hispanic
+	religion=jewish
+	2125.1.10={birth=yes}
+	female = yes
+	dynasty=16006
+}
+4000143={
+	name="alex"
+	culture=cubano
+	religion=catholic
+	2117.2.25={birth=yes}
+	dynasty=1022
+}
+4000144={
+	name="Samuel"
+	culture=tampanian
+	religion=catholic
+	2122.2.21={birth=yes}
+	dynasty=8020
+}
+4000145={
+	name="David"
+	culture=louisianan
+	religion=catholic
+	2116.9.7={birth=yes}
+	dynasty=2010
+}
+4000146={
+	name="Samuel"
+	culture=cubano
+	religion=catholic
+	2122.10.14={birth=yes}
+	dynasty=1023
+}
+4000147={
+	name="Malena"
+	culture=cubano
+	religion=catholic
+	2120.12.26={birth=yes}
+	female = yes
+	dynasty=1024
+}
+4000148={
+	name="Charles"
+	culture=tallahassean
+	religion=methodist
+	2116.8.16={birth=yes}
+	dynasty=9010
+}
+4000149={
+	name="Henry"
+	culture=dixie
+	religion=baptist
+	2114.9.18={birth=yes}
+	dynasty=5012
+}
+4000150={
+	name="Alexander"
+	culture=antillais
+	religion=baptist
+	2116.4.3={birth=yes}
+	dynasty=14013
+}
+4000151={
+	name="Ashley"
+	culture=dixie
+	religion=baptist
+	2125.10.6={birth=yes}
+	female = yes
+	dynasty=5013
+}
+4000152={
+	name="Matthew"
+	culture=dixie
+	religion=baptist
+	2117.8.23={birth=yes}
+	dynasty=5014
+}
+4000153={
+	name="Louis"
+	culture=jacksonvillean
+	religion=catholic
+	2120.2.21={birth=yes}
+	dynasty=10003
+}
+4000154={
+	name="Tyler"
+	culture=tallahassean
+	religion=baptist
+	2119.3.21={birth=yes}
+	dynasty=9011
+}
+4000155={
+	name="Maximo"
+	culture=antillais
+	religion=none
+	2121.6.14={birth=yes}
+	dynasty=14014
+}
+4000156={
+	name="Marcos"
+	culture=hispaniolan
+	religion=none
+	2120.9.3={birth=yes}
+	dynasty=15001
+}
+4000157={
+	name="Martin"
+	culture=antillais
+	religion=none
+	2123.8.16={birth=yes}
+	dynasty=14015
+}
+4000158={
+	name="Samuel"
+	culture=jacksonvillean
+	religion=baptist
+	2123.10.18={birth=yes}
+	dynasty=10004
+}
+4000159={
+	name="Aaron"
+	culture=cubano
+	religion=catholic
+	2119.10.3={birth=yes}
+	dynasty=1025
+}
+4000160={
+	name="Martha"
+	culture=louisianan
+	religion=voodoo
+	2124.5.16={birth=yes}
+	female = yes
+	dynasty=2011
+}
+4000161={
+	name="Dorothy"
+	culture=tampanian
+	religion=catholic
+	2121.10.21={birth=yes}
+	female = yes
+	dynasty=8021
+}
+4000162={
+	name="Gregory"
+	culture=dixie
+	religion=baptist
+	2119.7.23={birth=yes}
+	dynasty=5015
+}
+4000163={
+	name="Jonathan"
+	culture=jacksonvillean
+	religion=baptist
+	2119.1.2={birth=yes}
+	dynasty=10005
+}
+4000164={
+	name="Timothy"
+	culture=new_orleanser
+	religion=voodoo
+	2118.6.7={birth=yes}
+	dynasty=3002
+}
+4000165={
+	name="Maximo"
+	culture=cubano
+	religion=catholic
+	2121.10.2={birth=yes}
+	dynasty=1026
+}
+4000166={
+	name="Gregory"
+	culture=southerner
+	religion=baptist
+	2123.5.11={birth=yes}
+	dynasty=12004
+}
+4000167={
+	name="Matthew"
+	culture=calusa
+	religion=american_totemist_pagan
+	2120.12.15={birth=yes}
+	dynasty=11006
+}
+4000168={
+	name="Manuela"
+	culture=antillais
+	religion=catholic
+	2125.1.16={birth=yes}
+	female = yes
+	dynasty=14016
+}
+4000169={
+	name="Willie"
+	culture=miamimen
+	religion=baptist
+	2118.7.20={birth=yes}
+	dynasty=6013
+}
+4000170={
+	name="Frank"
+	culture=jacksonvillean
+	religion=catholic
+	2119.10.18={birth=yes}
+	dynasty=10006
+}
+4000171={
+	name="Joaquin"
+	culture=cubano
+	religion=catholic
+	2121.12.6={birth=yes}
+	dynasty=1027
+}
+4000172={
+	name="Dennis"
+	culture=dixie
+	religion=baptist
+	2119.2.4={birth=yes}
+	dynasty=5016
+}
+4000173={
+	name="Vicente"
+	culture=cubano
+	religion=catholic
+	2116.1.6={birth=yes}
+	dynasty=1028
+}
+4000174={
+	name="Terry"
+	culture=miamimen
+	religion=baptist
+	2119.1.21={birth=yes}
+	dynasty=6014
+}
+4000175={
+	name="Franco"
+	culture=cubano
+	religion=catholic
+	2117.7.23={birth=yes}
+	dynasty=1029
+}
+4000176={
+	name="Dorothy"
+	culture=new_orleanser
+	religion=voodoo
+	2120.9.7={birth=yes}
+	female = yes
+	dynasty=3003
+}
+4000177={
+	name="Lawrence"
+	culture=miamimen
+	religion=catholic
+	2117.11.7={birth=yes}
+	dynasty=6015
+}
+4000178={
+	name="Jordan"
+	culture=miamimen
+	religion=baptist
+	2121.4.13={birth=yes}
+	dynasty=6016
+}
+4000179={
+	name="Santino"
+	culture=cubano
+	religion=catholic
+	2116.10.21={birth=yes}
+	dynasty=1030
+}
+4000180={
+	name="Gael"
+	culture=mexican
+	religion=catholic
+	2116.2.9={birth=yes}
+	dynasty=13009
+}
+4000181={
+	name="Stephen"
+	culture=tampanian
+	religion=catholic
+	2116.2.3={birth=yes}
+	dynasty=8022
+}
+4000182={
+	name="Alma"
+	culture=mexican
+	religion=catholic
+	2120.8.16={birth=yes}
+	female = yes
+	dynasty=13010
+}
+4000183={
+	name="Tyler"
+	culture=louisianan
+	religion=voodoo
+	2116.12.9={birth=yes}
+	dynasty=2012
+}
+4000184={
+	name="Sara"
+	culture=orlandoan
+	religion=baptist
+	2124.7.6={birth=yes}
+	female = yes
+	dynasty=7010
+}
+4000185={
+	name="Harry"
+	culture=jacksonvillean
+	religion=catholic
+	2116.2.10={birth=yes}
+	dynasty=10007
+}
+4000186={
+	name="Valentino"
+	culture=cubano
+	religion=catholic
+	2116.12.21={birth=yes}
+	dynasty=1031
+}
+4000187={
+	name="Noah"
+	culture=tampanian
+	religion=catholic
+	2123.7.26={birth=yes}
+	dynasty=8023
+}
+4000188={
+	name="Kenneth"
+	culture=tampanian
+	religion=baptist
+	2122.6.19={birth=yes}
+	dynasty=8024
+}
+4000189={
+	name="Michelle"
+	culture=dixie
+	religion=baptist
+	2121.5.3={birth=yes}
+	female = yes
+	dynasty=5017
+}
+4000190={
+	name="Bobby"
+	culture=miamimen
+	religion=catholic
+	2115.6.25={birth=yes}
+	dynasty=6017
+}
+4000191={
+	name="Angela"
+	culture=tampanian
+	religion=catholic
+	2122.7.3={birth=yes}
+	female = yes
+	dynasty=8025
+}
+4000192={
+	name="Maximo"
+	culture=cubano
+	religion=catholic
+	2116.6.27={birth=yes}
+	dynasty=1032
+}
+4000193={
+	name="Matias"
+	culture=americo_hispanic
+	religion=baptist
+	2120.9.18={birth=yes}
+	dynasty=16007
+}
+4000194={
+	name="Santiago"
+	culture=antillais
+	religion=none
+	2123.9.9={birth=yes}
+	dynasty=14017
+}
+4000195={
+	name="Eugene"
+	culture=dixie
+	religion=baptist
+	2114.4.4={birth=yes}
+	dynasty=5018
+}
+4000196={
+	name="Ronald"
+	culture=orlandoan
+	religion=catholic
+	2119.2.27={birth=yes}
+	dynasty=7011
+}
+4000197={
+	name="Teresa"
+	culture=orlandoan
+	religion=baptist
+	2125.7.26={birth=yes}
+	female = yes
+	dynasty=7012
+}
+4000198={
+	name="Jason"
+	culture=miamimen
+	religion=catholic
+	2118.12.10={birth=yes}
+	dynasty=6018
+}
+4000199={
+	name="Kyle"
+	culture=dixie
+	religion=baptist
+	2114.4.16={birth=yes}
+	dynasty=5019
+}
+4000200={
+	name="Bruce"
+	culture=calusa
+	religion=american_totemist_pagan
+	2114.9.8={birth=yes}
+	dynasty=11007
+}
+4000201={
+	name="Nathan"
+	culture=orlandoan
+	religion=baptist
+	2118.10.25={birth=yes}
+	dynasty=7013
+}
+4000202={
+	name="Angela"
+	culture=dixie
+	religion=baptist
+	2123.10.24={birth=yes}
+	female = yes
+	dynasty=5020
+}
+4000203={
+	name="Scott"
+	culture=new_orleanser
+	religion=voodoo
+	2120.7.14={birth=yes}
+	dynasty=3004
+}
+4000204={
+	name="Thiago"
+	culture=antillais
+	religion=catholic
+	2119.6.25={birth=yes}
+	dynasty=14018
+}
+4000205={
+	name="Lawrence"
+	culture=dixie
+	religion=baptist
+	2115.6.16={birth=yes}
+	dynasty=5021
+}
+4000206={
+	name="Alonso"
+	culture=cubano
+	religion=catholic
+	2117.3.10={birth=yes}
+	dynasty=1033
+}
+4000207={
+	name="David"
+	culture=jacksonvillean
+	religion=baptist
+	2118.6.16={birth=yes}
+	dynasty=10008
+}
+4000208={
+	name="Alejandro"
+	culture=cubano
+	religion=catholic
+	2116.8.18={birth=yes}
+	dynasty=1034
+}
+4000209={
+	name="Bruce"
+	culture=dixie
+	religion=baptist
+	2123.1.13={birth=yes}
+	dynasty=5022
+}
+4000210={
+	name="Oscar"
+	culture=antillais
+	religion=catholic
+	2115.7.2={birth=yes}
+	dynasty=14019
+}
+4000211={
+	name="Pamela"
+	culture=tallahassean
+	religion=methodist
+	2122.7.10={birth=yes}
+	female = yes
+	dynasty=9012
+}
+4000212={
+	name="alex"
+	culture=cubano
+	religion=catholic
+	2117.6.15={birth=yes}
+	dynasty=1035
+}
+4000213={
+	name="Charles"
+	culture=southerner
+	religion=methodist
+	2123.11.6={birth=yes}
+	dynasty=12005
+}
+4000214={
+	name="Matias"
+	culture=mexican
+	religion=catholic
+	2123.9.25={birth=yes}
+	dynasty=13011
+}
+4000215={
+	name="Ruth"
+	culture=tallahassean
+	religion=baptist
+	2120.11.12={birth=yes}
+	female = yes
+	dynasty=9013
+}
+4000216={
+	name="Benjamin"
+	culture=miamimen
+	religion=baptist
+	2120.9.24={birth=yes}
+	dynasty=6019
+}
+4000217={
+	name="Johnny"
+	culture=dixie
+	religion=baptist
+	2115.1.24={birth=yes}
+	dynasty=5023
+}
+4000218={
+	name="Johnny"
+	culture=jacksonvillean
+	religion=baptist
+	2121.11.18={birth=yes}
+	dynasty=10009
+}
+4000219={
+	name="Benjamin"
+	culture=dixie
+	religion=baptist
+	2115.1.9={birth=yes}
+	dynasty=5024
+}
+4000220={
+	name="Steven"
+	culture=new_orleanser
+	religion=voodoo
+	2117.8.1={birth=yes}
+	dynasty=3005
+}
+4000221={
+	name="Nicholas"
+	culture=miamimen
+	religion=catholic
+	2115.7.3={birth=yes}
+	dynasty=6020
+}
+4000222={
+	name="Ramiro"
+	culture=hispaniolan
+	religion=none
+	2114.6.14={birth=yes}
+	dynasty=15002
+}
+4000223={
+	name="Henry"
+	culture=jacksonvillean
+	religion=baptist
+	2119.3.21={birth=yes}
+	dynasty=10081
+}
+4000224={
+	name="Lola"
+	culture=cubano
+	religion=catholic
+	2124.10.13={birth=yes}
+	female = yes
+	dynasty=1036
+}
+4000225={
+	name="Justin"
+	culture=orlandoan
+	religion=catholic
+	2117.11.7={birth=yes}
+	dynasty=7014
+}
+4000226={
+	name="Donald"
+	culture=jacksonvillean
+	religion=catholic
+	2122.4.13={birth=yes}
+	dynasty=10011
+}
+4000227={
+	name="Andrew"
+	culture=dixie
+	religion=catholic
+	2117.9.11={birth=yes}
+	dynasty=5025
+}
+4000228={
+	name="Lucas"
+	culture=cubano
+	religion=catholic
+	2122.9.9={birth=yes}
+	dynasty=1037
+}
+4000229={
+	name="alex"
+	culture=antillais
+	religion=none
+	2114.9.26={birth=yes}
+	dynasty=14020
+}
+4000230={
+	name="Jordan"
+	culture=tampanian
+	religion=catholic
+	2117.1.21={birth=yes}
+	dynasty=8026
+}
+4000231={
+	name="Jose"
+	culture=mexican
+	religion=catholic
+	2116.4.20={birth=yes}
+	dynasty=13012
+}
+4000232={
+	name="Wayne"
+	culture=dixie
+	religion=baptist
+	2119.2.21={birth=yes}
+	dynasty=5026
+}
+4000233={
+	name="Josefa"
+	culture=antillais
+	religion=catholic
+	2125.7.26={birth=yes}
+	female = yes
+	dynasty=14021
+}
+4000234={
+	name="Christian"
+	culture=louisianan
+	religion=catholic
+	2123.2.22={birth=yes}
+	dynasty=2013
+}
+4000235={
+	name="Alonso"
+	culture=antillais
+	religion=catholic
+	2117.1.20={birth=yes}
+	dynasty=14022
+}
+4000236={
+	name="Ramiro"
+	culture=americo_hispanic
+	religion=baptist
+	2123.2.7={birth=yes}
+	dynasty=16008
+}
+4000237={
+	name="Felipe"
+	culture=mexican
+	religion=cathar
+	2123.7.9={birth=yes}
+	dynasty=13013
+}
+4000238={
+	name="Franco"
+	culture=cubano
+	religion=catholic
+	2117.4.15={birth=yes}
+	dynasty=1038
+}
+4000239={
+	name="Debra"
+	culture=southerner
+	religion=catholic
+	2122.10.23={birth=yes}
+	female = yes
+	dynasty=15082
+}
+4000240={
+	name="Ann"
+	culture=miamimen
+	religion=catholic
+	2124.12.27={birth=yes}
+	female = yes
+	dynasty=6021
+}
+4000241={
+	name="Paulina"
+	culture=antillais
+	religion=catholic
+	2124.10.26={birth=yes}
+	female = yes
+	dynasty=14023
+}
+4000242={
+	name="Ana"
+	culture=cubano
+	religion=catholic
+	2124.11.4={birth=yes}
+	female = yes
+	dynasty=1000
+}
+4000243={
+	name="Nicolas"
+	culture=cubano
+	religion=catholic
+	2118.4.25={birth=yes}
+	dynasty=1001
+}
+4000244={
+	name="Vicente"
+	culture=cubano
+	religion=catholic
+	2120.12.5={birth=yes}
+	dynasty=1002
+}
+4000245={
+	name="Mark"
+	culture=dixie
+	religion=baptist
+	2117.10.21={birth=yes}
+	dynasty=5027
+}
+4000246={
+	name="Felipe"
+	culture=mexican
+	religion=catholic
+	2121.6.4={birth=yes}
+	dynasty=13014
+}
+4000247={
+	name="Brian"
+	culture=miamimen
+	religion=baptist
+	2116.2.14={birth=yes}
+	dynasty=6022
+}
+4000248={
+	name="Dylan"
+	culture=louisianan
+	religion=catholic
+	2119.8.11={birth=yes}
+	dynasty=2014
+}
+4000249={
+	name="Michael"
+	culture=tampanian
+	religion=catholic
+	2114.8.12={birth=yes}
+	dynasty=8027
+}
+4000250={
+	name="Jacob"
+	culture=louisianan
+	religion=voodoo
+	2122.8.1={birth=yes}
+	dynasty=2015
+}
+4000251={
+	name="Manuel"
+	culture=cubano
+	religion=catholic
+	2114.4.10={birth=yes}
+	dynasty=1003
+}
+4000252={
+	name="Martin"
+	culture=antillais
+	religion=none
+	2122.3.4={birth=yes}
+	dynasty=14024
+}
+4000253={
+	name="Alexander"
+	culture=orlandoan
+	religion=baptist
+	2116.2.4={birth=yes}
+	dynasty=7015
+}
+4000254={
+	name="Walter"
+	culture=jacksonvillean
+	religion=catholic
+	2119.9.22={birth=yes}
+	dynasty=10012
+}
+4000255={
+	name="Franco"
+	culture=cubano
+	religion=catholic
+	2118.10.12={birth=yes}
+	dynasty=1004
+}
+4000256={
+	name="Donald"
+	culture=tampanian
+	religion=catholic
+	2119.5.23={birth=yes}
+	dynasty=8028
+}
+4000257={
+	name="Alma"
+	culture=cubano
+	religion=catholic
+	2122.8.20={birth=yes}
+	female = yes
+	dynasty=1005
+}
+4000258={
+	name="Kimberly"
+	culture=tallahassean
+	religion=baptist
+	2124.7.25={birth=yes}
+	female = yes
+	dynasty=9014
+}
+4000259={
+	name="Arturo"
+	culture=cubano
+	religion=catholic
+	2119.8.23={birth=yes}
+	dynasty=1006
+}
+4000260={
+	name="Gerald"
+	culture=texan
+	religion=catholic
+	2114.2.19={birth=yes}
+	dynasty=4002
+}
+4000261={
+	name="William"
+	culture=new_orleanser
+	religion=voodoo
+	2116.12.28={birth=yes}
+	dynasty=3006
+}
+4000262={
+	name="Jesse"
+	culture=orlandoan
+	religion=baptist
+	2114.7.11={birth=yes}
+	dynasty=7016
+}
+4000263={
+	name="Nicholas"
+	culture=miamimen
+	religion=catholic
+	2115.8.21={birth=yes}
+	dynasty=6023
+}
+4000264={
+	name="Madison"
+	culture=jacksonvillean
+	religion=baptist
+	2123.11.14={birth=yes}
+	female = yes
+	dynasty=9015
+}
+4000265={
+	name="Brandon"
+	culture=southerner
+	religion=voodoo
+	2122.3.9={birth=yes}
+	dynasty=12006
+}
+4000266={
+	name="Megan"
+	culture=jacksonvillean
+	religion=baptist
+	2120.11.12={birth=yes}
+	female = yes
+	dynasty=10013
+}
+4000267={
+	name="Diane"
+	culture=tallahassean
+	religion=baptist
+	2122.9.11={birth=yes}
+	female = yes
+	dynasty=9016
+}
+4000268={
+	name="Julian"
+	culture=cubano
+	religion=catholic
+	2114.5.17={birth=yes}
+	dynasty=1007
+}
+4000269={
+	name="Thiago"
+	culture=antillais
+	religion=none
+	2120.4.26={birth=yes}
+	dynasty=14025
+}
+4000270={
+	name="Maria FernandaLucia"
+	culture=cubano
+	religion=catholic
+	2120.1.27={birth=yes}
+	female = yes
+	dynasty=1008
+}
+4000271={
+	name="Paul"
+	culture=dixie
+	religion=baptist
+	2114.12.21={birth=yes}
+	dynasty=5028
+}
+4000272={
+	name="Emilio"
+	culture=antillais
+	religion=none
+	2115.3.23={birth=yes}
+	dynasty=14026
+}
+4000273={
+	name="Micaela"
+	culture=antillais
+	religion=baptist
+	2122.4.15={birth=yes}
+	female = yes
+	dynasty=14027
+}
+4000274={
+	name="Scott"
+	culture=louisianan
+	religion=voodoo
+	2123.8.20={birth=yes}
+	dynasty=2016
+}
+4000275={
+	name="Melanie"
+	culture=mexican
+	religion=catholic
+	2121.8.26={birth=yes}
+	female = yes
+	dynasty=13015
+}
+4000276={
+	name="Harry"
+	culture=orlandoan
+	religion=catholic
+	2123.10.24={birth=yes}
+	dynasty=7017
+}
+4000277={
+	name="Juan Sebastian"
+	culture=antillais
+	religion=none
+	2122.7.18={birth=yes}
+	dynasty=14028
+}
+4000278={
+	name="Jack"
+	culture=texan
+	religion=catholic
+	2123.10.18={birth=yes}
+	dynasty=4003
+}
+4000279={
+	name="Anna"
+	culture=miamimen
+	religion=baptist
+	2124.1.6={birth=yes}
+	female = yes
+	dynasty=6024
+}
+4000280={
+	name="Brandon"
+	culture=miamimen
+	religion=catholic
+	2119.1.20={birth=yes}
+	dynasty=6025
+}
+4000281={
+	name="Mariana"
+	culture=americo_hispanic
+	religion=catholic
+	2123.11.14={birth=yes}
+	female = yes
+	dynasty=16009
+}
+4000282={
+	name="Eduardo"
+	culture=antillais
+	religion=none
+	2117.1.27={birth=yes}
+	dynasty=14029
+}
+4000283={
+	name="Christian"
+	culture=cubano
+	religion=catholic
+	2120.4.11={birth=yes}
+	dynasty=1009
+}
+4000284={
+	name="Aaron"
+	culture=tallahassean
+	religion=baptist
+	2116.10.25={birth=yes}
+	dynasty=9017
+}
+4000285={
+	name="Ricardo"
+	culture=americo_hispanic
+	religion=jewish
+	2119.8.12={birth=yes}
+	dynasty=16010
+}
+4000286={
+	name="Robert"
+	culture=tampanian
+	religion=catholic
+	2121.4.25={birth=yes}
+	dynasty=8029
+}
+4000287={
+	name="Gabriel"
+	culture=cubano
+	religion=catholic
+	2120.8.5={birth=yes}
+	dynasty=1040
+}
+4000288={
+	name="Christine"
+	culture=dixie
+	religion=baptist
+	2123.4.11={birth=yes}
+	female = yes
+	dynasty=5029
+}
+4000289={
+	name="Thomas"
+	culture=jacksonvillean
+	religion=baptist
+	2114.6.22={birth=yes}
+	dynasty=10014
+}
+4000290={
+	name="Eric"
+	culture=miamimen
+	religion=catholic
+	2121.6.14={birth=yes}
+	dynasty=6026
+}
+4000291={
+	name="Charles"
+	culture=orlandoan
+	religion=catholic
+	2116.5.15={birth=yes}
+	dynasty=7018
+}
+4000292={
+	name="Gabriel"
+	culture=dixie
+	religion=baptist
+	2122.5.19={birth=yes}
+	dynasty=5030
+}
+4000293={
+	name="Ralph"
+	culture=tampanian
+	religion=baptist
+	2121.10.17={birth=yes}
+	dynasty=8030
+}
+4000294={
+	name="Tomas"
+	culture=antillais
+	religion=none
+	2115.1.10={birth=yes}
+	dynasty=14030
+}
+4000295={
+	name="Philip"
+	culture=dixie
+	religion=baptist
+	2120.1.3={birth=yes}
+	dynasty=5031
+}
+4000296={
+	name="Kenneth"
+	culture=orlandoan
+	religion=baptist
+	2114.10.25={birth=yes}
+	dynasty=7019
+}
+4000297={
+	name="Donald"
+	culture=orlandoan
+	religion=catholic
+	2119.3.15={birth=yes}
+	dynasty=7020
+}
+4000298={
+	name="Joshua"
+	culture=miamimen
+	religion=baptist
+	2114.1.23={birth=yes}
+	dynasty=6027
+}
+4000299={
+	name="Tomas"
+	culture=cubano
+	religion=catholic
+	2122.1.27={birth=yes}
+	dynasty=1011
+}

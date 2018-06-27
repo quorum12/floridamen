@@ -1,0 +1,8 @@
+# 106 - Siguanea
+title = c_siguanea
+max_settlements = 4
+culture = antillais
+religion = none
+b_siguanea_a = castle
+b_siguanea_b = city
+b_siguanea_c = temple

@@ -1,0 +1,9 @@
+# 240 - Dry Tortugas National Park
+title = c_dry_tortugas_national_park
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_dry_tortugas_national_park_a = castle
+b_dry_tortugas_national_park_b = city
+b_dry_tortugas_national_park_c = temple
+2134.1.1 = {

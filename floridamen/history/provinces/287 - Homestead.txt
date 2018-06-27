@@ -1,0 +1,8 @@
+# 287 - Homestead
+title = c_homestead
+max_settlements = 5
+culture = southerner
+religion = catholic
+b_homestead_a = castle
+b_homestead_b = city
+b_homestead_c = temple

@@ -1,0 +1,8 @@
+# 32 - Fort Walton
+title = c_fort_walton
+max_settlements = 4
+culture = tallahassean
+religion = baptist
+b_fort_walton_a = castle
+b_fort_walton_b = city
+b_fort_walton_c = temple

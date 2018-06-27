@@ -1,0 +1,8 @@
+# 298 - Horseshoe Beach Park
+title = c_horseshoe_beach_park
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_horseshoe_beach_park_a = castle
+b_horseshoe_beach_park_b = city
+b_horseshoe_beach_park_c = temple

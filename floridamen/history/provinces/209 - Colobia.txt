@@ -1,0 +1,8 @@
+# 209 - Colobia
+title = c_colobia
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_colobia_a = castle
+b_colobia_b = city
+b_colobia_c = temple

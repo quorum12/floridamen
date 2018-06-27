@@ -1,0 +1,8 @@
+# 187 - South Tampa
+title = c_south_tampa
+max_settlements = 5
+culture = southerner
+religion = catholic
+b_south_tampa_a = castle
+b_south_tampa_b = city
+b_south_tampa_c = temple

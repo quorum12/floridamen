@@ -1,0 +1,8 @@
+# 262 - Fort Pierce
+title = c_fort_pierce
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_fort_pierce_a = city
+b_fort_pierce_b = castle
+b_fort_pierce_c = temple

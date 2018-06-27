@@ -1,0 +1,8 @@
+# 109 - Nueva Gerona
+title = c_nueva_gerona
+max_settlements = 4
+culture = antillais
+religion = none
+b_nueva_gerona_a = castle
+b_nueva_gerona_b = city
+b_nueva_gerona_c = temple

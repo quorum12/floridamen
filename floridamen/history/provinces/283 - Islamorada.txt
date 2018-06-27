@@ -1,0 +1,8 @@
+# 283 - Islamorada
+title = c_islamorada
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_islamorada_a = castle
+b_islamorada_b = city
+b_islamorada_c = temple

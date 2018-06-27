@@ -1,0 +1,1294 @@
+1000 = {name="Acevedo" culture=cubano }
+1001 = {name="Acosta" culture=cubano }
+1002 = {name="Aguilar" culture=cubano }
+1003 = {name="Aguirre" culture=cubano }
+1004 = {name="Alvarado" culture=cubano }
+1005 = {name="Alvarez" culture=cubano }
+1006 = {name="Andrade" culture=cubano }
+1007 = {name="Arellano" culture=cubano }
+1008 = {name="Arias" culture=cubano }
+1009 = {name="Arnaz" culture=cubano }
+1010 = {name="Arroyo" culture=cubano }
+1011 = {name="Avalos" culture=cubano }
+1012 = {name="Avila" culture=cubano }
+1013 = {name="Ayala" culture=cubano }
+1014 = {name="Barajas" culture=cubano }
+1015 = {name="Barnuevo" culture=cubano }
+1016 = {name="Barrera" culture=cubano }
+1017 = {name="Bautista" culture=cubano }
+1018 = {name="Beltran" culture=cubano }
+1019 = {name="Benitez" culture=cubano }
+1020 = {name="Bernal" culture=cubano }
+1021 = {name="Bonilla" culture=cubano }
+1022 = {name="Bravo" culture=cubano }
+1023 = {name="Cabrera" culture=cubano }
+1024 = {name="Cachao" culture=cubano }
+1025 = {name="Calderon" culture=cubano }
+1026 = {name="Castro" culture=cubano }
+1027 = {name="Camacho" culture=cubano }
+1028 = {name="Campos" culture=cubano }
+1029 = {name="Cano" culture=cubano }
+1030 = {name="Cantu" culture=cubano }
+1031 = {name="Cardenas" culture=cubano }
+1032 = {name="Carrillo" culture=cubano }
+1033 = {name="Castaneda" culture=cubano }
+1034 = {name="Castellanos" culture=cubano }
+1035 = {name="Castillo" culture=cubano }
+1036 = {name="Calleja" culture=cubano }
+1037 = {name="Cervantes" culture=cubano }
+1038 = {name="Chavez" culture=cubano }
+1039 = {name="Cisneros" culture=cubano }
+1040 = {name="Colon" culture=cubano }
+1041 = {name="Contreras" culture=cubano }
+1042 = {name="Cordova" culture=cubano }
+1043 = {name="Corona" culture=cubano }
+1044 = {name="Correa" culture=cubano }
+1045 = {name="Cortes" culture=cubano }
+1046 = {name="Cortez" culture=cubano }
+1047 = {name="Cruz" culture=cubano }
+1048 = {name="Cuevas" culture=cubano }
+1049 = {name="Dacosta" culture=cubano }
+1050 = {name="Davila" culture=cubano }
+1051 = {name="De Acha" culture=cubano }
+1052 = {name="De Mazariegos" culture=cubano }
+1053 = {name="De Montalvo" culture=cubano }
+1054 = {name="De Polavieja" culture=cubano }
+1055 = {name="De Villalba" culture=cubano }
+1056 = {name="De Zayas" culture=cubano }
+1057 = {name="Dejesus" culture=cubano }
+1058 = {name="Del Riesgo" culture=cubano }
+1059 = {name="Delacruz" culture=cubano }
+1060 = {name="Delarosa" culture=cubano }
+1061 = {name="Deleon" culture=cubano }
+1062 = {name="Delgado" culture=cubano }
+1063 = {name="Diaz" culture=cubano }
+1064 = {name="Dominguez" culture=cubano }
+1065 = {name="Duarte" culture=cubano }
+1066 = {name="Duran" culture=cubano }
+1067 = {name="Enriquez" culture=cubano }
+1068 = {name="Escalante" culture=cubano }
+1069 = {name="Escobar" culture=cubano }
+1070 = {name="Esparza" culture=cubano }
+1071 = {name="Espinosa" culture=cubano }
+1072 = {name="Espinoza" culture=cubano }
+1073 = {name="Esquivel" culture=cubano }
+1074 = {name="Estrada" culture=cubano }
+1075 = {name="Fernandez" culture=cubano }
+1076 = {name="Figueroa" culture=cubano }
+1077 = {name="Flores" culture=cubano }
+1078 = {name="Franco" culture=cubano }
+1079 = {name="Fuentes" culture=cubano }
+1080 = {name="Galindo" culture=cubano }
+1081 = {name="Gallegos" culture=cubano }
+1082 = {name="Galvan" culture=cubano }
+1083 = {name="Garcia" culture=cubano }
+1084 = {name="Garza" culture=cubano }
+1085 = {name="Gomez" culture=cubano }
+1086 = {name="Gonzales" culture=cubano }
+1087 = {name="Gonzalez" culture=cubano }
+1088 = {name="Grobart" culture=cubano }
+1089 = {name="Guerra" culture=cubano }
+1090 = {name="Guerrero" culture=cubano }
+1091 = {name="Guevara" culture=cubano }
+1092 = {name="Gutierrez" culture=cubano }
+1093 = {name="Guzman" culture=cubano }
+1094 = {name="Hernandez" culture=cubano }
+1095 = {name="Herrera" culture=cubano }
+1096 = {name="Huerta" culture=cubano }
+1097 = {name="Ibar" culture=cubano }
+1098 = {name="Ibarra" culture=cubano }
+1099 = {name="Jaramillo" culture=cubano }
+1100 = {name="Jimenez" culture=cubano }
+1101 = {name="Johnson" culture=cubano }
+1102 = {name="Jovellar" culture=cubano }
+1103 = {name="Juarez" culture=cubano }
+1104 = {name="Lara" culture=cubano }
+1105 = {name="Leon" culture=cubano }
+1106 = {name="Lopez" culture=cubano }
+1107 = {name="Lozano" culture=cubano }
+1108 = {name="Lucero" culture=cubano }
+1109 = {name="Lugo" culture=cubano }
+1110 = {name="Luna" culture=cubano }
+1111 = {name="Macias" culture=cubano }
+1112 = {name="Magana" culture=cubano }
+1113 = {name="Maldonado" culture=cubano }
+1114 = {name="Marin" culture=cubano }
+1115 = {name="Marinello" culture=cubano }
+1116 = {name="Marquez" culture=cubano }
+1117 = {name="Martin" culture=cubano }
+1118 = {name="Martinez" culture=cubano }
+1119 = {name="Mata" culture=cubano }
+1120 = {name="Medina" culture=cubano }
+1121 = {name="Medrano" culture=cubano }
+1122 = {name="Mejia" culture=cubano }
+1123 = {name="Melendez" culture=cubano }
+1124 = {name="Mendez" culture=cubano }
+1125 = {name="Mendoza" culture=cubano }
+1126 = {name="Mercado" culture=cubano }
+1127 = {name="Meza" culture=cubano }
+1128 = {name="Miranda" culture=cubano }
+1129 = {name="Molina" culture=cubano }
+1130 = {name="Montes" culture=cubano }
+1131 = {name="Montoya" culture=cubano }
+1132 = {name="Mora" culture=cubano }
+1133 = {name="Morales" culture=cubano }
+1134 = {name="Moreno" culture=cubano }
+1135 = {name="Munoz" culture=cubano }
+1136 = {name="Murillo" culture=cubano }
+1137 = {name="Nava" culture=cubano }
+1138 = {name="Navarro" culture=cubano }
+1139 = {name="Nieves" culture=cubano }
+1140 = {name="Nunez" culture=cubano }
+1141 = {name="Ochoa" culture=cubano }
+1142 = {name="Orozco" culture=cubano }
+1143 = {name="Ortega" culture=cubano }
+1144 = {name="Ortiz" culture=cubano }
+1145 = {name="Pacheco" culture=cubano }
+1146 = {name="Padilla" culture=cubano }
+1147 = {name="Palacios" culture=cubano }
+1148 = {name="Palmeiro" culture=cubano }
+1149 = {name="Parra" culture=cubano }
+1150 = {name="Pastoriza" culture=cubano }
+1151 = {name="Pena" culture=cubano }
+1152 = {name="Perez" culture=cubano }
+1153 = {name="Pestano" culture=cubano }
+1154 = {name="Pineda" culture=cubano }
+1155 = {name="Ponce" culture=cubano }
+1156 = {name="Quinones" culture=cubano }
+1157 = {name="Quintana" culture=cubano }
+1158 = {name="Quintero" culture=cubano }
+1159 = {name="Ramirez" culture=cubano }
+1160 = {name="Ramos" culture=cubano }
+1161 = {name="Rangel" culture=cubano }
+1162 = {name="Reyes" culture=cubano }
+1163 = {name="Reyna" culture=cubano }
+1164 = {name="Rios" culture=cubano }
+1165 = {name="Rivas" culture=cubano }
+1166 = {name="Rivera" culture=cubano }
+1167 = {name="Robles" culture=cubano }
+1168 = {name="Rocha" culture=cubano }
+1169 = {name="Rodriguez" culture=cubano }
+1170 = {name="Rodriquez" culture=cubano }
+1171 = {name="Rojas" culture=cubano }
+1172 = {name="Roman" culture=cubano }
+1173 = {name="Romero" culture=cubano }
+1174 = {name="Rosales" culture=cubano }
+1175 = {name="Rosario" culture=cubano }
+1176 = {name="Rosas" culture=cubano }
+1177 = {name="Rubio" culture=cubano }
+1178 = {name="Ruiz" culture=cubano }
+1179 = {name="Saenz" culture=cubano }
+1180 = {name="Salas" culture=cubano }
+1181 = {name="Salazar" culture=cubano }
+1182 = {name="Saldana" culture=cubano }
+1183 = {name="Salgado" culture=cubano }
+1184 = {name="Salinas" culture=cubano }
+1185 = {name="Sanchez" culture=cubano }
+1186 = {name="Sandoval" culture=cubano }
+1187 = {name="Santana" culture=cubano }
+1188 = {name="Santiago" culture=cubano }
+1189 = {name="Santos" culture=cubano }
+1190 = {name="Serrano" culture=cubano }
+1191 = {name="Silva" culture=cubano }
+1192 = {name="Smith" culture=cubano }
+1193 = {name="Solis" culture=cubano }
+1194 = {name="Sosa" culture=cubano }
+1195 = {name="Soto" culture=cubano }
+1196 = {name="Suarez" culture=cubano }
+1197 = {name="Tapia" culture=cubano }
+1198 = {name="Torres" culture=cubano }
+1199 = {name="Torriente" culture=cubano }
+1200 = {name="Trejo" culture=cubano }
+1201 = {name="Trevino" culture=cubano }
+1202 = {name="Trujillo" culture=cubano }
+1203 = {name="Urquiola" culture=cubano }
+1204 = {name="Valdez" culture=cubano }
+1205 = {name="Valencia" culture=cubano }
+1206 = {name="Valenzuela" culture=cubano }
+1207 = {name="Vandeval" culture=cubano }
+1208 = {name="Vargas" culture=cubano }
+1209 = {name="Vasquez" culture=cubano }
+1210 = {name="Vazquez" culture=cubano }
+1211 = {name="Vega" culture=cubano }
+1212 = {name="Veguero" culture=cubano }
+1213 = {name="Velasquez" culture=cubano }
+1214 = {name="Velazquez" culture=cubano }
+1215 = {name="Velez" culture=cubano }
+1216 = {name="Veritas" culture=cubano }
+1217 = {name="Villa" culture=cubano }
+1218 = {name="Villalobos" culture=cubano }
+1219 = {name="Villanueva" culture=cubano }
+1220 = {name="Villarreal" culture=cubano }
+1221 = {name="Villate" culture=cubano }
+1222 = {name="Villegas" culture=cubano }
+1223 = {name="Williams" culture=cubano }
+1224 = {name="Xelder" culture=cubano }
+1225 = {name="Zamora" culture=cubano }
+1226 = {name="Zavala" culture=cubano }
+1227 = {name="Zuniga" culture=cubano }
+2000 = { name="Creaux" culture=louisianan }
+2001 = { name="Rebennack" culture=louisianan }
+2002 = { name="Boucher" culture=louisianan }
+2003 = { name="Beaulieu" culture=louisianan }
+2004 = { name="Vallencourt" culture=louisianan }
+2005 = { name="Grenouille" culture=louisianan }
+2006 = { name="Robideaux" culture=louisianan }
+2007 = { name="Batiste" culture=louisianan }
+2008 = { name="Lafitte" culture=louisianan }
+2009 = { name="Dieu-Le-Veut" culture=louisianan}
+2010 = { name="Delahaye" culture=louisianan }
+2011 = { name="Exquemelin" culture=louisianan }
+2012 = { name="Ordronaux" culture=louisianan }
+2013 = { name="Vauquelin" culture=louisianan }
+2014 = { name="Rosembraise" culture=louisianan }
+2015 = { name="Barbarin" culture=louisianan }
+2016 = { name="Capdevielle" culture=louisianan }
+2017 = { name="Fortier" culture=louisianan }
+2018 = { name="Malveaux" culture=louisianan }
+2019 = { name="Marsalis" culture=louisianan }
+2020 = { name="Gautreau" culture=louisianan }
+2021 = { name="Gumbel" culture=louisianan }
+2022 = { name="Gayarré" culture=louisianan }
+2023 = { name="Almonester" culture=louisianan }
+2024 = { name="Guillory" culture=louisianan }
+2025 = { name="Prudhomme" culture=louisianan }
+2026 = { name="Michot" culture=louisianan }
+2027 = { name="Peltier" culture=louisianan }
+2028 = { name="Duplass" culture=louisianan }
+2029 = { name="Gremillion" culture=louisianan }
+2030 = { name="Guidry" culture=louisianan }
+2031 = { name="Authement" culture=louisianan }
+2032 = { name="Verret" culture=louisianan }
+2033 = { name="Soileau" culture=louisianan }
+2034 = { name="Sonnier" culture=louisianan }
+2035 = { name="Dorgenois" culture=louisianan }
+2036 = { name="de la Freniere" culture=louisianan}
+2037 = { name="Pitot" culture=louisianan }
+2038 = { name="de Boré" culture=louisianan }
+2039 = { name="Prieur" culture=louisianan }
+2040 = { name="Montegut" culture=louisianan }
+2041 = { name="Genois" culture=louisianan }
+2042 = { name="de Roffignac" culture=louisianan }
+2043 = { name="Valsin" culture=louisianan }
+2044 = { name="Guillotte" culture=louisianan }
+2045 = { name="Freret" culture=louisianan }
+2046 = { name="Delaup" culture=louisianan }
+2047 = { name="Arceneaux" culture=louisianan }
+2048 = { name="Begnaud" culture=louisianan }
+2049 = { name="Rottet" culture=louisianan }
+2050 = { name="Laveau" culture=louisianan }
+2051 = { name="Brongniart" culture=louisianan }
+2052 = { name="Paillard" culture=louisianan }
+2053 = { name="Glapion" culture=louisianan }
+2054 = { name="de Marigny" culture=louisianan }
+2055 = { name="Lafon" culture=louisianan }
+2056 = { name="Soulé" culture=louisianan }
+2057 = { name="Cailloux" culture=louisianan }
+2058 = { name="Sarebresole" culture=louisianan }
+2059 = { name="Bellocq" culture=louisianan }
+2060 = { name="le Cowbellion" culture=louisianan }
+2061 = { name="Howrilla" culture=louisianan }
+2062 = { name="Duminy" culture=louisianan }
+2063 = { name="Permillion" culture=louisianan }
+2064 = { name="Bienamee" culture=louisianan }
+2065 = { name="Vandage" culture=louisianan }
+2066 = { name="Metoyer" culture=louisianan }
+2067 = { name="Flambeau" culture=louisianan }
+2068 = { name="Edi" culture=louisianan }
+2069 = { name="Couvillon" culture=louisianan }
+2070 = { name="Boudreaux" culture=louisianan }
+2071 = { name="de Sedella" culture=louisianan }
+2072 = { name="Toussaint" culture=louisianan }
+3000 = { name="Marathe" culture=new_orleanser }
+3001 = { name="Fortier" culture=new_orleanser }
+3002 = { name="Charbonneau" culture=new_orleanser }
+3003 = { name="Castel" culture=new_orleanser }
+3004 = { name="Tremblay" culture=new_orleanser }
+3005 = { name="Ravel" culture=new_orleanser }
+3006 = { name="Claude" culture=new_orleanser }
+3007 = { name="Blanchet" culture=new_orleanser }
+3008 = { name="Julien" culture=new_orleanser }
+3009 = { name="Dompierre" culture=new_orleanser }
+3010 = { name="Gallant" culture=new_orleanser }
+3011 = { name="Valade" culture=new_orleanser }
+3012 = { name="Poulin" culture=new_orleanser }
+3013 = { name="Vertu" culture=new_orleanser }
+3014 = { name="Valeur" culture=new_orleanser }
+3015 = { name="Tours" culture=new_orleanser }
+3016 = { name="Mérite" culture=new_orleanser }
+3017 = { name="Ostiguy" culture=new_orleanser }
+3018 = { name="Tousignant" culture=new_orleanser }
+3019 = { name="Dépanneur" culture=new_orleanser }
+3020 = { name="Bouchard" culture=new_orleanser }
+3021 = { name="Lévesque" culture=new_orleanser }
+3022 = { name="Kirouac" culture=new_orleanser }
+3023 = { name="Richard" culture=new_orleanser }
+3024 = { name="Boisvert" culture=new_orleanser }
+3025 = { name="Chainé" culture=new_orleanser }
+3026 = { name="Normand" culture=new_orleanser }
+3027 = { name="Tessier" culture=new_orleanser }
+3028 = { name="Gagnier" culture=new_orleanser }
+3029 = { name="Genest" culture=new_orleanser }
+3030 = { name="Fiset" culture=new_orleanser }
+3031 = { name="de Mékinac" culture=new_orleanser }
+3032 = { name="Mercier" culture=new_orleanser }
+3033 = { name="Denoncourt" culture=new_orleanser }
+3034 = { name="Paquin" culture=new_orleanser }
+3035 = { name="Houde" culture=new_orleanser }
+3036 = { name="Gouin" culture=new_orleanser }
+3037 = { name="Gault" culture=new_orleanser }
+3038 = { name="Charest" culture=new_orleanser }
+3039 = { name="Morin" culture=new_orleanser }
+3040 = { name="Languirand" culture=new_orleanser }
+3041 = { name="Monzon" culture=new_orleanser }
+3042 = { name="Massicotte" culture=new_orleanser }
+3043 = { name="Desroches" culture=new_orleanser }
+3044 = { name="Turcot" culture=new_orleanser }
+3045 = { name="Cyr" culture=new_orleanser }
+3046 = { name="Tanguay" culture=new_orleanser }
+3047 = { name="Derikx" culture=new_orleanser }
+3048 = { name="d'Arvide" culture=new_orleanser }
+3049 = { name="d'Ushabatshuan" culture=new_orleanser }
+3050 = { name="Mathieu-Gallant-Giguere" culture=new_orleanser}
+3051 = { name="Cousineau" culture=new_orleanser }
+3052 = { name="Cornud" culture=new_orleanser }
+3053 = { name="de Saint-Rose" culture=new_orleanser}
+3054 = { name="Dugas" culture=new_orleanser }
+3055 = { name="de Kitigàn" culture=new_orleanser }
+3056 = { name="Herstel" culture=new_orleanser }
+3057 = { name="de Langloiserie" culture=new_orleanser }
+3058 = { name="Céloron de Blainville" culture=new_orleanser }
+3059 = { name="Picoté de Belestre" culture=new_orleanser }
+3060 = { name="Le Moyne de Bienville" culture=new_orleanser}
+3061 = { name="des Pins" culture=new_orleanser }
+3062 = { name="Boulerice" culture=new_orleanser }
+3063 = { name="Chauveau" culture=new_orleanser }
+3064 = { name="Demers" culture=new_orleanser }
+3065 = { name="Dufour" culture=new_orleanser }
+3066 = { name="Brunet" culture=new_orleanser }
+3067 = { name="Bourque" culture=new_orleanser }
+3068 = { name="Marchand" culture=new_orleanser }
+3069 = { name="Duplessis" culture=new_orleanser }
+3070 = { name="Marois" culture=new_orleanser }
+4000 = { name="Pfardentrott" culture=texan }
+4001 = { name="Rusk" culture=texan }
+4002 = { name="Zanco" culture=texan }
+4003 = { name="Cruz" culture=texan }
+4004 = { name="Harq" culture=texan }
+4005 = { name="Ballentine" culture=texan }
+4006 = { name="Blazeby" culture=texan }
+4007 = { name="Cottle" culture=texan }
+4008 = { name="Boyko" culture=texan }
+4009 = { name="Darst" culture=texan }
+4010 = { name="Fannin" culture=texan }
+4011 = { name="Fishbaugh" culture=texan }
+4012 = { name="Heiskell" culture=texan }
+4013 = { name="Hersee" culture=texan }
+4014 = { name="Hill" culture=texan }
+4015 = { name="McGee" culture=texan }
+4016 = { name="O'Reilly" culture=texan }
+4017 = { name="Maverick" culture=texan }
+4018 = { name="Navan" culture=texan }
+4019 = { name="Neggan" culture=texan }
+4020 = { name="Mitchusson" culture=texan }
+4021 = { name="Millsaps" culture=texan }
+4022 = { name="Blaggold" culture=texan }
+4023 = { name="Oury" culture=texan }
+4024 = { name="Sheid" culture=texan }
+4025 = { name="Summerlin" culture=texan }
+4026 = { name="Trammel" culture=texan }
+4027 = { name="Tumlinson" culture=texan }
+4028 = { name="Milam" culture=texan }
+4029 = { name="Crockett" culture=texan }
+4030 = { name="Cockrell" culture=texan }
+4031 = { name="Guinan" culture=texan }
+4032 = { name="Kelleher" culture=texan }
+4033 = { name="Bean" culture=texan }
+4034 = { name="Stinson" culture=texan }
+4035 = { name="Murchison" culture=texan }
+4036 = { name="Ewing" culture=texan }
+4037 = { name="Southworth" culture=texan }
+4038 = { name="Wise" culture=texan }
+4039 = { name="Taylor-Jones" culture=texan }
+4040 = { name="Saltus" culture=texan }
+4041 = { name="Powell" culture=texan }
+4042 = { name="Jiberry" culture=texan }
+4043 = { name="Grey" culture=texan }
+5000 = { name="Clanton" culture=dixie }
+5001 = { name="Kinstry" culture=dixie }
+5002 = { name="Jemison" culture=dixie }
+5003 = { name="Crayclaw" culture=dixie }
+5004 = { name="Barron" culture=dixie }
+5005 = { name="Dowdell" culture=dixie }
+5006 = { name="Coopwood" culture=dixie }
+5007 = { name="Crump" culture=dixie }
+5008 = { name="Frymore" culture=dixie }
+5009 = { name="Garrott" culture=dixie }
+5010 = { name="Toulmin" culture=dixie }
+5011 = { name="Sasnett" culture=dixie }
+5012 = { name="Pyron" culture=dixie }
+5013 = { name="Dunwoody" culture=dixie }
+5014 = { name="Angier" culture=dixie }
+5015 = { name="Arp" culture=dixie }
+5016 = { name="Calhoun" culture=dixie }
+5017 = { name="Candler" culture=dixie }
+5018 = { name="Rootes" culture=dixie }
+5019 = { name="Du Bose" culture=dixie }
+5020 = { name="Doles" culture=dixie }
+5021 = { name="Ezzard" culture=dixie }
+5022 = { name="Clanmoore" culture=dixie }
+5023 = { name="Garlington" culture=dixie }
+5024 = { name="Hannon" culture=dixie }
+5025 = { name="Hicks" culture=dixie }
+5026 = { name="Hillyer" culture=dixie }
+5027 = { name="Longstreet" culture=dixie }
+5028 = { name="Lowe" culture=dixie }
+5029 = { name="MacIntyre" culture=dixie }
+5030 = { name="McCorkle" culture=dixie }
+5031 = { name="McLaws" culture=dixie }
+5032 = { name="Rawls" culture=dixie }
+5033 = { name="Stovall" culture=dixie }
+5034 = { name="Twiggs" culture=dixie }
+5035 = { name="Toombs" culture=dixie }
+5036 = { name="Tattnall" culture=dixie }
+5037 = { name="Tift" culture=dixie }
+5038 = { name="Thrasher" culture=dixie }
+5039 = { name="Oconny" culture=dixie }
+5040 = { name="Jackson" culture=dixie }
+5041 = { name="Nolichuck" culture=dixie }
+5042 = { name="Hampton" culture=dixie }
+5043 = { name="Ninety-Six" culture=dixie }
+5044 = { name="McGinnis" culture=dixie }
+5045 = { name="Bethabara" culture=dixie }
+5046 = { name="of a Loaf" culture=dixie}
+5047 = { name="Miskaton" culture=dixie }
+5048 = { name="Akeley" culture=dixie }
+5049 = { name="Huishoop" culture=dixie }
+5050 = { name="Greenjacket" culture=dixie }
+5051 = { name="Bibb" culture=dixie }
+5052 = { name="Jelks" culture=dixie }
+5053 = { name="Leatherneck" culture=dixie }
+5054 = { name="Phinizy" culture=dixie }
+5055 = { name="Yamacraw" culture=dixie }
+5056 = { name="Anderson" culture=dixie }
+5057 = { name="Chesnut" culture=dixie }
+5058 = { name="Backus" culture=dixie }
+5059 = { name="Morheard" culture=dixie }
+5060 = { name="Lore" culture=dixie }
+5061 = { name="Phenix" culture=dixie }
+5062 = { name="Longroad" culture=dixie }
+5063 = { name="McGillin" culture=dixie }
+5064 = { name="Dougherty" culture=dixie }
+5065 = { name="Bobrell" culture=dixie }
+5066 = { name="Starkville" culture=dixie }
+5067 = { name="Troup" culture=dixie }
+5068 = { name="Blythe" culture=dixie }
+6000 = { name="Dollarway" culture=miamimen }
+6001 = { name="Horry" culture=miamimen }
+6002 = { name="Coldstone" culture=miamimen }
+6003 = { name="Pratchet" culture=miamimen }
+6004 = { name="Pember" culture=miamimen }
+6005 = { name="Dyer" culture=miamimen }
+6006 = { name="Buford" culture=miamimen }
+6007 = { name="Curran" culture=miamimen }
+6008 = { name="Tensaw" culture=miamimen }
+6009 = { name="Philippi" culture=miamimen }
+6010 = { name="Dauphin" culture=miamimen }
+6011 = { name="Gaillard" culture=miamimen }
+6012 = { name="Jubillard" culture=miamimen }
+6013 = { name="Apalachille" culture=miamimen }
+6014 = { name="Gump" culture=miamimen }
+6015 = { name="Petitbois" culture=miamimen }
+6016 = { name="Bonsecours" culture=miamimen }
+6017 = { name="Pensacolle" culture=miamimen }
+6018 = { name="Labatre" culture=miamimen }
+6019 = { name="Waltney" culture=miamimen }
+6020 = { name="Leake" culture=miamimen }
+6021 = { name="Penalver" culture=miamimen }
+6022 = { name="Sewell" culture=miamimen }
+6023 = { name="Gautier" culture=miamimen }
+6024 = { name="Duvol" culture=miamimen }
+6025 = { name="Earl" culture=miamimen }
+6026 = { name="Aldrin" culture=miamimen }
+6027 = { name="Cygnus" culture=miamimen }
+6028 = { name="Leitner" culture=miamimen }
+6029 = { name="Siluriform" culture=miamimen }
+6030 = { name="Mudcray" culture=miamimen }
+6031 = { name="Escreve" culture=miamimen }
+6032 = { name="Cambariday" culture=miamimen }
+6033 = { name="Orconect" culture=miamimen }
+6034 = { name="Procambarr" culture=miamimen }
+6035 = { name="Crawton" culture=miamimen }
+6036 = { name="Mudshore" culture=miamimen }
+6037 = { name="Dockery" culture=miamimen }
+6038 = { name="Siltland" culture=miamimen }
+6039 = { name="Stickham" culture=miamimen }
+6040 = { name="Muckham" culture=miamimen }
+6041 = { name="Earle" culture=miamimen }
+6042 = { name="Ludlow" culture=miamimen }
+6043 = { name="Crockoone" culture=miamimen }
+6044 = { name="Ramsays" culture=miamimen }
+6045 = { name="Roysoleale" culture=miamimen }
+6046 = { name="Cottonclad" culture=miamimen }
+6047 = { name="Plumbum" culture=miamimen }
+6048 = { name="Bertelsmeyer" culture=miamimen }
+6049 = { name="Lohman" culture=miamimen }
+6050 = { name="Barck" culture=miamimen }
+6051 = { name="Croke" culture=miamimen }
+6052 = { name="Brass" culture=miamimen }
+6053 = { name="Lamm" culture=miamimen }
+6054 = { name="Cory-Merrill" culture=miamimen }
+6055 = { name="Ricketts" culture=miamimen }
+6056 = { name="Balch" culture=miamimen }
+6057 = { name="Batterton" culture=miamimen }
+6058 = { name="Begole" culture=miamimen }
+6059 = { name="Brendinger" culture=miamimen }
+6060 = { name="Sopris" culture=miamimen }
+6061 = { name="Steck" culture=miamimen }
+6062 = { name="Routt" culture=miamimen }
+6063 = { name="Currigan" culture=miamimen }
+6064 = { name="Speer" culture=miamimen }
+6065 = { name="Buchtel" culture=miamimen }
+6066 = { name="Pitkin" culture=miamimen }
+6067 = { name="Meldrum" culture=miamimen }
+6068 = { name="Haggott" culture=miamimen }
+6069 = { name="Bronck" culture=miamimen }
+6070 = { name="Howsam" culture=miamimen }
+6071 = { name="Cheesman" culture=miamimen }
+6072 = { name="Ricketts" culture=miamimen }
+6073 = { name="Kunsmiller" culture=miamimen }
+6074 = { name="Kepner" culture=miamimen }
+6075 = { name="Wyateson" culture=miamimen }
+6076 = { name="Swigert" culture=miamimen }
+6077 = { name="Gessler" culture=miamimen }
+6078 = { name="Renfoe" culture=miamimen }
+6079 = { name="Stotch" culture=miamimen }
+6080 = { name="Packer" culture=miamimen }
+6081 = { name="Bent" culture=miamimen }
+6082 = { name="Poudre" culture=miamimen }
+6083 = { name="Flatiron" culture=miamimen }
+6084 = { name="Valmer" culture=miamimen }
+6085 = { name="Trapper" culture=miamimen }
+7000 = { name="Gump" culture=orlandoan }
+7001 = { name="Buford" culture=orlandoan }
+7002 = { name="Curran" culture=orlandoan }
+7003 = { name="Tensaw" culture=orlandoan }
+7004 = { name="Philippi" culture=orlandoan }
+7005 = { name="Dauphin" culture=orlandoan }
+7006 = { name="Gaillard" culture=orlandoan }
+7007 = { name="Jubillard" culture=orlandoan }
+7008 = { name="Apalachille" culture=orlandoan }
+7009 = { name="Dyer" culture=orlandoan }
+7010 = { name="Petitbois" culture=orlandoan }
+7011 = { name="Bonsecours" culture=orlandoan }
+7012 = { name="Pensacolle" culture=orlandoan }
+7013 = { name="Labatre" culture=orlandoan }
+7014 = { name="Waltney" culture=orlandoan }
+7015 = { name="Leake" culture=orlandoan }
+7016 = { name="Penalver" culture=orlandoan }
+7017 = { name="Sewell" culture=orlandoan }
+7018 = { name="Gautier" culture=orlandoan }
+7019 = { name="Duvol" culture=orlandoan }
+7020 = { name="Earl" culture=orlandoan }
+7021 = { name="Aldrin" culture=orlandoan }
+7022 = { name="Cygnus" culture=orlandoan }
+7023 = { name="Leitner" culture=orlandoan }
+7024 = { name="Siluriform" culture=orlandoan }
+7025 = { name="Mudcray" culture=orlandoan }
+7026 = { name="Escreve" culture=orlandoan }
+7027 = { name="Cambariday" culture=orlandoan }
+7028 = { name="Orconect" culture=orlandoan }
+7029 = { name="Procambarr" culture=orlandoan }
+7030 = { name="Crawton" culture=orlandoan }
+7031 = { name="Mudshore" culture=orlandoan }
+7032 = { name="Dockery" culture=orlandoan }
+7033 = { name="Siltland" culture=orlandoan }
+7034 = { name="Stickham" culture=orlandoan }
+7035 = { name="Muckham" culture=orlandoan }
+7036 = { name="Earle" culture=orlandoan }
+7037 = { name="Ludlow" culture=orlandoan }
+7038 = { name="Crockoone" culture=orlandoan }
+7039 = { name="Ramsays" culture=orlandoan }
+7040 = { name="Roysoleale" culture=orlandoan }
+7041 = { name="Cottonclad" culture=orlandoan }
+7042 = { name="Plumbum" culture=orlandoan }
+7043 = { name="Bertelsmeyer" culture=orlandoan }
+7044 = { name="Lohman" culture=orlandoan }
+7045 = { name="Barck" culture=orlandoan }
+7046 = { name="Croke" culture=orlandoan }
+7047 = { name="Brass" culture=orlandoan }
+7048 = { name="Lamm" culture=orlandoan }
+7049 = { name="Cory-Merrill" culture=orlandoan }
+7050 = { name="Ricketts" culture=orlandoan }
+7051 = { name="Balch" culture=orlandoan }
+7052 = { name="Batterton" culture=orlandoan }
+7053 = { name="Begole" culture=orlandoan }
+7054 = { name="Brendinger" culture=orlandoan }
+7055 = { name="Sopris" culture=orlandoan }
+7056 = { name="Steck" culture=orlandoan }
+7057 = { name="Routt" culture=orlandoan }
+7058 = { name="Currigan" culture=orlandoan }
+7059 = { name="Speer" culture=orlandoan }
+7060 = { name="Buchtel" culture=orlandoan }
+7061 = { name="Pitkin" culture=orlandoan }
+7062 = { name="Meldrum" culture=orlandoan }
+7063 = { name="Haggott" culture=orlandoan }
+7064 = { name="Bronck" culture=orlandoan }
+7065 = { name="Howsam" culture=orlandoan }
+7066 = { name="Cheesman" culture=orlandoan }
+7067 = { name="Ricketts" culture=orlandoan }
+7068 = { name="Kunsmiller" culture=orlandoan }
+7069 = { name="Kepner" culture=orlandoan }
+7070 = { name="Wyateson" culture=orlandoan }
+7071 = { name="Swigert" culture=orlandoan }
+7072 = { name="Gessler" culture=orlandoan }
+7073 = { name="Renfoe" culture=orlandoan }
+7074 = { name="Stotch" culture=orlandoan }
+7075 = { name="Packer" culture=orlandoan }
+7076 = { name="Bent" culture=orlandoan }
+7077 = { name="Poudre" culture=orlandoan }
+7078 = { name="Flatiron" culture=orlandoan }
+7079 = { name="Valmer" culture=orlandoan }
+7080 = { name="Trapper" culture=orlandoan }
+8000 = { name="Dyer" culture=tampanian }
+8001 = { name="Buford" culture=tampanian }
+8002 = { name="Curran" culture=tampanian }
+8003 = { name="Tensaw" culture=tampanian }
+8004 = { name="Philippi" culture=tampanian }
+8005 = { name="Dauphin" culture=tampanian }
+8006 = { name="Gaillard" culture=tampanian }
+8007 = { name="Jubillard" culture=tampanian }
+8008 = { name="Apalachille" culture=tampanian }
+8009 = { name="Gump" culture=tampanian }
+8010 = { name="Petitbois" culture=tampanian }
+8011 = { name="Bonsecours" culture=tampanian }
+8012 = { name="Pensacolle" culture=tampanian }
+8013 = { name="Labatre" culture=tampanian }
+8014 = { name="Waltney" culture=tampanian }
+8015 = { name="Leake" culture=tampanian }
+8016 = { name="Penalver" culture=tampanian }
+8017 = { name="Sewell" culture=tampanian }
+8018 = { name="Gautier" culture=tampanian }
+8019 = { name="Duvol" culture=tampanian }
+8020 = { name="Earl" culture=tampanian }
+8021 = { name="Aldrin" culture=tampanian }
+8022 = { name="Barnett" culture=tampanian }
+8023 = { name="Leitner" culture=tampanian }
+8024 = { name="Siluriform" culture=tampanian }
+8025 = { name="Mudcray" culture=tampanian }
+8026 = { name="Escreve" culture=tampanian }
+8027 = { name="Cambariday" culture=tampanian }
+8028 = { name="Orconect" culture=tampanian }
+8029 = { name="Procambarr" culture=tampanian }
+8030 = { name="Crawton" culture=tampanian }
+8031 = { name="Mudshore" culture=tampanian }
+8032 = { name="Dockery" culture=tampanian }
+8033 = { name="Siltland" culture=tampanian }
+8034 = { name="Stickham" culture=tampanian }
+8035 = { name="Muckham" culture=tampanian }
+8036 = { name="Earle" culture=tampanian }
+8037 = { name="Ludlow" culture=tampanian }
+8038 = { name="Crockoone" culture=tampanian }
+8039 = { name="Ramsays" culture=tampanian }
+8040 = { name="Roysoleale" culture=tampanian }
+8041 = { name="Cottonclad" culture=tampanian }
+8042 = { name="Plumbum" culture=tampanian }
+8043 = { name="Bertelsmeyer" culture=tampanian }
+8044 = { name="Lohman" culture=tampanian }
+8045 = { name="Barck" culture=tampanian }
+8046 = { name="Croke" culture=tampanian }
+8047 = { name="Brass" culture=tampanian }
+8048 = { name="Lamm" culture=tampanian }
+8049 = { name="Cory-Merrill" culture=tampanian }
+8050 = { name="Ricketts" culture=tampanian }
+8051 = { name="Balch" culture=tampanian }
+8052 = { name="Batterton" culture=tampanian }
+8053 = { name="Begole" culture=tampanian }
+8054 = { name="Brendinger" culture=tampanian }
+8055 = { name="Sopris" culture=tampanian }
+8056 = { name="Steck" culture=tampanian }
+8057 = { name="Routt" culture=tampanian }
+8058 = { name="Currigan" culture=tampanian }
+8059 = { name="Speer" culture=tampanian }
+8060 = { name="Buchtel" culture=tampanian }
+8061 = { name="Pitkin" culture=tampanian }
+8062 = { name="Meldrum" culture=tampanian }
+8063 = { name="Haggott" culture=tampanian }
+8064 = { name="Bronck" culture=tampanian }
+8065 = { name="Howsam" culture=tampanian }
+8066 = { name="Cheesman" culture=tampanian }
+8067 = { name="Ricketts" culture=tampanian }
+8068 = { name="Kunsmiller" culture=tampanian }
+8069 = { name="Kepner" culture=tampanian }
+8070 = { name="Wyateson" culture=tampanian }
+8071 = { name="Swigert" culture=tampanian }
+8072 = { name="Gessler" culture=tampanian }
+8073 = { name="Renfoe" culture=tampanian }
+8074 = { name="Stotch" culture=tampanian }
+8075 = { name="Packer" culture=tampanian }
+8076 = { name="Bent" culture=tampanian }
+8077 = { name="Poudre" culture=tampanian }
+8078 = { name="Flatiron" culture=tampanian }
+8079 = { name="Valmer" culture=tampanian }
+8080 = { name="Trapper" culture=tampanian }
+9000 = { name="Dyer" culture=tallahassean }
+9001 = { name="Buford" culture=tallahassean }
+9002 = { name="Curran" culture=tallahassean }
+9003 = { name="Tensaw" culture=tallahassean }
+9004 = { name="Philippi" culture=tallahassean }
+9005 = { name="Dauphin" culture=tallahassean }
+9006 = { name="Gaillard" culture=tallahassean }
+9007 = { name="Jubillard" culture=tallahassean }
+9008 = { name="Apalachille" culture=tallahassean }
+9009 = { name="Gump" culture=tallahassean }
+9010 = { name="Curry" culture=tallahassean }
+9011 = { name="Bonsecours" culture=tallahassean }
+9012 = { name="Pensacolle" culture=tallahassean }
+9013 = { name="Labatre" culture=tallahassean }
+9014 = { name="Waltney" culture=tallahassean }
+9015 = { name="Leake" culture=tallahassean }
+9016 = { name="Penalver" culture=tallahassean }
+9017 = { name="Sewell" culture=tallahassean }
+9018 = { name="Gautier" culture=tallahassean }
+9019 = { name="Duvol" culture=tallahassean }
+9020 = { name="Earl" culture=tallahassean }
+9021 = { name="Aldrin" culture=tallahassean }
+9022 = { name="Cygnus" culture=tallahassean }
+9023 = { name="Leitner" culture=tallahassean }
+9024 = { name="Siluriform" culture=tallahassean }
+9025 = { name="Mudcray" culture=tallahassean }
+9026 = { name="Escreve" culture=tallahassean }
+9027 = { name="Cambariday" culture=tallahassean }
+9028 = { name="Orconect" culture=tallahassean }
+9029 = { name="Procambarr" culture=tallahassean }
+9030 = { name="Crawton" culture=tallahassean }
+9031 = { name="Mudshore" culture=tallahassean }
+9032 = { name="Dockery" culture=tallahassean }
+9033 = { name="Siltland" culture=tallahassean }
+9034 = { name="Stickham" culture=tallahassean }
+9035 = { name="Muckham" culture=tallahassean }
+9036 = { name="Earle" culture=tallahassean }
+9037 = { name="Ludlow" culture=tallahassean }
+9038 = { name="Crockoone" culture=tallahassean }
+9039 = { name="Ramsays" culture=tallahassean }
+9040 = { name="Roysoleale" culture=tallahassean }
+9041 = { name="Cottonclad" culture=tallahassean }
+9042 = { name="Plumbum" culture=tallahassean }
+9043 = { name="Bertelsmeyer" culture=tallahassean }
+9044 = { name="Lohman" culture=tallahassean }
+9045 = { name="Barck" culture=tallahassean }
+9046 = { name="Croke" culture=tallahassean }
+9047 = { name="Brass" culture=tallahassean }
+9048 = { name="Lamm" culture=tallahassean }
+9049 = { name="Cory-Merrill" culture=tallahassean }
+9050 = { name="Ricketts" culture=tallahassean }
+9051 = { name="Balch" culture=tallahassean }
+9052 = { name="Batterton" culture=tallahassean }
+9053 = { name="Begole" culture=tallahassean }
+9054 = { name="Brendinger" culture=tallahassean }
+9055 = { name="Sopris" culture=tallahassean }
+9056 = { name="Steck" culture=tallahassean }
+9057 = { name="Routt" culture=tallahassean }
+9058 = { name="Currigan" culture=tallahassean }
+9059 = { name="Speer" culture=tallahassean }
+9060 = { name="Buchtel" culture=tallahassean }
+9061 = { name="Pitkin" culture=tallahassean }
+9062 = { name="Meldrum" culture=tallahassean }
+9063 = { name="Haggott" culture=tallahassean }
+9064 = { name="Bronck" culture=tallahassean }
+9065 = { name="Howsam" culture=tallahassean }
+9066 = { name="Cheesman" culture=tallahassean }
+9067 = { name="Ricketts" culture=tallahassean }
+9068 = { name="Kunsmiller" culture=tallahassean }
+9069 = { name="Kepner" culture=tallahassean }
+9070 = { name="Wyateson" culture=tallahassean }
+9071 = { name="Swigert" culture=tallahassean }
+9072 = { name="Gessler" culture=tallahassean }
+9073 = { name="Renfoe" culture=tallahassean }
+9074 = { name="Stotch" culture=tallahassean }
+9075 = { name="Packer" culture=tallahassean }
+9076 = { name="Bent" culture=tallahassean }
+9077 = { name="Poudre" culture=tallahassean }
+9078 = { name="Flatiron" culture=tallahassean }
+9079 = { name="Valmer" culture=tallahassean }
+9080 = { name="Trapper" culture=tallahassean }
+10000 = { name="Shaver" culture=jacksonvillean }
+10001 = { name="Poe" culture=jacksonvillean }
+10002 = { name="Curran" culture=jacksonvillean }
+10003 = { name="Tensaw" culture=jacksonvillean }
+10004 = { name="Philippi" culture=jacksonvillean }
+10005 = { name="Dauphin" culture=jacksonvillean }
+10006 = { name="Gaillard" culture=jacksonvillean }
+10007 = { name="Jubillard" culture=jacksonvillean }
+10008 = { name="Apalachille" culture=jacksonvillean }
+10009 = { name="Petitbois" culture=jacksonvillean }
+10010 = { name="Shaver" culture=jacksonvillean }
+10011 = { name="Bonsecours" culture=jacksonvillean }
+10012 = { name="Pensacolle" culture=jacksonvillean }
+10013 = { name="Labatre" culture=jacksonvillean }
+10014 = { name="Waltney" culture=jacksonvillean }
+10015 = { name="Leake" culture=jacksonvillean }
+10016 = { name="Penalver" culture=jacksonvillean }
+10017 = { name="Sewell" culture=jacksonvillean }
+10018 = { name="Gautier" culture=jacksonvillean }
+10019 = { name="Duvol" culture=jacksonvillean }
+10020 = { name="Earl" culture=jacksonvillean }
+10021 = { name="Aldrin" culture=jacksonvillean }
+10022 = { name="Cygnus" culture=jacksonvillean }
+10023 = { name="Leitner" culture=jacksonvillean }
+10024 = { name="Siluriform" culture=jacksonvillean }
+10025 = { name="Mudcray" culture=jacksonvillean }
+10026 = { name="Escreve" culture=jacksonvillean }
+10027 = { name="Cambariday" culture=jacksonvillean }
+10028 = { name="Orconect" culture=jacksonvillean }
+10029 = { name="Procambarr" culture=jacksonvillean }
+10030 = { name="Crawton" culture=jacksonvillean }
+10031 = { name="Mudshore" culture=jacksonvillean }
+10032 = { name="Dockery" culture=jacksonvillean }
+10033 = { name="Siltland" culture=jacksonvillean }
+10034 = { name="Stickham" culture=jacksonvillean }
+10035 = { name="Muckham" culture=jacksonvillean }
+10036 = { name="Earle" culture=jacksonvillean }
+10037 = { name="Ludlow" culture=jacksonvillean }
+10038 = { name="Crockoone" culture=jacksonvillean }
+10039 = { name="Ramsays" culture=jacksonvillean }
+10040 = { name="Roysoleale" culture=jacksonvillean }
+10041 = { name="Cottonclad" culture=jacksonvillean }
+10042 = { name="Plumbum" culture=jacksonvillean }
+10043 = { name="Bertelsmeyer" culture=jacksonvillean }
+10044 = { name="Lohman" culture=jacksonvillean }
+10045 = { name="Barck" culture=jacksonvillean }
+10046 = { name="Croke" culture=jacksonvillean }
+10047 = { name="Brass" culture=jacksonvillean }
+10048 = { name="Lamm" culture=jacksonvillean }
+10049 = { name="Cory-Merrill" culture=jacksonvillean }
+10050 = { name="Ricketts" culture=jacksonvillean }
+10051 = { name="Balch" culture=jacksonvillean }
+10052 = { name="Batterton" culture=jacksonvillean }
+10053 = { name="Begole" culture=jacksonvillean }
+10054 = { name="Brendinger" culture=jacksonvillean }
+10055 = { name="Sopris" culture=jacksonvillean }
+10056 = { name="Steck" culture=jacksonvillean }
+10057 = { name="Routt" culture=jacksonvillean }
+10058 = { name="Currigan" culture=jacksonvillean }
+10059 = { name="Speer" culture=jacksonvillean }
+10060 = { name="Buchtel" culture=jacksonvillean }
+10061 = { name="Pitkin" culture=jacksonvillean }
+10062 = { name="Meldrum" culture=jacksonvillean }
+10063 = { name="Haggott" culture=jacksonvillean }
+10064 = { name="Bronck" culture=jacksonvillean }
+10065 = { name="Howsam" culture=jacksonvillean }
+10066 = { name="Cheesman" culture=jacksonvillean }
+10067 = { name="Ricketts" culture=jacksonvillean }
+10068 = { name="Kunsmiller" culture=jacksonvillean }
+10069 = { name="Kepner" culture=jacksonvillean }
+10070 = { name="Wyateson" culture=jacksonvillean }
+10071 = { name="Swigert" culture=jacksonvillean }
+10072 = { name="Gessler" culture=jacksonvillean }
+10073 = { name="Renfoe" culture=jacksonvillean }
+10074 = { name="Stotch" culture=jacksonvillean }
+10075 = { name="Packer" culture=jacksonvillean }
+10076 = { name="Bent" culture=jacksonvillean }
+10077 = { name="Poudre" culture=jacksonvillean }
+10078 = { name="Flatiron" culture=jacksonvillean }
+10079 = { name="Valmer" culture=jacksonvillean }
+10080 = { name="Trapper" culture=jacksonvillean }
+10081 = { name="Curry" culture=jacksonvillean }
+11000 = { name="Tenniscoe" culture=calusa }
+11001 = { name="Meness" culture=calusa }
+11002 = { name="Whiteduck" culture=calusa }
+11003 = { name="Sarazin" culture=calusa }
+11004 = { name="Commanda" culture=calusa }
+11005 = { name="Cota" culture=calusa }
+11006 = { name="Caalus" culture=calusa }
+11007 = { name="Cayer" culture=calusa }
+11008 = { name="Brazeau" culture=calusa }
+11009 = { name="Tremblay" culture=calusa }
+11010 = { name="de Pikogan" culture=calusa }
+11011 = { name="Vollant" culture=calusa }
+11012 = { name="Nekesh" culture=calusa }
+11013 = { name="Asham" culture=calusa }
+11014 = { name="Oshie" culture=calusa }
+11015 = { name="DesJarlait" culture=calusa }
+11016 = { name="Secola" culture=calusa }
+11017 = { name="Pegahmagabow" culture=calusa }
+11018 = { name="Shawanda" culture=calusa }
+11019 = { name="Nawakamigok" culture=calusa }
+11020 = { name="Davieux" culture=calusa }
+11021 = { name="Syrette" culture=calusa }
+11022 = { name="Angeconeb" culture=calusa }
+11023 = { name="Déélgééd" culture=calusa }
+11024 = { name="Dodge" culture=calusa }
+11025 = { name="Adiits'a'ii" culture=calusa }
+11026 = { name="Wauneka" culture=calusa }
+11027 = { name="Chischilly" culture=calusa }
+11028 = { name="Ahkeah" culture=calusa }
+11029 = { name="Atcitty" culture=calusa }
+11030 = { name="Zah" culture=calusa }
+11031 = { name="Begaye" culture=calusa }
+11032 = { name="Dayish" culture=calusa }
+11033 = { name="Apachito" culture=calusa }
+11034 = { name="Tsinigine" culture=calusa }
+11035 = { name="Tsosie" culture=calusa }
+11036 = { name="Naize" culture=calusa }
+11037 = { name="Yazzie" culture=calusa }
+11038 = { name="Nez" culture=calusa }
+11039 = { name="Tso" culture=calusa }
+11040 = { name="Tapahonso" culture=calusa }
+11041 = { name="Nezbah" culture=calusa }
+11042 = { name="Sani" culture=calusa }
+11043 = { name="Kieyoomia" culture=calusa }
+11044 = { name="Bitsui" culture=calusa }
+11045 = { name="Yazzie" culture=calusa }
+11046 = { name="Tinde" culture=calusa }
+11047 = { name="Nakai" culture=calusa }
+12000 = { name="Latimer" culture=southerner }
+12001 = { name="Turner" culture=southerner }
+12002 = { name="Idlewild" culture=southerner }
+12003 = { name="Scott" culture=southerner }
+12004 = { name="Brewster" culture=southerner }
+12005 = { name="McKinney" culture=southerner }
+12006 = { name="Landrieu" culture=southerner }
+12007 = { name="Mulray" culture=southerner }
+12008 = { name="Sweeney" culture=southerner }
+12009 = { name="Allen" culture=southerner }
+12010 = { name="Shoats" culture=southerner }
+12011 = { name="Youngham" culture=southerner }
+12012 = { name="Rodding" culture=southerner }
+12013 = { name="Hough" culture=southerner }
+12014 = { name="Hurston" culture=southerner }
+12015 = { name="Spivey" culture=southerner }
+12016 = { name="Cobbs" culture=southerner }
+12017 = { name="Haralson" culture=southerner }
+12018 = { name="Councill" culture=southerner }
+12019 = { name="Gee" culture=southerner }
+12020 = { name="Shuttlesworth" culture=southerner }
+12021 = { name="Carter" culture=southerner }
+12022 = { name="Driver" culture=southerner }
+12023 = { name="Stanfield" culture=southerner }
+12024 = { name="Stewart" culture=southerner }
+12025 = { name="Newton" culture=southerner }
+12026 = { name="Seale" culture=southerner }
+12027 = { name="Bevel" culture= southerner }
+12028 = { name="Cleaver" culture=southerner }
+12029 = { name="Trumpauer" culture=southerner }
+12030 = { name="Jackson" culture=southerner }
+13000 = { name="El Cibolero" culture=mexican }
+13001 = { name="Maynez" culture=mexican }
+13002 = { name="de la Concha" culture=mexican }
+13003 = { name="Contreras" culture=mexican }
+13004 = { name="Mendoza" culture=mexican }
+13005 = { name="Melgares" culture=mexican }
+13006 = { name="de Peralta" culture=mexican }
+13007 = { name="Manrique" culture=mexican }
+13008 = { name="de la Mora" culture=mexican }
+13009 = { name="de Villanueva" culture=mexican }
+13010 = { name="Dosal" culture=mexican }
+13011 = { name="Cubero" culture=mexican }
+13012 = { name="Vélez" culture=mexican }
+13013 = { name="Alencaster" culture=mexican }
+13014 = { name="de Lajanza" culture=mexican }
+13015 = { name="Sarracino" culture=mexican }
+13016 = { name="Vizcarra" culture=mexican }
+13017 = { name="Perea" culture=mexican }
+13018 = { name="Cresciteundo" culture=mexican }
+13019 = { name="Suaso" culture=mexican }
+13020 = { name="Navarro" culture=mexican }
+13021 = { name="Cuellar" culture=mexican }
+13022 = { name="Cigarroa" culture=mexican }
+13023 = { name="Benavides" culture=mexican }
+13024 = { name="Andujar" culture=mexican }
+13025 = { name="Canseco" culture=mexican }
+13026 = { name="Gallego" culture=mexican }
+13027 = { name="Quintanilla" culture=mexican }
+13028 = { name="Tenayuca" culture=mexican }
+13029 = { name="Cisneros" culture=mexican }
+13030 = { name="Correcaminito" culture=mexican }
+13031 = { name="Cortina" culture=mexican }
+13032 = { name="Goseacochea" culture=mexican }
+13033 = { name="Ocotillo" culture=mexican }
+13034 = { name="Curbelo" culture=mexican }
+14000 = { name="Kooper" culture=antillais }
+14001 = { name="Overmars" culture=antillais }
+14002 = { name="Schoolen" culture=antillais }
+14003 = { name="Molders" culture=antillais }
+14004 = { name="Vree" culture=antillais }
+14005 = { name="Hoek" culture=antillais }
+14006 = { name="Vrisau" culture=antillais }
+14007 = { name="van de Pol" culture=antillais }
+14008 = { name="Vives" culture=antillais }
+14009 = { name="Gagel" culture=antillais }
+14010 = { name="Kiefte" culture=antillais }
+14011 = { name="van Buuren" culture=antillais }
+14012 = { name="van Hasz" culture=antillais }
+14013 = { name="Gosselink" culture=antillais }
+14014 = { name="Conijnenbelt" culture=antillais }
+14015 = { name="Wormstal" culture=antillais }
+14016 = { name="Groen" culture=antillais }
+14017 = { name="Stoltenberg" culture=antillais }
+14018 = { name="Koelma" culture=antillais }
+14019 = { name="Tarrazo" culture=antillais }
+14020 = { name="Welij" culture=antillais }
+14021 = { name="Grootoonk" culture=antillais }
+14022 = { name="Veenhuis" culture=antillais }
+14023 = { name="Blekmans" culture=antillais }
+14024 = { name="van Eijk" culture=antillais }
+14025 = { name="Ossenkoppele" culture=antillais }
+14026 = { name="Jungblut" culture=antillais }
+14027 = { name="Huesken" culture=antillais }
+14028 = { name="Godfried" culture=antillais }
+14029 = { name="de Wit" culture=antillais }
+14030 = { name="Statia" culture=antillais }
+14031 = { name="Arion" culture=antillais }
+14032 = { name="Mansur" culture=antillais }
+14033 = { name="Jurrjens" culture=antillais }
+14034 = { name="Caldera" culture=antillais }
+14035 = { name="Hoyer" culture=antillais }
+14036 = { name="Brigitha" culture=antillais }
+14037 = { name="Clintje" culture=antillais }
+14038 = { name="Bito" culture=antillais }
+14039 = { name="Luciano" culture=antillais }
+14040 = { name="Mercelina" culture=antillais }
+14041 = { name="Meulens" culture=antillais }
+14042 = { name="Milliard" culture=antillais }
+14043 = { name="Fermina" culture=antillais }
+14044 = { name="Doran" culture=antillais }
+14045 = { name="Dierdorp" culture=antillais }
+14046 = { name="Visser" culture=antillais }
+14047 = { name="Zimmerman" culture=antillais }
+14048 = { name="Hato" culture=antillais }
+14049 = { name="Goeloe" culture=antillais }
+14050 = { name="Elhage" culture=antillais }
+14051 = { name="Ortega" culture=antillais }
+14052 = { name="van Putten" culture=antillais }
+14053 = { name="Rojer" culture=antillais }
+14054 = { name="Schoop" culture=antillais }
+14055 = { name="Pisas" culture=antillais }
+14056 = { name="Pauletta" culture=antillais }
+14057 = { name="Somerset" culture=antillais }
+14058 = { name="Coddington" culture=antillais }
+14059 = { name="Gray" culture=antillais }
+14060 = { name="Jennings" culture=antillais }
+14061 = { name="Foggo" culture=antillais }
+14062 = { name="Swainson" culture=antillais }
+14063 = { name="Moniz" culture=antillais }
+14064 = { name="Browne" culture=antillais }
+14065 = { name="St. George" culture=antillais }
+14066 = { name="Dill" culture=antillais }
+14067 = { name="Bayard" culture=antillais }
+14068 = { name="Tucker" culture=antillais }
+14069 = { name="Hallman" culture=antillais }
+14070 = { name="Hollington" culture=antillais }
+14071 = { name="Raynor" culture=antillais }
+14072 = { name="Pentreath" culture=antillais }
+14073 = { name="Peniston" culture=antillais }
+14074 = { name="Wainwright" culture=antillais }
+14075 = { name="Lowe" culture=antillais }
+14076 = { name="Burgess" culture=antillais }
+14077 = { name="Basden" culture=antillais }
+14078 = { name="Spinks" culture=antillais }
+14079 = { name="Pattonson" culture=antillais }
+14080 = { name="Herberts" culture=antillais }
+14081 = { name="Landey" culture=antillais }
+14082 = { name="Riddlehoover" culture=antillais }
+14083 = { name="Miggs" culture=antillais }
+14084 = { name="Singleton" culture=antillais }
+14085 = { name="Ebbins" culture=antillais }
+14086 = { name="Tudorville" culture=antillais }
+14087 = { name="Coker" culture=antillais }
+14088 = { name="Silva" culture=antillais }
+14089 = { name="Manders" culture=antillais }
+14090 = { name="Bates" culture=antillais }
+14091 = { name="Astwood" culture=antillais }
+14092 = { name="Winsford" culture=antillais }
+14093 = { name="Frith" culture=antillais }
+14094 = { name="Gorhame" culture=antillais }
+14095 = { name="Outerbridge" culture=antillais }
+14096 = { name="Perinchief" culture=antillais }
+14097 = { name="Mowbray" culture=antillais }
+14098 = { name="Steede" culture=antillais }
+14099 = { name="Dunscombe" culture=antillais }
+14100 = { name="Chamberlaine" culture=antillais }
+15000 = { name="Kooper" culture=hispaniolan }
+15001 = { name="Overmars" culture=hispaniolan }
+15002 = { name="Schoolen" culture=hispaniolan }
+15003 = { name="Molders" culture=hispaniolan }
+15004 = { name="Vree" culture=hispaniolan }
+15005 = { name="Hoek" culture=hispaniolan }
+15006 = { name="Vrisau" culture=hispaniolan }
+15007 = { name="van de Pol" culture=hispaniolan }
+15008 = { name="Velderman" culture=hispaniolan }
+15009 = { name="Gagel" culture=hispaniolan }
+15010 = { name="Kiefte" culture=hispaniolan }
+15011 = { name="van Buuren" culture=hispaniolan }
+15012 = { name="van Hasz" culture=hispaniolan }
+15013 = { name="Gosselink" culture=hispaniolan }
+15014 = { name="Conijnenbelt" culture=hispaniolan }
+15015 = { name="Wormstal" culture=hispaniolan }
+15016 = { name="Groen" culture=hispaniolan }
+15017 = { name="Stoltenberg" culture=hispaniolan }
+15018 = { name="Koelma" culture=hispaniolan }
+15019 = { name="Hofhuis" culture=hispaniolan }
+15020 = { name="Welij" culture=hispaniolan }
+15021 = { name="Grootoonk" culture=hispaniolan }
+15022 = { name="Veenhuis" culture=hispaniolan }
+15023 = { name="Blekmans" culture=hispaniolan }
+15024 = { name="van Eijk" culture=hispaniolan }
+15025 = { name="Ossenkoppele" culture=hispaniolan }
+15026 = { name="Jungblut" culture=hispaniolan }
+15027 = { name="Huesken" culture=hispaniolan }
+15028 = { name="Godfried" culture=hispaniolan }
+15029 = { name="de Wit" culture=hispaniolan }
+15030 = { name="Statia" culture=hispaniolan }
+15031 = { name="Arion" culture=hispaniolan }
+15032 = { name="Mansur" culture=hispaniolan }
+15033 = { name="Jurrjens" culture=hispaniolan }
+15034 = { name="Caldera" culture=hispaniolan }
+15035 = { name="Hoyer" culture=hispaniolan }
+15036 = { name="Brigitha" culture=hispaniolan }
+15037 = { name="Clintje" culture=hispaniolan }
+15038 = { name="Bito" culture=hispaniolan }
+15039 = { name="Luciano" culture=hispaniolan }
+15040 = { name="Mercelina" culture=hispaniolan }
+15041 = { name="Meulens" culture=hispaniolan }
+15042 = { name="Milliard" culture=hispaniolan }
+15043 = { name="Fermina" culture=hispaniolan }
+15044 = { name="Doran" culture=hispaniolan }
+15045 = { name="Dierdorp" culture=hispaniolan }
+15046 = { name="Visser" culture=hispaniolan }
+15047 = { name="Zimmerman" culture=hispaniolan }
+15048 = { name="Hato" culture=hispaniolan }
+15049 = { name="Goeloe" culture=hispaniolan }
+15050 = { name="Elhage" culture=hispaniolan }
+15051 = { name="Ortega" culture=hispaniolan }
+15052 = { name="van Putten" culture=hispaniolan }
+15053 = { name="Rojer" culture=hispaniolan }
+15054 = { name="Schoop" culture=hispaniolan }
+15055 = { name="Pisas" culture=hispaniolan }
+15056 = { name="Pauletta" culture=hispaniolan }
+15057 = { name="Somerset" culture=hispaniolan }
+15058 = { name="Coddington" culture=hispaniolan }
+15059 = { name="Gray" culture=hispaniolan }
+15060 = { name="Jennings" culture=hispaniolan }
+15061 = { name="Foggo" culture=hispaniolan }
+15062 = { name="Swainson" culture=hispaniolan }
+15063 = { name="Moniz" culture=hispaniolan }
+15064 = { name="Browne" culture=hispaniolan }
+15065 = { name="St. George" culture=hispaniolan }
+15066 = { name="Dill" culture=hispaniolan }
+15067 = { name="Bayard" culture=hispaniolan }
+15068 = { name="Tucker" culture=hispaniolan }
+15069 = { name="Hallman" culture=hispaniolan }
+15070 = { name="Hollington" culture=hispaniolan }
+15071 = { name="Raynor" culture=hispaniolan }
+15072 = { name="Pentreath" culture=hispaniolan }
+15073 = { name="Peniston" culture=hispaniolan }
+15074 = { name="Wainwright" culture=hispaniolan }
+15075 = { name="Lowe" culture=hispaniolan }
+15076 = { name="Burgess" culture=hispaniolan }
+15077 = { name="Basden" culture=hispaniolan }
+15078 = { name="Spinks" culture=hispaniolan }
+15079 = { name="Pattonson" culture=hispaniolan }
+15080 = { name="Herberts" culture=hispaniolan }
+15081 = { name="Landey" culture=hispaniolan }
+15082 = { name="Riddlehoover" culture=hispaniolan }
+15083 = { name="Miggs" culture=hispaniolan }
+15084 = { name="Singleton" culture=hispaniolan }
+15085 = { name="Ebbins" culture=hispaniolan }
+15086 = { name="Tudorville" culture=hispaniolan }
+15087 = { name="Coker" culture=hispaniolan }
+15088 = { name="Silva" culture=hispaniolan }
+15089 = { name="Manders" culture=hispaniolan }
+15090 = { name="Bates" culture=hispaniolan }
+15091 = { name="Astwood" culture=hispaniolan }
+15092 = { name="Winsford" culture=hispaniolan }
+15093 = { name="Frith" culture=hispaniolan }
+15094 = { name="Gorhame" culture=hispaniolan }
+15095 = { name="Outerbridge" culture=hispaniolan }
+15096 = { name="Perinchief" culture=hispaniolan }
+15097 = { name="Mowbray" culture=hispaniolan }
+15098 = { name="Steede" culture=hispaniolan }
+15099 = { name="Dunscombe" culture=hispaniolan }
+15100 = { name="Chamberlaine" culture=hispaniolan }
+16000 = { name="Parr" culture=americo_hispanic }
+16001 = { name="Seguin" culture=americo_hispanic }
+16002 = { name="de Zavala" culture=americo_hispanic }
+16003 = { name="Navarro" culture=americo_hispanic }
+16004 = { name="Ros-Lehtinen" culture=americo_hispanic }
+16005 = { name="Hood" culture=americo_hispanic }
+16006 = { name="Benavides" culture=americo_hispanic }
+16007 = { name="Andujar" culture=americo_hispanic }
+16008 = { name="Canseco" culture=americo_hispanic }
+16009 = { name="Gallego" culture=americo_hispanic }
+16010 = { name="Quintanilla" culture=americo_hispanic }
+16011 = { name="Tenayuca" culture=americo_hispanic }
+16012 = { name="Cisneros" culture=americo_hispanic }
+16013 = { name="Correcaminito" culture=americo_hispanic }
+16014 = { name="Cortina" culture=americo_hispanic }
+16015 = { name="Goseacochea" culture=americo_hispanic }
+16016 = { name="Ocotillo" culture=americo_hispanic }
+16017 = { name="Curbelo" culture=americo_hispanic }
+16018 = { name="de Armas" culture=americo_hispanic }
+16019 = { name="Travieso" culture=americo_hispanic }
+16020 = { name="Menchaca" culture=americo_hispanic }
+16021 = { name="Álvarez" culture=americo_hispanic }
+16022 = { name="Affonso" culture=americo_hispanic }
+16023 = { name="Alixandre" culture=americo_hispanic }
+16024 = { name="Alveres" culture=americo_hispanic }
+16025 = { name="Barbosa" culture=americo_hispanic }
+16026 = { name="Barukhel" culture=americo_hispanic }
+16027 = { name="Bensimon" culture=americo_hispanic }
+16028 = { name="Berenstein" culture=americo_hispanic }
+16029 = { name="Caballero" culture=americo_hispanic }
+16030 = { name="Castro" culture=americo_hispanic }
+16031 = { name="Cohen" culture=americo_hispanic }
+16032 = { name="Levi" culture=americo_hispanic }
+16033 = { name="Costa" culture=americo_hispanic }
+16034 = { name="da Costa" culture=americo_hispanic }
+16035 = { name="de Rio" culture=americo_hispanic }
+16036 = { name="Silva" culture=americo_hispanic }
+16037 = { name="Maghrabi" culture=americo_hispanic }
+16038 = { name="Oliveira" culture=americo_hispanic }
+16039 = { name="Schwartz" culture=americo_hispanic }
+16040 = { name="Vargas" culture=americo_hispanic }
+16041 = { name="Sanchez" culture=americo_hispanic }
+16042 = { name="Lopez" culture=americo_hispanic }
+16043 = { name="de León" culture=americo_hispanic }
+16044 = { name="de Guzmán" culture=americo_hispanic }
+16045 = { name="Quintana" culture=americo_hispanic }
+16046 = { name="González" culture=americo_hispanic }
+16047 = { name="Arnaz" culture=americo_hispanic }
+16048 = { name="de Acha" culture=americo_hispanic }
+16049 = { name="Vadés" culture=americo_hispanic }
+16050 = { name="de Montalvo" culture=americo_hispanic }
+16051 = { name="Donlebún" culture=americo_hispanic }
+16052 = { name="de Mazariegos" culture=americo_hispanic }
+16053 = { name="Barnuevo" culture=americo_hispanic }
+16054 = { name="de Zayas" culture=americo_hispanic }
+16055 = { name="de Villalba" culture=americo_hispanic }
+16056 = { name="Rangel" culture=americo_hispanic }
+16057 = { name="Xelder" culture=americo_hispanic }
+16058 = { name="Vandeval" culture=americo_hispanic }
+16059 = { name="Castellanos" culture=americo_hispanic }
+16060 = { name="Calleja" culture=americo_hispanic }
+16061 = { name="de Polavieja" culture=americo_hispanic }
+16062 = { name="Jovellar" culture=americo_hispanic }
+16063 = { name="Villate" culture=americo_hispanic }
+16064 = { name="Ginovés" culture=americo_hispanic }
+16065 = { name="Bellán" culture=americo_hispanic }
+16066 = { name="Torriente" culture=americo_hispanic }
+16067 = { name="del Riesgo" culture=americo_hispanic }
+16068 = { name="Grobart" culture=americo_hispanic }
+16069 = { name="Escalante" culture=americo_hispanic }
+16070 = { name="Marinello" culture=americo_hispanic }
+16071 = { name="Chomón" culture=americo_hispanic }
+16072 = { name="Pastoriza" culture=americo_hispanic }
+16073 = { name="Contreras" culture=americo_hispanic }
+16074 = { name="Palmeiro" culture=americo_hispanic }
+16075 = { name="Ibar" culture=americo_hispanic }
+16076 = { name="Pestano" culture=americo_hispanic }
+16077 = { name="Veritas" culture=americo_hispanic }
+16078 = { name="Urquiola" culture=americo_hispanic }
+16079 = { name="Cachao" culture=americo_hispanic }
+16080 = { name="Veguero" culture=americo_hispanic }
+16081 = { name="Dacosta" culture=americo_hispanic }

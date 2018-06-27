@@ -1,0 +1,8 @@
+# 266 - White
+title = c_white
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_white_a = city
+b_white_b = castle
+b_white_c = temple

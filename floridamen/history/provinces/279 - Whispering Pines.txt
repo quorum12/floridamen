@@ -1,0 +1,8 @@
+# 279 - Whispering Pines
+title = c_whispering_pines
+max_settlements = 4
+culture = miamimen
+religion = baptist
+b_whispering_pines_a = castle
+b_whispering_pines_b = city
+b_whispering_pines_c = temple

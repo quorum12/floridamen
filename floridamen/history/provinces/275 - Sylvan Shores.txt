@@ -1,0 +1,8 @@
+# 275 - Sylvan Shores
+title = c_sylvan_shores
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_sylvan_shores_a = castle
+b_sylvan_shores_b = city
+b_sylvan_shores_c = temple

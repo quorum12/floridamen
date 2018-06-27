@@ -1,0 +1,8 @@
+# 85 - Punta De La Sierra
+title = c_punta_de_la_sierra
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_punta_de_la_sierra_a = castle
+b_punta_de_la_sierra_b = city
+b_punta_de_la_sierra_c = temple

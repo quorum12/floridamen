@@ -1,0 +1,8 @@
+# 184 - Sarasota
+title = c_sarasota
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_sarasota_a = castle
+b_sarasota_b = city
+b_sarasota_c = temple

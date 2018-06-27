@@ -1,0 +1,8 @@
+# 44 - Hosford
+title = c_hosford
+max_settlements = 4
+culture = tallahassean
+religion = baptist
+b_hosford_a = castle
+b_hosford_b = city
+b_hosford_c = temple

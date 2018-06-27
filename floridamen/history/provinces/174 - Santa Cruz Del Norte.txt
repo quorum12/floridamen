@@ -1,0 +1,8 @@
+# 174 - Santa Cruz Del Norte
+title = c_santa_cruz_del_norte
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_santa_cruz_del_norte_a = castle
+b_santa_cruz_del_norte_b = city
+b_santa_cruz_del_norte_c = temple

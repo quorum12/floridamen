@@ -1,0 +1,8 @@
+# 176 - Surgidero De Batabano
+title = c_surgidero_de_batabano
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_surgidero_de_batabano_a = castle
+b_surgidero_de_batabano_b = city
+b_surgidero_de_batabano_c = temple

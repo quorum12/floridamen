@@ -1,0 +1,8 @@
+# 33 - Crestview
+title = c_crestview
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_crestview_a = castle
+b_crestview_b = city
+b_crestview_c = temple

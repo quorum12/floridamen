@@ -1,0 +1,8 @@
+# 245 - Paisley
+title = c_paisley
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_paisley_a = castle
+b_paisley_b = city
+b_paisley_c = temple

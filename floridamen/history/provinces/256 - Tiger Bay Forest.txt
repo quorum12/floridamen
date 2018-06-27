@@ -1,0 +1,7 @@
+# 256 - Tiger Bay Forest
+title = c_tiger_bay_forest
+max_settlements = 2
+culture = jacksonvillean
+religion = baptist
+b_tiger_bay_forest_a = temple
+b_tiger_bay_forest_b = temple

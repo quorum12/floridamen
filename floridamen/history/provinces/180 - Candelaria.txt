@@ -1,0 +1,8 @@
+# 180 - Candelaria
+title = c_candelaria
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_candelaria_a = castle
+b_candelaria_b = city
+b_candelaria_c = temple

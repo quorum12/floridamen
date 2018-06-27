@@ -1,0 +1,8 @@
+# 247 - Apopka
+title = c_apopka
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_apopka_a = castle
+b_apopka_b = city
+b_apopka_c = temple

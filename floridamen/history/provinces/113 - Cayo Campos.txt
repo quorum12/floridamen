@@ -1,0 +1,8 @@
+# 113 - Cayo Campos
+title = c_cayo_campos
+max_settlements = 4
+culture = antillais
+religion = none
+b_cayo_campos_a = castle
+b_cayo_campos_b = city
+b_cayo_campos_c = temple

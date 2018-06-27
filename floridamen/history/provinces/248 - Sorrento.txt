@@ -1,0 +1,8 @@
+# 248 - Sorrento
+title = c_sorrento
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_sorrento_a = castle
+b_sorrento_b = city
+b_sorrento_c = temple

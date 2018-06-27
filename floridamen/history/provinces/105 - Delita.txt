@@ -1,0 +1,8 @@
+# 105 - Delita
+title = c_delita
+max_settlements = 4
+culture = antillais
+religion = none
+b_delita_a = castle
+b_delita_b = city
+b_delita_c = temple

@@ -1,0 +1,8 @@
+# 71 - Valladolid
+title = c_valladolid
+max_settlements = 4
+culture = mexican
+religion = cathar
+b_valladolid_a = castle
+b_valladolid_b = city
+b_valladolid_c = temple

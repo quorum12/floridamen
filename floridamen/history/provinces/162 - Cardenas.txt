@@ -1,0 +1,8 @@
+# 162 - Cardenas
+title = c_cardenas
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_cardenas_a = castle
+b_cardenas_b = city
+b_cardenas_c = temple

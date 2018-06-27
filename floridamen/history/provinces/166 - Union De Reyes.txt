@@ -1,0 +1,8 @@
+# 166 - Union De Reyes
+title = c_union_de_reyes
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_union_de_reyes_a = castle
+b_union_de_reyes_b = city
+b_union_de_reyes_c = temple

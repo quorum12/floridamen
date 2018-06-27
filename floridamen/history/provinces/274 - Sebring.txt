@@ -1,0 +1,8 @@
+# 274 - Sebring
+title = c_sebring
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_sebring_a = castle
+b_sebring_b = city
+b_sebring_c = temple

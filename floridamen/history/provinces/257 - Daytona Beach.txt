@@ -1,0 +1,8 @@
+# 257 - Daytona Beach
+title = c_daytona_beach
+max_settlements = 4
+culture = orlandoan
+religion = catholic
+b_daytona_beach_a = castle
+b_daytona_beach_b = city
+b_daytona_beach_c = temple

@@ -1,0 +1,8 @@
+# 211 - Venezuela
+title = c_venezuela
+max_settlements = 4
+culture = antillais
+religion = catholic
+b_venezuela_a = castle
+b_venezuela_b = city
+b_venezuela_c = temple

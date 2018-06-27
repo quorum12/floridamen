@@ -1,0 +1,8 @@
+# 249 - Stirling
+title = c_stirling
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_stirling_a = castle
+b_stirling_b = city
+b_stirling_c = temple

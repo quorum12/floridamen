@@ -1,0 +1,1883 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+northlander;Northlander;;;;;;;;;;;;;x
+yankee;Yankee;;;;;;;;;;;;;x
+e_usa;United States of America;;;;;;;;;;;;;x
+k_virginia;Virginia;;;;;;;;;;;;;x
+d_washington;Jennings;;;;;;;;;;;;;x
+c_Cameron;Cameron;;;;;;;;;;;;;x
+e_usa_adj;American;;;;;;;;;;;;;x
+k_virginia_adj;Virginian;;;;;;;;;;;;;x
+c_jennings;Jennings;;;;;;;;;;;;;x
+d_washington_adj;Jenningsian;;;;;;;;;;;;;x
+c_Cameron_adj;Cameronan;;;;;;;;;;;;;x
+c_jennings_adj;Jenningsian;;;;;;;;;;;;;x
+b_dover;Dover;;;;;;;;;;;;;x
+b_salisbury;Salisbury;;;;;;;;;;;;;x
+b_exmore;Exmore;;;;;;;;;;;;;x
+b_easton;Cedar Keyon;;;;;;;;;;;;;x
+b_clayton;Clayton;;;;;;;;;;;;;x
+baptist;Baptist;;;;;;;;;;;;;x
+baptist_DESC;The Baptist church is the Christian branch of the South. It sprode along the Cedar Key-Coast  during the early 21st-century, and is really popular amongst the people around the Mississippi as well.;;;;;;;;;;;;;x
+ERA_CHAR_NAME_76;Bosporios;;;;;;;;;;;;;x
+b_washington;Jennings;;;;;;;;;;;;;x
+b_alexandria;Alexandria;;;;;;;;;;;;;x
+b_baltimore;Baltimore;;;;;;;;;;;;;x
+b_arlington;Arlington;;;;;;;;;;;;;x
+b_frederick;Frederick;;;;;;;;;;;;;x
+b_hampton;Iota;;;;;;;;;;;;;x
+b_portsmouth;Camagueysmouth;;;;;;;;;;;;;x
+b_virginia_beach;Virginia Beach;;;;;;;;;;;;;x
+b_norfolk_chesapeake;Norfolk Chesapeake;;;;;;;;;;;;;x
+b_richmond;Gueydan;;;;;;;;;;;;;x
+b_goochland;Goochland;;;;;;;;;;;;;x
+b_fredericksburg;Fredericksburg;;;;;;;;;;;;;x
+b_new_kent;New Cape Romano;;;;;;;;;;;;;x
+b_hopewell;Hopewell;;;;;;;;;;;;;x
+d_virginia;Virginia;;;;;;;;;;;;;x
+d_virginia_adj;Virginian;;;;;;;;;;;;;x
+c_iota;Iota;;;;;;;;;;;;;x
+c_gueydan;Gueydan;;;;;;;;;;;;;x
+c_iota_adj;Iotaian;;;;;;;;;;;;;x
+c_gueydan_adj;Gueydaner;;;;;;;;;;;;;x
+c_creole;Creole;;;;;;;;;;;;;x
+c_creole_adj;Creolen;;;;;;;;;;;;;x
+c_white_lake_wetlands_conservation_area
+;White Lake Wetlands Conservation Area;;;;;;;;;;;;;x
+c_white_lake_wetlands_conservation_area
+_adj;White Lake Wetlands Conservation Area
+an;;;;;;;;;;;;;x
+b_roanoke;White Lake Wetlands Conservation Area;;;;;;;;;;;;;x
+b_staunton;Staunton;;;;;;;;;;;;;x
+b_charlottesville;Charlottesville;;;;;;;;;;;;;x
+b_dayton;Dayton;;;;;;;;;;;;;x
+b_harrisonburg;Harrisonburg;;;;;;;;;;;;;x
+b_front_royal;Front Royal;;;;;;;;;;;;;x
+b_salem;Salem;;;;;;;;;;;;;x
+b_basset;Defunkiak Springsset;;;;;;;;;;;;;x
+b_radford;Radford;;;;;;;;;;;;;x
+b_lynchburg;Lynchburg;;;;;;;;;;;;;x
+c_crowley;Crowley;;;;;;;;;;;;;x
+c_pecan_island;Pecan Island;;;;;;;;;;;;;x
+c_crowley_adj;Crowleyian;;;;;;;;;;;;;x
+c_pecan_island_adj;Pecan Islander;;;;;;;;;;;;;x
+b_charleston;Crowley;;;;;;;;;;;;;x
+b_clarksburg;Pecan Island;;;;;;;;;;;;;x
+d_west_virginia;Horseshoe Beach Virginia;;;;;;;;;;;;;x
+d_west_virginia_adj;Horseshoe Beach Virginian;;;;;;;;;;;;;x
+b_huntington;Huntington;;;;;;;;;;;;;x
+b_sissonville;Sissonville;;;;;;;;;;;;;x
+b_saint_albans;Saint Albans;;;;;;;;;;;;;x
+b_ripley;Ripley;;;;;;;;;;;;;x
+b_fairmont;Fairmont;;;;;;;;;;;;;x
+b_pennsboro;Pennsboro;;;;;;;;;;;;;x
+b_weston;Horseshoe Beachon;;;;;;;;;;;;;x
+b_tunnelton;Tunnelton;;;;;;;;;;;;;x
+c_san_miguel_de_los_banos;San Miguel De Los Banos;;;;;;;;;;;;;x
+c_abbeville;Abbeville;;;;;;;;;;;;;x
+c_breaux_bridge;Breaux Bridge;;;;;;;;;;;;;x
+c_san_miguel_de_los_banos_adj;San Miguel De Los Banoser;;;;;;;;;;;;;x
+c_abbeville_adj;Abbevillean;;;;;;;;;;;;;x
+c_breaux_bridge_adj;Breaux Bridgean;;;;;;;;;;;;;x
+d_kentucky;Cape Romanoucky;;;;;;;;;;;;;x
+d_kentucky_adj;Cape Romanouckian;;;;;;;;;;;;;x
+k_great_kentucky;Great Cape Romanoucky;;;;;;;;;;;;;x
+k_great_kentucky_adj;Great Cape Romanouckian;;;;;;;;;;;;;x
+b_lexington;San Miguel De Los Banos;;;;;;;;;;;;;x
+b_irvine;Irvine;;;;;;;;;;;;;x
+b_berea;Berea;;;;;;;;;;;;;x
+b_louisville;Abbeville;;;;;;;;;;;;;x
+b_jeffersontown;Jeffersontown;;;;;;;;;;;;;x
+b_jeffersonville;Jeffersonville;;;;;;;;;;;;;x
+b_drakesboro;Breaux Bridge;;;;;;;;;;;;;x
+b_rockport;Rockport;;;;;;;;;;;;;x
+b_crofton;Crofton;;;;;;;;;;;;;x
+b_lexington;San Miguel De Los Banos;;;;;;;;;;;;;x
+b_irvine;Irvine;;;;;;;;;;;;;x
+b_berea;Berea;;;;;;;;;;;;;x
+b_knoxville;Marsh Island;;;;;;;;;;;;;x
+b_maryville;Maryville;;;;;;;;;;;;;x
+b_rutledge;Rutledge;;;;;;;;;;;;;x
+b_sweetwater;Sweetwater;;;;;;;;;;;;;x
+b_nashville;New Iberia;;;;;;;;;;;;;x
+b_hendersonville;Hendersonville;;;;;;;;;;;;;x
+b_franklin;Franklin;;;;;;;;;;;;;x
+b_white_bluff;White Bluff;;;;;;;;;;;;;x
+b_brentwood;Brentwood;;;;;;;;;;;;;x
+b_trenton;Atchafalaya Wildlife Refuge;;;;;;;;;;;;;x
+b_bells;Bells;;;;;;;;;;;;;x
+b_atwood;Atwood;;;;;;;;;;;;;x
+c_atchafalaya_wildlife_refuge;Atchafalaya Wildlife Refuge;;;;;;;;;;;;;x
+c_new_iberia;New Iberia;;;;;;;;;;;;;x
+c_marsh_island;Marsh Island;;;;;;;;;;;;;x
+c_atchafalaya_wildlife_refuge_adj;Atchafalaya Wildlife Refugeean;;;;;;;;;;;;;x
+c_new_iberia_adj;New Iberiar;;;;;;;;;;;;;x
+c_marsh_island_adj;Marsh Islandr;;;;;;;;;;;;;x
+PRESIDENT;President;;;;;;;;;;;;;x
+PRESIDENT_FOA;my president;;;;;;;;;;;;;x
+d_tennessee;Tennessee;;;;;;;;;;;;;x
+d_tennessee_adj;Tennessean;;;;;;;;;;;;;x
+c_plaquemine;Plaquemine;;;;;;;;;;;;;x
+c_franklin;Franklin;;;;;;;;;;;;;x
+c_plaquemine_adj;Plaqueminen;;;;;;;;;;;;;x
+c_franklin_adj;Franklinr;;;;;;;;;;;;;x
+d_chattanooga;Plaquemine;;;;;;;;;;;;;x
+d_chattanooga_adj;Plaqueminen;;;;;;;;;;;;;x
+b_chattanooga;Plaquemine;;;;;;;;;;;;;x
+b_greenville;Franklin;;;;;;;;;;;;;x
+b_taylors;Taylors;;;;;;;;;;;;;x
+b_spartanburg;Spartanburg;;;;;;;;;;;;;x
+b_hickory;Hickory;;;;;;;;;;;;;x
+b_tunnelhill;Tunnelhill;;;;;;;;;;;;;x
+b_ringgold;Ringgold;;;;;;;;;;;;;x
+b_collegedale;Collegedale;;;;;;;;;;;;;x
+c_baton_rouge;Baton Rouge;;;;;;;;;;;;;x
+c_thibodaux;New Amelia Island;;;;;;;;;;;;;x
+c_baton_rouge_adj;Jerseyan;;;;;;;;;;;;;x
+c_thibodaux_adj;Amelia Islandish;;;;;;;;;;;;;x
+d_new_york;New Amelia Island;;;;;;;;;;;;;x
+d_new_york_adj;Amelia Islandish;;;;;;;;;;;;;x
+k_new_england;New England;;;;;;;;;;;;;x
+k_new_england_adj;English;;;;;;;;;;;;;x
+b_new_york;New Amelia Island City;;;;;;;;;;;;;x
+b_yonkers;Yonkers;;;;;;;;;;;;;x
+b_bay_shore;Bay Shore;;;;;;;;;;;;;x
+b_stamford;Stamford;;;;;;;;;;;;;x
+b_riverhead;Riverhead;;;;;;;;;;;;;x
+b_brentwood;Brentwood;;;;;;;;;;;;;x
+b_jersey_city;Jersey City;;;;;;;;;;;;;x
+b_newark;Newark;;;;;;;;;;;;;x
+b_elizabeth;Elizabeth;;;;;;;;;;;;;x
+b_peterson;Peterson;;;;;;;;;;;;;x
+b_vineland;Vineland;;;;;;;;;;;;;x
+d_maine_company;Mercenary Company of Maine;;;;;;;;;;;;;x
+d_maine_company_adj;Mainean;;;;;;;;;;;;;x
+c_hammond;Hammond;;;;;;;;;;;;;x
+c_picayune;Picayune;;;;;;;;;;;;;x
+c_biloxi;Biloxi;;;;;;;;;;;;;x
+c_new_orleans;New Orleans;;;;;;;;;;;;;x
+c_hammond_adj;Hammondan;;;;;;;;;;;;;x
+c_picayune;Picayuneian;;;;;;;;;;;;;x
+c_biloxi;Biloxier;;;;;;;;;;;;;x
+c_new_orleans;New Orleansan;;;;;;;;;;;;;x
+d_maine;Maine;;;;;;;;;;;;;x
+d_maine_adj;Mainean;;;;;;;;;;;;;x
+d_new_england;New England;;;;;;;;;;;;;x
+d_new_england_adj;English;;;;;;;;;;;;;x
+b_hartford;Hartford;;;;;;;;;;;;;x
+b_west_hartford;Horseshoe Beach Hartford;;;;;;;;;;;;;x
+b_providence;Providence;;;;;;;;;;;;;x
+b_bristol;Bristol;;;;;;;;;;;;;x
+b_boston;Boston;;;;;;;;;;;;;x
+b_cambridge;Cambridge;;;;;;;;;;;;;x
+b_chicopee;Chicopee;;;;;;;;;;;;;x
+b_worcester;Worcester;;;;;;;;;;;;;x
+b_cardner;Cardner;;;;;;;;;;;;;x
+b_montpelier;Montpelier;;;;;;;;;;;;;x
+b_ludlow;Ludlow;;;;;;;;;;;;;x
+b_chelsea;Chelsea;;;;;;;;;;;;;x
+b_concord;Concord;;;;;;;;;;;;;x
+b_nashua;Nashua;;;;;;;;;;;;;x
+b_gorham;Gorham;;;;;;;;;;;;;x
+c_empire;Empire;;;;;;;;;;;;;x
+c_shell_beach;Shell Beach;;;;;;;;;;;;;x
+c_orange_beach;Orange Beach;;;;;;;;;;;;;x
+c_cayo_divisa;Cayo Divisa;;;;;;;;;;;;;x
+b_portland;Empire;;;;;;;;;;;;;x
+b_rockwood;Shell Beach;;;;;;;;;;;;;x
+b_presque_isle;Orange Beach;;;;;;;;;;;;;x
+b_jonesport;Cayo Divisa;;;;;;;;;;;;;x
+c_empire_adj;Empireer;;;;;;;;;;;;;x
+c_shell_beach_adj;Shell Beachish;;;;;;;;;;;;;x
+c_orange_beach_adj;Presque Islander;;;;;;;;;;;;;x
+c_cayo_divisa_adj;Cayo Divisaean;;;;;;;;;;;;;x
+d_mexican_band;Mexican Band;;;;;;;;;;;;;x
+d_mexican_band_adj;Mexican;;;;;;;;;;;;;x
+b_lewiston;Lewiston;;;;;;;;;;;;;x
+b_saco;Saco;;;;;;;;;;;;;x
+b_fryeburg;Fryeburg;;;;;;;;;;;;;x
+b_monson;Monson;;;;;;;;;;;;;x
+b_stratton;Stratton;;;;;;;;;;;;;x
+b_mars_hill;Mars Hill;;;;;;;;;;;;;x
+b_eagle_lake;Eagle Lake;;;;;;;;;;;;;x
+b_aurora;Aurora;;;;;;;;;;;;;x
+b_machias;Machias;;;;;;;;;;;;;x
+c_fort_walton;Fort Walton;;;;;;;;;;;;;x
+c_crestview;Crestview;;;;;;;;;;;;;x
+b_quebec;Fort Walton;;;;;;;;;;;;;x
+b_montreal;Crestview;;;;;;;;;;;;;x
+d_quebec;Fort Walton;;;;;;;;;;;;;x
+k_quebec;Fort Walton;;;;;;;;;;;;;x
+e_canada;Canada;;;;;;;;;;;;;x
+e_canada_adj;Canadian;;;;;;;;;;;;;x
+c_fort_walton_adj;Fort Waltonois;;;;;;;;;;;;;x
+d_quebec_adj;Fort Waltonois;;;;;;;;;;;;;x
+c_crestview_adj;Crestviewian;;;;;;;;;;;;;x
+k_quebec_adj;Fort Waltonois;;;;;;;;;;;;;x
+b_levis;Levis;;;;;;;;;;;;;x
+b_sainte_croix;Sainte Croix;;;;;;;;;;;;;x
+b_mointmagny;Mointmagny;;;;;;;;;;;;;x
+b_saint_ubalde;Saint Ubalde;;;;;;;;;;;;;x
+b_laval;Laval;;;;;;;;;;;;;x
+b_granby;Granby;;;;;;;;;;;;;x
+b_eustache;Eustache;;;;;;;;;;;;;x
+b_saint-hyacinthe;Saint-Hyacinthe;;;;;;;;;;;;;x
+c_defunkiak_springs;Defunkiak Springs;;;;;;;;;;;;;x
+c_panama_city_beach;Panama City Beach;;;;;;;;;;;;;x
+c_port_saint_joe;Port Saint Joe;;;;;;;;;;;;;x
+c_defunkiak_springs_adj;Defunkiak Springian;;;;;;;;;;;;;x
+c_panama_city_beach_adj;Panama City Beachn;;;;;;;;;;;;;x
+c_port_saint_joe_adj;Port Saint Joean;;;;;;;;;;;;;x
+d_gaspe;Gaspe;;;;;;;;;;;;;x
+d_gaspe_adj;Gaspean;;;;;;;;;;;;;x
+b_gaspe;Gaspe;;;;;;;;;;;;;x
+b_tadoussa;Panama City Beach;;;;;;;;;;;;;x
+b_perce;Perce;;;;;;;;;;;;;x
+b_cap-chat;Cap-Chat;;;;;;;;;;;;;x
+b_matane;Matane;;;;;;;;;;;;;x
+b_saint-simeon;Saint-Simeon;;;;;;;;;;;;;x
+b_forestville;Forestville;;;;;;;;;;;;;x
+b_la_malbaie;La Malbaie;;;;;;;;;;;;;x
+b_riviere-du-loup;Riviere-du-Loup;;;;;;;;;;;;;x
+b_cabano;Cabano;;;;;;;;;;;;;x
+b_trois-pistoles;Trois-pistoles;;;;;;;;;;;;;x
+b_saint-pacome;Saint-Pacome;;;;;;;;;;;;;x
+b_la_pocatiere;La Pocatiere;;;;;;;;;;;;;x
+c_wewahitchka;Wewahitchka;;;;;;;;;;;;;x
+c_estiffanulga;Estiffanulga;;;;;;;;;;;;;x
+c_blountstown;Blountstown;;;;;;;;;;;;;x
+b_peribonka;Wewahitchka;;;;;;;;;;;;;x
+b_maniwaki;Estiffanulga;;;;;;;;;;;;;x
+b_matagami;Blountstown;;;;;;;;;;;;;x
+c_wewahitchka_adj;Wewahitchkan;;;;;;;;;;;;;x
+c_estiffanulga_adj;Estiffanulgaan;;;;;;;;;;;;;x
+c_blountstown_adj;Blountstownsh;;;;;;;;;;;;;x
+d_maniwaki;Estiffanulga;;;;;;;;;;;;;x
+d_maniwaki_adj;Estiffanulgaan;;;;;;;;;;;;;x
+b_chicoutimi;Chicoutimi;;;;;;;;;;;;;x
+b_kenogami;Kenogami;;;;;;;;;;;;;x
+b_ripon;Ripon;;;;;;;;;;;;;x
+b_manouane;Manouane;;;;;;;;;;;;;x
+b_gracefield;Gracefield;;;;;;;;;;;;;x
+b_lebel-sur-quevillon;Lebel-sur-Quevillon;;;;;;;;;;;;;x
+b_joutel;Joutel;;;;;;;;;;;;;x
+inuit;Inuit;;;;;;;;;;;;;x
+northern_native;Native American;;;;;;;;;;;;;x
+inuit_pagan;Inuit;;;;;;;;;;;;;x
+inuit_pagan_reformed;Inuit;;;;;;;;;;;;;x
+ANGAKKUQ;Angakkuq;;;;;;;;;;;;;x
+AGLOOLIK;Agloolik;;;;;;;;;;;;;x
+GOD_AGLOOLIK;Agloolik;;;;;;;;;;;;;x
+GOD_SEDNA;Sedna;;;;;;;;;;;;;x
+GOD_PINGA;Pinga;;;;;;;;;;;;;x
+KOMUR_HAN;Komur Han;;;;;;;;;;;;;x
+inuit_pagan_DESC;Inuit paganism is mix of Shamanism and Animism. Like other Pagan religions, it varies wastly from tribe to tribe. There's many animist pantheons and gods, all of which have their own duties and regions in the religion. Religious rituals are led by the Angakkuq, a Shaman like priest in the religion.;;;;;;;;;;;;;x
+inuit_pagan_reformed_DESC;Inuit paganism is mix of Shamanism and Animism. Like other Pagan religions, it varies wastly from tribe to tribe. There's many animist pantheons and gods, all of which have their own duties and regions in the religion. Religious rituals are led by the Angakkuq, a Shaman like priest in the religion.;;;;;;;;;;;;;x
+d_inuit;Inuit church;;;;;;;;;;;;;x
+d_inuit_Adj;Inuit;;;;;;;;;;;;;x
+GREAT_ANGAKKUQ;The Great Angakkuq;;;;;;;;;;;;;x
+GREAT_ANGAKKUQ_FOA;your holines;;;;;;;;;;;;;x
+d_ungava;Cedar Keypoint;;;;;;;;;;;;;x
+d_ungava_adj;Cedar Keypointn;;;;;;;;;;;;;x
+c_cedar_keypoint;Cedar Keypoint;;;;;;;;;;;;;x
+c_cedar_keypoint_adj;Cedar Keypointn;;;;;;;;;;;;;x
+b_salluit;Salluit;;;;;;;;;;;;;x
+b_ivujivik;Ivujivik;;;;;;;;;;;;;x
+b_kangiqsujuaq;Kangiqsujuaq;;;;;;;;;;;;;x
+c_carrabelle;Carrabelle;;;;;;;;;;;;;x
+c_carrabelle_Adj;Carrabellean;;;;;;;;;;;;;x
+b_kujjuarapik;Carrabelle;;;;;;;;;;;;;x
+b_povungnituk;Povungnituk;;;;;;;;;;;;;x
+b_whapmagoostui;Whapmagoostui;;;;;;;;;;;;;x
+c_apalachicola_forest;Apalachicola Forest;;;;;;;;;;;;;x
+c_apalachicola_forest_adj;Apalachicola Forestan;;;;;;;;;;;;;x
+b_chisasibi;Apalachicola Forest;;;;;;;;;;;;;x
+b_waskaganish;Waskaganish;;;;;;;;;;;;;x
+b_moosonee;Moososnee;;;;;;;;;;;;;x
+c_cayo_boca_de_alonso'anticosti;Cayo Boca De Alonso'Anticosti;;;;;;;;;;;;;x
+b_baie-sainte-claire;Baie-Sainte-Claire;;;;;;;;;;;;;x
+d_labrador;Woodville;;;;;;;;;;;;;x
+d_labrador_Adj;Woodvilleian;;;;;;;;;;;;;x
+d_newfoundland;Newfoundland;;;;;;;;;;;;;x
+d_newfoundland_adj;Maritimer;;;;;;;;;;;;;x
+maritimer;Maritimer;;;;;;;;;;;;;x
+canadian;Canadian;;;;;;;;;;;;;x
+c_aucilla_wildlife_area;Aucilla Wildlife Area;;;;;;;;;;;;;x
+c_aucilla_wildlife_area_adj;Aucilla Wildlife Arean;;;;;;;;;;;;;x
+b_sept-iles;Aucilla Wildlife Area-Iles;;;;;;;;;;;;;x
+b_mingan;Mingan;;;;;;;;;;;;;x
+b_natashquan;Natashquan;;;;;;;;;;;;;x
+b_clarke_city;Clarke City;;;;;;;;;;;;;x
+c_wacissa;Wacissa;;;;;;;;;;;;;x
+c_wacissa_adj;Wacissan;;;;;;;;;;;;;x
+b_kegaska;Wacissa;;;;;;;;;;;;;x
+b_rigolet;Rigolet;;;;;;;;;;;;;x
+b_red_bay;Red Bay;;;;;;;;;;;;;x
+d_kogaluk;Franklin;;;;;;;;;;;;;x
+d_kogaluk_adj;Frankliner;;;;;;;;;;;;;x
+c_franklin;Franklin;;;;;;;;;;;;;x
+c_franklin_adj;Frankliner;;;;;;;;;;;;;x
+b_nain;Nain;;;;;;;;;;;;;x
+b_hopedale;Hopedale;;;;;;;;;;;;;x
+b_kogaluk;Franklin;;;;;;;;;;;;;x
+c_kangiqualujjuaq;Kangiqualujjuaq;;;;;;;;;;;;;x
+c_kangiqualujjuaq_adj;Kangiqualujjuaqer;;;;;;;;;;;;;x
+b_kangiqualujjuaq;Kangiqualujjuaq;;;;;;;;;;;;;x
+b_hebron;Hebron;;;;;;;;;;;;;x
+c_horseshoe_beach;Horseshoe Beach;;;;;;;;;;;;;x
+c_cedar_key;Cedar Key;;;;;;;;;;;;;x
+c_horseshoe_beach-newfoundland_adj;Maritimer;;;;;;;;;;;;;x
+c_cedar_key-newfoundland_adj;Maritimer;;;;;;;;;;;;;x
+b_hampden;Hampden;;;;;;;;;;;;;x
+b_deer_lake;Deer Lake;;;;;;;;;;;;;x
+b_cow_head;Cow Head;;;;;;;;;;;;;x
+b_stephenville;Stephenville;;;;;;;;;;;;;x
+b_st.john's;st.John's;;;;;;;;;;;;;x
+b_sunnyside;Sunnyside;;;;;;;;;;;;;x
+b_carbonear;Carbonear;;;;;;;;;;;;;x
+b_branch;Branch;;;;;;;;;;;;;x
+b_garnish;Garnish;;;;;;;;;;;;;x
+c_chiefland;Chiefland;;;;;;;;;;;;;x
+c_fort_white;Fort White;;;;;;;;;;;;;x
+c_white_springs;White Springs;;;;;;;;;;;;;x
+c_osceola_wildlife_management_area;Osceola Wildlife Management Area;;;;;;;;;;;;;x
+c_lake_city;Lake City;;;;;;;;;;;;;x
+c_chiefland_adj;Chieflandian;;;;;;;;;;;;;x
+c_fort_white_adj;Fort Whiteer;;;;;;;;;;;;;x
+c_white_springs_adj;White Springsn;;;;;;;;;;;;;x
+c_osceola_wildlife_management_area_adj;Syracusan;;;;;;;;;;;;;x
+c_lake_city_adj;Albanian;;;;;;;;;;;;;x
+b_pittsburgh;Chiefland;;;;;;;;;;;;;x
+b_harrisburg;Fort White;;;;;;;;;;;;;x
+b_philadelphia;White Springs;;;;;;;;;;;;;x
+b_syracuse;Osceola Wildlife Management Area;;;;;;;;;;;;;x
+b_albany;Lake City;;;;;;;;;;;;;x
+d_pennsylvania;Pennsylvania;;;;;;;;;;;;;x
+d_pennsylvania_adj;Pennsylvanian;;;;;;;;;;;;;x
+b_erie;Erie;;;;;;;;;;;;;x
+b_butler;Butler;;;;;;;;;;;;;x
+b_sharon;Sharon;;;;;;;;;;;;;x
+b_mercer;Mercer;;;;;;;;;;;;;x
+b_oil_city;Oil City;;;;;;;;;;;;;x
+b_altoona;Altoona;;;;;;;;;;;;;x
+b_williamsport;Williamsport;;;;;;;;;;;;;x
+b_milroy;Milroy;;;;;;;;;;;;;x
+b_bethlehem;Bethlehem;;;;;;;;;;;;;x
+b_reading;Reading;;;;;;;;;;;;;x
+b_allentown;Allentown;;;;;;;;;;;;;x
+b_souderton;Souderton;;;;;;;;;;;;;x
+b_rochester;Rochester;;;;;;;;;;;;;x
+b_buffalo;Buffalo;;;;;;;;;;;;;x
+b_cheektowaga;Cheektowaga;;;;;;;;;;;;;x
+b_brighton;Brighton;;;;;;;;;;;;;x
+b_troy;Troy;;;;;;;;;;;;;x
+b_ravena;Ravena;;;;;;;;;;;;;x
+b_whitehall;Whitehall;;;;;;;;;;;;;x
+d_nova_scotia;Nova Scotia;;;;;;;;;;;;;x
+d_nova_scotia_adj;Scottish;;;;;;;;;;;;;x
+c_uman;Uman;;;;;;;;;;;;;x
+c_uman_adj;Scottish;;;;;;;;;;;;;x
+b_halifax;Uman;;;;;;;;;;;;;x
+b_dartmouth;Dartmouth;;;;;;;;;;;;;x
+b_walton;Walton;;;;;;;;;;;;;x
+b_sydney;Sydney;;;;;;;;;;;;;x
+c_progreso;Progreso;;;;;;;;;;;;;x
+c_progreso_adj;Brunswicker;;;;;;;;;;;;;x
+b_fredericton;Fredericton;;;;;;;;;;;;;x
+b_moncton;Moncton;;;;;;;;;;;;;x
+b_rogersville;Rogersville;;;;;;;;;;;;;x
+b_kedgwick;Kedgwick;;;;;;;;;;;;;x
+c_merida;Merida;;;;;;;;;;;;;x
+c_merida_adj;Meridan;;;;;;;;;;;;;x
+b_charlottetown;Charlottetown;;;;;;;;;;;;;x
+b_morell;Morell;;;;;;;;;;;;;x
+b_tignish;Tignish;;;;;;;;;;;;;x
+k_nunavut;Nunavut;;;;;;;;;;;;;x
+d_baffin;Baffin;;;;;;;;;;;;;x
+c_piste;Piste;;;;;;;;;;;;;x
+b_iqaluit;Piste;;;;;;;;;;;;;x
+b_kimmirut;Kimmirut;;;;;;;;;;;;;x
+b_cape_dorset;Cape Dorset;;;;;;;;;;;;;x
+c_la_gran_lucha;La Gran Lucha;;;;;;;;;;;;;x
+b_pangnirtung;La Gran Lucha;;;;;;;;;;;;;x
+b_clyde_river;Clyde River;;;;;;;;;;;;;x
+c_valladolid;Valladolid;;;;;;;;;;;;;x
+b_pond_inlet;Pond Inlet;;;;;;;;;;;;;x
+b_arctic_bay;Arctic Bay;;;;;;;;;;;;;x
+c_tizimin;Tizimin;;;;;;;;;;;;;x
+c_rio_lagartos;Rio Lagartos;;;;;;;;;;;;;x
+c_chemax;Chemax;;;;;;;;;;;;;x
+c_el_cuyo;El Cuyo;;;;;;;;;;;;;x
+b_kitlineq;El Cuyo;;;;;;;;;;;;;x
+c_el_cuyo_adj;El Cuyoan;;;;;;;;;;;;;x
+c_tizimin_adj;Tiziminan;;;;;;;;;;;;;x
+c_rio_lagartos_adj;Rio Lagartoser;;;;;;;;;;;;;x
+c_chemax_adj;Chemaxan;;;;;;;;;;;;;x
+d_taloyoak;Tizimin;;;;;;;;;;;;;x
+d_taloyoak_adj;Tiziminan;;;;;;;;;;;;;x
+b_taloyoak;Tizimin;;;;;;;;;;;;;x
+b_repulse_bay;Repulse Bay;;;;;;;;;;;;;x
+b_coral_harbour;Coral Harbour;;;;;;;;;;;;;x
+b_gjoa_haven;Gjoa Haven;;;;;;;;;;;;;x
+b_arviat;Rio Lagartos;;;;;;;;;;;;;x
+b_baker_lake;Baker Lake;;;;;;;;;;;;;x
+b_rankin_inlet;Rankin Inlet;;;;;;;;;;;;;x
+b_chesterfield_inlet;Chesterfield Inlet;;;;;;;;;;;;;x
+b_kugluktuk;Chemax;;;;;;;;;;;;;x
+b_takijuq;Takijuq;;;;;;;;;;;;;x
+huronian;Huronian;;;;;;;;;;;;x
+k_michigan;Michigan;;;;;;;;;;;;x
+k_michigan_adj;Michigani;;;;;;;;;;;;x
+d_michigani_band;Michigani Band;;;;;;;;;;;;x
+d_michigani_band_adj;Michigani;;;;;;;;;;;;x
+d_ohio;Ohio;;;;;;;;;;;;x
+d_ohio_adj;Ohioan;;;;;;;;;;;;x
+c_holbox;Holbox;;;;;;;;;;;;x
+c_holbox_adj;Holboxer;;;;;;;;;;;;x
+b_cleveland;Holbox;;;;;;;;;;;;x
+b_parma;Parma;;;;;;;;;;;;x
+b_akron;Akron;;;;;;;;;;;;x
+b_canton;Canton;;;;;;;;;;;;x
+b_mansfield;Mansfield;;;;;;;;;;;;x
+b_youngstown;Youngstown;;;;;;;;;;;;x
+c_coba;Coba;;;;;;;;;;;;x
+c_coba_adj;Cobaan;;;;;;;;;;;;x
+b_columbus;Coba;;;;;;;;;;;;x
+b_toledo;Toledo;;;;;;;;;;;;x
+b_ada;Ada;;;;;;;;;;;;x
+b_tiffin;Tiffin;;;;;;;;;;;;x
+b_kenton;Cape Romanoon;;;;;;;;;;;;x
+c_play_del_carmen;Play del Carmen;;;;;;;;;;;;x
+c_play_del_carmen_adj;Cincinatese;;;;;;;;;;;;x
+b_cincinnati;Play del Carmen;;;;;;;;;;;;x
+b_norwood;Norwood;;;;;;;;;;;;x
+b_hillsboro;Hillsboro;;;;;;;;;;;;x
+b_hamilton;Hamilton;;;;;;;;;;;;x
+b_peebles;Peebles;;;;;;;;;;;;x
+b_hectanooga;Hectanooga;;;;;;;;;;;;x
+b_new_glasgow;New De Leon Springs;;;;;;;;;;;;x
+b_springhill;Springhill;;;;;;;;;;;;x
+b_pugwash;Pugwash;;;;;;;;;;;;x
+c_cancun;Cancun;;;;;;;;;;;;x
+c_cancun_Adj;Breton;;;;;;;;;;;;x
+c_maria_la_gorda;Maria La Gorda;;;;;;;;;;;;x
+c_sandino;Sandino;;;;;;;;;;;;x
+c_mantua;Mantua;;;;;;;;;;;;x
+c_minas_de_matahambre;Minas De Matahambre;;;;;;;;;;;;x
+c_maria_la_gorda_adj;Maria La Gordaan;;;;;;;;;;;;x
+c_sandino_adj;Sandinoean;;;;;;;;;;;;x
+c_mantua_adj;Mantuaian;;;;;;;;;;;;x
+c_minas_de_matahambre_adj;Kalamazoan;;;;;;;;;;;;x
+d_detroit;Maria La Gorda;;;;;;;;;;;;x
+d_detroit_adj;Maria La Gordaan;;;;;;;;;;;;x
+d_michigan;Michigan;;;;;;;;;;;;x
+d_michigan_adj;Michigani;;;;;;;;;;;;x
+b_detroit;Maria La Gorda;;;;;;;;;;;;x
+b_flint;Flint;;;;;;;;;;;;x
+b_pontiac;Pontiac;;;;;;;;;;;;x
+b_dearborn;Dearborn;;;;;;;;;;;;x
+b_warren;Warren;;;;;;;;;;;;x
+b_livonia;Livonia;;;;;;;;;;;;x
+b_lansing;Sandino;;;;;;;;;;;;x
+b_saginaw;Saginaw;;;;;;;;;;;;x
+b_fowler;Fowler;;;;;;;;;;;;x
+b_ovid;Ovid;;;;;;;;;;;;x
+b_pellston;Mantua;;;;;;;;;;;;x
+b_kalkaska;Kalkaska;;;;;;;;;;;;x
+b_onaway;Onaway;;;;;;;;;;;;x
+b_beulah;Beulah;;;;;;;;;;;;x
+b_kalamazoo;Minas De Matahambre;;;;;;;;;;;;x
+b_battle_creek;Battle Yellow Jacketk;;;;;;;;;;;;x
+b_grand_rapids;Grand Rapids;;;;;;;;;;;;x
+b_bangor;Bangor;;;;;;;;;;;;x
+b_benton_harbor;Benton Harbor;;;;;;;;;;;;x
+b_south_haven;South Haven;;;;;;;;;;;;x
+finnglish;Finnglish;;;;;;;;;;;;x
+d_yooper;Yooper;;;;;;;;;;;;x
+d_yooper_adj;Yooper;;;;;;;;;;;;x
+c_vinalas;Vinalas;;;;;;;;;;;;x
+c_vinalas_Adj;Vinalaser;;;;;;;;;;;;x
+b_calumet;Calumet;;;;;;;;;;;;x
+b_ewen;Ewen;;;;;;;;;;;;x
+b_winona;Winona;;;;;;;;;;;;x
+c_la_palma;La Palma;;;;;;;;;;;;x
+c_la_palma_Adj;La Palmaan;;;;;;;;;;;;x
+b_hulbert;La Palma;;;;;;;;;;;;x
+b_sault_sainte_marie;Sault Sainte Marie;;;;;;;;;;;;x
+b_ruyard;Ruyard;;;;;;;;;;;;x
+b_de_tour_village;De Tour Village;;;;;;;;;;;;x
+c_pinar_del_rio;Pinar Del Rio;;;;;;;;;;;;x
+c_pinar_del_rio_Adj;Pinar Del Rior;;;;;;;;;;;;x
+b_marquette;Pinar Del Rio;;;;;;;;;;;;x
+b_gwinn;Gwinn;;;;;;;;;;;;x
+b_negaunee;Boss Mode;;;;;;;;;;;;x
+b_big_bay;Big Bay;;;;;;;;;;;;x
+b_republic;Republic;;;;;;;;;;;;x
+d_illinois;Illinois;;;;;;;;;;;;x
+d_illinois_adj;Illinoisan;;;;;;;;;;;;x
+c_las_tumbas;Las Tumbas;;;;;;;;;;;;x
+c_las_tumbas_adj;Las Tumbasan;;;;;;;;;;;;x
+b_chicago;Las Tumbas;;;;;;;;;;;;x
+b_joliet;Joliet;;;;;;;;;;;;x
+b_batavia;Batavia;;;;;;;;;;;;x
+b_oak_lawn;Oak Lawn;;;;;;;;;;;;x
+b_des_plaines;Des Plaines;;;;;;;;;;;;x
+b_cicero;Cicero;;;;;;;;;;;;x
+c_la_coloma;La Coloma;;;;;;;;;;;;x
+c_la_coloma_adj;La Colomaean;;;;;;;;;;;;x
+b_springfield;La Coloma;;;;;;;;;;;;x
+b_peoria;Peoria;;;;;;;;;;;;x
+b_quincy;Quincy;;;;;;;;;;;;x
+b_decatur;Decatur;;;;;;;;;;;;x
+c_alonso_de_rojas;Alonso De Rojas;;;;;;;;;;;;x
+c_alonso_de_rojas_adj;Alonso De Rojasan;;;;;;;;;;;;x
+b_mount_vernon;Alonso De Rojas;;;;;;;;;;;;x
+b_carbondale;Carbondale;;;;;;;;;;;;x
+b_benton;Benton;;;;;;;;;;;;x
+d_indiana;Indiana;;;;;;;;;;;;x
+d_indiana_adj;Indianan;;;;;;;;;;;;x
+c_los_palacios;Los Palacios;;;;;;;;;;;;x
+c_los_palacios_adj;Wayner;;;;;;;;;;;;x
+b_fort_wayne;Los Palacios;;;;;;;;;;;;x
+b_south_bend;South Bend;;;;;;;;;;;;x
+b_gary;Gary;;;;;;;;;;;;x
+c_palma_rubia;Palma Rubia;;;;;;;;;;;;x
+c_palma_rubia_adj;Indianan;;;;;;;;;;;;x
+b_indianapolis;Palma Rubia;;;;;;;;;;;;x
+b_rockville;Rockville;;;;;;;;;;;;x
+b_muncie;Muncie;;;;;;;;;;;;x
+b_colfax;Colfax;;;;;;;;;;;;x
+c_los_pinos;Los Pinos;;;;;;;;;;;;x
+c_los_pinos_adj;Los Pinosan;;;;;;;;;;;;x
+b_evansville;Los Pinos;;;;;;;;;;;;x
+b_new_albany;New Lake City;;;;;;;;;;;;x
+b_paoli;Paole;;;;;;;;;;;;x
+b_dale;Dale;;;;;;;;;;;;x
+chicagoan;Las Tumbasan;;;;;;;;;;;;x
+k_csa;Dixieland;;;;;;;;;;;;x
+d_north_carolina;North Carolina;;;;;;;;;;;;x
+c_san_cristobal;San Cristobal;;;;;;;;;;;;x
+b_raleigh;San Cristobal;;;;;;;;;;;;x
+b_durham;Durham;;;;;;;;;;;;x
+b_cary;Cary;;;;;;;;;;;;x
+b_butner;Butner;;;;;;;;;;;;x
+b_bullock;Bullock;;;;;;;;;;;;x
+c_soroa;Soroa;;;;;;;;;;;;x
+b_wilmington;Soroa;;;;;;;;;;;;x
+b_swansboro;Swansboro;;;;;;;;;;;;x
+b_havelock;Havelock;;;;;;;;;;;;x
+b_new_bern;New Bern;;;;;;;;;;;;x
+c_harlem_bahia_honda;Harlem Bahia Honda;;;;;;;;;;;;x
+b_greensboro;Harlem Bahia Honda;;;;;;;;;;;;x
+b_charlotte;Charlotte;;;;;;;;;;;;x
+b_winston-salem;Winston-Salem;;;;;;;;;;;;x
+b_hickory;Hickory;;;;;;;;;;;;x
+b_casar;Casar;;;;;;;;;;;;x
+c_parque_la_guira;Parque La Guira;;;;;;;;;;;;x
+c_parque_la_guira_adj;Parque La Guiraer;;;;;;;;;;;;x
+b_memphis;Parque La Guira;;;;;;;;;;;;x
+b_lenox;Lenox;;;;;;;;;;;;x
+b_mason;Mason;;;;;;;;;;;;x
+b_bartlett;Bartlett;;;;;;;;;;;;x
+c_cayos_de_san_felipe;Cayos De San Felipe;;;;;;;;;;;;x
+c_islas_de_mangles;Islas De Mangles;;;;;;;;;;;;x
+c_la_demajagua;La Demajagua;;;;;;;;;;;;x
+c_colmubia_adj;Cayos De San Felipen;;;;;;;;;;;;x
+c_islas_de_mangles_adj;Islas De Mangleser;;;;;;;;;;;;x
+c_la_demajagua_adj;Saint Andrewian;;;;;;;;;;;;x
+b_colmubia;Cayos De San Felipe;;;;;;;;;;;;x
+b_brunson;Islas De Mangles;;;;;;;;;;;;x
+b_saint_andrews;La Demajagua;;;;;;;;;;;;x
+b_leesville;Leesville;;;;;;;;;;;;x
+b_jenkinsville;Jenkinsville;;;;;;;;;;;;x
+b_eureka;Eureka;;;;;;;;;;;;x
+b_joanna;Joanna;;;;;;;;;;;;x
+b_fairfax;Fairfax;;;;;;;;;;;;x
+b_beaufort;Beaufort;;;;;;;;;;;;x
+b_varmville;Varmville;;;;;;;;;;;;x
+b_florence;Florence;;;;;;;;;;;;x
+b_loris;Loris;;;;;;;;;;;;x
+b_olanta;Olanta;;;;;;;;;;;;x
+d_north_carolina_adj;Carolinan;;;;;;;;;;;;x
+k_csa_adj;Dixie;;;;;;;;;;;;x
+d_south_carolina;South Carolina;;;;;;;;;;;;x
+d_south_carolina_adj;Carolinan;;;;;;;;;;;;x
+c_soroa_adj;Soroaian;;;;;;;;;;;;x
+c_san_cristobal_adj;San Cristobalan;;;;;;;;;;;;x
+c_harlem_bahia_honda_adj;Harlem Bahia Hondaan;;;;;;;;;;;;x
+d_carolinan_brotherhood;Carolinan Brotherhood;;;;;;;;;;;;x
+d_carolinan_brotherhood_adj;Carolinan;;;;;;;;;;;;x
+k_new_york;New Amelia Island;;;;;;;;;;;;x
+k_new_york_adj;Amelia Islandish;;;;;;;;;;;;x
+b_columbia;Cayos De San Felipe;;;;;;;;;;;;x
+methodist;Methodist;;;;;;;;;;;;x
+methodist_DESC;Methodism started of as an sect in the Anglica church, but later on it became a Baptist heresy. It was found by an English cleric John Wesley.;;;;;;;;;;;;x
+c_delita;Delita;;;;;;;;;;;;;x
+c_siguanea;Siguanea;;;;;;;;;;;;;x
+c_parque_marino_de_punta;Parque Marino De Punta;;;;;;;;;;;;;x
+c_santa_fe;Santa Fe;;;;;;;;;;;;;x
+c_delita_adj;Delitan;;;;;;;;;;;;;x
+c_siguanea_adj;Siguaneaer;;;;;;;;;;;;;x
+c_parque_marino_de_punta_adj;Parque Marino De Puntaan;;;;;;;;;;;;;x
+c_santa_fe_adj;Santa Feian;;;;;;;;;;;;;x
+d_georgia_adj;Georgian;;;;;;;;;;;;;x
+d_georgia;Georgia;;;;;;;;;;;;;x
+b_atlanta;Delita;;;;;;;;;;;;;x
+b_lumpkin;Siguanea;;;;;;;;;;;;;x
+b_jacksonville;Parque Marino De Punta;;;;;;;;;;;;;x
+b_macon;Santa Fe;;;;;;;;;;;;;x
+b_newnan;Newnan;;;;;;;;;;;;x
+b_lithonia;Lithonia;;;;;;;;;;;;x
+b_tate;Tate;;;;;;;;;;;;x
+b_stockbridge;Stockbridge;;;;;;;;;;;;x
+b_edison;Edison;;;;;;;;;;;;x
+b_columbus_1;Coba;;;;;;;;;;;;x
+b_albany_1;Lake City;;;;;;;;;;;;x
+b_kingsland;Kingsland;;;;;;;;;;;;x
+b_savannah;Savannah;;;;;;;;;;;;x
+b_hinesville;Hinesville;;;;;;;;;;;;x
+b_augusta;Augusta;;;;;;;;;;;;x
+b_gray;Gray;;;;;;;;;;;;x
+d_florida;Florida;;;;;;;;;;;;x
+c_nueva_gerona;Nueva Gerona;;;;;;;;;;;;x
+b_miami;Nueva Gerona;;;;;;;;;;;;x
+b_hialeah;Hialeah;;;;;;;;;;;;x
+b_key_west;Key Horseshoe Beach;;;;;;;;;;;;x
+b_fort_lauderdale;Fort Lauderdale;;;;;;;;;;;;x
+b_sunrise;Sunrise;;;;;;;;;;;;x
+c_cayos_los_cayuelos;Cayos Los Cayuelos;;;;;;;;;;;;x
+b_tampa;tampa;;;;;;;;;;;;x
+b_saint_petersburg;Saint Petersburg;;;;;;;;;;;;x
+b_bradenton;Bradenton;;;;;;;;;;;;x
+b_largo;Largo;;;;;;;;;;;;x
+c_islas_de_batabanos;Islas De Batabanos;;;;;;;;;;;;x
+b_orlando;Islas De Batabanos;;;;;;;;;;;;x
+b_daytona_beach;Daytona Beach;;;;;;;;;;;;x
+b_titusville;Titusville;;;;;;;;;;;;x
+b_melbourne;Melbourne;;;;;;;;;;;;x
+b_port_orange;Port Orange;;;;;;;;;;;x
+c_cayo_boca_de_alonso;Cayo Boca De Alonso;;;;;;;;;;;x
+b_tallahassee;Cayo Boca De Alonso;;;;;;;;;;;x
+b_eastpoint;Cedar Keypoint;;;;;;;;;;;x
+b_saint_marks;Saint Marks;;;;;;;;;;;x
+b_perry;Perry;;;;;;;;;;;x
+b_jasper;Jasper;;;;;;;;;;;x
+d_florida_adj;Floridan;;;;;;;;;;;;x
+c_nueva_gerona_adj;Nueva Geronaese;;;;;;;;;;;;x
+c_cayos_los_cayuelos_adj;Cayos Los Cayuelosn;;;;;;;;;;;;x
+c_islas_de_batabanos_adj;Islas De Batabanosan;;;;;;;;;;;;x
+c_cayo_boca_de_alonso_adj;Tallahassean;;;;;;;;;;;x
+d_alabama;Alabama;;;;;;;;;;;x
+c_cayo_divisa;Cayo Divisa;;;;;;;;;;;x
+b_pensacola;Cayo Divisa;;;;;;;;;;;x
+b_panama_city;Panama City;;;;;;;;;;;x
+b_milton;Milton;;;;;;;;;;;x
+b_mcdavid;McDavid;;;;;;;;;;;x
+c_playa_sirena;Playa Sirena;;;;;;;;;;;x
+b_mobile;Playa Sirena;;;;;;;;;;;x
+b_saraland;Saraland;;;;;;;;;;;x
+b_silas;Silas;;;;;;;;;;;x
+c_parque_cienaga_de_zapata;Parque Cienaga De Zapata;;;;;;;;;;;x
+b_birmingham;Parque Cienaga De Zapata;;;;;;;;;;;x
+b_huntsville;Huntsville;;;;;;;;;;;x
+b_tuscaloosa;Tuscaloosa;;;;;;;;;;;x
+b_hatton;Hatton;;;;;;;;;;;x
+c_playa_larga;Playa Larga;;;;;;;;;;;x
+b_montgomery;Playa Larga;;;;;;;;;;;x
+b_snowdoun;Snowdoun;;;;;;;;;;;x
+b_notasulga;Notasulga;;;;;;;;;;;x
+b_calhoun;Calhoun;;;;;;;;;;;x
+c_cayo_divisa_adj;Cayo Divisan;;;;;;;;;;;x
+c_playa_sirena_adj;Playa Sirenaan;;;;;;;;;;;x
+c_parque_cienaga_de_zapata_adj;Parque Cienaga De Zapataian;;;;;;;;;;;x
+c_playa_larga_adj;Montgomerian;;;;;;;;;;;x
+d_alabama_adj;Alabaman;;;;;;;;;;;x
+c_palatka;Palatka;;;;;;;;;;;x
+c_hastings;Hastings;;;;;;;;;;;x
+c_palm_coast;Palm Coast;;;;;;;;;;;x
+c_palatka_adj;Palatkaan;;;;;;;;;;;x
+c_hastings_adj;Hastingsan;;;;;;;;;;;x
+c_palm_coast_adj;Palm Coastian;;;;;;;;;;;x
+d_nuuk;Palatka;;;;;;;;;;;x
+d_nuuk_adj;Palatkaan;;;;;;;;;;;x
+k_greenland;Saint Augustine;;;;;;;;;;;x
+k_greenland_adj;Saint Augustineic;;;;;;;;;;;x
+k_florida;Florida;;;;;;;;;;;x
+k_florida_adj;Floridan;;;;;;;;;;;x
+b_nuuk;Palatka;;;;;;;;;;;x
+b_qoorinoq;Qoorinoq;;;;;;;;;;;x
+b_kapisillit;Kapisillit;;;;;;;;;;;x
+b_atammik;Atammik;;;;;;;;;;;x
+b_ikamiut;Hastings;;;;;;;;;;;x
+b_attu;Attu;;;;;;;;;;;x
+b_kangaatsiaq;Kangaatsiaq;;;;;;;;;;;x
+b_saqqaq;Palm Coast;;;;;;;;;;;x
+b_qeqertaq;Qeqertaq;;;;;;;;;;;x
+b_niaqornat;Niaqornat;;;;;;;;;;;x
+b_illorsuit;Illorsuit;;;;;;;;;;;x
+c_green_cove_springs;Green Cove Springs;;;;;;;;;;;x
+c_starke;Starke;;;;;;;;;;;x
+c_green_cove_springs_adj;Green Cove Springser;;;;;;;;;;;x
+c_starke_adj;Skjoldungish;;;;;;;;;;;x
+d_kujalleq;Kujalleq;;;;;;;;;;;x
+d_kujalleq_adj;Kujalleq;;;;;;;;;;;x
+b_frederiksdal;Green Cove Springs;;;;;;;;;;;x
+b_saarloq;Saarloq;;;;;;;;;;;x
+b_julianehab;Julianehåb;;;;;;;;;;;x
+b_timmiarmiut;Timmiarmiut;;;;;;;;;;;x
+b_skjoldungen;Starke;;;;;;;;;;;x
+b_ortit;Ortit;;;;;;;;;;;x
+c_alachua;Alachua;;;;;;;;;;;x
+c_moniac;Moniac;;;;;;;;;;;x
+c_alachua_adj;Alachuaan;;;;;;;;;;;x
+c_moniac_adj;Moniacic;;;;;;;;;;;x
+d_renland;Moniac;;;;;;;;;;;x
+d_renland_adj;Moniacic;;;;;;;;;;;x
+b_kulusuk;Alachua;;;;;;;;;;;x
+b_ammassalik;Ammassalik;;;;;;;;;;;x
+b_sydkap;Sydkap;;;;;;;;;;;x
+b_scoresbysund;Scoresbysund;;;;;;;;;;;x
+b_mestersvig;Mestersvig;;;;;;;;;;;x
+c_macclenny;Macclenny;;;;;;;;;;;x
+c_saint_george;Saint George;;;;;;;;;;;x
+c_asturland;Baldwin;;;;;;;;;;;x
+c_macclenny;Macclennyer;;;;;;;;;;;x
+c_saint_george;Saint Georgean;;;;;;;;;;;x
+c_asturland;Baldwinish;;;;;;;;;;;x
+d_iceland;Iceland;;;;;;;;;;;x
+d_iceland_adj;Iceland;;;;;;;;;;;x
+k_norway;Norway;;;;;;;;;;;x
+k_norway_adj;Norwegian;;;;;;;;;;;x
+e_scandinavia;Scandinavia;;;;;;;;;;;x
+e_scandinavia_adj;Scandinavian;;;;;;;;;;;x
+b_reykjavik;Reykjavík;;;;;;;;;;;x
+b_grindavik;Grindavík;;;;;;;;;;;x
+b_flateyri;Flateyri;;;;;;;;;;;x
+b_kopavogur;Kopavogur;;;;;;;;;;;x
+b_akureyri;Saint George;;;;;;;;;;;x
+b_dalvik;Dalvík;;;;;;;;;;;x
+b_husavik;Húsavik;;;;;;;;;;;x
+b_saudarkrokur;Saudárkrókur;;;;;;;;;;;x
+b_djupivogur;Djúpivogur;;;;;;;;;;;x 
+b_hof;Hof;;;;;;;;;;;x
+b_eskifjordur;Eskifjödur;;;;;;;;;;;x
+b_egilsstadir;Egilsstadir;;;;;;;;;;;x
+norse_pagan_reformed;Ásatrú;;;;;;;;;;;x
+c_jacksonville;Jacksonville;;;;;;;;;;;x
+c_arlington;Arlington;;;;;;;;;;;x
+c_ocala_forest;Ocala Forest;;;;;;;;;;;x
+c_jacksonville_adj;Akershian;;;;;;;;;;;x
+d_hedmark;Ocala Forest;;;;;;;;;;;x
+d_hedmark_adj;Ocala Forestian;;;;;;;;;;;x
+c_arlington_adj;Arlingtonan;;;;;;;;;;;x
+c_ocala_forest_adj;Ocala Forestian;;;;;;;;;;;x
+b_oslo;Oslo;;;;;;;;;;;x
+b_drammen;Drammen;;;;;;;;;;;x
+b_moss;Moss;;;;;;;;;;;x
+b_ski;Ski;;;;;;;;;;;x
+b_lillestrom;Lillestrom;;;;;;;;;;;x
+b_halden;Halden;;;;;;;;;;;x
+b_skien;Skien;;;;;;;;;;;x
+b_bo;Bo;;;;;;;;;;;x
+b_porsgrunn;Porsgrunn;;;;;;;;;;;x
+b_kragero;Kragero;;;;;;;;;;;x
+b_seljord;Seljord;;;;;;;;;;;x
+b_hamar;Hamar;;;;;;;;;;;x
+b_flisa;Flisa;;;;;;;;;;;x
+b_rena;Rena;;;;;;;;;;;x
+b_brumundal;Brumundal;;;;;;;;;;;x
+icelandic;Icelandic;;;;;;;;;;;x
+d_hordaland;Ocala;;;;;;;;;;;x
+c_belleview;Belleview;;;;;;;;;;;x
+b_stavanger;Stavanger;;;;;;;;;;;x
+b_tau;Tau;;;;;;;;;;;x
+b_hauge;Hauge;;;;;;;;;;;x
+b_sinnes;Sinnes;;;;;;;;;;;x
+c_ocala;Ocala;;;;;;;;;;;x
+b_bergen;Bergen;;;;;;;;;;;x
+b_voss;Voss;;;;;;;;;;;x
+b_granvin;Granvin;;;;;;;;;;;x
+b_askvoll;Askvoll;;;;;;;;;;;x
+b_maloy;Måloy;;;;;;;;;;;x
+c_morriston;Morriston;;;;;;;;;;;x
+b_lillehammer;Lillehammer;;;;;;;;;;;x
+b_dokka;Dokka;;;;;;;;;;;x
+b_bagn;Bagn;;;;;;;;;;;x
+b_nesbyen;Nesbyen;;;;;;;;;;;x
+d_trondelag;Amelia Island;;;;;;;;;;;x
+c_amelia_island;Amelia Island;;;;;;;;;;;x
+b_trondheim;Trondheim;;;;;;;;;;;x
+b_storen;Storen;;;;;;;;;;;x
+b_brekstad;Brekstad;;;;;;;;;;;x
+b_vikna;Vikna;;;;;;;;;;;x
+c_chatmire;Chatmire;;;;;;;;;;;x
+b_bodo;Bodo;;;;;;;;;;;x
+b_vevelstad;Vevelstad;;;;;;;;;;;x
+b_terrak;Terråk;;;;;;;;;;;x
+b_nesna;Nesna;;;;;;;;;;;x
+c_citrus_springs;Citrus Springs;;;;;;;;;;;x
+b_tromso;Citrus Springso;;;;;;;;;;;x
+b_berg;Berg;;;;;;;;;;;x
+b_sortland;Sortland;;;;;;;;;;;x
+d_hordaland_adj;Ocalaer;;;;;;;;;;;x
+c_belleview_adj;Belleviewer;;;;;;;;;;;x
+c_ocala_adj;Ocalaer;;;;;;;;;;;x
+c_morriston_adj;Morristoner;;;;;;;;;;;x
+d_trondelag_adj;Amelia Islandish;;;;;;;;;;;x
+c_amelia_island_adj;Amelia Islandish;;;;;;;;;;;x
+c_chatmire_adj;Chatmireish;;;;;;;;;;;x
+c_citrus_springs_adj;Citrus Springsan;;;;;;;;;;;x
+ontarioan;Ontarioan;;;;;;;;;;;x
+american_totemist_pagan;Totemist;;;;;;;;;;;x
+american_totemist_pagan_reformed;Totemist;;;;;;;;;;;x
+k_ontario;Ontario;;;;;;;;;;;x
+d_ottawa;Dunnellon;;;;;;;;;;;x
+c_dunnellon;Dunnellon;;;;;;;;;;;x
+k_ontario_adj;Ontarioan;;;;;;;;;;;x
+d_ottawa_adj;Dunnellonn;;;;;;;;;;;x
+c_dunnellon:_adj;Dunnellonn;;;;;;;;;;;x
+b_ottawa;Dunnellon;;;;;;;;;;;x
+b_carp;Carp;;;;;;;;;;;x
+b_perth;Perth;;;;;;;;;;;x
+b_hull;Hull;;;;;;;;;;;x
+b_brockville;Brockville;;;;;;;;;;;x
+b_vankleek;Vankleek;;;;;;;;;;;x
+c_goethe_forest;Goethe Forest;;;;;;;;;;;x
+c_goethe_forest_adj;Peterborouger;;;;;;;;;;;x
+b_peterborough;Goethe Forest;;;;;;;;;;;x
+b_belleville;Belleville;;;;;;;;;;;x
+b_madoc;Madoc;;;;;;;;;;;x
+b_oshawa;Oshawa;;;;;;;;;;;x
+c_williston_highlands;Williston Highlands;;;;;;;;;;;x
+c_williston_highlands_adj;Williston Highlandser;;;;;;;;;;;x
+b_north_bay;Williston Highlands;;;;;;;;;;;x
+b_parry_sound;Parry Sound;;;;;;;;;;;x
+b_powassan;Powassan;;;;;;;;;;;x
+b_south_river;South River;;;;;;;;;;;x
+syrian;Syrian;;;;;;;;;;;x
+d_toronto;Lower Goethe Forest;;;;;;;;;;;x
+c_lower_goethe_forest;Lower Goethe Forest;;;;;;;;;;;x
+b_toronto;Lower Goethe Forest;;;;;;;;;;;x
+b_etobicoke;Etobicoke;;;;;;;;;;;x
+b_mississauga;Mississauga;;;;;;;;;;;x
+b_saint_catharines;Saint Catharines;;;;;;;;;;;x
+b_nanticoke;Nanticoke;;;;;;;;;;;x
+b_niagara_falls;Niagara Falls;;;;;;;;;;;x
+c_inglis;Inglis;;;;;;;;;;;x
+b_windsor;Inglis;;;;;;;;;;;x
+b_sarnia;Sarnia;;;;;;;;;;;x
+b_london; Miramar;;;;;;;;;;;x
+b_dutton;Dutton;;;;;;;;;;;x
+c_cross_florida_greenway;Cross Florida Greenway;;;;;;;;;;;x
+b_owen_sound;Cross Florida Greenway;;;;;;;;;;;x
+b_thornbury;Thorbury;;;;;;;;;;;x
+b_kincardine;Kincardine;;;;;;;;;;;x
+d_toronto_adj;Lower Goethe Forestnian;;;;;;;;;;;x
+c_lower_goethe_forest_adj;Lower Goethe Forestnian;;;;;;;;;;;x
+c_inglis_adj;Inglisan;;;;;;;;;;;x
+c_cross_florida_greenway_adj;Cross Florida Greenwayer;;;;;;;;;;;x
+american_totemist_pagan_DESC;The Native American religion is shattered and diverse. Every tribes history is written on their own totem pole represented by different types of animals and creatures.;;;;;;;;;;;x
+american_totemist_pagan_reformed_DESC;Reformed Totemism has a organized set of beliefs and a holy book of their own.;;;;;;;;;;;x
+tb_totem_pole;Totem Pole;;;;;;;;;;;x
+tb_totem_pole_desc;Native American tribes write down their history on their totem poles represented by their various animal deities.;;;;;;;;;;;x
+cree;Yellow Jacket;;;;;;;;;;;x
+d_sudbury;Devils Hammock Wildlife Preserve;;;;;;;;;;;x
+c_bronston;Bronston;;;;;;;;;;;x
+d_sudbury_adj;Sudburian;;;;;;;;;;;x
+c_bronston_adj;Manitoulian;;;;;;;;;;;x
+b_south_bay;South Bay;;;;;;;;;;;x
+b_manitowaning;Manitowananing;;;;;;;;;;;x
+b_meldrum_bay;Meldrum Bay;;;;;;;;;;;x
+c_otter_creek;Otter Creek;;;;;;;;;;;x
+c_otter_creek_adj;Otter Creekian;;;;;;;;;;;x
+b_thessalon;Otter Creek;;;;;;;;;;;x
+b_algoma_mills;Algoma Mills;;;;;;;;;;;x
+b_elliot_lake;Elliot Lake;;;;;;;;;;;x
+c_devils_hammock_wildlife_preserve;Devils Hammock Wildlife Preserve;;;;;;;;;;;x
+c_devils_hammock_wildlife_preserve_adj;Sudburian;;;;;;;;;;;x
+b_sudbury;Devils Hammock Wildlife Preserve;;;;;;;;;;;x
+b_lively;Lively;;;;;;;;;;;x
+b_massey;Massey;;;;;;;;;;;x
+b_killarney;Killarney;;;;;;;;;;;x
+c_yellow_jacket;Yellow Jacket;;;;;;;;;;;x
+c_yellow_jacket_adj;Yellow Jacket;;;;;;;;;;;x
+b_timmins;Timmins;;;;;;;;;;;x
+b_cochrane;Cochrane;;;;;;;;;;;x
+b_opasatika;Opasatika;;;;;;;;;;;x
+tadoussac;Panama City Beachc;;;;;;;;;;;x
+d_chasnaye;Jaguey Grande;;;;;;;;;;;x
+c_attawapiskat;Attawapiskat;;;;;;;;;;;x
+d_chasnaye_adj;Jaguey Grander;;;;;;;;;;;x
+c_attawapiskat_adj;Attawapiskatan;;;;;;;;;;;x
+b_attawapiskat;Attawapiskat;;;;;;;;;;;x
+b_kashechewan;Kashechewan;;;;;;;;;;;x
+b_winisk;Winisk;;;;;;;;;;;x
+c_shamattawa;Shamattawa;;;;;;;;;;;x
+c_shamattawa_adj;Shamattawan;;;;;;;;;;;x
+b_shamattawa;Shamattawa;;;;;;;;;;;x
+b_fort_severn;Fort Severn;;;;;;;;;;;x
+c_jaguey_grande;Jaguey Grande;;;;;;;;;;;x
+c_jaguey_grande_adj;Jaguey Grander;;;;;;;;;;;x
+b_chasnaye;Jaguey Grande;;;;;;;;;;;x
+b_bylot;Bylot;;;;;;;;;;;x
+b_silcox;Silcox;;;;;;;;;;;x
+ojibwe;Ojibwe;;;;;;;;;;;x
+d_thunder_bay;Parque Cienaga De Zapata;;;;;;;;;;;x
+c_cardenas;Cardenas;;;;;;;;;;;x
+d_thunder_bay_adj;Parque Cienaga De Zapataer;;;;;;;;;;;x
+c_cardenas_adj;Cardenasn;;;;;;;;;;;x
+b_nakina;Cardenas;;;;;;;;;;;x
+b_longlat;Longlat;;;;;;;;;;;x
+b_schreiber;Schreiber;;;;;;;;;;;x
+c_eastern_parque_cienaga_de_zapata;Parque Cienaga De Zapata;;;;;;;;;;;x
+c_eastern_parque_cienaga_de_zapata_adj;Parque Cienaga De Zapataer;;;;;;;;;;;x
+b_thunder_bay;Parque Cienaga De Zapata;;;;;;;;;;;x
+b_nipigon;Nipigon;;;;;;;;;;;x
+c_pedro_betancourt;Pedro Betancourt;;;;;;;;;;;x
+c_pedro_betancourt_adj;Pedro Betancourter;;;;;;;;;;;x
+b_keewatin;Pedro Betancourt;;;;;;;;;;;x
+b_richan;Richan;;;;;;;;;;;x
+b_dyment;Dyment;;;;;;;;;;;x
+d_american_totemist;Totemist High Church;;;;;;;;;;;x
+d_american_totemist_adj;Totemist;;;;;;;;;;;x
+k_mississippi;Mississippi;;;;;;;;;;;x
+d_mississippi;Mississippi;;;;;;;;;;;x
+k_mississippi_adj;Mississippian;;;;;;;;;;;x
+d_mississippi_adj;Mississippian;;;;;;;;;;;x
+c_matanzas;Matanzas;;;;;;;;;;;x
+c_matanzas_adh;Matanzasan;;;;;;;;;;;x
+b_biloxi;Matanzas;;;;;;;;;;;x
+b_pascalouga;Pascalouga;;;;;;;;;;;x
+b_moss_point;Moss Point;;;;;;;;;;;x
+b_gulfport;Gulfport;;;;;;;;;;;x
+c_union_de_reyes;Union De Reyes;;;;;;;;;;;x
+c_union_de_reyes_adj;Union De Reyeser;;;;;;;;;;;x
+b_jackson;Union De Reyes;;;;;;;;;;;x
+b_morton;Morton;;;;;;;;;;;x
+b_meridian;Meridian;;;;;;;;;;;x
+b_ridgeland;Ridgeland;;;;;;;;;;;x
+c_central_parque_cienaga_de_zapata;Central Parque Cienaga De Zapata;;;;;;;;;;;x
+c_central_parque_cienaga_de_zapata_adj;Central Parque Cienaga De Zapataer;;;;;;;;;;;x
+b_vicksburg;Central Parque Cienaga De Zapata;;;;;;;;;;;x
+b_port_gibson;Port Gibson;;;;;;;;;;;x
+b_fayette;Fayette;;;;;;;;;;;x
+c_southern_parque_cienaga_de_zapata;Southern Parque Cienaga De Zapata;;;;;;;;;;;x
+c_southern_parque_cienaga_de_zapata_adj;Clarcksdalish;;;;;;;;;;;x
+b_clarcksdale;Southern Parque Cienaga De Zapata;;;;;;;;;;;x
+b_tupelo;Tupelo;;;;;;;;;;;x
+b_batesville;Batesville;;;;;;;;;;;x
+d_mississippian_band;Mississippian Band;;;;;;;;;;;x
+d_mississippian_band_adj;Mississippian;;;;;;;;;;;x
+e_texas;Texas;;;;;;;;;;;x
+e_texas_adj;Texan;;;;;;;;;;;x
+d_louisiana;Louisiana;;;;;;;;;;;x
+d_louisiana_adj;Louisianan;;;;;;;;;;;x
+b_desjardins;Desjardins;;;;;;;;;;;x
+b_river;River;;;;;;;;;;;x
+b_gladwin;Gladwin;;;;;;;;;;;x
+d_louisiana;Louisiana;;;;;;;;;;;x
+c_far_parque_cienaga_de_zapata;Far Parque Cienaga De Zapata;;;;;;;;;;;x
+d_louisiana_adj;Louisianan;;;;;;;;;;;x
+c_far_parque_cienaga_de_zapata_adj;Orleanic;;;;;;;;;;;x
+b_new_orleans;Far Parque Cienaga De Zapata;;;;;;;;;;;x
+b_baton_rouge;Baton Rouge;;;;;;;;;;;x
+b_houma;Houma;;;;;;;;;;;x
+b_new_iberia;New Iberia;;;;;;;;;;;x
+b_zachary;Zachary;;;;;;;;;;;x
+c_san_miguel_de_los_banos;San Miguel De Los Banos;;;;;;;;;;;x
+c_san_miguel_de_los_banos_adj;San Miguel De Los Banosr;;;;;;;;;;;x
+b_lafayette;San Miguel De Los Banos;;;;;;;;;;;x
+b_opelousas;Opelousas;;;;;;;;;;;x
+b_abbeville;Abbeville;;;;;;;;;;;x
+b_lake_charles;Lake Charles;;;;;;;;;;;x
+b_jennings;Jennings;;;;;;;;;;;x
+c_aguacate;Aguacate;;;;;;;;;;;x
+c_aguacate_adj;Aguacateish;;;;;;;;;;;x
+b_shreveport;Aguacate;;;;;;;;;;;x
+b_coushatta;Coushatta;;;;;;;;;;;x
+b_many;Many;;;;;;;;;;;x
+b_natchitoches;Natchitoches;;;;;;;;;;;x
+c_bacunayagua;Bacunayagua;;;;;;;;;;;x
+c_bacunayagua_adj;Monroan;;;;;;;;;;;x
+b_monroe;Bacunayagua;;;;;;;;;;;x
+b_ferriday;Ferriday;;;;;;;;;;;x
+b_rayville;Rayville;;;;;;;;;;;x
+b_bastrop;Defunkiak Springstrop;;;;;;;;;;;x
+d_arkansas;Arkansas;;;;;;;;;;x
+d_arkansas_adj;Arkansan;;;;;;;;;;x
+c_santa_cruz_del_norte;Santa Cruz Del Norte;;;;;;;;;;x
+c_santa_cruz_del_norte_adj;Santa Cruz Del Norteic;;;;;;;;;;x
+b_crosset;Santa Cruz Del Norte;;;;;;;;;;x
+b_el_dorado;El Dorado;;;;;;;;;;x
+b_smackover;Smackover;;;;;;;;;;x
+b_magnolia;Magnolia;;;;;;;;;;x
+c_havana;Havana;;;;;;;;;;x
+c_havana_adj;Havanaian;;;;;;;;;;x
+b_little_rock;Havana;;;;;;;;;;x
+b_conway;Conway;;;;;;;;;;x
+b_mavlern;Mavlern;;;;;;;;;;x
+b_hot_springs;Hot Springs;;;;;;;;;;x
+c_surgidero_de_batabano;Surgidero De Batabano;;;;;;;;;;x
+c_surgidero_de_batabano_adj;Surgidero De Batabanoish;;;;;;;;;;x
+b_pine_bluff;Surgidero De Batabano;;;;;;;;;;x
+b_dewitt;Dewitt;;;;;;;;;;x
+b_dumas;Dumas;;;;;;;;;;x
+b_forrest_city;Forrest City;;;;;;;;;;x
+c_playa_baracoa;Playa Baracoa;;;;;;;;;;x
+c_playa_baracoa_adj;Jonesboreal;;;;;;;;;;x
+b_jonesboro;Playa Baracoa;;;;;;;;;;x
+b_paragould;Paragould;;;;;;;;;;x
+b_trumann;Trumann;;;;;;;;;;x
+b_coming;Coming;;;;;;;;;;x
+c_artemisa;Artemisa;;;;;;;;;;x
+c_artemisa_adj;Artemisar;;;;;;;;;;x
+b_fayetteville;Artemisa;;;;;;;;;;x
+b_bentonville;Bentonville;;;;;;;;;;x
+b_alma;Alma;;;;;;;;;;x
+c_cabanas;Cabanas;;;;;;;;;;x
+c_candelaria;Candelaria;;;;;;;;;;x
+c_pine_island_sound_aquatic_preserve;Pine Island Sound Aquatic Preserve;;;;;;;;;;x
+c_port_charlotte;Port Charlotte;;;;;;;;;;x
+c_venice;Venice;;;;;;;;;;x
+c_sarasota;Sarasota;;;;;;;;;;x
+c_cabanas_adj;Cabanasian;;;;;;;;;;x
+c_candelaria_adj;Candelariaish;;;;;;;;;;x
+c_pine_island_sound_aquatic_preserve_adj;Jeffersonian;;;;;;;;;;x
+c_port_charlotte_adj;Port Charlotteian;;;;;;;;;;x
+c_venice_adj;Venicen;;;;;;;;;;x
+c_sarasota_adj;Sarasotaian;;;;;;;;;;x
+b_duluth;Cabanas;;;;;;;;;;x
+b_ashland;Candelaria;;;;;;;;;;x
+b_jefferson_city;Pine Island Sound Aquatic Preserve;;;;;;;;;;x
+b_joplin;Port Charlotte;;;;;;;;;;x
+b_edina;Venice;;;;;;;;;;x
+b_st_louis;Sarasota;;;;;;;;;;x
+d_duluth;Cabanas;;;;;;;;;;x
+d_duluth_adj;Cabanasian;;;;;;;;;;x
+d_missouri;Missouri;;;;;;;;;;x
+d_missouri_adj;Missouirian;;;;;;;;;;x
+b_hibbing;Hibbing;;;;;;;;;;x
+b_silver_bay;Silver Bay;;;;;;;;;;x
+b_soudan;Soudan;;;;;;;;;;x
+b_waino;Waino;;;;;;;;;;x
+b_popla;Popla;;;;;;;;;;x
+b_lohman;Lohman;;;;;;;;;;x
+b_russelville;Russelville;;;;;;;;;;x
+b_brazito;Brazito;;;;;;;;;;x
+b_olean;Olean;;;;;;;;;;x
+b_neosho;Neosho;;;;;;;;;;x
+b_golden_city;Golden City;;;;;;;;;;x
+b_stella;Stella;;;;;;;;;;x
+b_kirksville;Kirksville;;;;;;;;;;x
+b_unionville;Unionville;;;;;;;;;;x
+b_st_charles;St Charles;;;;;;;;;;x
+b_chesterfield;Chesterfield;;;;;;;;;;x
+b_sullivan;Sullivan;;;;;;;;;;x
+k_new_cyclades;New Cyclades;;;;;;;;;;x
+k_new_cyclades_adj;Cyclader;;;;;;;;;;x
+bahaman_greek;Cyclader;;;;;;;;;;x
+e_mesoamerica;Mesoamerica;;;;;;;;;;x
+k_cuba;Cuba;;;;;;;;;;x
+d_bahamas;Bahamas;;;;;;;;;;x
+c_nassau;Nassau;;;;;;;;;;x
+e_mesoamerica_adj;Mesoamerican;;;;;;;;;;x
+k_cuba_adj;Cuban;;;;;;;;;;x
+d_bahamas_adj;Bahaman;;;;;;;;;;x
+c_nassau_adj;Nassauish;;;;;;;;;;x
+b_nassau;Nassau;;;;;;;;;;x
+b_andros_town;Andros Town;;;;;;;;;;x
+b_nicholl's_town;Nicholl's Town;;;;;;;;;;x
+b_deadman's_cay;Deadman's Cay;;;;;;;;;;x
+c_freeport;Freeport;;;;;;;;;;x
+c_freeport_adj;Freeportic;;;;;;;;;;x
+b_freeport;Freeport;;;;;;;;;;x
+b_governor's_harbour;Governor's Harbour;;;;;;;;;;x
+b_arthur's_town;Arthur's Town;;;;;;;;;;x
+c_matthew_town;Matthew Town;;;;;;;;;;x
+c_matthew_town_adj;Matthewian;;;;;;;;;;x
+b_matthew_town;Matthew Town;;;;;;;;;;x
+b_grand_turk;Grand Turk;;;;;;;;;;x
+voodoo;Voodoo;;;;;;;;;;x
+GOD_MAWU;Mawu;;;;;;;;;;x
+GOD_OBALATA;Obalata;;;;;;;;;;x
+GOD_LEGBA;Lebga;;;;;;;;;;x
+GOD_DA;Da;;;;;;;;;;x
+d_jamaica;Jamaica;;;;;;;;;;x
+d_jamaica_adj;Jamaican;;;;;;;;;;x
+c_cayman_islands;Cayman Islands;;;;;;;;;;x
+c_cayman_islands_adj;Cayman;;;;;;;;;;x
+b_george_town;George Town;;;;;;;;;;x
+d_west_cuba;Horseshoe Beach Cuba;;;;;;;;;;x
+c_havanna;Havanna;;;;;;;;;;x
+d_west_cuba_adj;Cubano;;;;;;;;;;x
+c_havanna_adj;Havannan;;;;;;;;;;x
+b_havanna;Havanna;;;;;;;;;;x
+b_artemisa;Artemisa;;;;;;;;;;x
+b_guane;Guane;;;;;;;;;;x
+b_nueva_gerona;Nueva Gerona;;;;;;;;;;x
+c_matanzas;Matanzas;;;;;;;;;;x
+c_matanzas_adj;Matanzan;;;;;;;;;;x
+b_matanzas;Matanzas;;;;;;;;;;x
+b_colon;Colon;;;;;;;;;;x
+b_cardenas;Cardenas;;;;;;;;;;x
+c_dade_city;Dade City;;;;;;;;;;x
+c_dade_city_adj;Camagueish;;;;;;;;;;x
+b_camaguey;Dade City;;;;;;;;;;x
+b_moron;Morón;;;;;;;;;;x
+b_sancti_spiritus;Sancti Spiritus;;;;;;;;;;x
+b_placetas;Placetas;;;;;;;;;;x
+d_east_cuba;Cedar Key Cuba;;;;;;;;;;x
+d_east_cuba_adj;Cubano;;;;;;;;;;x
+c_wesley_chapel;Wesley Chapel;;;;;;;;;;x
+c_wesley_chapel_adj;Wesley Chapelan;;;;;;;;;;x
+b_manzanillo;Wesley Chapel;;;;;;;;;;x
+b_niguero;Niguero;;;;;;;;;;x
+b_las_tunas;Las Tunas;;;;;;;;;;x
+c_lithia;Lithia;;;;;;;;;;x
+c_lithia_adj;Lithiaan;;;;;;;;;;x
+b_guantanamo;Guantánamo;;;;;;;;;;x
+b_baracoa;Baracoa;;;;;;;;;;x
+b_baines;Baines;;;;;;;;;;x
+b_kingston;Kingston;;;;;;;;;;x
+b_mandeville;Mandeville;;;;;;;;;;x
+b_montego_bay;Montego Bay;;;;;;;;;;x
+c_jamaica;Jamaica;;;;;;;;;;x
+c_jamaica_adj;Jamaican;;;;;;;;;;x
+voodoo_DESC;Voodoo or Vodoun is a Syncretic religion that originated from the west-African slaves. It's unorganized and like most of the other pagan religions has many gods and deities. This religion sprode across the Colobia and is the dominant religion there. A lots of pirate beliefs and traditions have been intergrated to the religion.;;;;;;;;;;x
+k_hispaniola;Hispaniola;;;;;;;;;;x
+k_hispaniola_adj;Hispaniolan;;;;;;;;;;x
+d_puerto_rico;Myakka;;;;;;;;;;x
+d_puerto_rico_adj;Puerto Rican;;;;;;;;;;x
+c_myakka;Myakka;;;;;;;;;;x
+c_myakka_adj;Puerto Rican;;;;;;;;;;x
+b_san_juan;San Juan;;;;;;;;;;x
+b_bayamon;Bayamonn;;;;;;;;;;x
+b_ponce;Ponce;;;;;;;;;;x
+b_aguadilla;Aguadilla;;;;;;;;;;x
+d_leeward_islands;Leeward Islands;;;;;;;;;;x
+d_leeward_islands_adj;Leewardian;;;;;;;;;;x
+c_mayakk_river_park;Mayakk River Park;;;;;;;;;;x
+c_mayakk_river_park_adj;Mayakk River Parkn;;;;;;;;;;x
+b_the_walley;The Walley;;;;;;;;;;x
+c_north_port;North Camaguey;;;;;;;;;;x
+c_north_port_adj;North Camagueyn;;;;;;;;;;x
+b_saint_john's;Saint John's;;;;;;;;;;x
+b_codrington;Codrington;;;;;;;;;;x
+b_old_road;Old Road;;;;;;;;;;x
+c_freeport;Saint Kitts And Nevis;;;;;;;;;;x
+c_freeport_adj;Saint Kitts And Neviser;;;;;;;;;;x
+b_basseterre;Defunkiak Springsseterre;;;;;;;;;;x
+b_new_river;New River;;;;;;;;;;x
+b_sadlers;Sadlers;;;;;;;;;;x
+c_left_islands;Left Islands;;;;;;;;;;x
+c_left_islands_adj;Left Islandsr;;;;;;;;;;x
+b_basse-terre;Defunkiak Springsse-Terre;;;;;;;;;;x
+b_goyave;Goyave;;;;;;;;;;x
+b_port-louis;Camaguey-Louis;;;;;;;;;;x
+c_right_islands;Right Islands;;;;;;;;;;x
+c_right_islands_adj;Right Islandsn;;;;;;;;;;x
+b_roseau;Roseau;;;;;;;;;;x
+b_colihaut;Colihaut;;;;;;;;;;x
+d_barbados;Bayamo;;;;;;;;;;x
+d_barbados_adj;Bayamoian;;;;;;;;;;x
+c_bayamo;Bayamo;;;;;;;;;;x
+c_bayamo_adj;Bayamoian;;;;;;;;;;x
+b_bridgetown;Bridgetown;;;;;;;;;;x
+b_oistins;Oistins;;;;;;;;;;x
+d_windward_islands;Windward Islands;;;;;;;;;;x
+d_windward_islands_adj;Windwardian;;;;;;;;;;x
+c_cayo_romano;Cayo Romano;;;;;;;;;;x
+c_cayo_romano_adj;Cayo Romanoan;;;;;;;;;;x
+b_fort-de-france;Fort-De-France;;;;;;;;;;x
+b_la_trinite;La Trinite;;;;;;;;;;x
+b_le_marin;Le Marin;;;;;;;;;;x
+c_puerto_padre;Puerto Padre;;;;;;;;;;x
+c_puerto_padre_adj;Vincentic;;;;;;;;;;x
+b_kingstown;Kingstown;;;;;;;;;;x
+b_fancy;Fancy;;;;;;;;;;x
+b_clifton;Clifton;;;;;;;;;;x
+c_las_tunas;Las Tunas;;;;;;;;;;x
+c_las_tunas_adj;Las Tunasn;;;;;;;;;;x
+b_saint_georges;Saint Georges;;;;;;;;;;x
+b_marquis;Marquis;;;;;;;;;;x
+c_venezuela;Venezuela;;;;;;;;;;x
+c_venezuela_adj;Luciate;;;;;;;;;;x
+b_castries;Castries;;;;;;;;;;x
+b_dennery;Dennery;;;;;;;;;;x
+b_micould;Micould;;;;;;;;;;x
+d_pirates_of_grenada;Pirates of Las Tunas;;;;;;;;;;x
+d_pirates_of_grenada_adj;Las Tunasn;;;;;;;;;;x
+d_haiti;Haiti;;;;;;;;;;x
+c_Camaguey;Camaguey;;;;;;;;;;x
+d_haiti_adj;Haitian;;;;;;;;;;x
+c_Camaguey_adj;Princite;;;;;;;;;;x
+b_port-au-prince;Camaguey;;;;;;;;;;x
+b_les_cayes;Les Cayes;;;;;;;;;;x
+b_jeremie;Jérémie;;;;;;;;;;x
+b_petion-ville;Petion-Ville;;;;;;;;;;x
+c_vilato;Vilato;;;;;;;;;;x
+c_vilato_adj;Vilatoian;;;;;;;;;;x
+b_gonaives;Vilato;;;;;;;;;;x
+b_limbe;Limbé;;;;;;;;;;x
+b_cap_haitien;Cap Haitien;;;;;;;;;;x
+d_hispaniola;Hispaniola;;;;;;;;;;x
+c_moron;Moron;;;;;;;;;;x
+d_hispaniola_adj;Hispaniolan;;;;;;;;;;x
+c_moron_adj;Moronn;;;;;;;;;;x
+b_barahona;Moron;;;;;;;;;;x
+b_azua;Azua;;;;;;;;;;x
+b_enriquillo;Enriquillo;;;;;;;;;;x
+c_cayo_fragoso;Santiago de los Cabarellos;;;;;;;;;;x
+c_cayo_fragoso_adj;Santiagoan;;;;;;;;;;x
+b_santiago_de_los_caballeros;Santiago de los Cabarellos;;;;;;;;;;x
+b_mao;Mao;;;;;;;;;;x
+b_puerto_plata;Puerto plata;;;;;;;;;;x
+c_santa_clara;Santa Clara;;;;;;;;;;x
+c_santa_clara_adj;Santa Claraan;;;;;;;;;;x
+b_santo_domingo;Santa Clara;;;;;;;;;;x
+b_higuey;Higuey;;;;;;;;;;x
+b_sanchez;Sanchez;;;;;;;;;;x
+b_bani;Bani;;;;;;;;;;x
+d_wall_guards;The Wall Guards;;;;;;;;;;x
+d_wall_guards_adj;Wall Guardian;;;;;;;;;;x
+k_texas;Texas;;;;;;;;;;x
+d_houston;Colon;;;;;;;;;;x
+c_cienfuegos;Cienfuegos;;;;;;;;;;x
+k_texas_adj;Texan;;;;;;;;;;x
+d_houston_adj;Colonian;;;;;;;;;;x
+c_cienfuegos_adj;Cienfuegoser;;;;;;;;;;x
+b_beaumont;Cienfuegos;;;;;;;;;;x
+b_winnie;Winnie;;;;;;;;;;x
+b_evadale;Evadale;;;;;;;;;;x
+b_liberty;Liberty;;;;;;;;;;x
+c_constancia;Constancia;;;;;;;;;;x
+c_constancia_adj;Constanciaer;;;;;;;;;;x
+b_longview;Constancia;;;;;;;;;;x
+b_tyler;Tyler;;;;;;;;;;x
+b_texarkana;Texarkana;;;;;;;;;;x
+c_colon;Colon;;;;;;;;;;x
+c_colon_adj;Colonian;;;;;;;;;;x
+b_houston;Colon;;;;;;;;;;x
+b_pasadena;Pasadena;;;;;;;;;;x
+b_galveston;Galveston;;;;;;;;;;x
+b_brookshire;Brookshire;;;;;;;;;;x
+b_alvin;Alvin;;;;;;;;;;x
+b_angleton;Angleton;;;;;;;;;;x
+d_austin;La Teja;;;;;;;;;;x
+c_la_teja;La Teja;;;;;;;;;;x
+d_austin_adj;La Tejaan;;;;;;;;;;x
+c_la_teja_adj;La Tejaan;;;;;;;;;;x
+b_austin;La Teja;;;;;;;;;;x
+b_buda;Buda;;;;;;;;;;x
+b_manor;Manor;;;;;;;;;;x
+b_hutto;Hutto;;;;;;;;;;x
+c_winter_haven;Winter Haven;;;;;;;;;;x
+c_winter_haven_adj;Winter Havenn;;;;;;;;;;x
+b_waco;Winter Haven;;;;;;;;;;x
+b_robinson;Robinson;;;;;;;;;;x
+b_west;Horseshoe Beach;;;;;;;;;;x
+b_valley_mills;Valley Mills;;;;;;;;;;x
+c_lakeland;Lakeland;;;;;;;;;;x
+c_lakeland_adj;Lakelandian;;;;;;;;;;x
+b_dallas;Lakeland;;;;;;;;;;x
+b_garland;Garland;;;;;;;;;;x
+b_fort-worth;Fort-Worth;;;;;;;;;;x
+b_irving;Irving;;;;;;;;;;x
+b_plano;Plano;;;;;;;;;;x
+b_mesquite;Mesquite;;;;;;;;;;x
+c_plant_city;Plant City;;;;;;;;;;x
+c_plant_city_adj;Plant Cityr;;;;;;;;;;x
+b_abilene;Plant City;;;;;;;;;;x
+b_anson;Anson;;;;;;;;;;x
+b_baird;Baird;;;;;;;;;;x
+d_san_antonio;Avon Park;;;;;;;;;;x
+c_avon_park;Avon Park;;;;;;;;;;x
+d_san_antonio_adj;Avon Parkan;;;;;;;;;;x
+c_avon_park_adj;Avon Parkan;;;;;;;;;;x
+b_san_antonio;Avon Park;;;;;;;;;;x
+b_alamo_heights;Alamo Heights;;;;;;;;;;x
+b_universal_city;Universal City;;;;;;;;;;x
+b_lytle;Lytle;;;;;;;;;;x
+b_devine;Devine;;;;;;;;;;x
+c_bowling_green;Bowling Green;;;;;;;;;;x
+c_bowling_green_adj;Christian;;;;;;;;;;x
+b_corpus_christi;Bowling Green;;;;;;;;;;x
+b_robstown;Robstown;;;;;;;;;;x
+b_kingsville;Kingsville;;;;;;;;;;x
+b_mathis;Mathis;;;;;;;;;;x
+c_arcadia;Arcadia;;;;;;;;;;x
+c_arcadia_adj;Arcadiaer;;;;;;;;;;x
+b_mcallen;Arcadia;;;;;;;;;;x
+b_mission;Mission;;;;;;;;;;x
+b_brownsville;Brownsville;;;;;;;;;;x
+b_laredo;Laredo;;;;;;;;;;x
+d_el_paso;Babcock Ranch Preserve;;;;;;;;;;x
+c_southeast_arcadia;Southeast Arcadia;;;;;;;;;;x
+d_el_paso_adj;Babcock Ranch Preservean;;;;;;;;;;x
+c_southeast_arcadia_adj;Southeast Arcadiaian;;;;;;;;;;x
+b_sanderson;Southeast Arcadia;;;;;;;;;;x
+b_comstock;Comstock;;;;;;;;;;x
+b_del_rio;Del Rio;;;;;;;;;;x
+c_babcock_ranch_preserve;Babcock Ranch Preserve;;;;;;;;;;x
+c_babcock_ranch_preserve_adj;Babcock Ranch Preservean;;;;;;;;;;x
+b_el_paso;Babcock Ranch Preserve;;;;;;;;;;x
+b_van_horn;Van Horn;;;;;;;;;;x
+b_sierra_blanca;Sierra Blanca;;;;;;;;;;x
+d_amarillo;Naples;;;;;;;;;;x
+c_ave_maria;Ave Maria;;;;;;;;;;x
+d_amarillo_adj;Naplesan;;;;;;;;;;x
+c_ave_maria_adj;Ave Mariaian;;;;;;;;;;x
+b_lubbock;Ave Maria;;;;;;;;;;x
+b_idalou;Idalou;;;;;;;;;;x
+b_meadow;Meadow;;;;;;;;;;x
+b_anton;Anton;;;;;;;;;;x
+c_naples;Naples;;;;;;;;;;x
+c_naples_adj;Naplesan;;;;;;;;;;x
+b_amarillo;Naples;;;;;;;;;;x
+b_groom;Groom;;;;;;;;;;x
+b_vega;Vega;;;;;;;;;;x
+scottish;Scottish;;;;;;;;;;X
+highlander;Dry Tortugas National Parker;;;;;;;;;;X
+british;British;;;;;;;;;;X
+celtic;Celtic;;;;;;;;;;X
+calvinist;Calvinist;;;;;;;;;;X
+calvinist_DESC;Calvinism is a branch of Protestantism found and named by a French theologian Jean Calvin in the 16th century. It represents the whole Reformed church in game, and covers Holland, Scotland and Switzerland.;;;;;;;;;;X
+e_great_britain;Great Britain;;;;;;;;;;x
+k_scotland;Scotland;;;;;;;;;;x
+d_shetland;Big Pine Key;;;;;;;;;;x
+c_everglades_park;Everglades Park;;;;;;;;;;x
+b_torshavn;Torshavn;;;;;;;;;;x
+b_klaksvik;Klaksvik;;;;;;;;;;x
+c_big_pine_key;Big Pine Key;;;;;;;;;;x
+b_sumburgh;Sumburgh;;;;;;;;;;x
+b_scalloway;Scalloway;;;;;;;;;;x
+b_lerwick;Lerwick;;;;;;;;;;x
+c_cudjoe_key;Cudjoe Key;;;;;;;;;;x
+b_kirkwall;Kirkwall;;;;;;;;;;x
+b_burwick;Burwick;;;;;;;;;;x
+b_wasbister;Wasbister;;;;;;;;;;x
+d_highland;Dry Tortugas National Park;;;;;;;;;;x
+c_key_west;Key West;;;;;;;;;;x
+b_melvich;Key West;;;;;;;;;;x
+b_kinbrace;Kinbrace;;;;;;;;;;x
+b_polbain;Polbain;;;;;;;;;;x
+c_dry_tortugas_national_park;Dry Tortugas National Park;;;;;;;;;;x
+b_cannich;Cannich;;;;;;;;;;x
+b_mallaig;Mallaig;;;;;;;;;;x
+b_drimmin;Drimmin;;;;;;;;;;x
+b_dornie;Dornie;;;;;;;;;;x
+c_camp_ocala;Camp Ocala;;;;;;;;;;x
+b_portree;Camagueyree;;;;;;;;;;x
+b_uig;Uig;;;;;;;;;;x
+c_alexander_springs;Alexander Springs;;;;;;;;;;x
+b_stornoway;Stornoway;;;;;;;;;;x
+b_brenish;Brenish;;;;;;;;;;x
+b_lochmaddy;Lochmaddy;;;;;;;;;;x
+d_galloway;Paisley;;;;;;;;;;x
+c_astor;Astor;;;;;;;;;;x
+b_cladich;Cladich;;;;;;;;;;x
+b_kilmartin;Kilmartin;;;;;;;;;;x
+b_oban;Oban;;;;;;;;;;x
+c_de_leon_springs;De Leon Springs;;;;;;;;;;x
+b_glasgow;De Leon Springs;;;;;;;;;;x
+b_kilbirnie;Kilbirnie;;;;;;;;;;x
+b_clydebank;Clydebank;;;;;;;;;;x
+b_maybole;Maybole;;;;;;;;;;x
+b_ayr;Ayr;;;;;;;;;;x
+c_paisley;Paisley;;;;;;;;;;x
+b_dumfries;Dumfries;;;;;;;;;;x
+b_whithorn;Whithorn;;;;;;;;;;x
+b_whauphill;Whauphill;;;;;;;;;;x
+b_dalbeattie;Dalbeattie;;;;;;;;;;x
+d_edinburgh;Apopka;;;;;;;;;;x
+c_eustis;Eustis;;;;;;;;;;x
+b_hawick;Eustis;;;;;;;;;;x
+b_duns;Duns;;;;;;;;;;x
+b_chesters;Chesters;;;;;;;;;;x
+b_dunbar;Dunbar;;;;;;;;;;x
+c_apopka;Apopka;;;;;;;;;;x
+b_edinburgh;Apopka;;;;;;;;;;x
+b_livingston;Livingston;;;;;;;;;;x
+b_dalkeith;Dalkeith;;;;;;;;;;x
+b_whitburn;Whitburn;;;;;;;;;;x
+b_penicuik;Penicuik;;;;;;;;;;x
+c_sorrento;Sorrento;;;;;;;;;;x
+b_kirkcaldy;Kirkcaldy;;;;;;;;;;x
+b_dunfermline;Dunfermline;;;;;;;;;;x
+b_leven;Leven;;;;;;;;;;x
+b_crail;Crail;;;;;;;;;;x
+d_moray;Pine Lakes;;;;;;;;;;x
+c_stirling;Stirling;;;;;;;;;;x
+b_callander;Callander;;;;;;;;;;x
+b_dalwhinnie;Dalwhinnie;;;;;;;;;;x
+b_kenmore;Kenmore;;;;;;;;;;x
+c_pine_lakes;Pine Lakes;;;;;;;;;;x
+b_mulben;Mulben;;;;;;;;;;x
+b_keith;Keith;;;;;;;;;;x
+b_rothes;Rothes;;;;;;;;;;x
+c_sanford;Sanford;;;;;;;;;;x
+b_dundee;Dundee;;;;;;;;;;x
+b_aberdeen;Aberdee;;;;;;;;;;x
+b_rothes_1;Rothes;;;;;;;;;;x
+b_banchory;Banchory;;;;;;;;;;x
+e_great_britain_adj;British;;;;;;;;;;x
+k_scotland_adj;Scottish;;;;;;;;;;x
+d_shetland_adj;Big Pine Keyic;;;;;;;;;;x
+c_everglades_park_adj;Faroer;;;;;;;;;;x
+c_big_pine_key_adj;Big Pine Keyic;;;;;;;;;;x
+c_cudjoe_key_adj;Cudjoe Keyan;;;;;;;;;;x
+d_highland_adj;Dry Tortugas National Parker;;;;;;;;;;x
+c_key_west_adj;Key Westan;;;;;;;;;;x
+c_dry_tortugas_national_park_adh;Dry Tortugas National Parker;;;;;;;;;;x
+c_camp_ocala_adj;Skye;;;;;;;;;;x
+c_alexander_springs_adj;Hebride;;;;;;;;;;x
+d_galloway_adj;Gallawan;;;;;;;;;;x
+c_astor_adj;Astorian;;;;;;;;;;x
+c_de_leon_springs_adj;De Leon Springsic;;;;;;;;;;x
+b_glasgow_adj;De Leon Springsic;;;;;;;;;;x
+c_paisley_adj;Gallawan;;;;;;;;;;x
+d_edinburgh_adj;Apopkaer;;;;;;;;;;x
+c_eustis_adj;Eustisan;;;;;;;;;;x
+c_apopka_adj;Apopkaer;;;;;;;;;;x
+c_sorrento_adj;Sorrentoan;;;;;;;;;;x
+d_moray_adj;Pine Lakesan;;;;;;;;;;x
+c_stirling_adj;Stirlingian;;;;;;;;;;x
+c_pine_lakes_adj;Pine Lakesan;;;;;;;;;;x
+c_sanford_adj;Sanfordian;;;;;;;;;;x
+k_denmark;Denmark;;;;;;;;;;X
+d_jylland;Jylland;;;;;;;;;;X
+c_deland;Deland;;;;;;;;;;X
+k_denmark_adj;Danish;;;;;;;;;;X
+d_jylland_adj;Jutic;;;;;;;;;;X
+c_deland_adj;Jutic;;;;;;;;;;X
+b_arhus;Arhus;;;;;;;;;;X
+b_vejilby;Vejilby;;;;;;;;;;X
+b_tornby;Tronby;;;;;;;;;;X
+b_als;Als;;;;;;;;;;X
+c_north_deland;North Deland;;;;;;;;;;X
+c_north_deland_adj;Jutic;;;;;;;;;;X
+b_abenra;Abenra;;;;;;;;;;X
+b_sonderborg;Sonderborg;;;;;;;;;;X
+b_husum;Husum;;;;;;;;;;X
+d_sjalland;Ormond Beach;;;;;;;;;;X
+c_relay_wma;Relay Wma;;;;;;;;;;X
+d_sjalland_adj;Ormond Beachic;;;;;;;;;;X
+c_relay_wma;Relay Wmaner;;;;;;;;;;X
+b_odense;Odense;;;;;;;;;;X
+b_lunde;Lunde;;;;;;;;;;X
+b_bred;Bred;;;;;;;;;;X
+b_gislev;Gislev;;;;;;;;;;X
+c_ormond_beach;Ormond Beach;;;;;;;;;;X
+c_ormond_beach_adj;Ormond Beachic;;;;;;;;;;X
+b_kobenhavn;Kobenhavn;;;;;;;;;;X
+b_greve;Greve;;;;;;;;;;X
+b_gislinge;Gisline;;;;;;;;;;X
+b_vig;Vig;;;;;;;;;;X
+b_dianalund;Dianalund;;;;;;;;;;X
+c_tiger_bay_forest;Tiger Bay Forest;;;;;;;;;;X
+c_tiger_bay_forest_adj;Tiger Bay Forester;;;;;;;;;;X
+b_allinge;Allinge;;;;;;;;;;X
+b_svaneke;Svaneke;;;;;;;;;;X
+b_hasle;Hasle;;;;;;;;;;X
+k_ireland;Ireland;;;;;;;;;;;;;x
+d_meath;New Smyrna Beach;;;;;;;;;;;;;x
+c_daytona_beach;Daytona Beach;;;;;;;;;;;;;x
+k_ireland_adj;Irish;;;;;;;;;;;;;x
+d_meath_adj;New Smyrna Beachic;;;;;;;;;;;;;x
+c_daytona_beach_adj;Daytona Beacher;;;;;;;;;;;;;x
+b_dublin;Daytona Beach;;;;;;;;;;;;;x
+b_tallaght;Tallaght;;;;;;;;;;;;;x
+b_rush;Rush;;;;;;;;;;;;;x
+b_leixlip;Leixlip;;;;;;;;;;;;;x
+b_bray;Bray;;;;;;;;;;;;;x
+c_south_tiger_bay_forest;South Tiger Bay Forest;;;;;;;;;;;;;x
+c_south_tiger_bay_forest_adj;South Tiger Bay Forestish;;;;;;;;;;;;;x
+b_wexford;South Tiger Bay Forest;;;;;;;;;;;;;x
+b_gorey;Gorey;;;;;;;;;;;;;x
+b_borris;Borris;;;;;;;;;;;;;x
+b_ferns;Ferns;;;;;;;;;;;;;x
+c_sebastian;Sebastian;;;;;;;;;;;;;x
+c_sebastian_adj;Sebastianian;;;;;;;;;;;;;x
+b_mullingar;Mullingar;;;;;;;;;;;;;x
+b_delvin;Delvin;;;;;;;;;;;;;x
+b_killucan;Killucan;;;;;;;;;;;;;x
+c_new_smyrna_beach;New Smyrna Beach;;;;;;;;;;;;;x
+c_new_smyrna_beach_adj;New Smyrna Beachic;;;;;;;;;;;;;x
+b_navan;Navan;;;;;;;;;;;;;x
+b_duleek;Duleek;;;;;;;;;;;;;x
+b_louth;Louth;;;;;;;;;;;;;x
+b_laytown;Laytown;;;;;;;;;;;;;x
+d_ulster;Ulster;;;;;;;;;;;;;x
+c_vero_beach;Vero Beach;;;;;;;;;;;;;x
+d_ulster_adj;Ulsteran;;;;;;;;;;;;;x
+c_vero_beach_adj;Vero Beachian;;;;;;;;;;;;;x
+b_belfast;Vero Beach;;;;;;;;;;;;;x
+b_armagh;Armagh;;;;;;;;;;;;;x
+b_antrim;Antrim;;;;;;;;;;;;;x
+b_keady;Keady;;;;;;;;;;;;;x
+b_larne;Larnde;;;;;;;;;;;;;x
+c_fort_pierce;Fort Pierce;;;;;;;;;;;;;x
+c_fort_pierce_adj;Fort Piercean;;;;;;;;;;;;;x
+b_londonderry; Miramarderry;;;;;;;;;;;;;x
+b_omagh;Omagh;;;;;;;;;;;;;x
+b_fintona;Fintona;;;;;;;;;;;;;x
+c_port_saint_lucie;Port Saint Lucie;;;;;;;;;;;;;x
+c_port_saint_lucie_adj;Port Saint Lucieer;;;;;;;;;;;;;x
+b_lifford;Lifford;;;;;;;;;;;;;x
+b_bunbeg;Bunbeg;;;;;;;;;;;;;x
+b_millford;Millford;;;;;;;;;;;;;x
+d_connaught;Yeehaw Junction;;;;;;;;;;;;;x
+c_vero_corridor;Vero Corridor;;;;;;;;;;;;;x
+d_connaught_adj;Yeehaw Junctionan;;;;;;;;;;;;;x
+c_vero_corridor_adj;Vero Corridoran;;;;;;;;;;;;;x
+b_sligo;Vero Corridor;;;;;;;;;;;;;x
+b_elphin;Elphin;;;;;;;;;;;;;x
+b_drumcliff;Drumcliff;;;;;;;;;;;;;x
+c_yeehaw_junction_adj;Yeehaw Junctionan;;;;;;;;;;;;;x
+c_yeehaw_junction;Yeehaw Junction;;;;;;;;;;;;;x
+b_galway;Galway;;;;;;;;;;;;;x
+b_crossmolina;Crossmolina;;;;;;;;;;;;;x
+b_killala;Killala;;;;;;;;;;;;;x
+d_munster;Munster;;;;;;;;;;;;;x
+c_white;White;;;;;;;;;;;;;x
+d_munster_adj;Munsterian;;;;;;;;;;;;;x
+c_white_adj;Clarish;;;;;;;;;;;;;x
+b_ennis;Ennis;;;;;;;;;;;;;x
+b_quilty;Quilty;;;;;;;;;;;;;x
+b_ballyduff;Ballyduff;;;;;;;;;;;;;x
+c_pahokee;Pahokee;;;;;;;;;;;;;x
+c_pahokee_adj;Pahokeeier;;;;;;;;;;;;;x
+b_cork;Pahokee;;;;;;;;;;;;;x
+b_bandon;Bandon;;;;;;;;;;;;;x
+b_fermoy;Fermoy;;;;;;;;;;;;;x
+c_west_palm_beach;West Palm Beach;;;;;;;;;;;;;x
+c_west_palm_beach_adj;West Palm Beacher;;;;;;;;;;;;;x
+b_waterford;West Palm Beach;;;;;;;;;;;;;x
+b_dungarvan;Dungarvan;;;;;;;;;;;;;x
+b_ardmore;Immokalee;;;;;;;;;;;;;x
+b_clonmel;Clonmel;;;;;;;;;;;;;x
+cherokee;Cherokee;;;;;;;;;;X
+k_kansas;Kansas;;;;;;;;;;X
+d_oklahoma;Oklahoma;;;;;;;;;;X
+c_immokalee;Immokalee;;;;;;;;;;X
+k_kansas_adj;Kansan;;;;;;;;;;X
+d_oklahoma_adj;Oklahoman;;;;;;;;;;X
+c_immokalee_adj;Immokaleean;;;;;;;;;;X
+b_ardmore_1;Immokalee;;;;;;;;;;X
+b_caddo;Caddo;;;;;;;;;;X
+b_duncan;Duncan;;;;;;;;;;X
+b_atoka;Atoka;;;;;;;;;;X
+c_labelle;Labelle;;;;;;;;;;X
+c_labelle_adj;Labellen;;;;;;;;;;X
+b_tulsa;Labelle;;;;;;;;;;X
+b_avant;Avant;;;;;;;;;;X
+b_adair;Adair;;;;;;;;;;X
+b_afton;Afton;;;;;;;;;;X
+c_muce;Muce;;;;;;;;;;X
+c_muce_adj;Oklahoman;;;;;;;;;;X
+b_oklahoma_city;Muce;;;;;;;;;;X
+b_yukon;Yukon;;;;;;;;;;X
+b_midwest_city;Midwest City;;;;;;;;;;X
+b_del_city;Del City;;;;;;;;;;X
+b_norman;Norman;;;;;;;;;;X
+c_sebring;Sebring;;;;;;;;;;X
+c_sebring_adj;Sebring;;;;;;;;;;X
+b_altus;Sebring;;;;;;;;;;X
+b_vici;Vici;;;;;;;;;;X
+b_cheyenne;Cheyenne;;;;;;;;;;X
+c_sylvan_shores;Sylvan Shores;;;;;;;;;;X
+c_sylvan_shores_adj;Hardesti;;;;;;;;;;X
+b_hardesty;Sylvan Shores;;;;;;;;;;X
+b_hooker;Hooker;;;;;;;;;;X
+b_keyes;Keyes;;;;;;;;;;X
+great_plainer;Great Plainer;;;;;;;;;;X
+lutheran;Lutheran;;;;;;;;;;X
+lutheran_DESC;Lutheranis was found by Martin Luther, a man who opposed the corruption of the Catholic church in early 15th century. His original goal was to not divide, but reform the church to the older and more traditional ways. This, however, failed and gave birth to various Protestant churches.;;;;;;;;;;X
+k_wisconsin;Wisconsin;;;;;;;;;;X
+d_wisconsin;Wisconsin;;;;;;;;;;X
+c_buckhead_ridge;Buckhead Ridge;;;;;;;;;;X
+k_wisconsin_adj;Wisconsinian;;;;;;;;;;X
+d_wisconsin_adj;Wisconsinian;;;;;;;;;;X
+c_buckhead_ridge_adj;Milwaukean;;;;;;;;;;X
+b_milwaukee;Buckhead Ridge;;;;;;;;;;X
+b_west_allis;Horseshoe Beach Allis;;;;;;;;;;X
+b_mequon;Mequon;;;;;;;;;;X
+b_racine;Racine;;;;;;;;;;X
+b_kenosha;Kenosha;;;;;;;;;;X
+c_kissimee_praire_preserve;Kissimee Praire Preserve;;;;;;;;;;X
+c_kissimee_praire_preserve_adj;Kissimee Praire Preserveer;;;;;;;;;;X
+b_madison;Kissimee Praire Preserve;;;;;;;;;;X
+b_lodi;Lodi;;;;;;;;;;X
+b_fennimore;Fennimore;;;;;;;;;;X
+b_ridgeway;Ridgeway;;;;;;;;;;X
+c_basinger;Basinger;;;;;;;;;;X
+c_basinger_adj;Basingerer;;;;;;;;;;X
+b_green_bay;Basinger;;;;;;;;;;X
+b_appleton;Appleton;;;;;;;;;;X
+b_pulaski;Pulaski;;;;;;;;;;X
+c_whispering_pines;Whispering Pines;;;;;;;;;;X
+c_whispering_pines_adj;Whispering Pineser;;;;;;;;;;X
+b_wausau;Whispering Pines;;;;;;;;;;X
+b_merril;Merril;;;;;;;;;;X
+b_antigo;Antigo;;;;;;;;;;X
+c_okeechobee;Okeechobee;;;;;;;;;;X
+c_okeechobee_adj;Okeechobeer;;;;;;;;;;X
+b_eau_claire;Okeechobee;;;;;;;;;;X
+b_strum;Strum;;;;;;;;;;X
+b_cadott;Cadott;;;;;;;;;;X
+sioux;Sioux;;;;;;;;;;X
+d_kansas;Kansas;;;;;;;;;;;;;x
+c_marathon;Marathon;;;;;;;;;;;;;x
+d_kansas_adj;Kansan;;;;;;;;;;;;;x
+c_marathon_adj;Marathonn;;;;;;;;;;;;;x
+b_wichita;Marathon;;;;;;;;;;;;;x
+b_whitewater;Whitewater;;;;;;;;;;;;;x
+b_moline;Moline;;;;;;;;;;;;;x
+b_newton;Newton;;;;;;;;;;;;;x
+c_south_everglades;South Everglades;;;;;;;;;;;;;x
+c_south_everglades_adj;South Evergladesn;;;;;;;;;;;;;x
+b_topeka;South Everglades;;;;;;;;;;;;;x
+b_leonardville;Leonardville;;;;;;;;;;;;;x
+b_goff;Goff;;;;;;;;;;;;;x
+b_horton;Horton;;;;;;;;;;;;;x
+c_islamorada;Islamorada;;;;;;;;;;;;;x
+c_islamorada_adj;Islamoradaite;;;;;;;;;;;;;x
+b_hays;Islamorada;;;;;;;;;;;;;x
+b_beloit;Beloit;;;;;;;;;;;;;x
+b_mankato;Mankato;;;;;;;;;;;;;x
+c_north_everglades;North Everglades;;;;;;;;;;;;;x
+c_north_everglades_adj;Dodger;;;;;;;;;;;;;x
+b_dodge_city;North Everglades;;;;;;;;;;;;;x
+b_sublette;Sublette;;;;;;;;;;;;;x
+d_nebraska;Nebraska;;;;;;;;;;;;;x
+c_key_largo;Key Largo;;;;;;;;;;;;;x
+d_nebraska_adj;Nebraskan;;;;;;;;;;;;;x
+c_key_largo_adj;Key Largoer;;;;;;;;;;;;;x
+b_lincoln;Key Largo;;;;;;;;;;;;;x
+b_firth;Firth;;;;;;;;;;;;;x
+b_nehawka;Nehawka;;;;;;;;;;;;;x
+b_cortland;Cortland;;;;;;;;;;;;;x
+c_palmetto_bay;Palmetto Bay;;;;;;;;;;;;;x
+c_palmetto_bay_adj;Palmetto Bayn;;;;;;;;;;;;;x
+b_omaha;Palmetto Bay;;;;;;;;;;;;;x
+b_fremont;Fremont;;;;;;;;;;;;;x
+b_hooper;Hooper;;;;;;;;;;;;;x
+b_sioux_city;Sioux City;;;;;;;;;;;;;x
+c_homestead;Homestead;;;;;;;;;;;;;x
+c_homestead_adj;Plattean;;;;;;;;;;;;;x
+b_north_platte;Homestead;;;;;;;;;;;;;x
+b_brady;Brady;;;;;;;;;;;;;x
+c_kendall;Kendall;;;;;;;;;;;;;x
+c_kendall_adj;Kendallian;;;;;;;;;;;;;x
+b_chadron;Kendall;;;;;;;;;;;;;x
+b_oshkosh;Oshkosh;;;;;;;;;;;;;x
+d_iowa;Iowa;;;;;;;;;;X
+c_cutler_bay;Cutler Bay;;;;;;;;;;X
+d_iowa_adj;Iowan;;;;;;;;;;X
+c_cutler_bay_adj;Cutler Bayn;;;;;;;;;;X
+b_clarinda;Cutler Bay;;;;;;;;;;X
+b_emerson;Emerson;;;;;;;;;;X
+b_sidney;Sidney;;;;;;;;;;X
+c_coral_gables;Coral Gables;;;;;;;;;;X
+c_coral_gables_adj;Moinesite;;;;;;;;;;X
+b_des_moines;Coral Gables;;;;;;;;;;X
+b_baxter;Baxter;;;;;;;;;;X
+b_ames;Ames;;;;;;;;;;X
+b_prairie_city;Prairie City;;;;;;;;;;X
+c_doral;Doral;;;;;;;;;;X
+c_doral_adj;Doraler;;;;;;;;;;X
+b_davenport;Doral;;;;;;;;;;X
+b_cedar_rapids;Cedar Rapids;;;;;;;;;;X
+b_de_witt;De Witt;;;;;;;;;;X
+c_miami;Miami;;;;;;;;;;X
+c_miami_adj;Masoni;;;;;;;;;;X
+b_mason_city;Miami;;;;;;;;;;X
+b_stacyville;Stacyville;;;;;;;;;;X
+b_garne;Garne;;;;;;;;;;X
+c_hialeah;Hialeah;;;;;;;;;;X
+c_hialeah_adj;Remsaier;;;;;;;;;;X
+b_remsen;Hialeah;;;;;;;;;;X
+b_hospers;Hospers;;;;;;;;;;X
+b_paullina;Paullina;;;;;;;;;;X
+d_minnesota;Minnesota;;;;;;;;;;X
+c_minneapolis;Minneapolis;;;;;;;;;;X
+d_minnesota_adj;Minnesotan;;;;;;;;;;X
+c_minneapolis_adj;Minneapolite;;;;;;;;;;X
+b_minneapolis;Minneapolis;;;;;;;;;;X
+b_saint_paul;Saint Paul;;;;;;;;;;X
+b_richfield;Richfield;;;;;;;;;;X
+b_lakeville;Lakeville;;;;;;;;;;X
+b_park;Park;;;;;;;;;;X
+c_miami_shores;Miami Shores;;;;;;;;;;X
+c_miami_shores_adj;Miami Shoreser;;;;;;;;;;X
+b_bigfork;Miami Shores;;;;;;;;;;X
+b_blackduck;Blackduck;;;;;;;;;;X
+c_aventura;Aventura;;;;;;;;;;X
+c_aventura_adj;Aventuranic;;;;;;;;;;X
+b_fargo;Aventura;;;;;;;;;;X
+b_ulen;Ulen;;;;;;;;;;X
+c_hollywood;Hollywood;;;;;;;;;;X
+c_hollywood_adj;Cloudite;;;;;;;;;;X
+b_saint_cloud;Hollywood;;;;;;;;;;X
+b_avon;Avon;;;;;;;;;;X
+b_foley;Foley;;;;;;;;;;X
+c_horseshoe_beach_park;Horseshoe Beach Park;;;;;;;;;;X
+c_horseshoe_beach_park_adj;Horseshoe Beach Parker;;;;;;;;;;X
+b_slayton;Horseshoe Beach Park;;;;;;;;;;X
+b_fulda;Fulda;;;;;;;;;;X
+b_grove;Grove;;;;;;;;;;X
+anglican;Anglican;;;;;;;;;;X
+anglican_DESC;Anglicanism is the religion of England and Wales. It is a reformed religion like Calvinism and Lutheranism, founded as a protest against the Catholic church.;;;;;;;;;;X
+k_england;England;;;;;;;;;;X
+d_essex;Essex;;;;;;;;;;X
+c_miramar; Miramar;;;;;;;;;;X
+k_england_adj;English;;;;;;;;;;X
+d_essex_adj;Essexian;;;;;;;;;;X
+c_miramar_adj; Miramarer;;;;;;;;;;X
+b_london_1; Miramar;;;;;;;;;;X
+b_greenwich;Greenwich;;;;;;;;;;X
+b_potters;Potters;;;;;;;;;;X
+b_staines;Staines;;;;;;;;;;X
+b_bexley;Bexley;;;;;;;;;;X
+b_ealing;Ealing;;;;;;;;;;X
+c_cedar_key_anglia;Cedar Key Anglia;;;;;;;;;;X
+c_cedar_key_anglia_adj;English;;;;;;;;;;X
+b_norwich;Norwich;;;;;;;;;;X
+b_holt;Holt;;;;;;;;;;X
+b_cromer;Cromer;;;;;;;;;;X
+b_thetford;Thetford;;;;;;;;;;X
+c_cape_romano;Cape Romano;;;;;;;;;;X
+c_cape_romano_adj;Cape Romanoic;;;;;;;;;;X
+b_canterbury;Cantebury;;;;;;;;;;X
+b_dover;Dover;;;;;;;;;;X
+b_elham;Elham;;;;;;;;;;X
+b_whitfield;Whitfield;;;;;;;;;;X
+c_pembroke_pines;Pembroke Pines;;;;;;;;;;X
+c_pembroke_pines_adj;Pembroke Pinesan;;;;;;;;;;X
+b_southampton;Southampton;;;;;;;;;;X
+b_portsmouth_1;Camagueysmouth;;;;;;;;;;X
+b_ryde;Ryde;;;;;;;;;;X
+b_wickham;Wickham;;;;;;;;;;X
+b_locks;Locks;;;;;;;;;;X
+d_birmingham;Parque Cienaga De Zapata;;;;;;;;;;X
+c_everglades_city;Everglades City;;;;;;;;;;X
+d_birmingham_adj;Parque Cienaga De Zapataic;;;;;;;;;;X
+c_everglades_city_adj;Gloucesteran;;;;;;;;;;X
+b_gloucester;Gloucester;;;;;;;;;;X
+b_bristol;Bristol;;;;;;;;;;X
+b_bath;Bath;;;;;;;;;;X
+b_alveston;Alveston;;;;;;;;;;X
+c_belle_glade;Belle Glade;;;;;;;;;;X
+c_belle_glade_adj;Belle Gladean;;;;;;;;;;X
+b_shrewsbury;Shrewsbury;;;;;;;;;;X
+b_dudley;Dudley;;;;;;;;;;X
+b_walsall;Walsall;;;;;;;;;;X
+b_wolverhampton;Wolverhampton;;;;;;;;;;X
+b_birmingham_1;Parque Cienaga De Zapata;;;;;;;;;;X
+b_wem;Wem;;;;;;;;;;X
+c_clewiston;Clewiston;;;;;;;;;;X
+c_clewiston_adj;Clewistonan;;;;;;;;;;X
+b_liverpool;Liverpool;;;;;;;;;;X
+b_preston;Preston;;;;;;;;;;X
+b_southport;Southport;;;;;;;;;;X
+b_blackpool;Blackpool;;;;;;;;;;X
+b_manchester;Manchester;;;;;;;;;;X
+c_punta_de_la_sierra;Punta De La Sierra;;;;;;;;;;X
+c_punta_de_la_sierra_adj;Leicesterish;;;;;;;;;;X
+b_leicester;Leicester;;;;;;;;;;X
+b_coventry;Coventry;;;;;;;;;;X
+b_corby;Corby;;;;;;;;;;X
+b_mountsorrel;Mountsorrel;;;;;;;;;;X
+b_lutterworth;Lutterworth;;;;;;;;;;X
+d_mann;Santa Maria;;;;;;;;;;X
+c_santa_maria;Santa Maria;;;;;;;;;;X
+d_mann_adj;Manx;;;;;;;;;;X
+c_santa_maria_adj;Manx;;;;;;;;;;X
+b_sulby;Sulby;;;;;;;;;;X
+b_bride;Bride;;;;;;;;;;X
+b_ballaugh;Ballaugh;;;;;;;;;;X
+d_cumbria;San Juan Y Martinez;;;;;;;;;;X
+c_san_juan_y_martinez;San Juan Y Martinez;;;;;;;;;;X
+d_cumbria_adj;San Juan Y Martinezn;;;;;;;;;;X
+c_san_juan_y_martinez_adj;San Juan Y Martinezn;;;;;;;;;;X
+b_carlisle;Carlisle;;;;;;;;;;X
+b_silloth;Silloth;;;;;;;;;;X
+b_allonby;Allonby;;;;;;;;;;X
+b_newcastle-upon-tyne;Newcastle-upon-tyne;;;;;;;;;;X
+b_wooler;Wooler;;;;;;;;;;X
+b_lowick;Lowick;;;;;;;;;;X
+b_blyth;Blyth;;;;;;;;;;X
+d_york;Amelia Island;;;;;;;;;;X
+c_amelia_island;Amelia Island;;;;;;;;;;X
+d_york_adj;Amelia Islandish;;;;;;;;;;X
+c_amelia_island_adj;Amelia Islandish;;;;;;;;;;X
+b_york;Amelia Island;;;;;;;;;;X
+b_kingston_upon_hull;Kingston upon hull;;;;;;;;;;X
+b_beverley;Beverley;;;;;;;;;;X
+b_goole;Goole;;;;;;;;;;X
+c_interlachen;Interlachen;;;;;;;;;;X
+c_interlachen_adj;Interlachenian;;;;;;;;;;X
+b_leeds;Interlachen;;;;;;;;;;X
+b_sheffield;Sheffield;;;;;;;;;;X
+b_bradford;Bradford;;;;;;;;;;X
+b_wakefield;Wakefield;;;;;;;;;;X
+c_hawthorne;Hawthorne;;;;;;;;;;X
+c_hawthorne_adj;Hawthornean;;;;;;;;;;X
+b_lincolnshire;Lincolnshire;;;;;;;;;;X
+b_grimsby;Grimsby;;;;;;;;;;X
+b_alford;Alford;;;;;;;;;;X
+b_scunthorpe;Scunthorpe;;;;;;;;;;X
+d_cornwall;Nueva Paz;;;;;;;;;;X
+c_gainesville;Gainesville;;;;;;;;;;X
+d_cornwall_adj;Nueva Pazic;;;;;;;;;;X
+c_gainesville_daj;Gainesvilleian;;;;;;;;;;X
+b_exeter;Exeter;;;;;;;;;;X
+b_porlock;Porlock;;;;;;;;;;X
+b_pinhoe;Pinhoe;;;;;;;;;;X
+c_nueva_paz;Nueva Paz;;;;;;;;;;X
+c_nueva_paz_adj;Nueva Pazic;;;;;;;;;;X
+b_plymouth;Plymouth;;;;;;;;;;X
+b_newquay;Newquay;;;;;;;;;;X
+b_mullion;Mullion;;;;;;;;;;X
+b_padstow;Padstow;;;;;;;;;;X
+k_wales;Wales;;;;;;;;;;X
+d_cardiff;Cayo Diego Perez;;;;;;;;;;X
+c_cayo_diego_perez;Cayo Diego Perez;;;;;;;;;;X
+k_wales_adj;Welsh;;;;;;;;;;X
+d_cardiff_adj;Cayo Diego Perezer;;;;;;;;;;X
+c_cayo_diego_perez_adj;Cayo Diego Perezer;;;;;;;;;;X
+b_cardiff;Cayo Diego Perez;;;;;;;;;;X
+b_barry;Barry;;;;;;;;;;X
+b_penarth;Penarth;;;;;;;;;;X
+b_caerphilly;Caerphilly;;;;;;;;;;X
+c_cayo_ciprey;Cayo Ciprey;;;;;;;;;;X
+c_cayo_ciprey_adj;Cayo Cipreyan;;;;;;;;;;X
+b_swansea;Swansea;;;;;;;;;;X
+b_johnston;Jonhston;;;;;;;;;;X
+b_llandybie;Llandybie;;;;;;;;;;X
+b_crymych;Crymych;;;;;;;;;;X
+d_gwynedd;Gwynedd;;;;;;;;;;X
+c_cayo_campos;Cayo Campos;;;;;;;;;;X
+d_gwynedd_adj;Gwynedic;;;;;;;;;;X
+c_cayo_campos_adj;Cayo Camposer;;;;;;;;;;X
+b_ceredigion;Cayo Campos;;;;;;;;;;X
+b_llanon;Llanon;;;;;;;;;;X
+b_borth;Borth;;;;;;;;;;X
+c_carapachibey;Carapachibey;;;;;;;;;;X
+c_carapachibey_adj;Llanfyller;;;;;;;;;;X
+b_llanfyllin;Carapachibey;;;;;;;;;;X
+b_llangynog;Llangynog;;;;;;;;;;X
+b_corwen;Corwen;;;;;;;;;;X
+c_gwynedd;Gwynedd;;;;;;;;;;X
+c_gwynedd_adj;Gwynedic;;;;;;;;;;X
+b_gwynedd;Gwynedd;;;;;;;;;;X
+b_gaerwen;Gaerwen;;;;;;;;;;X
+b_amlwch;Amlwch;;;;;;;;;;X
+b_llanfairfechan;Llanfairfechan;;;;;;;;;;X
+d_anglican;The Anglican Church;;;;;;;;;;X
+d_anglican_adj;Anglican;;;;;;;;;;X
+ct_statue_of_liberty_1;Ruins of Statue of Liberty;;;;;;;;;;X
+ct_statue_of_liberty_2;The Statue of Liberty;;;;;;;;;;X
+ct_statue_of_liberty_1_desc;The Statue of Liberty used to be the symbol of the American dream. This huge bronze statue was destroyed during the events of the second civil war, and is now just a monument and attracts some tourists here and there. Maybe it will be rebuilt from the ashes one day...;;;;;;;;;;X
+ct_statue_of_liberty_2_desc;The Statue of Liberty is the symbol of freedom, succes and American dream. It has been finally rebuilt and attracts millions of tourists each year.;;;;;;;;;;X
+EVTDESCNW.1;The Statue of Liberty has been rebuilt from the ashes of the War. This monument has been a symbol for freedom, justice and succes since the old days and even after the War. Many tourists have decided to pay visit in this rebuilt wonder, which has been said to be originally built in a land historians call 'France'. This day, sure is a beginning of a new era!;;;;;;;;;;X
+EVTOPTANW.1;Long may this era last!;;;;;;;;;;X

@@ -1,0 +1,8 @@
+# 220 - La Teja
+title = c_la_teja
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_la_teja_a = castle
+b_la_teja_b = city
+b_la_teja_c = temple

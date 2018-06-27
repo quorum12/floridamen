@@ -1,0 +1,95 @@
+bm_new_world = {
+	name = "BM_NEW_WORLD"
+	desc = "BM_NEW_WORLD_INFO"
+	date = 2144.1.1
+	custom_start = yes
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	
+	selectable_character = {
+		id = 4000265 # King of Lousianna
+		age = 21
+		name = ERA_CHAR_NAME_4000265
+		title = k_louisianna
+		title_name = k_louisianna
+		character = {
+			female = no
+			dna="xhlgghchxen"
+			properties="a000ha000000"
+			religion="voodoo"
+			culture="southern"
+			government = feudal_government
+			dynasty=12006
+		}
+	}
+
+	selectable_character = {
+		id = 4000079 # Count of Lakeland
+		age = 27
+		name = ERA_CHAR_NAME_4000079
+		title = c_lakeland
+		title_name = c_lakeland
+		character = {
+			female = no
+			dna="xhlgghchxen"
+			properties="a000ha000000"
+			religion="baptist"
+			culture="tampanian"
+			government = feudal_government
+			dynasty=8015
+		}
+	}
+
+	selectable_character = {
+		id = 4000122 # Duke of Sebring
+		age = 22
+		name = ERA_CHAR_NAME_4000122
+		title = d_sebring
+		title_name = d_sebring
+		character = {
+			female = no
+			dna="xhlgghchxen"
+			properties="a000ha000000"
+			religion="american_totemist_pagan"
+			culture="calusa"
+			government = feudal_government
+			dynasty=11004
+		}
+	}
+
+	selectable_character = {
+		id = 4000165 # King of Havanna
+		age = 22
+		name = ERA_CHAR_NAME_4000165
+		title = k_havanna
+		title_name = k_havanna
+		character = {
+			female = no
+			dna="xhlgghchxen"
+			properties="a000ha000000"
+			religion="catholic"
+			culture="cubano"
+			government = feudal_government
+			dynasty=1026
+		}
+	}
+
+	selectable_character = {
+		id = 4000022 # Duke of Islas De Mangles
+		age = 18
+		name = ERA_CHAR_NAME_4000022
+		title = d_islas_de_mangles
+		title_name = d_islas_de_mangles
+		character = {
+			female = yes
+			dna="xhlgghchxen"
+			properties="a000ha000000"
+			religion="none"
+			culture="antillais"
+			government = feudal_government
+			dynasty=14001
+		}
+	}
+
+}

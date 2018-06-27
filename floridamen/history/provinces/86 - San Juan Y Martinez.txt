@@ -1,0 +1,8 @@
+# 86 - San Juan Y Martinez
+title = c_san_juan_y_martinez
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_san_juan_y_martinez_a = castle
+b_san_juan_y_martinez_b = city
+b_san_juan_y_martinez_c = temple

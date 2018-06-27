@@ -1,0 +1,8 @@
+# 233 - Carnestown
+title = c_carnestown
+max_settlements = 5
+culture = miamimen
+religion = catholic
+b_carnestown_a = temple
+b_carnestown_b = city
+b_carnestown_c = castle

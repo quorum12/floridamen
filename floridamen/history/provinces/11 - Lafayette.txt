@@ -1,0 +1,9 @@
+# 11 - Lafayette
+title = c_lafayette
+max_settlements = 6
+culture = louisianan
+religion = voodoo
+b_lafayette_a = castle
+b_lafayette_b = city
+b_lafayette_c = temple
+b_lafayette_d = city

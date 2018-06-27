@@ -1,0 +1,8 @@
+# 103 - La Demajagua
+title = c_la_demajagua
+max_settlements = 4
+culture = antillais
+religion = none
+b_la_demajagua_a = castle
+b_la_demajagua_b = city
+b_la_demajagua_c = temple

@@ -1,0 +1,8 @@
+# 154 - Gulf Hammock Wildlife Preserve
+title = c_gulf_hammock_wildlife_preserve
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_gulf_hammock_wildlife_preserve_a = castle
+b_gulf_hammock_wildlife_preserve_b = city
+b_gulf_hammock_wildlife_preserve_c = temple

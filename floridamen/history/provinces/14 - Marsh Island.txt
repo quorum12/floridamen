@@ -1,0 +1,8 @@
+# 14 - Marsh Island
+title = c_marsh_island
+max_settlements = 4
+culture = louisianan
+religion = voodoo
+b_marsh_island_a = castle
+b_marsh_island_b = city
+b_marsh_island_c = temple

@@ -1,0 +1,9 @@
+# 202 - Left Islands
+title = c_left_islands
+max_settlements = 4
+culture = antillais
+religion = baptist
+b_left_islands_a = castle
+b_left_islands_b = city
+b_left_islands_c = temple
+2134.1.1 = {

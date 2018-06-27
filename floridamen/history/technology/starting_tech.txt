@@ -1,0 +1,96 @@
+#Citites
+technology = {
+	titles = {
+		d_new_orleans
+		d_pensacola
+		d_tallahassee
+		d_jacksonville
+		d_gainesville
+		d_tampa
+		d_sanford
+		d_miami
+		d_havana
+		d_santa_clara
+	}
+	
+	2144 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+
+#Elsewhere
+
+technology = {
+	titles = {
+		d_everglades
+		d_homestead
+		d_miramar
+		d_hollywood
+		d_avon_park
+		d_stirling
+		d_deland
+		d_daytona_beach
+		d_muce
+		d_okeechobee
+		d_vero_beach
+		d_sebring
+		d_arcadia
+		d_naples
+		d_orangetree
+		d_chokoloskee
+		d_key_west
+		d_nueva_paz
+		d_central_parque_cienaga_de_zapata
+		d_matanzas
+		d_colon
+		d_puerto_padre
+		d_sabalo
+		d_freeport
+		d_hunucma
+		d_merida
+		d_la_gran_lucha
+		d_chemax
+		d_cancun
+		d_delita
+		d_santa_fe
+		d_islas_de_mangles
+		d_cayo_diego_perez
+		d_sandino
+		d_santa_maria
+		d_la_palma
+		d_los_palacios
+		d_cabanas
+		d_san_cristobal
+		d_moniac
+		d_baldwin
+		d_interlachen
+		d_saint_augustine
+		d_wesley_chapel
+		d_brandenton
+		d_lakeland
+		d_lutz
+		d_goethe_forest
+		d_ocala
+		d_chatmire
+		d_cameron
+		d_white_lake
+		d_abbeville
+		d_gray
+		d_lafayette
+		d_baton_rouge
+		d_biloxi
+		d_panama_city_beach
+		d_fort_braden
+		d_tennille
+		d_cedar_key
+		d_yellow_jacket
+	}
+	
+	2144 = {
+		military = 0.1
+		economy = 0.1
+		culture = 0.1
+	}
+}

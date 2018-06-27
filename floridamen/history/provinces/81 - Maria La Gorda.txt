@@ -1,0 +1,8 @@
+# 81 - Maria La Gorda
+title = c_maria_la_gorda
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_maria_la_gorda_a = castle
+b_maria_la_gorda_b = city
+b_maria_la_gorda_c = temple

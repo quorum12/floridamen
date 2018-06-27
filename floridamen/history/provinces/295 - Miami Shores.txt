@@ -1,0 +1,8 @@
+# 295 - Miami Shores
+title = c_miami_shores
+max_settlements = 5
+culture = americo_hispanic
+religion = jewish
+b_miami_shores_a = castle
+b_miami_shores_b = city
+b_miami_shores_c = temple

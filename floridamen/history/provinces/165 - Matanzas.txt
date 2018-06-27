@@ -1,0 +1,8 @@
+# 165 - Matanzas
+title = c_matanzas
+max_settlements = 5
+culture = cubano
+religion = catholic
+b_matanzas_a = castle
+b_matanzas_b = city
+b_matanzas_c = temple

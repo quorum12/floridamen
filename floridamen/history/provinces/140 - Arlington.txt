@@ -1,0 +1,8 @@
+# 140 - Arlington
+title = c_arlington
+max_settlements = 4
+culture = jacksonvillean
+religion = baptist
+b_arlington_a = castle
+b_arlington_b = city
+b_arlington_c = temple

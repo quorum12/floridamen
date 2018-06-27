@@ -1,0 +1,8 @@
+# 97 - San Cristobal
+title = c_san_cristobal
+max_settlements = 4
+culture = antillais
+religion = catholic
+b_san_cristobal_a = castle
+b_san_cristobal_b = city
+b_san_cristobal_c = temple

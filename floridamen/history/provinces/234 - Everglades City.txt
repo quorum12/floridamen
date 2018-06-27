@@ -1,0 +1,8 @@
+# 234 - Everglades City
+title = c_everglades_city
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_everglades_city_a = castle
+b_everglades_city_b = city
+b_everglades_city_c = temple

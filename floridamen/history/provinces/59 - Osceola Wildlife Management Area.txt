@@ -1,0 +1,8 @@
+# 59 - Osceola Wildlife Management Area
+title = c_osceola_wildlife_management_area
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_osceola_wildlife_management_area_a = castle
+b_osceola_wildlife_management_area_b = city
+b_osceola_wildlife_management_area_c = temple

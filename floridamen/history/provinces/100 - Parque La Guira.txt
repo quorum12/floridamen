@@ -1,0 +1,8 @@
+# 100 - Parque La Guira
+title = c_parque_la_guira
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_parque_la_guira_a = castle
+b_parque_la_guira_b = city
+b_parque_la_guira_c = temple

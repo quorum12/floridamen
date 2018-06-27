@@ -1,0 +1,8 @@
+# 272 - Labelle
+title = c_labelle
+max_settlements = 4
+culture = calusa
+religion = baptist
+b_labelle_a = castle
+b_labelle_b = city
+b_labelle_c = temple

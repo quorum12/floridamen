@@ -1,0 +1,8 @@
+# 173 - San Nicolas De Bari
+title = c_san_nicolas_de_bari
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_san_nicolas_de_bari_a = castle
+b_san_nicolas_de_bari_b = city
+b_san_nicolas_de_bari_c = temple

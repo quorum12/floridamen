@@ -1,0 +1,8 @@
+# 35 - Defunkiak Springs
+title = c_defunkiak_springs
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_defunkiak_springs_a = castle
+b_defunkiak_springs_b = city
+b_defunkiak_springs_c = temple

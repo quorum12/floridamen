@@ -1,0 +1,8 @@
+# 187 - Apollo Beach
+title = c_apollo_beach
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_apollo_beach_a = castle
+b_apollo_beach_b = city
+b_apollo_beach_c = temple

@@ -1,0 +1,8 @@
+# 116 - Cayo Divisa
+title = c_cayo_divisa
+max_settlements = 4
+culture = antillais
+religion = none
+b_cayo_divisa_a = castle
+b_cayo_divisa_b = city
+b_cayo_divisa_c = temple

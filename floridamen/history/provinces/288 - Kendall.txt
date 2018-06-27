@@ -1,0 +1,8 @@
+# 288 - Kendall
+title = c_kendall
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_kendall_a = castle
+b_kendall_b = city
+b_kendall_c = temple

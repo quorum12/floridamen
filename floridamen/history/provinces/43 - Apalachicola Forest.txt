@@ -1,0 +1,7 @@
+# 43 - Apalachicola Forest
+title = c_apalachicola_forest
+max_settlements = 2
+culture = dixie
+religion = baptist
+b_apalachicola_forest_a = castle
+b_apalachicola_forest_b = city

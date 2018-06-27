@@ -1,0 +1,8 @@
+# 289 - Cutler Bay
+title = c_cutler_bay
+max_settlements = 5
+culture = americo_hispanic
+religion = catholic
+b_cutler_bay_a = castle
+b_cutler_bay_b = city
+b_cutler_bay_c = temple

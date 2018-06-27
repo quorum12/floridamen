@@ -1,0 +1,8 @@
+# 56 - Chiefland
+title = c_chiefland
+max_settlements = 4
+culture = tallahassean
+religion = baptist
+b_chiefland_a = castle
+b_chiefland_b = city
+b_chiefland_c = temple

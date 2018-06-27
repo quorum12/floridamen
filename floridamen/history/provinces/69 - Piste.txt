@@ -1,0 +1,8 @@
+# 69 - Piste
+title = c_piste
+max_settlements = 4
+culture = mexican
+religion = cathar
+b_piste_a = castle
+b_piste_b = city
+b_piste_c = temple

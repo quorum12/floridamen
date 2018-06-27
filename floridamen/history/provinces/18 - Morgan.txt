@@ -1,0 +1,8 @@
+# 18 - Morgan
+title = c_morgan
+max_settlements = 4
+culture = louisianan
+religion = voodoo
+b_morgan_a = castle
+b_morgan_b = city
+b_morgan_c = temple

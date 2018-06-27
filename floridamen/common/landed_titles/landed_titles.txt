@@ -1,0 +1,3859 @@
+
+e_miami = {
+	color={ 0 150 0 }
+	color2={ 255 255 255}
+	k_miami = {
+		color={ 0 150 0 }
+		color2={ 255 255 255}
+		capital = 292
+		christian = 14
+		jewish_group = 15
+		d_everglades = {
+			color= { 179 116 211 }
+			color2={ 255 255 255 }
+			capital = 291
+			c_doral = {
+				color= { 228 136 228 }
+				color2={ 255 255 255 }
+				holy_site = catholic
+				holy_site = fraticelli
+				holy_site = cathar
+				holy_site = waldensian
+				b_doral_a = {}
+				b_doral_b = {}
+				b_doral_c = {}
+				b_doral_d = {}
+				b_doral_e = {}
+				b_doral_f = {}
+				b_doral_g = {}
+			}
+			c_kendall = {
+				color= { 185 89 151 }
+				color2={ 255 255 255 }
+				b_kendall_a = {}
+				b_kendall_b = {}
+				b_kendall_c = {}
+				b_kendall_d = {}
+				b_kendall_e = {}
+				b_kendall_f = {}
+				b_kendall_g = {}
+			}
+			c_north_everglades = {
+				color= { 205 121 101 }
+				color2={ 255 255 255 }
+				b_north_everglades_a = {}
+				b_north_everglades_b = {}
+				b_north_everglades_c = {}
+				b_north_everglades_d = {}
+				b_north_everglades_e = {}
+				b_north_everglades_f = {}
+				b_north_everglades_g = {}
+			}
+			c_south_everglades = {
+				color= { 179 116 211 }
+				color2={ 255 255 255 }
+				holy_site = american_totemist_pagan
+				holy_site = american_totemist_pagan_reformed
+				b_south_everglades_a = {}
+				b_south_everglades_b = {}
+				b_south_everglades_c = {}
+				b_south_everglades_d = {}
+				b_south_everglades_e = {}
+				b_south_everglades_f = {}
+				b_south_everglades_g = {}
+			}
+		}
+		d_homestead = {
+			color= { 99 55 16 }
+			color2={ 255 255 255 }
+			capital = 287
+			c_key_largo = {
+				color= { 245 218 203 }
+				color2={ 255 255 255 }
+				b_key_largo_a = {}
+				b_key_largo_b = {}
+				b_key_largo_c = {}
+				b_key_largo_d = {}
+				b_key_largo_e = {}
+				b_key_largo_f = {}
+				b_key_largo_g = {}
+			}
+			c_cutler_bay = {
+				color= { 102 157 114 }
+				color2={ 255 255 255 }
+				b_cutler_bay_a = {}
+				b_cutler_bay_b = {}
+				b_cutler_bay_c = {}
+				b_cutler_bay_d = {}
+				b_cutler_bay_e = {}
+				b_cutler_bay_f = {}
+				b_cutler_bay_g = {}
+			}
+			c_homestead = {
+				color= { 99 55 16 }
+				color2={ 255 255 255 }
+				b_homestead_a = {}
+				b_homestead_b = {}
+				b_homestead_c = {}
+				b_homestead_d = {}
+				b_homestead_e = {}
+				b_homestead_f = {}
+				b_homestead_g = {}
+			}
+			c_islamorada = {
+				color= { 194 172 174 }
+				color2={ 255 255 255 }
+				b_islamorada_a = {}
+				b_islamorada_b = {}
+				b_islamorada_c = {}
+				b_islamorada_d = {}
+				b_islamorada_e = {}
+				b_islamorada_f = {}
+				b_islamorada_g = {}
+			}
+		}
+		d_miami = {
+			color= { 174 28 165 }
+			color2={ 255 255 255 }
+			capital = 292
+			c_palmetto_bay = {
+				color= { 203 138 157 }
+				color2={ 255 255 255 }
+				b_palmetto_bay_a = {}
+				b_palmetto_bay_b = {}
+				b_palmetto_bay_c = {}
+				b_palmetto_bay_d = {}
+				b_palmetto_bay_e = {}
+				b_palmetto_bay_f = {}
+				b_palmetto_bay_g = {}
+			}
+			c_coral_gables = {
+				color= { 181 4 203 }
+				color2={ 255 255 255 }
+				b_coral_gables_a = {}
+				b_coral_gables_b = {}
+				b_coral_gables_c = {}
+				b_coral_gables_d = {}
+				b_coral_gables_e = {}
+				b_coral_gables_f = {}
+				b_coral_gables_g = {}
+			}
+			c_miami = {
+				color= { 174 28 165 }
+				color2={ 255 255 255 }
+				holy_site = jewish
+				holy_site = reform
+				holy_site = none
+				holy_site = catholic
+				holy_site = fraticelli
+				holy_site = cathar
+				holy_site = waldensian
+				b_miami_a = {}
+				b_miami_b = {}
+				b_miami_c = {}
+				b_miami_d = {}
+				b_miami_e = {}
+				b_miami_f = {}
+				b_miami_g = {}
+			}
+			c_hialeah = {
+				color= { 110 67 12 }
+				color2={ 255 255 255 }
+				b_hialeah_a = {}
+				b_hialeah_b = {}
+				b_hialeah_c = {}
+				b_hialeah_d = {}
+				b_hialeah_e = {}
+				b_hialeah_f = {}
+				b_hialeah_g = {}
+			}
+		}
+		d_miramar = {
+			color= { 175 90 202 }
+			color2={ 255 255 255 }
+			capital = 300
+			c_minneapolis = {
+				color= { 85 244 31 }
+				color2={ 255 255 255 }
+				b_minneapolis_a = {}
+				b_minneapolis_b = {}
+				b_minneapolis_c = {}
+				b_minneapolis_d = {}
+				b_minneapolis_e = {}
+				b_minneapolis_f = {}
+				b_minneapolis_g = {}
+			}
+			c_miami_shores = {
+				color= { 23 206 165 }
+				color2={ 255 255 255 }
+				b_miami_shores_a = {}
+				b_miami_shores_b = {}
+				b_miami_shores_c = {}
+				b_miami_shores_d = {}
+				b_miami_shores_e = {}
+				b_miami_shores_f = {}
+				b_miami_shores_g = {}
+			}
+			c_pembroke_pines = {
+				color= { 128 50 92 }
+				color2={ 255 255 255 }
+				b_pembroke_pines_a = {}
+				b_pembroke_pines_b = {}
+				b_pembroke_pines_c = {}
+				b_pembroke_pines_d = {}
+				b_pembroke_pines_e = {}
+				b_pembroke_pines_f = {}
+				b_pembroke_pines_g = {}
+			}
+			c_miramar = {
+				color= { 175 90 202 }
+				color2={ 255 255 255 }
+				b_miramar_a = {}
+				b_miramar_b = {}
+				b_miramar_c = {}
+				b_miramar_d = {}
+				b_miramar_e = {}
+				b_miramar_f = {}
+				b_miramar_g = {}
+			}
+		}
+		d_hollywood = {
+			color= { 71 149 43 }
+			color2={ 255 255 255 }
+			capital = 297
+			c_west_palm_beach = {
+				color= { 82 49 3 }
+				color2={ 255 255 255 }
+				holy_site = jewish
+				holy_site = reform
+				b_west_palm_beach_a = {}
+				b_west_palm_beach_b = {}
+				b_west_palm_beach_c = {}
+				b_west_palm_beach_d = {}
+				b_west_palm_beach_e = {}
+				b_west_palm_beach_f = {}
+				b_west_palm_beach_g = {}
+			}
+			c_aventura = {
+				color= { 196 122 139 }
+				color2={ 255 255 255 }
+				b_aventura_a = {}
+				b_aventura_b = {}
+				b_aventura_c = {}
+				b_aventura_d = {}
+				b_aventura_e = {}
+				b_aventura_f = {}
+				b_aventura_g = {}
+			}
+			c_hollywood = {
+				color= { 71 149 43 }
+				color2={ 255 255 255 }
+				b_hollywood_a = {}
+				b_hollywood_b = {}
+				b_hollywood_c = {}
+				b_hollywood_d = {}
+				b_hollywood_e = {}
+				b_hollywood_f = {}
+				b_hollywood_g = {}
+			}
+			c_horseshoe_beach_park = {
+				color= { 45 122 107 }
+				color2={ 255 255 255 }
+				b_horseshoe_beach_park_a = {}
+				b_horseshoe_beach_park_b = {}
+				b_horseshoe_beach_park_c = {}
+				b_horseshoe_beach_park_d = {}
+				b_horseshoe_beach_park_e = {}
+				b_horseshoe_beach_park_f = {}
+				b_horseshoe_beach_park_g = {}
+			}
+		}
+	}
+	k_orlando = {
+		color={ 0 165 64 }
+		color2={ 255 255 255}
+		capital = 251
+		christian = 15
+		jewish_group = 13
+		d_stirling = {
+			color= { 129 77 179 }
+			color2={ 255 255 255 }
+			capital = 249
+			c_apopka = {
+				color= { 219 236 196 }
+				color2={ 255 255 255 }
+				b_apopka_a = {}
+				b_apopka_b = {}
+				b_apopka_c = {}
+				b_apopka_d = {}
+				b_apopka_e = {}
+				b_apopka_f = {}
+				b_apopka_g = {}
+			}
+			c_stirling = {
+				color= { 129 77 179 }
+				color2={ 255 255 255 }
+				b_stirling_a = {}
+				b_stirling_b = {}
+				b_stirling_c = {}
+				b_stirling_d = {}
+				b_stirling_e = {}
+				b_stirling_f = {}
+				b_stirling_g = {}
+			}
+			c_pine_lakes = {
+				color= { 0 63 17 }
+				color2={ 255 255 255 }
+				b_pine_lakes_a = {}
+				b_pine_lakes_b = {}
+				b_pine_lakes_c = {}
+				b_pine_lakes_d = {}
+				b_pine_lakes_e = {}
+				b_pine_lakes_f = {}
+				b_pine_lakes_g = {}
+			}
+			c_sebastian = {
+				color= { 140 194 13 }
+				color2={ 255 255 255 }
+				b_sebastian_a = {}
+				b_sebastian_b = {}
+				b_sebastian_c = {}
+				b_sebastian_d = {}
+				b_sebastian_e = {}
+				b_sebastian_f = {}
+				b_sebastian_g = {}
+			}
+		}
+		d_sanford = {
+			color= { 95 65 49 }
+			color2={ 255 255 255 }
+			capital = 251
+			c_sorrento = {
+				color= { 206 221 184 }
+				color2={ 255 255 255 }
+				holy_site = baptist
+				holy_site = lutheran
+				holy_site = methodist
+				holy_site = calvinist
+				b_sorrento_a = {}
+				b_sorrento_b = {}
+				b_sorrento_c = {}
+				b_sorrento_d = {}
+				b_sorrento_e = {}
+				b_sorrento_f = {}
+				b_sorrento_g = {}
+			}
+			c_winter_haven = {
+				color= { 248 73 160 }
+				color2={ 255 255 255 }
+				b_winter_haven_a = {}
+				b_winter_haven_b = {}
+				b_winter_haven_c = {}
+				b_winter_haven_d = {}
+				b_winter_haven_e = {}
+				b_winter_haven_f = {}
+				b_winter_haven_g = {}
+			}
+			c_eustis = {
+				color= { 87 220 66 }
+				color2={ 255 255 255 }
+				b_eustis_a = {}
+				b_eustis_b = {}
+				b_eustis_c = {}
+				b_eustis_d = {}
+				b_eustis_e = {}
+				b_eustis_f = {}
+				b_eustis_g = {}
+			}
+			c_astor = {
+				color= { 13 34 253 }
+				color2={ 255 255 255 }
+				b_astor_a = {}
+				b_astor_b = {}
+				b_astor_c = {}
+				b_astor_d = {}
+				b_astor_e = {}
+				b_astor_f = {}
+				b_astor_g = {}
+			}
+			c_paisley = {
+				color= { 210 119 31 }
+				color2={ 255 255 255 }
+				b_paisley_a = {}
+				b_paisley_b = {}
+				b_paisley_c = {}
+				b_paisley_d = {}
+				b_paisley_e = {}
+				b_paisley_f = {}
+				b_paisley_g = {}
+			}
+			c_sanford = {
+				color= { 95 65 49 }
+				color2={ 255 255 255 }
+				holy_site = jewish
+				holy_site = reform
+				b_sanford_a = {}
+				b_sanford_b = {}
+				b_sanford_c = {}
+				b_sanford_d = {}
+				b_sanford_e = {}
+				b_sanford_f = {}
+				b_sanford_g = {}
+			}
+		}
+		d_deland = {
+			color= { 94 3 219 }
+			color2={ 255 255 255 }
+			capital = 252
+			c_de_leon_springs = {
+				color= { 237 110 74 }
+				color2={ 255 255 255 }
+				b_de_leon_springs_a = {}
+				b_de_leon_springs_b = {}
+				b_de_leon_springs_c = {}
+				b_de_leon_springs_d = {}
+				b_de_leon_springs_e = {}
+				b_de_leon_springs_f = {}
+				b_de_leon_springs_g = {}
+			}
+			c_alexander_springs = {
+				color= { 164 20 235 }
+				color2={ 255 255 255 }
+				b_alexander_springs_a = {}
+				b_alexander_springs_b = {}
+				b_alexander_springs_c = {}
+				b_alexander_springs_d = {}
+				b_alexander_springs_e = {}
+				b_alexander_springs_f = {}
+				b_alexander_springs_g = {}
+			}
+			c_deland = {
+				color= { 94 3 219 }
+				color2={ 255 255 255 }
+				b_deland_a = {}
+				b_deland_b = {}
+				b_deland_c = {}
+				b_deland_d = {}
+				b_deland_e = {}
+				b_deland_f = {}
+				b_deland_g = {}
+			}
+			c_north_deland = {
+				color= { 91 86 148 }
+				color2={ 255 255 255 }
+				b_north_deland_a = {}
+				b_north_deland_b = {}
+				b_north_deland_c = {}
+				b_north_deland_d = {}
+				b_north_deland_e = {}
+				b_north_deland_f = {}
+				b_north_deland_g = {}
+			}
+			c_relay_wma = {
+				color= { 179 9 114 }
+				color2={ 255 255 255 }
+				b_relay_wma_a = {}
+				b_relay_wma_b = {}
+				b_relay_wma_c = {}
+				b_relay_wma_d = {}
+				b_relay_wma_e = {}
+				b_relay_wma_f = {}
+				b_relay_wma_g = {}
+			}
+			c_ormond_beach = {
+				color= { 60 84 62 }
+				color2={ 255 255 255 }
+				b_ormond_beach_a = {}
+				b_ormond_beach_b = {}
+				b_ormond_beach_c = {}
+				b_ormond_beach_d = {}
+				b_ormond_beach_e = {}
+				b_ormond_beach_f = {}
+				b_ormond_beach_g = {}
+			}
+		}
+		d_daytona_beach = {
+			color= { 165 216 211 }
+			color2={ 255 255 255 }
+			capital = 257
+			c_tiger_bay_forest = {
+				color= { 23 124 123 }
+				color2={ 255 255 255 }
+				b_tiger_bay_forest_a = {}
+				b_tiger_bay_forest_b = {}
+				b_tiger_bay_forest_c = {}
+				b_tiger_bay_forest_d = {}
+				b_tiger_bay_forest_e = {}
+				b_tiger_bay_forest_f = {}
+				b_tiger_bay_forest_g = {}
+			}
+			c_daytona_beach = {
+				color= { 165 216 211 }
+				color2={ 255 255 255 }
+				b_daytona_beach_a = {}
+				b_daytona_beach_b = {}
+				b_daytona_beach_c = {}
+				b_daytona_beach_d = {}
+				b_daytona_beach_e = {}
+				b_daytona_beach_f = {}
+				b_daytona_beach_g = {}
+			}
+			c_south_tiger_bay_forest = {
+				color= { 73 208 198 }
+				color2={ 255 255 255 }
+				b_south_tiger_bay_forest_a = {}
+				b_south_tiger_bay_forest_b = {}
+				b_south_tiger_bay_forest_c = {}
+				b_south_tiger_bay_forest_d = {}
+				b_south_tiger_bay_forest_e = {}
+				b_south_tiger_bay_forest_f = {}
+				b_south_tiger_bay_forest_g = {}
+			}
+			c_new_smyrna_beach = {
+				color= { 216 88 176 }
+				color2={ 255 255 255 }
+				b_new_smyrna_beach_a = {}
+				b_new_smyrna_beach_b = {}
+				b_new_smyrna_beach_c = {}
+				b_new_smyrna_beach_d = {}
+				b_new_smyrna_beach_e = {}
+				b_new_smyrna_beach_f = {}
+				b_new_smyrna_beach_g = {}
+			}
+		}
+	}
+	k_okeechobee = {
+		color={ 64 150 64 }
+		color2={ 255 255 255}
+		christian = 13
+		jewish_group = 14
+		d_muce = {
+			color= { 41 42 115 }
+			color2={ 255 255 255 }
+			capital = 273
+			c_clewiston = {
+				color= { 81 23 29 }
+				color2={ 255 255 255 }
+				holy_site = american_totemist_pagan
+				holy_site = american_totemist_pagan_reformed
+				b_clewiston_a = {}
+				b_clewiston_b = {}
+				b_clewiston_c = {}
+				b_clewiston_d = {}
+				b_clewiston_e = {}
+				b_clewiston_f = {}
+				b_clewiston_g = {}
+			}
+			c_belle_glade = {
+				color= { 106 142 50 }
+				color2={ 255 255 255 }
+				b_belle_glade_a = {}
+				b_belle_glade_b = {}
+				b_belle_glade_c = {}
+				b_belle_glade_d = {}
+				b_belle_glade_e = {}
+				b_belle_glade_f = {}
+				b_belle_glade_g = {}
+			}
+			c_immokalee = {
+				color= { 237 121 110 }
+				color2={ 255 255 255 }
+				b_immokalee_a = {}
+				b_immokalee_b = {}
+				b_immokalee_c = {}
+				b_immokalee_d = {}
+				b_immokalee_e = {}
+				b_immokalee_f = {}
+				b_immokalee_g = {}
+			}
+			c_labelle = {
+				color= { 221 193 246 }
+				color2={ 255 255 255 }
+				b_labelle_a = {}
+				b_labelle_b = {}
+				b_labelle_c = {}
+				b_labelle_d = {}
+				b_labelle_e = {}
+				b_labelle_f = {}
+				b_labelle_g = {}
+			}
+			c_muce = {
+				color= { 41 42 115 }
+				color2={ 255 255 255 }
+				b_muce_a = {}
+				b_muce_b = {}
+				b_muce_c = {}
+				b_muce_d = {}
+				b_muce_e = {}
+				b_muce_f = {}
+				b_muce_g = {}
+			}
+		}
+		d_okeechobee = {
+			color= { 96 4 58 }
+			color2={ 255 255 255 }
+			capital = 280
+			c_pahokee = {
+				color= { 2 41 25 }
+				color2={ 255 255 255 }
+				holy_site = american_totemist_pagan
+				holy_site = american_totemist_pagan_reformed
+				b_pahokee_a = {}
+				b_pahokee_b = {}
+				b_pahokee_c = {}
+				b_pahokee_d = {}
+				b_pahokee_e = {}
+				b_pahokee_f = {}
+				b_pahokee_g = {}
+			}
+			c_whispering_pines = {
+				color= { 61 237 63 }
+				color2={ 255 255 255 }
+				b_whispering_pines_a = {}
+				b_whispering_pines_b = {}
+				b_whispering_pines_c = {}
+				b_whispering_pines_d = {}
+				b_whispering_pines_e = {}
+				b_whispering_pines_f = {}
+				b_whispering_pines_g = {}
+			}
+			c_yeehaw_junction = {
+				color= { 192 56 109 }
+				color2={ 255 255 255 }
+				b_yeehaw_junction_a = {}
+				b_yeehaw_junction_b = {}
+				b_yeehaw_junction_c = {}
+				b_yeehaw_junction_d = {}
+				b_yeehaw_junction_e = {}
+				b_yeehaw_junction_f = {}
+				b_yeehaw_junction_g = {}
+			}
+			c_okeechobee = {
+				color= { 96 4 58 }
+				color2={ 255 255 255 }
+				holy_site = american_totemist_pagan
+				holy_site = american_totemist_pagan_reformed
+				b_okeechobee_a = {}
+				b_okeechobee_b = {}
+				b_okeechobee_c = {}
+				b_okeechobee_d = {}
+				b_okeechobee_e = {}
+				b_okeechobee_f = {}
+				b_okeechobee_g = {}
+			}
+			c_basinger = {
+				color= { 110 176 77 }
+				color2={ 255 255 255 }
+				b_basinger_a = {}
+				b_basinger_b = {}
+				b_basinger_c = {}
+				b_basinger_d = {}
+				b_basinger_e = {}
+				b_basinger_f = {}
+				b_basinger_g = {}
+			}
+		}
+		d_vero_beach = {
+			color= { 39 155 231 }
+			color2={ 255 255 255 }
+			capital = 261
+			c_white = {
+				color= { 64 176 110 }
+				color2={ 255 255 255 }
+				b_white_a = {}
+				b_white_b = {}
+				b_white_c = {}
+				b_white_d = {}
+				b_white_e = {}
+				b_white_f = {}
+				b_white_g = {}
+			}
+			c_vero_beach = {
+				color= { 39 155 231 }
+				color2={ 255 255 255 }
+				holy_site = jewish
+				holy_site = reform
+				b_vero_beach_a = {}
+				b_vero_beach_b = {}
+				b_vero_beach_c = {}
+				b_vero_beach_d = {}
+				b_vero_beach_e = {}
+				b_vero_beach_f = {}
+				b_vero_beach_g = {}
+			}
+			c_fort_pierce = {
+				color= { 172 91 47 }
+				color2={ 255 255 255 }
+				b_fort_pierce_a = {}
+				b_fort_pierce_b = {}
+				b_fort_pierce_c = {}
+				b_fort_pierce_d = {}
+				b_fort_pierce_e = {}
+				b_fort_pierce_f = {}
+				b_fort_pierce_g = {}
+			}
+			c_port_saint_lucie = {
+				color= { 129 146 151 }
+				color2={ 255 255 255 }
+				b_port_saint_lucie_a = {}
+				b_port_saint_lucie_b = {}
+				b_port_saint_lucie_c = {}
+				b_port_saint_lucie_d = {}
+				b_port_saint_lucie_e = {}
+				b_port_saint_lucie_f = {}
+				b_port_saint_lucie_g = {}
+			}
+			c_vero_corridor = {
+				color= { 13 228 83 }
+				color2={ 255 255 255 }
+				b_vero_corridor_a = {}
+				b_vero_corridor_b = {}
+				b_vero_corridor_c = {}
+				b_vero_corridor_d = {}
+				b_vero_corridor_e = {}
+				b_vero_corridor_f = {}
+				b_vero_corridor_g = {}
+			}
+		}
+		d_sebring = {
+			color= { 4 229 182 }
+			color2={ 255 255 255 }
+			capital = 274
+			c_kissimee_praire_preserve = {
+				color= { 196 112 28 }
+				color2={ 255 255 255 }
+				b_kissimee_praire_preserve_a = {}
+				b_kissimee_praire_preserve_b = {}
+				b_kissimee_praire_preserve_c = {}
+				b_kissimee_praire_preserve_d = {}
+				b_kissimee_praire_preserve_e = {}
+				b_kissimee_praire_preserve_f = {}
+				b_kissimee_praire_preserve_g = {}
+			}
+			c_sebring = {
+				color= { 4 229 182 }
+				color2={ 255 255 255 }
+				b_sebring_a = {}
+				b_sebring_b = {}
+				b_sebring_c = {}
+				b_sebring_d = {}
+				b_sebring_e = {}
+				b_sebring_f = {}
+				b_sebring_g = {}
+			}
+			c_sylvan_shores = {
+				color= { 160 241 95 }
+				color2={ 255 255 255 }
+				b_sylvan_shores_a = {}
+				b_sylvan_shores_b = {}
+				b_sylvan_shores_c = {}
+				b_sylvan_shores_d = {}
+				b_sylvan_shores_e = {}
+				b_sylvan_shores_f = {}
+				b_sylvan_shores_g = {}
+			}
+			c_buckhead_ridge = {
+				color= { 128 10 239 }
+				color2={ 255 255 255 }
+				b_buckhead_ridge_a = {}
+				b_buckhead_ridge_b = {}
+				b_buckhead_ridge_c = {}
+				b_buckhead_ridge_d = {}
+				b_buckhead_ridge_e = {}
+				b_buckhead_ridge_f = {}
+				b_buckhead_ridge_g = {}
+			}
+		}
+	}
+}
+
+e_havanna = {
+	color={ 87 0 127 }
+	color2={ 255 255 255}
+	k_keys = {
+		color={ 180 0 250 }
+		color2={ 255 255 255}
+		capital = 239
+		christian = 12
+		jewish_group = 10
+		d_arcadia = {
+			color= { 75 110 72 }
+			color2={ 255 255 255 }
+			capital = 226
+			c_north_port = {
+				color= { 197 85 212 }
+				color2={ 255 255 255 }
+				b_north_port_a = {}
+				b_north_port_b = {}
+				b_north_port_c = {}
+				b_north_port_d = {}
+				b_north_port_e = {}
+				b_north_port_f = {}
+				b_north_port_g = {}
+			}
+			c_arcadia = {
+				color= { 75 110 72 }
+				color2={ 255 255 255 }
+				b_arcadia_a = {}
+				b_arcadia_b = {}
+				b_arcadia_c = {}
+				b_arcadia_d = {}
+				b_arcadia_e = {}
+				b_arcadia_f = {}
+				b_arcadia_g = {}
+			}
+			c_southeast_arcadia = {
+				color= { 196 6 209 }
+				color2={ 255 255 255 }
+				b_southeast_arcadia_a = {}
+				b_southeast_arcadia_b = {}
+				b_southeast_arcadia_c = {}
+				b_southeast_arcadia_d = {}
+				b_southeast_arcadia_e = {}
+				b_southeast_arcadia_f = {}
+				b_southeast_arcadia_g = {}
+			}
+			c_babcock_ranch_preserve = {
+				color= { 134 142 95 }
+				color2={ 255 255 255 }
+				b_babcock_ranch_preserve_a = {}
+				b_babcock_ranch_preserve_b = {}
+				b_babcock_ranch_preserve_c = {}
+				b_babcock_ranch_preserve_d = {}
+				b_babcock_ranch_preserve_e = {}
+				b_babcock_ranch_preserve_f = {}
+				b_babcock_ranch_preserve_g = {}
+			}
+		}
+		d_naples = {
+			color= { 239 235 10 }
+			color2={ 255 255 255 }
+			capital = 230
+			c_naples = {
+				color= { 239 235 10 }
+				color2={ 255 255 255 }
+				holy_site = jewish
+				holy_site = reform
+				b_naples_a = {}
+				b_naples_b = {}
+				b_naples_c = {}
+				b_naples_d = {}
+				b_naples_e = {}
+				b_naples_f = {}
+				b_naples_g = {}
+			}
+			c_pine_island_sound_aquatic_preserve = {
+				color= { 204 82 236 }
+				color2={ 255 255 255 }
+				b_pine_island_sound_aquatic_preserve_a = {}
+				b_pine_island_sound_aquatic_preserve_b = {}
+				b_pine_island_sound_aquatic_preserve_c = {}
+				b_pine_island_sound_aquatic_preserve_d = {}
+				b_pine_island_sound_aquatic_preserve_e = {}
+				b_pine_island_sound_aquatic_preserve_f = {}
+				b_pine_island_sound_aquatic_preserve_g = {}
+			}
+			c_port_charlotte = {
+				color= { 69 56 221 }
+				color2={ 255 255 255 }
+				b_port_charlotte_a = {}
+				b_port_charlotte_b = {}
+				b_port_charlotte_c = {}
+				b_port_charlotte_d = {}
+				b_port_charlotte_e = {}
+				b_port_charlotte_f = {}
+				b_port_charlotte_g = {}
+			}
+			c_venice = {
+				color= { 146 188 68 }
+				color2={ 255 255 255 }
+				b_venice_a = {}
+				b_venice_b = {}
+				b_venice_c = {}
+				b_venice_d = {}
+				b_venice_e = {}
+				b_venice_f = {}
+				b_venice_g = {}
+			}
+		}
+		d_orangetree = {
+			color= { 241 139 182 }
+			color2={ 255 255 255 }
+			capital = 231
+			c_orangetree = {
+				color= { 241 139 182 }
+				color2={ 255 255 255 }
+				b_orangetree_a = {}
+				b_orangetree_b = {}
+				b_orangetree_c = {}
+				b_orangetree_d = {}
+				b_orangetree_e = {}
+				b_orangetree_f = {}
+				b_orangetree_g = {}
+			}
+			c_ave_maria = {
+				color= { 223 243 170 }
+				color2={ 255 255 255 }
+				b_ave_maria_a = {}
+				b_ave_maria_b = {}
+				b_ave_maria_c = {}
+				b_ave_maria_d = {}
+				b_ave_maria_e = {}
+				b_ave_maria_f = {}
+				b_ave_maria_g = {}
+			}
+			c_cape_romano = {
+				color= { 29 14 129 }
+				color2={ 255 255 255 }
+				b_cape_romano_a = {}
+				b_cape_romano_b = {}
+				b_cape_romano_c = {}
+				b_cape_romano_d = {}
+				b_cape_romano_e = {}
+				b_cape_romano_f = {}
+				b_cape_romano_g = {}
+			}
+			c_carnestown = {
+				color= { 94 208 170 }
+				color2={ 255 255 255 }
+				b_carnestown_a = {}
+				b_carnestown_b = {}
+				b_carnestown_c = {}
+				b_carnestown_d = {}
+				b_carnestown_e = {}
+				b_carnestown_f = {}
+				b_carnestown_g = {}
+			}
+		}
+		d_chokoloskee = {
+			color= { 159 39 132 }
+			color2={ 255 255 255 }
+			capital = 235
+			c_everglades_city = {
+				color= { 37 99 43 }
+				color2={ 255 255 255 }
+				b_everglades_city_a = {}
+				b_everglades_city_b = {}
+				b_everglades_city_c = {}
+				b_everglades_city_d = {}
+				b_everglades_city_e = {}
+				b_everglades_city_f = {}
+				b_everglades_city_g = {}
+			}
+			c_chokoloskee = {
+				color= { 159 39 132 }
+				color2={ 255 255 255 }
+				b_chokoloskee_a = {}
+				b_chokoloskee_b = {}
+				b_chokoloskee_c = {}
+				b_chokoloskee_d = {}
+				b_chokoloskee_e = {}
+				b_chokoloskee_f = {}
+				b_chokoloskee_g = {}
+			}
+			c_everglades_park = {
+				color= { 133 21 130 }
+				color2={ 255 255 255 }
+				b_everglades_park_a = {}
+				b_everglades_park_b = {}
+				b_everglades_park_c = {}
+				b_everglades_park_d = {}
+				b_everglades_park_e = {}
+				b_everglades_park_f = {}
+				b_everglades_park_g = {}
+			}
+			c_marathon = {
+				color= { 147 19 55 }
+				color2={ 255 255 255 }
+				b_marathon_a = {}
+				b_marathon_b = {}
+				b_marathon_c = {}
+				b_marathon_d = {}
+				b_marathon_e = {}
+				b_marathon_f = {}
+				b_marathon_g = {}
+			}
+		}
+		d_key_west = {
+			color= { 22 170 171 }
+			color2={ 255 255 255 }
+			capital = 239
+			c_big_pine_key = {
+				color= { 72 234 143 }
+				color2={ 255 255 255 }
+				b_big_pine_key_a = {}
+				b_big_pine_key_b = {}
+				b_big_pine_key_c = {}
+				b_big_pine_key_d = {}
+				b_big_pine_key_e = {}
+				b_big_pine_key_f = {}
+				b_big_pine_key_g = {}
+			}
+			c_cudjoe_key = {
+				color= { 99 18 8 }
+				color2={ 255 255 255 }
+				holy_site = american_totemist_pagan
+				holy_site = american_totemist_pagan_reformed
+				b_cudjoe_key_a = {}
+				b_cudjoe_key_b = {}
+				b_cudjoe_key_c = {}
+				b_cudjoe_key_d = {}
+				b_cudjoe_key_e = {}
+				b_cudjoe_key_f = {}
+				b_cudjoe_key_g = {}
+			}
+			c_key_west = {
+				color= { 22 170 171 }
+				color2={ 255 255 255 }
+				b_key_west_a = {}
+				b_key_west_b = {}
+				b_key_west_c = {}
+				b_key_west_d = {}
+				b_key_west_e = {}
+				b_key_west_f = {}
+				b_key_west_g = {}
+			}
+			c_dry_tortugas_national_park = {
+				color= { 227 159 211 }
+				color2={ 255 255 255 }
+				b_dry_tortugas_national_park_a = {}
+				b_dry_tortugas_national_park_b = {}
+				b_dry_tortugas_national_park_c = {}
+				b_dry_tortugas_national_park_d = {}
+				b_dry_tortugas_national_park_e = {}
+				b_dry_tortugas_national_park_f = {}
+				b_dry_tortugas_national_park_g = {}
+			}
+		}
+	}
+	k_havanna = {
+		color={ 87 0 127 }
+		color2={ 255 255 255}
+		capital = 175
+		christian = 9
+		jewish_group = 5
+		d_havana = {
+			capital = 175
+			color= { 189 118 120 }
+			color2={ 255 255 255 }
+			c_san_nicolas_de_bari = {
+				color= { 241 252 219 }
+				color2={ 255 255 255 }
+				b_san_nicolas_de_bari_a = {}
+				b_san_nicolas_de_bari_b = {}
+				b_san_nicolas_de_bari_c = {}
+				b_san_nicolas_de_bari_d = {}
+				b_san_nicolas_de_bari_e = {}
+				b_san_nicolas_de_bari_f = {}
+				b_san_nicolas_de_bari_g = {}
+			}
+			c_santa_cruz_del_norte = {
+				color= { 178 223 236 }
+				color2={ 255 255 255 }
+				b_santa_cruz_del_norte_a = {}
+				b_santa_cruz_del_norte_b = {}
+				b_santa_cruz_del_norte_c = {}
+				b_santa_cruz_del_norte_d = {}
+				b_santa_cruz_del_norte_e = {}
+				b_santa_cruz_del_norte_f = {}
+				b_santa_cruz_del_norte_g = {}
+			}
+			c_havana = {
+				color= { 189 118 120 }
+				color2={ 255 255 255 }
+				holy_site = none
+				b_havana_a = {}
+				b_havana_b = {}
+				b_havana_c = {}
+				b_havana_d = {}
+				b_havana_e = {}
+				b_havana_f = {}
+				b_havana_g = {}
+			}
+			c_surgidero_de_batabano = {
+				color= { 161 241 242 }
+				color2={ 255 255 255 }
+				b_surgidero_de_batabano_a = {}
+				b_surgidero_de_batabano_b = {}
+				b_surgidero_de_batabano_c = {}
+				b_surgidero_de_batabano_d = {}
+				b_surgidero_de_batabano_e = {}
+				b_surgidero_de_batabano_f = {}
+				b_surgidero_de_batabano_g = {}
+			}
+		}
+		d_nueva_paz = {
+			color= { 233 132 86 }
+			color2={ 255 255 255 }
+			capital = 120
+			c_playa_larga = {
+				color= { 79 166 58 }
+				color2={ 255 255 255 }
+				b_playa_larga_a = {}
+				b_playa_larga_b = {}
+				b_playa_larga_c = {}
+				b_playa_larga_d = {}
+				b_playa_larga_e = {}
+				b_playa_larga_f = {}
+				b_playa_larga_g = {}
+			}
+			c_nueva_paz = {
+				color= { 233 132 86 }
+				color2={ 255 255 255 }
+				b_nueva_paz_a = {}
+				b_nueva_paz_b = {}
+				b_nueva_paz_c = {}
+				b_nueva_paz_d = {}
+				b_nueva_paz_e = {}
+				b_nueva_paz_f = {}
+				b_nueva_paz_g = {}
+			}
+			c_eastern_parque_cienaga_de_zapata = {
+				color= { 164 193 213 }
+				color2={ 255 255 255 }
+				b_eastern_parque_cienaga_de_zapata_a = {}
+				b_eastern_parque_cienaga_de_zapata_b = {}
+				b_eastern_parque_cienaga_de_zapata_c = {}
+				b_eastern_parque_cienaga_de_zapata_d = {}
+				b_eastern_parque_cienaga_de_zapata_e = {}
+				b_eastern_parque_cienaga_de_zapata_f = {}
+				b_eastern_parque_cienaga_de_zapata_g = {}
+			}
+			c_jaguey_grande = {
+				color= { 104 110 141 }
+				color2={ 255 255 255 }
+				b_jaguey_grande_a = {}
+				b_jaguey_grande_b = {}
+				b_jaguey_grande_c = {}
+				b_jaguey_grande_d = {}
+				b_jaguey_grande_e = {}
+				b_jaguey_grande_f = {}
+				b_jaguey_grande_g = {}
+			}
+			c_constancia = {
+				color= { 49 145 154 }
+				color2={ 255 255 255 }
+				b_constancia_a = {}
+				b_constancia_b = {}
+				b_constancia_c = {}
+				b_constancia_d = {}
+				b_constancia_e = {}
+				b_constancia_f = {}
+				b_constancia_g = {}
+			}
+			c_union_de_reyes = {
+				color= { 34 104 117 }
+				color2={ 255 255 255 }
+				b_union_de_reyes_a = {}
+				b_union_de_reyes_b = {}
+				b_union_de_reyes_c = {}
+				b_union_de_reyes_d = {}
+				b_union_de_reyes_e = {}
+				b_union_de_reyes_f = {}
+				b_union_de_reyes_g = {}
+			}
+		}
+		d_central_parque_cienaga_de_zapata = {
+			color= { 248 129 70 }
+			color2={ 255 255 255 }
+			capital = 167
+			c_san_miguel_de_los_banos = {
+				color= { 165 127 181 }
+				color2={ 255 255 255 }
+				b_san_miguel_de_los_banos_a = {}
+				b_san_miguel_de_los_banos_b = {}
+				b_san_miguel_de_los_banos_c = {}
+				b_san_miguel_de_los_banos_d = {}
+				b_san_miguel_de_los_banos_e = {}
+				b_san_miguel_de_los_banos_f = {}
+				b_san_miguel_de_los_banos_g = {}
+			}
+			c_aguacate = {
+				color= { 50 80 16 }
+				color2={ 255 255 255 }
+				b_aguacate_a = {}
+				b_aguacate_b = {}
+				b_aguacate_c = {}
+				b_aguacate_d = {}
+				b_aguacate_e = {}
+				b_aguacate_f = {}
+				b_aguacate_g = {}
+			}
+			c_central_parque_cienaga_de_zapata = {
+				color= { 248 129 70 }
+				color2={ 255 255 255 }
+				b_central_parque_cienaga_de_zapata_a = {}
+				b_central_parque_cienaga_de_zapata_b = {}
+				b_central_parque_cienaga_de_zapata_c = {}
+				b_central_parque_cienaga_de_zapata_d = {}
+				b_central_parque_cienaga_de_zapata_e = {}
+				b_central_parque_cienaga_de_zapata_f = {}
+				b_central_parque_cienaga_de_zapata_g = {}
+			}
+			c_southern_parque_cienaga_de_zapata = {
+				color= { 163 5 220 }
+				color2={ 255 255 255 }
+				b_southern_parque_cienaga_de_zapata_a = {}
+				b_southern_parque_cienaga_de_zapata_b = {}
+				b_southern_parque_cienaga_de_zapata_c = {}
+				b_southern_parque_cienaga_de_zapata_d = {}
+				b_southern_parque_cienaga_de_zapata_e = {}
+				b_southern_parque_cienaga_de_zapata_f = {}
+				b_southern_parque_cienaga_de_zapata_g = {}
+			}
+			c_far_parque_cienaga_de_zapata = {
+				color= { 103 175 138 }
+				color2={ 255 255 255 }
+				b_far_parque_cienaga_de_zapata_a = {}
+				b_far_parque_cienaga_de_zapata_b = {}
+				b_far_parque_cienaga_de_zapata_c = {}
+				b_far_parque_cienaga_de_zapata_d = {}
+				b_far_parque_cienaga_de_zapata_e = {}
+				b_far_parque_cienaga_de_zapata_f = {}
+				b_far_parque_cienaga_de_zapata_g = {}
+			}
+			c_parque_cienaga_de_zapata = {
+				color= { 54 40 228 }
+				color2={ 255 255 255 }
+				b_parque_cienaga_de_zapata_a = {}
+				b_parque_cienaga_de_zapata_b = {}
+				b_parque_cienaga_de_zapata_c = {}
+				b_parque_cienaga_de_zapata_d = {}
+				b_parque_cienaga_de_zapata_e = {}
+				b_parque_cienaga_de_zapata_f = {}
+				b_parque_cienaga_de_zapata_g = {}
+			}
+		}
+		d_matanzas = {
+			color= { 236 8 252 }
+			color2={ 255 255 255 }
+			capital = 165
+			c_cardenas = {
+				color= { 183 40 102 }
+				color2={ 255 255 255 }
+				b_cardenas_a = {}
+				b_cardenas_b = {}
+				b_cardenas_c = {}
+				b_cardenas_d = {}
+				b_cardenas_e = {}
+				b_cardenas_f = {}
+				b_cardenas_g = {}
+			}
+			c_pedro_betancourt = {
+				color= { 192 171 45 }
+				color2={ 255 255 255 }
+				b_pedro_betancourt_a = {}
+				b_pedro_betancourt_b = {}
+				b_pedro_betancourt_c = {}
+				b_pedro_betancourt_d = {}
+				b_pedro_betancourt_e = {}
+				b_pedro_betancourt_f = {}
+				b_pedro_betancourt_g = {}
+			}
+			c_matanzas = {
+				color= { 236 8 252 }
+				color2={ 255 255 255 }
+				b_matanzas_a = {}
+				b_matanzas_b = {}
+				b_matanzas_c = {}
+				b_matanzas_d = {}
+				b_matanzas_e = {}
+				b_matanzas_f = {}
+				b_matanzas_g = {}
+			}
+			c_bacunayagua = {
+				color= { 191 200 20 }
+				color2={ 255 255 255 }
+				b_bacunayagua_a = {}
+				b_bacunayagua_b = {}
+				b_bacunayagua_c = {}
+				b_bacunayagua_d = {}
+				b_bacunayagua_e = {}
+				b_bacunayagua_f = {}
+				b_bacunayagua_g = {}
+			}
+		}
+	}
+	k_santa_clara = {
+		color={ 212 32 200 }
+		color2={ 255 255 255}
+		capital = 216
+		christian = 10
+		jewish_group = 11
+		d_colon = {
+			color= { 195 208 48 }
+			color2={ 255 255 255 }
+			capital = 219
+			c_moron = {
+				color= { 20 195 221 }
+				color2={ 255 255 255 }
+				b_moron_a = {}
+				b_moron_b = {}
+				b_moron_c = {}
+				b_moron_d = {}
+				b_moron_e = {}
+				b_moron_f = {}
+				b_moron_g = {}
+			}
+			c_cayo_fragoso = {
+				color= { 22 151 76 }
+				color2={ 255 255 255 }
+				b_cayo_fragoso_a = {}
+				b_cayo_fragoso_b = {}
+				b_cayo_fragoso_c = {}
+				b_cayo_fragoso_d = {}
+				b_cayo_fragoso_e = {}
+				b_cayo_fragoso_f = {}
+				b_cayo_fragoso_g = {}
+			}
+			c_colon = {
+				color= { 195 208 48 }
+				color2={ 255 255 255 }
+				b_colon_a = {}
+				b_colon_b = {}
+				b_colon_c = {}
+				b_colon_d = {}
+				b_colon_e = {}
+				b_colon_f = {}
+				b_colon_g = {}
+			}
+			c_la_teja = {
+				color= { 5 4 93 }
+				color2={ 255 255 255 }
+				b_la_teja_a = {}
+				b_la_teja_b = {}
+				b_la_teja_c = {}
+				b_la_teja_d = {}
+				b_la_teja_e = {}
+				b_la_teja_f = {}
+				b_la_teja_g = {}
+			}
+		}
+		d_puerto_padre = {
+			color= { 121 253 79 }
+			color2={ 255 255 255 }
+			capital = 205
+			c_cayo_romano = {
+				color= { 236 128 77 }
+				color2={ 255 255 255 }
+				b_cayo_romano_a = {}
+				b_cayo_romano_b = {}
+				b_cayo_romano_c = {}
+				b_cayo_romano_d = {}
+				b_cayo_romano_e = {}
+				b_cayo_romano_f = {}
+				b_cayo_romano_g = {}
+			}
+			c_puerto_padre = {
+				color= { 121 253 79 }
+				color2={ 255 255 255 }
+				b_puerto_padre_a = {}
+				b_puerto_padre_b = {}
+				b_puerto_padre_c = {}
+				b_puerto_padre_d = {}
+				b_puerto_padre_e = {}
+				b_puerto_padre_f = {}
+				b_puerto_padre_g = {}
+			}
+			c_colobia = {
+				color= { 0 105 167 }
+				color2={ 255 255 255 }
+				b_colobia_a = {}
+				b_colobia_b = {}
+				b_colobia_c = {}
+				b_colobia_d = {}
+				b_colobia_e = {}
+				b_colobia_f = {}
+				b_colobia_g = {}
+			}
+			c_vilato = {
+				color= { 215 149 6 }
+				color2={ 255 255 255 }
+				b_vilato_a = {}
+				b_vilato_b = {}
+				b_vilato_c = {}
+				b_vilato_d = {}
+				b_vilato_e = {}
+				b_vilato_f = {}
+				b_vilato_g = {}
+			}
+		}
+		d_sabalo = {
+			color= { 80 61 30 }
+			color2={ 255 255 255 }
+			capital = 208
+			c_las_tunas = {
+				color= { 180 233 39 }
+				color2={ 255 255 255 }
+				b_las_tunas_a = {}
+				b_las_tunas_b = {}
+				b_las_tunas_c = {}
+				b_las_tunas_d = {}
+				b_las_tunas_e = {}
+				b_las_tunas_f = {}
+				b_las_tunas_g = {}
+			}
+			c_bayamo = {
+				color= { 136 227 124 }
+				color2={ 255 255 255 }
+				b_bayamo_a = {}
+				b_bayamo_b = {}
+				b_bayamo_c = {}
+				b_bayamo_d = {}
+				b_bayamo_e = {}
+				b_bayamo_f = {}
+				b_bayamo_g = {}
+			}
+			c_sabalo = {
+				color= { 80 61 30 }
+				color2={ 255 255 255 }
+				b_sabalo_a = {}
+				b_sabalo_b = {}
+				b_sabalo_c = {}
+				b_sabalo_d = {}
+				b_sabalo_e = {}
+				b_sabalo_f = {}
+				b_sabalo_g = {}
+			}
+		}
+		d_santa_clara = {
+			color= { 133 1 127 }
+			color2={ 255 255 255 }
+			capital = 216
+			c_santa_clara = {
+				color= { 133 1 127 }
+				color2={ 255 255 255 }
+				holy_site = none
+				b_santa_clara_a = {}
+				b_santa_clara_b = {}
+				b_santa_clara_c = {}
+				b_santa_clara_d = {}
+				b_santa_clara_e = {}
+				b_santa_clara_f = {}
+				b_santa_clara_g = {}
+			}
+			c_cienfuegos = {
+				color= { 24 77 188 }
+				color2={ 255 255 255 }
+				b_cienfuegos_a = {}
+				b_cienfuegos_b = {}
+				b_cienfuegos_c = {}
+				b_cienfuegos_d = {}
+				b_cienfuegos_e = {}
+				b_cienfuegos_f = {}
+				b_cienfuegos_g = {}
+			}
+			c_candido_gonzalez = {
+				color= { 173 11 157 }
+				color2={ 255 255 255 }
+				b_candido_gonzalez_a = {}
+				b_candido_gonzalez_b = {}
+				b_candido_gonzalez_c = {}
+				b_candido_gonzalez_d = {}
+				b_candido_gonzalez_e = {}
+				b_candido_gonzalez_f = {}
+				b_candido_gonzalez_g = {}
+			}
+			c_venezuela = {
+				color= { 81 129 228 }
+				color2={ 255 255 255 }
+				b_venezuela_a = {}
+				b_venezuela_b = {}
+				b_venezuela_c = {}
+				b_venezuela_d = {}
+				b_venezuela_e = {}
+				b_venezuela_f = {}
+				b_venezuela_g = {}
+			}
+			c_camaguey = {
+				color= { 99 82 187 }
+				color2={ 255 255 255 }
+				b_camaguey_a = {}
+				b_camaguey_b = {}
+				b_camaguey_c = {}
+				b_camaguey_d = {}
+				b_camaguey_e = {}
+				b_camaguey_f = {}
+				b_camaguey_g = {}
+			}
+		}
+		d_freeport = {
+			color= { 43 193 150 }
+			color2={ 255 255 255 }
+			capital = 201
+			c_freeport = {
+				color= { 43 193 150 }
+				color2={ 255 255 255 }
+				b_freeport_a = {}
+				b_freeport_b = {}
+				b_freeport_c = {}
+				b_freeport_d = {}
+				b_freeport_e = {}
+				b_freeport_f = {}
+				b_freeport_g = {}
+			}
+			c_left_islands = {
+				color= { 43 50 57 }
+				color2={ 255 255 255 }
+				b_left_islands_a = {}
+				b_left_islands_b = {}
+				b_left_islands_c = {}
+				b_left_islands_d = {}
+				b_left_islands_e = {}
+				b_left_islands_f = {}
+				b_left_islands_g = {}
+			}
+			c_right_islands = {
+				color= { 76 72 33 }
+				color2={ 255 255 255 }
+				b_right_islands_a = {}
+				b_right_islands_b = {}
+				b_right_islands_c = {}
+				b_right_islands_d = {}
+				b_right_islands_e = {}
+				b_right_islands_f = {}
+				b_right_islands_g = {}
+			}
+		}
+	}
+}
+
+e_pinar_del_rio = {
+	color={ 255 0 0 }
+	color2={ 255 255 255}
+	k_yucatan = {
+		color={ 255 157 0 }
+		color2={ 255 255 255}
+		capital = 80
+		christian = 1
+		jewish_group = 1
+		purple_born_heirs = yes
+		d_hunucma = {
+			color= { 14 115 196 }
+			color2={ 255 255 255 }
+			capital = 62
+			c_celestun = {
+				color= { 217 251 194 }
+				color2={ 255 255 255 }
+				b_celestun_a = {}
+				b_celestun_b = {}
+				b_celestun_c = {}
+				b_celestun_d = {}
+				b_celestun_e = {}
+				b_celestun_f = {}
+				b_celestun_g = {}
+			}
+			c_hunucma = {
+				color= { 14 115 196 }
+				color2={ 255 255 255 }
+				b_hunucma_a = {}
+				b_hunucma_b = {}
+				b_hunucma_c = {}
+				b_hunucma_d = {}
+				b_hunucma_e = {}
+				b_hunucma_f = {}
+				b_hunucma_g = {}
+			}
+			c_uman = {
+				color= { 183 41 126 }
+				color2={ 255 255 255 }
+				b_uman_a = {}
+				b_uman_b = {}
+				b_uman_c = {}
+				b_uman_d = {}
+				b_uman_e = {}
+				b_uman_f = {}
+				b_uman_g = {}
+			}
+			c_progreso = {
+				color= { 78 48 63 }
+				color2={ 255 255 255 }
+				b_progreso_a = {}
+				b_progreso_b = {}
+				b_progreso_c = {}
+				b_progreso_d = {}
+				b_progreso_e = {}
+				b_progreso_f = {}
+				b_progreso_g = {}
+			}
+		}
+		d_merida = {
+			color= { 237 74 127 }
+			color2={ 255 255 255 }
+			capital = 65
+			c_merida = {
+				color= { 237 74 127 }
+				color2={ 255 255 255 }
+				b_merida_a = {}
+				b_merida_b = {}
+				b_merida_c = {}
+				b_merida_d = {}
+				b_merida_e = {}
+				b_merida_f = {}
+				b_merida_g = {}
+			}
+			c_foxen_defunkiak_springsin = {
+				color= { 110 86 56 }
+				color2={ 255 255 255 }
+				b_foxen_defunkiak_springsin_a = {}
+				b_foxen_defunkiak_springsin_b = {}
+				b_foxen_defunkiak_springsin_c = {}
+				b_foxen_defunkiak_springsin_d = {}
+				b_foxen_defunkiak_springsin_e = {}
+				b_foxen_defunkiak_springsin_f = {}
+				b_foxen_defunkiak_springsin_g = {}
+			}
+			c_izamal = {
+				color= { 6 246 167 }
+				color2={ 255 255 255 }
+				b_izamal_a = {}
+				b_izamal_b = {}
+				b_izamal_c = {}
+				b_izamal_d = {}
+				b_izamal_e = {}
+				b_izamal_f = {}
+				b_izamal_g = {}
+			}
+			c_dzidzantun = {
+				color= { 252 225 50 }
+				color2={ 255 255 255 }
+				b_dzidzantun_a = {}
+				b_dzidzantun_b = {}
+				b_dzidzantun_c = {}
+				b_dzidzantun_d = {}
+				b_dzidzantun_e = {}
+				b_dzidzantun_f = {}
+				b_dzidzantun_g = {}
+			}
+		}
+		d_la_gran_lucha = {
+			color= { 0 250 110 }
+			color2={ 255 255 255 }
+			capital = 70
+			c_piste = {
+				color= { 145 111 90 }
+				color2={ 255 255 255 }
+				b_piste_a = {}
+				b_piste_b = {}
+				b_piste_c = {}
+				b_piste_d = {}
+				b_piste_e = {}
+				b_piste_f = {}
+				b_piste_g = {}
+			}
+			c_la_gran_lucha = {
+				color= { 0 250 110 }
+				color2={ 255 255 255 }
+				b_la_gran_lucha_a = {}
+				b_la_gran_lucha_b = {}
+				b_la_gran_lucha_c = {}
+				b_la_gran_lucha_d = {}
+				b_la_gran_lucha_e = {}
+				b_la_gran_lucha_f = {}
+				b_la_gran_lucha_g = {}
+			}
+			c_valladolid = {
+				color= { 192 19 196 }
+				color2={ 255 255 255 }
+				b_valladolid_a = {}
+				b_valladolid_b = {}
+				b_valladolid_c = {}
+				b_valladolid_d = {}
+				b_valladolid_e = {}
+				b_valladolid_f = {}
+				b_valladolid_g = {}
+			}
+			c_tizimin = {
+				color= { 16 234 152 }
+				color2={ 255 255 255 }
+				b_tizimin_a = {}
+				b_tizimin_b = {}
+				b_tizimin_c = {}
+				b_tizimin_d = {}
+				b_tizimin_e = {}
+				b_tizimin_f = {}
+				b_tizimin_g = {}
+			}
+		}
+		d_chemax = {
+			color= { 11 218 233 }
+			color2={ 255 255 255 }
+			capital = 74
+			c_rio_lagartos = {
+				color= { 54 175 26 }
+				color2={ 255 255 255 }
+				b_rio_lagartos_a = {}
+				b_rio_lagartos_b = {}
+				b_rio_lagartos_c = {}
+				b_rio_lagartos_d = {}
+				b_rio_lagartos_e = {}
+				b_rio_lagartos_f = {}
+				b_rio_lagartos_g = {}
+			}
+			c_chemax = {
+				color= { 11 218 233 }
+				color2={ 255 255 255 }
+				b_chemax_a = {}
+				b_chemax_b = {}
+				b_chemax_c = {}
+				b_chemax_d = {}
+				b_chemax_e = {}
+				b_chemax_f = {}
+				b_chemax_g = {}
+			}
+			c_el_cuyo = {
+				color= { 76 45 111 }
+				color2={ 255 255 255 }
+				b_el_cuyo_a = {}
+				b_el_cuyo_b = {}
+				b_el_cuyo_c = {}
+				b_el_cuyo_d = {}
+				b_el_cuyo_e = {}
+				b_el_cuyo_f = {}
+				b_el_cuyo_g = {}
+			}
+			c_kantunilkin = {
+				color= { 87 86 184 }
+				color2={ 255 255 255 }
+				b_kantunilkin_a = {}
+				b_kantunilkin_b = {}
+				b_kantunilkin_c = {}
+				b_kantunilkin_d = {}
+				b_kantunilkin_e = {}
+				b_kantunilkin_f = {}
+				b_kantunilkin_g = {}
+			}
+		}
+		d_cancun = {
+			color= { 16 181 61 }
+			color2={ 255 255 255 }
+			capital = 80
+			c_holbox = {
+				color= { 9 90 126 }
+				color2={ 255 255 255 }
+				b_holbox_a = {}
+				b_holbox_b = {}
+				b_holbox_c = {}
+				b_holbox_d = {}
+				b_holbox_e = {}
+				b_holbox_f = {}
+				b_holbox_g = {}
+			}
+			c_coba = {
+				color= { 95 140 55 }
+				color2={ 255 255 255 }
+				b_coba_a = {}
+				b_coba_b = {}
+				b_coba_c = {}
+				b_coba_d = {}
+				b_coba_e = {}
+				b_coba_f = {}
+				b_coba_g = {}
+			}
+			c_play_del_carmen = {
+				color= { 170 73 78 }
+				color2={ 255 255 255 }
+				b_play_del_carmen_a = {}
+				b_play_del_carmen_b = {}
+				b_play_del_carmen_c = {}
+				b_play_del_carmen_d = {}
+				b_play_del_carmen_e = {}
+				b_play_del_carmen_f = {}
+				b_play_del_carmen_g = {}
+			}
+			c_cancun = {
+				color= { 16 181 61 }
+				color2={ 255 255 255 }
+				b_cancun_a = {}
+				b_cancun_b = {}
+				b_cancun_c = {}
+				b_cancun_d = {}
+				b_cancun_e = {}
+				b_cancun_f = {}
+				b_cancun_g = {}
+			}
+		}
+	}
+	k_juventud = {
+		color={ 255 0 64 }
+		color2={ 255 255 255}
+		capital = 105
+		christian = 4
+		jewish_group = 3
+		d_delita = {
+			color= { 81 141 23 }
+			color2={ 255 255 255 }
+			capital = 105
+			c_carapachibey = {
+				color= { 242 70 212 }
+				color2={ 255 255 255 }
+				b_carapachibey_a = {}
+				b_carapachibey_b = {}
+				b_carapachibey_c = {}
+				b_carapachibey_d = {}
+				b_carapachibey_e = {}
+				b_carapachibey_f = {}
+				b_carapachibey_g = {}
+			}
+			c_cayos_de_san_felipe = {
+				color= { 173 93 203 }
+				color2={ 255 255 255 }
+				b_cayos_de_san_felipe_a = {}
+				b_cayos_de_san_felipe_b = {}
+				b_cayos_de_san_felipe_c = {}
+				b_cayos_de_san_felipe_d = {}
+				b_cayos_de_san_felipe_e = {}
+				b_cayos_de_san_felipe_f = {}
+				b_cayos_de_san_felipe_g = {}
+			}
+			c_delita = {
+				color= { 81 141 23 }
+				color2={ 255 255 255 }
+				b_delita_a = {}
+				b_delita_b = {}
+				b_delita_c = {}
+				b_delita_d = {}
+				b_delita_e = {}
+				b_delita_f = {}
+				b_delita_g = {}
+			}
+			c_siguanea = {
+				color= { 74 147 178 }
+				color2={ 255 255 255 }
+				b_siguanea_a = {}
+				b_siguanea_b = {}
+				b_siguanea_c = {}
+				b_siguanea_d = {}
+				b_siguanea_e = {}
+				b_siguanea_f = {}
+				b_siguanea_g = {}
+			}
+		}
+		d_santa_fe = {
+			color= { 83 48 210 }
+			color2={ 255 255 255 }
+			capital = 108
+			c_parque_marino_de_punta = {
+				color= { 176 82 197 }
+				color2={ 255 255 255 }
+				b_parque_marino_de_punta_a = {}
+				b_parque_marino_de_punta_b = {}
+				b_parque_marino_de_punta_c = {}
+				b_parque_marino_de_punta_d = {}
+				b_parque_marino_de_punta_e = {}
+				b_parque_marino_de_punta_f = {}
+				b_parque_marino_de_punta_g = {}
+			}
+			c_santa_fe = {
+				color= { 83 48 210 }
+				color2={ 255 255 255 }
+				holy_site = none
+				b_santa_fe_a = {}
+				b_santa_fe_b = {}
+				b_santa_fe_c = {}
+				b_santa_fe_d = {}
+				b_santa_fe_e = {}
+				b_santa_fe_f = {}
+				b_santa_fe_g = {}
+			}
+			c_nueva_gerona = {
+				color= { 154 233 60 }
+				color2={ 255 255 255 }
+				b_nueva_gerona_a = {}
+				b_nueva_gerona_b = {}
+				b_nueva_gerona_c = {}
+				b_nueva_gerona_d = {}
+				b_nueva_gerona_e = {}
+				b_nueva_gerona_f = {}
+				b_nueva_gerona_g = {}
+			}
+			c_cayos_los_cayuelos = {
+				color= { 182 70 235 }
+				color2={ 255 255 255 }
+				b_cayos_los_cayuelos_a = {}
+				b_cayos_los_cayuelos_b = {}
+				b_cayos_los_cayuelos_c = {}
+				b_cayos_los_cayuelos_d = {}
+				b_cayos_los_cayuelos_e = {}
+				b_cayos_los_cayuelos_f = {}
+				b_cayos_los_cayuelos_g = {}
+			}
+		}
+		d_islas_de_mangles = {
+			color= { 0 100 144 }
+			color2={ 255 255 255 }
+			capital = 102
+			c_la_demajagua = {
+				color= { 143 232 171 }
+				color2={ 255 255 255 }
+				b_la_demajagua_a = {}
+				b_la_demajagua_b = {}
+				b_la_demajagua_c = {}
+				b_la_demajagua_d = {}
+				b_la_demajagua_e = {}
+				b_la_demajagua_f = {}
+				b_la_demajagua_g = {}
+			}
+			c_islas_de_batabanos = {
+				color= { 31 225 121 }
+				color2={ 255 255 255 }
+				b_islas_de_batabanos_a = {}
+				b_islas_de_batabanos_b = {}
+				b_islas_de_batabanos_c = {}
+				b_islas_de_batabanos_d = {}
+				b_islas_de_batabanos_e = {}
+				b_islas_de_batabanos_f = {}
+				b_islas_de_batabanos_g = {}
+			}
+			c_islas_de_mangles = {
+				color= { 0 100 144 }
+				color2={ 255 255 255 }
+				b_islas_de_mangles_a = {}
+				b_islas_de_mangles_b = {}
+				b_islas_de_mangles_c = {}
+				b_islas_de_mangles_d = {}
+				b_islas_de_mangles_e = {}
+				b_islas_de_mangles_f = {}
+				b_islas_de_mangles_g = {}
+			}
+			c_cayo_boca_de_alonso = {
+				color= { 52 42 86 }
+				color2={ 255 255 255 }
+				b_cayo_boca_de_alonso_a = {}
+				b_cayo_boca_de_alonso_b = {}
+				b_cayo_boca_de_alonso_c = {}
+				b_cayo_boca_de_alonso_d = {}
+				b_cayo_boca_de_alonso_e = {}
+				b_cayo_boca_de_alonso_f = {}
+				b_cayo_boca_de_alonso_g = {}
+			}
+		}
+		d_cayo_diego_perez = {
+			color= { 88 139 199 }
+			color2={ 255 255 255 }
+			capital = 115
+			c_cayo_campos = {
+				color= { 9 9 143 }
+				color2={ 255 255 255 }
+				b_cayo_campos_a = {}
+				b_cayo_campos_b = {}
+				b_cayo_campos_c = {}
+				b_cayo_campos_d = {}
+				b_cayo_campos_e = {}
+				b_cayo_campos_f = {}
+				b_cayo_campos_g = {}
+			}
+			c_cayo_ciprey = {
+				color= { 10 159 115 }
+				color2={ 255 255 255 }
+				b_cayo_ciprey_a = {}
+				b_cayo_ciprey_b = {}
+				b_cayo_ciprey_c = {}
+				b_cayo_ciprey_d = {}
+				b_cayo_ciprey_e = {}
+				b_cayo_ciprey_f = {}
+				b_cayo_ciprey_g = {}
+			}
+			c_cayo_diego_perez = {
+				color= { 88 139 199 }
+				color2={ 255 255 255 }
+				b_cayo_diego_perez_a = {}
+				b_cayo_diego_perez_b = {}
+				b_cayo_diego_perez_c = {}
+				b_cayo_diego_perez_d = {}
+				b_cayo_diego_perez_e = {}
+				b_cayo_diego_perez_f = {}
+				b_cayo_diego_perez_g = {}
+			}
+			c_cayo_divisa = {
+				color= { 243 237 202 }
+				color2={ 255 255 255 }
+				b_cayo_divisa_a = {}
+				b_cayo_divisa_b = {}
+				b_cayo_divisa_c = {}
+				b_cayo_divisa_d = {}
+				b_cayo_divisa_e = {}
+				b_cayo_divisa_f = {}
+				b_cayo_divisa_g = {}
+			}
+			c_playa_sirena = {
+				color= { 24 235 155 }
+				color2={ 255 255 255 }
+				b_playa_sirena_a = {}
+				b_playa_sirena_b = {}
+				b_playa_sirena_c = {}
+				b_playa_sirena_d = {}
+				b_playa_sirena_e = {}
+				b_playa_sirena_f = {}
+				b_playa_sirena_g = {}
+			}
+		}
+		d_sandino = {
+			color= { 12 233 203 }
+			color2={ 255 255 255 }
+			capital = 82
+			c_las_tumbas = {
+				color= { 162 33 106 }
+				color2={ 255 255 255 }
+				b_las_tumbas_a = {}
+				b_las_tumbas_b = {}
+				b_las_tumbas_c = {}
+				b_las_tumbas_d = {}
+				b_las_tumbas_e = {}
+				b_las_tumbas_f = {}
+				b_las_tumbas_g = {}
+			}
+			c_maria_la_gorda = {
+				color= { 69 252 16 }
+				color2={ 255 255 255 }
+				b_maria_la_gorda_a = {}
+				b_maria_la_gorda_b = {}
+				b_maria_la_gorda_c = {}
+				b_maria_la_gorda_d = {}
+				b_maria_la_gorda_e = {}
+				b_maria_la_gorda_f = {}
+				b_maria_la_gorda_g = {}
+			}
+			c_sandino = {
+				color= { 12 233 203 }
+				color2={ 255 255 255 }
+				b_sandino_a = {}
+				b_sandino_b = {}
+				b_sandino_c = {}
+				b_sandino_d = {}
+				b_sandino_e = {}
+				b_sandino_f = {}
+				b_sandino_g = {}
+			}
+			c_mantua = {
+				color= { 195 13 31 }
+				color2={ 255 255 255 }
+				b_mantua_a = {}
+				b_mantua_b = {}
+				b_mantua_c = {}
+				b_mantua_d = {}
+				b_mantua_e = {}
+				b_mantua_f = {}
+				b_mantua_g = {}
+			}
+		}
+	}
+	k_pinar_del_rio = {
+		color={ 150 0 0 }
+		color2={ 255 255 255}
+		capital = 90
+		christian = 6
+		jewish_group = 4
+		d_santa_maria = {
+			color= { 46 207 117 }
+			color2={ 255 255 255 }
+			capital = 87
+			c_minas_de_matahambre = {
+				color= { 68 244 222 }
+				color2={ 255 255 255 }
+				b_minas_de_matahambre_a = {}
+				b_minas_de_matahambre_b = {}
+				b_minas_de_matahambre_c = {}
+				b_minas_de_matahambre_d = {}
+				b_minas_de_matahambre_e = {}
+				b_minas_de_matahambre_f = {}
+				b_minas_de_matahambre_g = {}
+			}
+			c_punta_de_la_sierra = {
+				color= { 168 38 230 }
+				color2={ 255 255 255 }
+				b_punta_de_la_sierra_a = {}
+				b_punta_de_la_sierra_b = {}
+				b_punta_de_la_sierra_c = {}
+				b_punta_de_la_sierra_d = {}
+				b_punta_de_la_sierra_e = {}
+				b_punta_de_la_sierra_f = {}
+				b_punta_de_la_sierra_g = {}
+			}
+			c_san_juan_y_martinez = {
+				color= { 179 231 220 }
+				color2={ 255 255 255 }
+				b_san_juan_y_martinez_a = {}
+				b_san_juan_y_martinez_b = {}
+				b_san_juan_y_martinez_c = {}
+				b_san_juan_y_martinez_d = {}
+				b_san_juan_y_martinez_e = {}
+				b_san_juan_y_martinez_f = {}
+				b_san_juan_y_martinez_g = {}
+			}
+			c_santa_maria = {
+				color= { 46 207 117 }
+				color2={ 255 255 255 }
+				b_santa_maria_a = {}
+				b_santa_maria_b = {}
+				b_santa_maria_c = {}
+				b_santa_maria_d = {}
+				b_santa_maria_e = {}
+				b_santa_maria_f = {}
+				b_santa_maria_g = {}
+			}
+		}
+		d_la_palma = {
+			color= { 180 23 60 }
+			color2={ 255 255 255 }
+			capital = 89
+			c_parque_la_guira = {
+				color= { 253 70 146 }
+				color2={ 255 255 255 }
+				b_parque_la_guira_a = {}
+				b_parque_la_guira_b = {}
+				b_parque_la_guira_c = {}
+				b_parque_la_guira_d = {}
+				b_parque_la_guira_e = {}
+				b_parque_la_guira_f = {}
+				b_parque_la_guira_g = {}
+			}
+			c_vinalas = {
+				color= { 70 243 254 }
+				color2={ 255 255 255 }
+				b_vinalas_a = {}
+				b_vinalas_b = {}
+				b_vinalas_c = {}
+				b_vinalas_d = {}
+				b_vinalas_e = {}
+				b_vinalas_f = {}
+				b_vinalas_g = {}
+			}
+			c_la_palma = {
+				color= { 180 23 60 }
+				color2={ 255 255 255 }
+				b_la_palma_a = {}
+				b_la_palma_b = {}
+				b_la_palma_c = {}
+				b_la_palma_d = {}
+				b_la_palma_e = {}
+				b_la_palma_f = {}
+				b_la_palma_g = {}
+			}
+			c_pinar_del_rio = {
+				color= { 130 14 172 }
+				color2={ 255 255 255 }
+				holy_site = none
+				b_pinar_del_rio_a = {}
+				b_pinar_del_rio_b = {}
+				b_pinar_del_rio_c = {}
+				b_pinar_del_rio_d = {}
+				b_pinar_del_rio_e = {}
+				b_pinar_del_rio_f = {}
+				b_pinar_del_rio_g = {}
+			}
+		}
+		d_los_palacios = {
+			color= { 189 193 13 }
+			color2={ 255 255 255 }
+			capital = 94
+			c_la_coloma = {
+				color= { 231 195 202 }
+				color2={ 255 255 255 }
+				b_la_coloma_a = {}
+				b_la_coloma_b = {}
+				b_la_coloma_c = {}
+				b_la_coloma_d = {}
+				b_la_coloma_e = {}
+				b_la_coloma_f = {}
+				b_la_coloma_g = {}
+			}
+			c_alonso_de_rojas = {
+				color= { 122 152 245 }
+				color2={ 255 255 255 }
+				b_alonso_de_rojas_a = {}
+				b_alonso_de_rojas_b = {}
+				b_alonso_de_rojas_c = {}
+				b_alonso_de_rojas_d = {}
+				b_alonso_de_rojas_e = {}
+				b_alonso_de_rojas_f = {}
+				b_alonso_de_rojas_g = {}
+			}
+			c_los_palacios = {
+				color= { 189 193 13 }
+				color2={ 255 255 255 }
+				b_los_palacios_a = {}
+				b_los_palacios_b = {}
+				b_los_palacios_c = {}
+				b_los_palacios_d = {}
+				b_los_palacios_e = {}
+				b_los_palacios_f = {}
+				b_los_palacios_g = {}
+			}
+			c_los_pinos = {
+				color= { 122 30 76 }
+				color2={ 255 255 255 }
+				b_los_pinos_a = {}
+				b_los_pinos_b = {}
+				b_los_pinos_c = {}
+				b_los_pinos_d = {}
+				b_los_pinos_e = {}
+				b_los_pinos_f = {}
+				b_los_pinos_g = {}
+			}
+		}
+		d_cabanas = {
+			color= { 144 29 36 }
+			color2={ 255 255 255 }
+			capital = 179
+			c_soroa = {
+				color= { 192 183 127 }
+				color2={ 255 255 255 }
+				b_soroa_a = {}
+				b_soroa_b = {}
+				b_soroa_c = {}
+				b_soroa_d = {}
+				b_soroa_e = {}
+				b_soroa_f = {}
+				b_soroa_g = {}
+			}
+			c_palma_rubia = {
+				color= { 213 216 70 }
+				color2={ 255 255 255 }
+				b_palma_rubia_a = {}
+				b_palma_rubia_b = {}
+				b_palma_rubia_c = {}
+				b_palma_rubia_d = {}
+				b_palma_rubia_e = {}
+				b_palma_rubia_f = {}
+				b_palma_rubia_g = {}
+			}
+			c_harlem_bahia_honda = {
+				color= { 68 187 182 }
+				color2={ 255 255 255 }
+				b_harlem_bahia_honda_a = {}
+				b_harlem_bahia_honda_b = {}
+				b_harlem_bahia_honda_c = {}
+				b_harlem_bahia_honda_d = {}
+				b_harlem_bahia_honda_e = {}
+				b_harlem_bahia_honda_f = {}
+				b_harlem_bahia_honda_g = {}
+			}
+			c_cabanas = {
+				color= { 144 29 36 }
+				color2={ 255 255 255 }
+				b_cabanas_a = {}
+				b_cabanas_b = {}
+				b_cabanas_c = {}
+				b_cabanas_d = {}
+				b_cabanas_e = {}
+				b_cabanas_f = {}
+				b_cabanas_g = {}
+			}
+		}
+		d_san_cristobal = {
+			color= { 128 203 35 }
+			color2={ 255 255 255 }
+			capital = 97
+			c_san_cristobal = {
+				color= { 128 203 35 }
+				color2={ 255 255 255 }
+				b_san_cristobal_a = {}
+				b_san_cristobal_b = {}
+				b_san_cristobal_c = {}
+				b_san_cristobal_d = {}
+				b_san_cristobal_e = {}
+				b_san_cristobal_f = {}
+				b_san_cristobal_g = {}
+			}
+			c_candelaria = {
+				color= { 127 198 119 }
+				color2={ 255 255 255 }
+				b_candelaria_a = {}
+				b_candelaria_b = {}
+				b_candelaria_c = {}
+				b_candelaria_d = {}
+				b_candelaria_e = {}
+				b_candelaria_f = {}
+				b_candelaria_g = {}
+			}
+			c_artemisa = {
+				color= { 236 142 214 }
+				color2={ 255 255 255 }
+				b_artemisa_a = {}
+				b_artemisa_b = {}
+				b_artemisa_c = {}
+				b_artemisa_d = {}
+				b_artemisa_e = {}
+				b_artemisa_f = {}
+				b_artemisa_g = {}
+			}
+			c_playa_baracoa = {
+				color= { 208 73 147 }
+				color2={ 255 255 255 }
+				b_playa_baracoa_a = {}
+				b_playa_baracoa_b = {}
+				b_playa_baracoa_c = {}
+				b_playa_baracoa_d = {}
+				b_playa_baracoa_e = {}
+				b_playa_baracoa_f = {}
+				b_playa_baracoa_g = {}
+			}
+		}
+	}
+}
+
+e_jacksonville = {
+	color={ 255 255 0 }
+	color2={ 255 255 255}
+	capital = 139
+	k_jacksonville = {
+		color={ 175 144 0 }
+		color2={ 255 255 255}
+		capital = 139
+		christian = 8
+		jewish_group = 12
+		d_moniac = {
+			color= { 85 122 208 }
+			color2={ 255 255 255 }
+			capital = 131
+			c_osceola_wildlife_management_area = {
+				color= { 14 189 47 }
+				color2={ 255 255 255 }
+				b_osceola_wildlife_management_area_a = {}
+				b_osceola_wildlife_management_area_b = {}
+				b_osceola_wildlife_management_area_c = {}
+				b_osceola_wildlife_management_area_d = {}
+				b_osceola_wildlife_management_area_e = {}
+				b_osceola_wildlife_management_area_f = {}
+				b_osceola_wildlife_management_area_g = {}
+			}
+			c_alachua = {
+				color= { 105 189 37 }
+				color2={ 255 255 255 }
+				b_alachua_a = {}
+				b_alachua_b = {}
+				b_alachua_c = {}
+				b_alachua_d = {}
+				b_alachua_e = {}
+				b_alachua_f = {}
+				b_alachua_g = {}
+			}
+			c_moniac = {
+				color= { 85 122 208 }
+				color2={ 255 255 255 }
+				b_moniac_a = {}
+				b_moniac_b = {}
+				b_moniac_c = {}
+				b_moniac_d = {}
+				b_moniac_e = {}
+				b_moniac_f = {}
+				b_moniac_g = {}
+			}
+			c_macclenny = {
+				color= { 104 124 204 }
+				color2={ 255 255 255 }
+				b_macclenny_a = {}
+				b_macclenny_b = {}
+				b_macclenny_c = {}
+				b_macclenny_d = {}
+				b_macclenny_e = {}
+				b_macclenny_f = {}
+				b_macclenny_g = {}
+			}
+		}
+		d_baldwin = {
+			color= { 15 53 86 }
+			color2={ 255 255 255 }
+			capital = 134
+			c_saint_george = {
+				color= { 118 173 124 }
+				color2={ 255 255 255 }
+				b_saint_george_a = {}
+				b_saint_george_b = {}
+				b_saint_george_c = {}
+				b_saint_george_d = {}
+				b_saint_george_e = {}
+				b_saint_george_f = {}
+				b_saint_george_g = {}
+			}
+			c_baldwin = {
+				color= { 15 53 86 }
+				color2={ 255 255 255 }
+				b_baldwin_a = {}
+				b_baldwin_b = {}
+				b_baldwin_c = {}
+				b_baldwin_d = {}
+				b_baldwin_e = {}
+				b_baldwin_f = {}
+				b_baldwin_g = {}
+			}
+			c_callahan = {
+				color= { 67 226 10 }
+				color2={ 255 255 255 }
+				b_callahan_a = {}
+				b_callahan_b = {}
+				b_callahan_c = {}
+				b_callahan_d = {}
+				b_callahan_e = {}
+				b_callahan_f = {}
+				b_callahan_g = {}
+			}
+		}
+		d_jacksonville = {
+			color= { 16 251 170 }
+			color2={ 255 255 255 }
+			capital = 105
+			c_franklintown = {
+				color= { 12 190 154 }
+				color2={ 255 255 255 }
+				b_franklintown_a = {}
+				b_franklintown_b = {}
+				b_franklintown_c = {}
+				b_franklintown_d = {}
+				b_franklintown_e = {}
+				b_franklintown_f = {}
+				b_franklintown_g = {}
+			}
+			c_middleburg = {
+				color= { 138 211 119 }
+				color2={ 255 255 255 }
+				b_middleburg_a = {}
+				b_middleburg_b = {}
+				b_middleburg_c = {}
+				b_middleburg_d = {}
+				b_middleburg_e = {}
+				b_middleburg_f = {}
+				b_middleburg_g = {}
+			}
+			c_orange_park = {
+				color= { 159 237 12 }
+				color2={ 255 255 255 }
+				b_orange_park_a = {}
+				b_orange_park_b = {}
+				b_orange_park_c = {}
+				b_orange_park_d = {}
+				b_orange_park_e = {}
+				b_orange_park_f = {}
+				b_orange_park_g = {}
+			}
+			c_jacksonville = {
+				color= { 16 251 170 }
+				color2={ 255 255 255 }
+				holy_site = baptist
+				holy_site = lutheran
+				holy_site = methodist
+				holy_site = calvinist
+				b_jacksonville_a = {}
+				b_jacksonville_b = {}
+				b_jacksonville_c = {}
+				b_jacksonville_d = {}
+				b_jacksonville_e = {}
+				b_jacksonville_f = {}
+				b_jacksonville_g = {}
+			}
+			c_arlington = {
+				color= { 114 216 119 }
+				color2={ 255 255 255 }
+				b_arlington_a = {}
+				b_arlington_b = {}
+				b_arlington_c = {}
+				b_arlington_d = {}
+				b_arlington_e = {}
+				b_arlington_f = {}
+				b_arlington_g = {}
+			}
+		}
+		d_interlachen = {
+			color= { 102 140 108 }
+			color2={ 255 255 255 }
+			capital = 123
+			c_interlachen = {
+				color= { 102 140 108 }
+				color2={ 255 255 255 }
+				b_interlachen_a = {}
+				b_interlachen_b = {}
+				b_interlachen_c = {}
+				b_interlachen_d = {}
+				b_interlachen_e = {}
+				b_interlachen_f = {}
+				b_interlachen_g = {}
+			}
+			c_ocala_forest = {
+				color= { 6 161 202 }
+				color2={ 255 255 255 }
+				b_ocala_forest_a = {}
+				b_ocala_forest_b = {}
+				b_ocala_forest_c = {}
+				b_ocala_forest_d = {}
+				b_ocala_forest_e = {}
+				b_ocala_forest_f = {}
+				b_ocala_forest_g = {}
+			}
+			c_green_cove_springs = {
+				color= { 227 105 174 }
+				color2={ 255 255 255 }
+				b_green_cove_springs_a = {}
+				b_green_cove_springs_b = {}
+				b_green_cove_springs_c = {}
+				b_green_cove_springs_d = {}
+				b_green_cove_springs_e = {}
+				b_green_cove_springs_f = {}
+				b_green_cove_springs_g = {}
+			}
+			c_starke = {
+				color= { 227 224 148 }
+				color2={ 255 255 255 }
+				b_starke_a = {}
+				b_starke_b = {}
+				b_starke_c = {}
+				b_starke_d = {}
+				b_starke_e = {}
+				b_starke_f = {}
+				b_starke_g = {}
+			}
+		}
+		d_saint_augustine = {
+			color= { 165 51 118 }
+			color2={ 255 255 255 }
+			capital = 127
+			c_palatka = {
+				color= { 29 128 193 }
+				color2={ 255 255 255 }
+				b_palatka_a = {}
+				b_palatka_b = {}
+				b_palatka_c = {}
+				b_palatka_d = {}
+				b_palatka_e = {}
+				b_palatka_f = {}
+				b_palatka_g = {}
+			}
+			c_hastings = {
+				color= { 30 174 162 }
+				color2={ 255 255 255 }
+				b_hastings_a = {}
+				b_hastings_b = {}
+				b_hastings_c = {}
+				b_hastings_d = {}
+				b_hastings_e = {}
+				b_hastings_f = {}
+				b_hastings_g = {}
+			}
+			c_palm_coast = {
+				color= { 103 95 177 }
+				color2={ 255 255 255 }
+				b_palm_coast_a = {}
+				b_palm_coast_b = {}
+				b_palm_coast_c = {}
+				b_palm_coast_d = {}
+				b_palm_coast_e = {}
+				b_palm_coast_f = {}
+				b_palm_coast_g = {}
+			}
+			c_saint_augustine = {
+				color= { 165 51 118 }
+				color2={ 255 255 255 }
+				holy_site = catholic
+				holy_site = fraticelli
+				holy_site = cathar
+				holy_site = waldensian
+				b_saint_augustine_a = {}
+				b_saint_augustine_b = {}
+				b_saint_augustine_c = {}
+				b_saint_augustine_d = {}
+				b_saint_augustine_e = {}
+				b_saint_augustine_f = {}
+				b_saint_augustine_g = {}
+			}
+		}
+	}
+	k_tampa = {
+		color={ 255 255 0 }
+		color2={ 255 255 255}
+		capital = 188
+		christian = 11
+		jewish_group = 9
+		d_wesley_chapel = {
+			color= { 77 44 211 }
+			color2={ 255 255 255 }
+			capital = 196
+			c_apollo_beach = {
+				color= { 156 121 209 }
+				color2={ 255 255 255 }
+				b_apollo_beach_a = {}
+				b_apollo_beach_b = {}
+				b_apollo_beach_c = {}
+				b_apollo_beach_d = {}
+				b_apollo_beach_e = {}
+				b_apollo_beach_f = {}
+				b_apollo_beach_g = {}
+			}
+			c_lithia = {
+				color= { 244 132 33 }
+				color2={ 255 255 255 }
+				b_lithia_a = {}
+				b_lithia_b = {}
+				b_lithia_c = {}
+				b_lithia_d = {}
+				b_lithia_e = {}
+				b_lithia_f = {}
+				b_lithia_g = {}
+			}
+			c_wesley_chapel = {
+				color= { 77 44 211 }
+				color2={ 255 255 255 }
+				b_wesley_chapel_a = {}
+				b_wesley_chapel_b = {}
+				b_wesley_chapel_c = {}
+				b_wesley_chapel_d = {}
+				b_wesley_chapel_e = {}
+				b_wesley_chapel_f = {}
+				b_wesley_chapel_g = {}
+			}
+			c_myakka = {
+				color= { 83 198 238 }
+				color2={ 255 255 255 }
+				b_myakka_a = {}
+				b_myakka_b = {}
+				b_myakka_c = {}
+				b_myakka_d = {}
+				b_myakka_e = {}
+				b_myakka_f = {}
+				b_myakka_g = {}
+			}
+		}
+		d_brandenton = {
+			color= { 121 218 52 }
+			color2={ 255 255 255 }
+			capital = 185
+			c_sun_city = {
+				color= { 164 166 238 }
+				color2={ 255 255 255 }
+				b_sun_city_a = {}
+				b_sun_city_b = {}
+				b_sun_city_c = {}
+				b_sun_city_d = {}
+				b_sun_city_e = {}
+				b_sun_city_f = {}
+				b_sun_city_g = {}
+			}
+			c_sarasota = {
+				color= { 100 82 118 }
+				color2={ 255 255 255 }
+				holy_site = catholic
+				holy_site = fraticelli
+				holy_site = cathar
+				holy_site = waldensian
+				b_sarasota_a = {}
+				b_sarasota_b = {}
+				b_sarasota_c = {}
+				b_sarasota_d = {}
+				b_sarasota_e = {}
+				b_sarasota_f = {}
+				b_sarasota_g = {}
+			}
+			c_brandenton = {
+				color= { 121 218 52 }
+				color2={ 255 255 255 }
+				b_brandenton_a = {}
+				b_brandenton_b = {}
+				b_brandenton_c = {}
+				b_brandenton_d = {}
+				b_brandenton_e = {}
+				b_brandenton_f = {}
+				b_brandenton_g = {}
+			}
+			c_mayakk_river_park = {
+				color= { 239 189 203 }
+				color2={ 255 255 255 }
+				b_mayakk_river_park_a = {}
+				b_mayakk_river_park_b = {}
+				b_mayakk_river_park_c = {}
+				b_mayakk_river_park_d = {}
+				b_mayakk_river_park_e = {}
+				b_mayakk_river_park_f = {}
+				b_mayakk_river_park_g = {}
+			}
+		}
+		d_lakeland = {
+			color= { 234 245 57 }
+			color2={ 255 255 255 }
+			capital = 222
+			c_plant_city = {
+				color= { 128 128 186 }
+				color2={ 255 255 255 }
+				b_plant_city_a = {}
+				b_plant_city_b = {}
+				b_plant_city_c = {}
+				b_plant_city_d = {}
+				b_plant_city_e = {}
+				b_plant_city_f = {}
+				b_plant_city_g = {}
+			}
+
+			c_avon_park = {
+				color= { 180 252 188 }
+				color2={ 255 255 255 }
+				b_avon_park_a = {}
+				b_avon_park_b = {}
+				b_avon_park_c = {}
+				b_avon_park_d = {}
+				b_avon_park_e = {}
+				b_avon_park_f = {}
+				b_avon_park_g = {}
+			}
+			c_bowling_green = {
+				color= { 29 8 213 }
+				color2={ 255 255 255 }
+				b_bowling_green_a = {}
+				b_bowling_green_b = {}
+				b_bowling_green_c = {}
+				b_bowling_green_d = {}
+				b_bowling_green_e = {}
+				b_bowling_green_f = {}
+				b_bowling_green_g = {}
+			}
+			c_lakeland = {
+				color= { 234 245 57 }
+				color2={ 255 255 255 }
+				b_lakeland_a = {}
+				b_lakeland_b = {}
+				b_lakeland_c = {}
+				b_lakeland_d = {}
+				b_lakeland_e = {}
+				b_lakeland_f = {}
+				b_lakeland_g = {}
+			}
+			c_citrus_springs = {
+				color= { 222 32 165 }
+				color2={ 255 255 255 }
+				b_citrus_springs_a = {}
+				b_citrus_springs_b = {}
+				b_citrus_springs_c = {}
+				b_citrus_springs_d = {}
+				b_citrus_springs_e = {}
+				b_citrus_springs_f = {}
+				b_citrus_springs_g = {}
+			}
+		}
+		d_tampa = {
+			color= { 241 14 13 }
+			color2={ 255 255 255 }
+			capital = 188
+			c_south_tampa = {
+				color= { 241 14 13 }
+				color2={ 255 255 255 }
+				holy_site = baptist
+				holy_site = lutheran
+				holy_site = methodist
+				holy_site = calvinist
+				b_south_tampa_a = {}
+				b_south_tampa_b = {}
+				b_south_tampa_c = {}
+				b_south_tampa_d = {}
+				b_south_tampa_e = {}
+				b_south_tampa_f = {}
+				b_south_tampa_g = {}
+			}
+			c_saint_petersburg = {
+				color= { 254 155 107 }
+				color2={ 255 255 255 }
+				b_saint_petersburg_a = {}
+				b_saint_petersburg_b = {}
+				b_saint_petersburg_c = {}
+				b_saint_petersburg_d = {}
+				b_saint_petersburg_e = {}
+				b_saint_petersburg_f = {}
+				b_saint_petersburg_g = {}
+			}
+			c_clearwater = {
+				color= { 92 214 212 }
+				color2={ 255 255 255 }
+				b_clearwater_a = {}
+				b_clearwater_b = {}
+				b_clearwater_c = {}
+				b_clearwater_d = {}
+				b_clearwater_e = {}
+				b_clearwater_f = {}
+				b_clearwater_g = {}
+			}
+			c_town_n_country = {
+				color= { 226 4 51 }
+				color2={ 255 255 255 }
+				b_town_n_country_a = {}
+				b_town_n_country_b = {}
+				b_town_n_country_c = {}
+				b_town_n_country_d = {}
+				b_town_n_country_e = {}
+				b_town_n_country_f = {}
+				b_town_n_country_g = {}
+			}
+		}
+		d_lutz = {
+			color= { 38 50 103 }
+			color2={ 255 255 255 }
+			capital = 194
+			c_spring_hill = {
+				color= { 54 246 69 }
+				color2={ 255 255 255 }
+				b_spring_hill_a = {}
+				b_spring_hill_b = {}
+				b_spring_hill_c = {}
+				b_spring_hill_d = {}
+				b_spring_hill_e = {}
+				b_spring_hill_f = {}
+				b_spring_hill_g = {}
+			}
+
+			c_cross_florida_greenway = {
+				color= { 45 25 239 }
+				color2={ 255 255 255 }
+				b_cross_florida_greenway_a = {}
+				b_cross_florida_greenway_b = {}
+				b_cross_florida_greenway_c = {}
+				b_cross_florida_greenway_d = {}
+				b_cross_florida_greenway_e = {}
+				b_cross_florida_greenway_f = {}
+				b_cross_florida_greenway_g = {}
+			}
+			c_palm_harbor = {
+				color= { 47 231 47 }
+				color2={ 255 255 255 }
+				b_palm_harbor_a = {}
+				b_palm_harbor_b = {}
+				b_palm_harbor_c = {}
+				b_palm_harbor_d = {}
+				b_palm_harbor_e = {}
+				b_palm_harbor_f = {}
+				b_palm_harbor_g = {}
+			}
+			c_trinity = {
+				color= { 149 120 214 }
+				color2={ 255 255 255 }
+				b_trinity_a = {}
+				b_trinity_b = {}
+				b_trinity_c = {}
+				b_trinity_d = {}
+				b_trinity_e = {}
+				b_trinity_f = {}
+				b_trinity_g = {}
+			}
+			c_lutz = {
+				color= { 38 50 103 }
+				color2={ 255 255 255 }
+				b_lutz_a = {}
+				b_lutz_b = {}
+				b_lutz_c = {}
+				b_lutz_d = {}
+				b_lutz_e = {}
+				b_lutz_f = {}
+				b_lutz_g = {}
+			}
+			c_dade_city = {
+				color= { 219 234 98 }
+				color2={ 255 255 255 }
+				b_dade_city_a = {}
+				b_dade_city_b = {}
+				b_dade_city_c = {}
+				b_dade_city_d = {}
+				b_dade_city_e = {}
+				b_dade_city_f = {}
+				b_dade_city_g = {}
+			}
+		}
+	}
+	k_gainesville = {
+		color={ 255 230 50 }
+		color2={ 255 255 255}
+		capital = 121
+		christian = 7
+		jewish_group = 7
+		d_gainesville = {
+			color= { 227 204 68 }
+			color2={ 255 255 255 }
+			capital = 121
+			c_gainesville = {
+				color= { 227 204 68 }
+				color2={ 255 255 255 }
+				b_gainesville_a = {}
+				b_gainesville_b = {}
+				b_gainesville_c = {}
+				b_gainesville_d = {}
+				b_gainesville_e = {}
+				b_gainesville_f = {}
+				b_gainesville_g = {}
+			}
+			c_devils_hammock_wildlife_preserve = {
+				color= { 101 27 31 }
+				color2={ 255 255 255 }
+				b_devils_hammock_wildlife_preserve_a = {}
+				b_devils_hammock_wildlife_preserve_b = {}
+				b_devils_hammock_wildlife_preserve_c = {}
+				b_devils_hammock_wildlife_preserve_d = {}
+				b_devils_hammock_wildlife_preserve_e = {}
+				b_devils_hammock_wildlife_preserve_f = {}
+				b_devils_hammock_wildlife_preserve_g = {}
+			}
+			c_lake_city = {
+				color= { 132 82 43 }
+				color2={ 255 255 255 }
+				b_lake_city_a = {}
+				b_lake_city_b = {}
+				b_lake_city_c = {}
+				b_lake_city_d = {}
+				b_lake_city_e = {}
+				b_lake_city_f = {}
+				b_lake_city_g = {}
+			}
+			c_hawthorne = {
+				color= { 195 49 174 }
+				color2={ 255 255 255 }
+				b_hawthorne_a = {}
+				b_hawthorne_b = {}
+				b_hawthorne_c = {}
+				b_hawthorne_d = {}
+				b_hawthorne_e = {}
+				b_hawthorne_f = {}
+				b_hawthorne_g = {}
+			}
+		}
+		d_goethe_forest = {
+			color= { 208 251 181 }
+			color2={ 255 255 255 }
+			capital = 149
+			c_goethe_forest = {
+				color= { 208 251 181 }
+				color2={ 255 255 255 }
+				b_goethe_forest_a = {}
+				b_goethe_forest_b = {}
+				b_goethe_forest_c = {}
+				b_goethe_forest_d = {}
+				b_goethe_forest_e = {}
+				b_goethe_forest_f = {}
+				b_goethe_forest_g = {}
+			}
+			c_lower_goethe_forest = {
+				color= { 20 116 111 }
+				color2={ 255 255 255 }
+				b_lower_goethe_forest_a = {}
+				b_lower_goethe_forest_b = {}
+				b_lower_goethe_forest_c = {}
+				b_lower_goethe_forest_d = {}
+				b_lower_goethe_forest_e = {}
+				b_lower_goethe_forest_f = {}
+				b_lower_goethe_forest_g = {}
+			}
+			c_inglis = {
+				color= { 248 204 60 }
+				color2={ 255 255 255 }
+				b_inglis_a = {}
+				b_inglis_b = {}
+				b_inglis_c = {}
+				b_inglis_d = {}
+				b_inglis_e = {}
+				b_inglis_f = {}
+				b_inglis_g = {}
+			}
+			c_otter_creek = {
+				color= { 210 146 94 }
+				color2={ 255 255 255 }
+				b_otter_creek_a = {}
+				b_otter_creek_b = {}
+				b_otter_creek_c = {}
+				b_otter_creek_d = {}
+				b_otter_creek_e = {}
+				b_otter_creek_f = {}
+				b_otter_creek_g = {}
+			}
+			c_gulf_hammock_wildlife_preserve = {
+				color= { 149 234 36 }
+				color2={ 255 255 255 }
+				b_gulf_hammock_wildlife_preserve_a = {}
+				b_gulf_hammock_wildlife_preserve_b = {}
+				b_gulf_hammock_wildlife_preserve_c = {}
+				b_gulf_hammock_wildlife_preserve_d = {}
+				b_gulf_hammock_wildlife_preserve_e = {}
+				b_gulf_hammock_wildlife_preserve_f = {}
+				b_gulf_hammock_wildlife_preserve_g = {}
+			}
+		}
+		d_ocala = {
+			color= { 162 106 159 }
+			color2={ 255 255 255 }
+			capital = 143
+			c_bronston = {
+				color= { 76 108 76 }
+				color2={ 255 255 255 }
+				b_bronston_a = {}
+				b_bronston_b = {}
+				b_bronston_c = {}
+				b_bronston_d = {}
+				b_bronston_e = {}
+				b_bronston_f = {}
+				b_bronston_g = {}
+			}
+			c_belleview = {
+				color= { 151 199 147 }
+				color2={ 255 255 255 }
+				b_belleview_a = {}
+				b_belleview_b = {}
+				b_belleview_c = {}
+				b_belleview_d = {}
+				b_belleview_e = {}
+				b_belleview_f = {}
+				b_belleview_g = {}
+			}
+			c_camp_ocala = {
+				color= { 70 45 244 }
+				color2={ 255 255 255 }
+				b_camp_ocala_a = {}
+				b_camp_ocala_b = {}
+				b_camp_ocala_c = {}
+				b_camp_ocala_d = {}
+				b_camp_ocala_e = {}
+				b_camp_ocala_f = {}
+				b_camp_ocala_g = {}
+			}
+			c_ocala = {
+				color= { 162 106 159 }
+				color2={ 255 255 255 }
+				b_ocala_a = {}
+				b_ocala_b = {}
+				b_ocala_c = {}
+				b_ocala_d = {}
+				b_ocala_e = {}
+				b_ocala_f = {}
+				b_ocala_g = {}
+			}
+			c_morriston = {
+				color= { 52 174 84 }
+				color2={ 255 255 255 }
+				b_morriston_a = {}
+				b_morriston_b = {}
+				b_morriston_c = {}
+				b_morriston_d = {}
+				b_morriston_e = {}
+				b_morriston_f = {}
+				b_morriston_g = {}
+			}
+		}
+		d_chatmire = {
+			color= { 22 29 41 }
+			color2={ 255 255 255 }
+			capital = 146
+			c_marion_oaks = {
+				color= { 214 202 198 }
+				color2={ 255 255 255 }
+				b_marion_oaks_a = {}
+				b_marion_oaks_b = {}
+				b_marion_oaks_c = {}
+				b_marion_oaks_d = {}
+				b_marion_oaks_e = {}
+				b_marion_oaks_f = {}
+				b_marion_oaks_g = {}
+			}
+			c_chatmire = {
+				color= { 22 29 41 }
+				color2={ 255 255 255 }
+				b_chatmire_a = {}
+				b_chatmire_b = {}
+				b_chatmire_c = {}
+				b_chatmire_d = {}
+				b_chatmire_e = {}
+				b_chatmire_f = {}
+				b_chatmire_g = {}
+			}
+			c_dunnellon = {
+				color= { 188 155 114 }
+				color2={ 255 255 255 }
+				b_dunnellon_a = {}
+				b_dunnellon_b = {}
+				b_dunnellon_c = {}
+				b_dunnellon_d = {}
+				b_dunnellon_e = {}
+				b_dunnellon_f = {}
+				b_dunnellon_g = {}
+			}
+			c_williston_highlands = {
+				color= { 217 225 244 }
+				color2={ 255 255 255 }
+				b_williston_highlands_a = {}
+				b_williston_highlands_b = {}
+				b_williston_highlands_c = {}
+				b_williston_highlands_d = {}
+				b_williston_highlands_e = {}
+				b_williston_highlands_f = {}
+				b_williston_highlands_g = {}
+			}
+		}
+	}
+}
+
+e_louisianna = {
+	color={ 0 0 200 }
+	color2={ 255 255 255}
+	capital = 27
+	k_louisianna = {
+		color={ 0 32 128 }
+		color2={ 255 255 255}
+		capital = 27
+		christian = 2
+		jewish_group = 6
+		d_cameron = {
+			color= { 108 251 138 }
+			color2={ 255 255 255 }
+			capital = 1
+			c_cameron = {
+				color= { 108 251 138 }
+				color2={ 255 255 255 }
+				holy_site = voodoo
+				b_cameron_a = {}
+				b_cameron_b = {}
+				b_cameron_c = {}
+				b_cameron_d = {}
+				b_cameron_e = {}
+				b_cameron_f = {}
+				b_cameron_g = {}
+			}
+			c_hackberry = {
+				color= { 200 153 35 }
+				color2={ 255 255 255 }
+				b_hackberry_a = {}
+				b_hackberry_b = {}
+				b_hackberry_c = {}
+				b_hackberry_d = {}
+				b_hackberry_e = {}
+				b_hackberry_f = {}
+				b_hackberry_g = {}
+			}
+			c_lake_charles = {
+				color= { 21 222 234 }
+				color2={ 255 255 255 }
+				b_lake_charles_a = {}
+				b_lake_charles_b = {}
+				b_lake_charles_c = {}
+				b_lake_charles_d = {}
+				b_lake_charles_e = {}
+				b_lake_charles_f = {}
+				b_lake_charles_g = {}
+			}
+			c_jennings = {
+				color= { 228 25 19 }
+				color2={ 255 255 255 }
+				b_jennings_a = {}
+				b_jennings_b = {}
+				b_jennings_c = {}
+				b_jennings_d = {}
+				b_jennings_e = {}
+				b_jennings_f = {}
+				b_jennings_g = {}
+			}
+		}
+		d_white_lake = {
+			color= { 218 40 96 }
+			color2={ 255 255 255 }
+			capital = 8
+			c_gueydan = {
+				color= { 119 78 187 }
+				color2={ 255 255 255 }
+				b_gueydan_a = {}
+				b_gueydan_b = {}
+				b_gueydan_c = {}
+				b_gueydan_d = {}
+				b_gueydan_e = {}
+				b_gueydan_f = {}
+				b_gueydan_g = {}
+			}
+			c_white_lake_wetlands_conservation_area = {
+				color= { 218 40 96 }
+				color2={ 255 255 255 }
+				b_white_lake_wetlands_conservation_area_a = {}
+				b_white_lake_wetlands_conservation_area_b = {}
+				b_white_lake_wetlands_conservation_area_c = {}
+				b_white_lake_wetlands_conservation_area_d = {}
+				b_white_lake_wetlands_conservation_area_e = {}
+				b_white_lake_wetlands_conservation_area_f = {}
+				b_white_lake_wetlands_conservation_area_g = {}
+			}
+			c_pecan_island = {
+				color= { 81 43 172 }
+				color2={ 255 255 255 }
+				b_pecan_island_a = {}
+				b_pecan_island_b = {}
+				b_pecan_island_c = {}
+				b_pecan_island_d = {}
+				b_pecan_island_e = {}
+				b_pecan_island_f = {}
+				b_pecan_island_g = {}
+			}
+			c_creole = {
+				color= { 55 201 184 }
+				color2={ 255 255 255 }
+				b_creole_a = {}
+				b_creole_b = {}
+				b_creole_c = {}
+				b_creole_d = {}
+				b_creole_e = {}
+				b_creole_f = {}
+				b_creole_g = {}
+			}
+		}
+		d_abbeville = {
+			color= { 186 138 90 }
+			color2={ 255 255 255 }
+			c_morgan = {
+				color= { 198 28 26 }
+				color2={ 255 255 255 }
+				b_morgan_a = {}
+				b_morgan_b = {}
+				b_morgan_c = {}
+				b_morgan_d = {}
+				b_morgan_e = {}
+				b_morgan_f = {}
+				b_morgan_g = {}
+			}
+			c_new_iberia = {
+				color= { 148 239 19 }
+				color2={ 255 255 255 }
+				b_new_iberia_a = {}
+				b_new_iberia_b = {}
+				b_new_iberia_c = {}
+				b_new_iberia_d = {}
+				b_new_iberia_e = {}
+				b_new_iberia_f = {}
+				b_new_iberia_g = {}
+			}
+			c_marsh_island = {
+				color= { 87 1 36 }
+				color2={ 255 255 255 }
+				b_marsh_island_a = {}
+				b_marsh_island_b = {}
+				b_marsh_island_c = {}
+				b_marsh_island_d = {}
+				b_marsh_island_e = {}
+				b_marsh_island_f = {}
+				b_marsh_island_g = {}
+			}
+			c_abbeville = {
+				color= { 186 138 90 }
+				color2={ 255 255 255 }
+				b_abbeville_a = {}
+				b_abbeville_b = {}
+				b_abbeville_c = {}
+				b_abbeville_d = {}
+				b_abbeville_e = {}
+				b_abbeville_f = {}
+				b_abbeville_g = {}
+			}
+		}
+		d_gray = {
+			color= { 220 27 209 }
+			color2={ 255 255 255 }
+			capital = 22
+			c_new_amelia_island = {
+				color= { 111 121 58 }
+				color2={ 255 255 255 }
+				b_new_amelia_island_a = {}
+				b_new_amelia_island_b = {}
+				b_new_amelia_island_c = {}
+				b_new_amelia_island_d = {}
+				b_new_amelia_island_e = {}
+				b_new_amelia_island_f = {}
+				b_new_amelia_island_g = {}
+			}
+			c_cocodrie = {
+				color= { 66 106 22 }
+				color2={ 255 255 255 }
+				b_cocodrie_a = {}
+				b_cocodrie_b = {}
+				b_cocodrie_c = {}
+				b_cocodrie_d = {}
+				b_cocodrie_e = {}
+				b_cocodrie_f = {}
+				b_cocodrie_g = {}
+			}
+			c_gray = {
+				color= { 220 27 209 }
+				color2={ 255 255 255 }
+				b_gray_a = {}
+				b_gray_b = {}
+				b_gray_c = {}
+				b_gray_d = {}
+				b_gray_e = {}
+				b_gray_f = {}
+				b_gray_g = {}
+			}
+			c_houma = {
+				color= { 215 37 56 }
+				color2={ 255 255 255 }
+				b_houma_a = {}
+				b_houma_b = {}
+				b_houma_c = {}
+				b_houma_d = {}
+				b_houma_e = {}
+				b_houma_f = {}
+				b_houma_g = {}
+			}
+		}
+		d_new_orleans = {
+			color= { 209 246 198 }
+			color2={ 255 255 255 }
+			capital = 27
+			c_shell_beach = {
+				color= { 185 153 99 }
+				color2={ 255 255 255 }
+				b_shell_beach_a = {}
+				b_shell_beach_b = {}
+				b_shell_beach_c = {}
+				b_shell_beach_d = {}
+				b_shell_beach_e = {}
+				b_shell_beach_f = {}
+				b_shell_beach_g = {}
+			}
+			c_empire = {
+				color= { 47 215 174 }
+				color2={ 255 255 255 }
+				b_empire_a = {}
+				b_empire_b = {}
+				b_empire_c = {}
+				b_empire_d = {}
+				b_empire_e = {}
+				b_empire_f = {}
+				b_empire_g = {}
+			}
+			c_new_orleans = {
+				color= { 209 246 198 }
+				color2={ 255 255 255 }
+				holy_site = voodoo
+				holy_site = catholic
+				holy_site = fraticelli
+				holy_site = cathar
+				holy_site = waldensian
+				b_new_orleans_a = {}
+				b_new_orleans_b = {}
+				b_new_orleans_c = {}
+				b_new_orleans_d = {}
+				b_new_orleans_e = {}
+				b_new_orleans_f = {}
+				b_new_orleans_g = {}
+			}
+		}
+	}
+	k_alabama = {
+		color={ 64 0 255 }
+		color2={ 255 255 255}
+		capital = 11
+		christian = 4
+		jewish_group = 2
+		d_lafayette = {
+			color= { 215 28 81 }
+			color2={ 255 255 255 }
+			capital = 11
+			c_lafayette = {
+				color= { 215 28 81 }
+				color2={ 255 255 255 }
+				holy_site = voodoo
+				b_lafayette_a = {}
+				b_lafayette_b = {}
+				b_lafayette_c = {}
+				b_lafayette_d = {}
+				b_lafayette_e = {}
+				b_lafayette_f = {}
+				b_lafayette_g = {}
+			}
+			c_crowley = {
+				color= { 218 169 153 }
+				color2={ 255 255 255 }
+				b_crowley_a = {}
+				b_crowley_b = {}
+				b_crowley_c = {}
+				b_crowley_d = {}
+				b_crowley_e = {}
+				b_crowley_f = {}
+				b_crowley_g = {}
+			}
+			c_breaux_bridge = {
+				color= { 61 232 60 }
+				color2={ 255 255 255 }
+				b_breaux_bridge_a = {}
+				b_breaux_bridge_b = {}
+				b_breaux_bridge_c = {}
+				b_breaux_bridge_d = {}
+				b_breaux_bridge_e = {}
+				b_breaux_bridge_f = {}
+				b_breaux_bridge_g = {}
+			}
+			c_iota = {
+				color= { 21 118 71 }
+				color2={ 255 255 255 }
+				b_iota_a = {}
+				b_iota_b = {}
+				b_iota_c = {}
+				b_iota_d = {}
+				b_iota_e = {}
+				b_iota_f = {}
+				b_iota_g = {}
+			}
+		}
+		d_baton_rouge = {
+			color= { 249 230 130 }
+			color2={ 255 255 255 }
+			capital = 19
+			c_plaquemine = {
+				color= { 56 88 217 }
+				color2={ 255 255 255 }
+				b_plaquemine_a = {}
+				b_plaquemine_b = {}
+				b_plaquemine_c = {}
+				b_plaquemine_d = {}
+				b_plaquemine_e = {}
+				b_plaquemine_f = {}
+				b_plaquemine_g = {}
+			}
+			c_atchafalaya_wildlife_refuge = {
+				color= { 65 29 113 }
+				color2={ 255 255 255 }
+				b_atchafalaya_wildlife_refuge_a = {}
+				b_atchafalaya_wildlife_refuge_b = {}
+				b_atchafalaya_wildlife_refuge_c = {}
+				b_atchafalaya_wildlife_refuge_d = {}
+				b_atchafalaya_wildlife_refuge_e = {}
+				b_atchafalaya_wildlife_refuge_f = {}
+				b_atchafalaya_wildlife_refuge_g = {}
+			}
+			c_baton_rouge = {
+				color= { 249 230 130 }
+				color2={ 255 255 255 }
+				b_baton_rouge_a = {}
+				b_baton_rouge_b = {}
+				b_baton_rouge_c = {}
+				b_baton_rouge_d = {}
+				b_baton_rouge_e = {}
+				b_baton_rouge_f = {}
+				b_baton_rouge_g = {}
+			}
+			c_hammond = {
+				color= { 42 194 74 }
+				color2={ 255 255 255 }
+				b_hammond_a = {}
+				b_hammond_b = {}
+				b_hammond_c = {}
+				b_hammond_d = {}
+				b_hammond_e = {}
+				b_hammond_f = {}
+				b_hammond_g = {}
+			}
+		}
+		d_biloxi = {
+			color= { 162 8 234 }
+			color2={ 255 255 255 }
+			capital = 26
+			c_picayune = {
+				color= { 182 146 178 }
+				color2={ 255 255 255 }
+				b_picayune_a = {}
+				b_picayune_b = {}
+				b_picayune_c = {}
+				b_picayune_d = {}
+				b_picayune_e = {}
+				b_picayune_f = {}
+				b_picayune_g = {}
+			}
+			c_biloxi = {
+				color= { 162 8 234 }
+				color2={ 255 255 255 }
+				b_biloxi_a = {}
+				b_biloxi_b = {}
+				b_biloxi_c = {}
+				b_biloxi_d = {}
+				b_biloxi_e = {}
+				b_biloxi_f = {}
+				b_biloxi_g = {}
+			}
+			c_orange_beach = {
+				color= { 210 213 58 }
+				color2={ 255 255 255 }
+				b_orange_beach_a = {}
+				b_orange_beach_b = {}
+				b_orange_beach_c = {}
+				b_orange_beach_d = {}
+				b_orange_beach_e = {}
+				b_orange_beach_f = {}
+				b_orange_beach_g = {}
+			}
+		}
+		d_pensacola = {
+			color= { 93 38 171 }
+			color2={ 255 255 255 }
+			capital = 31
+			c_pensacola = {
+				color= { 93 38 171 }
+				color2={ 255 255 255 }
+				holy_site = voodoo
+				holy_site = baptist
+				holy_site = lutheran
+				holy_site = methodist
+				holy_site = calvinist
+				b_pensacola_a = {}
+				b_pensacola_b = {}
+				b_pensacola_c = {}
+				b_pensacola_d = {}
+				b_pensacola_e = {}
+				b_pensacola_f = {}
+				b_pensacola_g = {}
+			}
+			c_fort_walton = {
+				color= { 141 131 133 }
+				color2={ 255 255 255 }
+				b_fort_walton_a = {}
+				b_fort_walton_b = {}
+				b_fort_walton_c = {}
+				b_fort_walton_d = {}
+				b_fort_walton_e = {}
+				b_fort_walton_f = {}
+				b_fort_walton_g = {}
+			}
+			c_crestview = {
+				color= { 205 220 222 }
+				color2={ 255 255 255 }
+				b_crestview_a = {}
+				b_crestview_b = {}
+				b_crestview_c = {}
+				b_crestview_d = {}
+				b_crestview_e = {}
+				b_crestview_f = {}
+				b_crestview_g = {}
+			}
+			c_niceville = {
+				color= { 138 96 91 }
+				color2={ 255 255 255 }
+				b_niceville_a = {}
+				b_niceville_b = {}
+				b_niceville_c = {}
+				b_niceville_d = {}
+				b_niceville_e = {}
+				b_niceville_f = {}
+				b_niceville_g = {}
+			}
+		}
+		d_panama_city_beach = {
+			color= { 19 63 209 }
+			color2={ 255 255 255 }
+			capital = 36
+			c_defunkiak_springs = {
+				color= { 148 121 164 }
+				color2={ 255 255 255 }
+				b_defunkiak_springs_a = {}
+				b_defunkiak_springs_b = {}
+				b_defunkiak_springs_c = {}
+				b_defunkiak_springs_d = {}
+				b_defunkiak_springs_e = {}
+				b_defunkiak_springs_f = {}
+				b_defunkiak_springs_g = {}
+			}
+			c_panama_city_beach = {
+				color= { 19 63 209 }
+				color2={ 255 255 255 }
+				b_panama_city_beach_a = {}
+				b_panama_city_beach_b = {}
+				b_panama_city_beach_c = {}
+				b_panama_city_beach_d = {}
+				b_panama_city_beach_e = {}
+				b_panama_city_beach_f = {}
+				b_panama_city_beach_g = {}
+			}
+			c_port_saint_joe = {
+				color= { 157 60 213 }
+				color2={ 255 255 255 }
+				b_port_saint_joe_a = {}
+				b_port_saint_joe_b = {}
+				b_port_saint_joe_c = {}
+				b_port_saint_joe_d = {}
+				b_port_saint_joe_e = {}
+				b_port_saint_joe_f = {}
+				b_port_saint_joe_g = {}
+			}
+			c_estiffanulga = {
+				color= { 209 35 78 }
+				color2={ 255 255 255 }
+				b_estiffanulga_a = {}
+				b_estiffanulga_b = {}
+				b_estiffanulga_c = {}
+				b_estiffanulga_d = {}
+				b_estiffanulga_e = {}
+				b_estiffanulga_f = {}
+				b_estiffanulga_g = {}
+			}
+			c_wewahitchka = {
+				color= { 117 51 94 }
+				color2={ 255 255 255 }
+				b_wewahitchka_a = {}
+				b_wewahitchka_b = {}
+				b_wewahitchka_c = {}
+				b_wewahitchka_d = {}
+				b_wewahitchka_e = {}
+				b_wewahitchka_f = {}
+				b_wewahitchka_g = {}
+			}
+			c_blountstown = {
+				color= { 48 153 147 }
+				color2={ 255 255 255 }
+				b_blountstown_a = {}
+				b_blountstown_b = {}
+				b_blountstown_c = {}
+				b_blountstown_d = {}
+				b_blountstown_e = {}
+				b_blountstown_f = {}
+				b_blountstown_g = {}
+			}
+		}
+	}
+	k_tallahassee = {
+		color={ 64 64 255 }
+		color2={ 255 255 255}
+		capital = 47
+		christian = 5
+		jewish_group = 8
+		d_fort_braden = {
+			color= { 213 223 180 }
+			color2={ 255 255 255 }
+			capital = 45
+			c_cedar_keypoint = {
+				color= { 126 104 61 }
+				color2={ 255 255 255 }
+				b_cedar_keypoint_a = {}
+				b_cedar_keypoint_b = {}
+				b_cedar_keypoint_c = {}
+				b_cedar_keypoint_d = {}
+				b_cedar_keypoint_e = {}
+				b_cedar_keypoint_f = {}
+				b_cedar_keypoint_g = {}
+			}
+			c_apalachicola_forest = {
+				color= { 14 70 214 }
+				color2={ 255 255 255 }
+				b_apalachicola_forest_a = {}
+				b_apalachicola_forest_b = {}
+				b_apalachicola_forest_c = {}
+				b_apalachicola_forest_d = {}
+				b_apalachicola_forest_e = {}
+				b_apalachicola_forest_f = {}
+				b_apalachicola_forest_g = {}
+			}
+			c_carrabelle = {
+				color= { 240 38 54 }
+				color2={ 255 255 255 }
+				b_carrabelle_a = {}
+				b_carrabelle_b = {}
+				b_carrabelle_c = {}
+				b_carrabelle_d = {}
+				b_carrabelle_e = {}
+				b_carrabelle_f = {}
+				b_carrabelle_g = {}
+			}
+			c_hosford = {
+				color= { 40 233 208 }
+				color2={ 255 255 255 }
+				b_hosford_a = {}
+				b_hosford_b = {}
+				b_hosford_c = {}
+				b_hosford_d = {}
+				b_hosford_e = {}
+				b_hosford_f = {}
+				b_hosford_g = {}
+			}
+			c_fort_braden = {
+				color= { 213 223 180 }
+				color2={ 255 255 255 }
+				b_fort_braden_a = {}
+				b_fort_braden_b = {}
+				b_fort_braden_c = {}
+				b_fort_braden_d = {}
+				b_fort_braden_e = {}
+				b_fort_braden_f = {}
+				b_fort_braden_g = {}
+			}
+		}
+		d_tallahassee = {
+			color= { 107 229 123 }
+			color2={ 255 255 255 }
+			capital = 47
+			c_sopchoppy = {
+				color= { 10 109 116 }
+				color2={ 255 255 255 }
+				b_sopchoppy_a = {}
+				b_sopchoppy_b = {}
+				b_sopchoppy_c = {}
+				b_sopchoppy_d = {}
+				b_sopchoppy_e = {}
+				b_sopchoppy_f = {}
+				b_sopchoppy_g = {}
+			}
+			c_tallahassee = {
+				color= { 107 229 123 }
+				color2={ 255 255 255 }
+				holy_site = voodoo
+				holy_site = baptist
+				holy_site = lutheran
+				holy_site = methodist
+				holy_site = calvinist
+				b_tallahassee_a = {}
+				b_tallahassee_b = {}
+				b_tallahassee_c = {}
+				b_tallahassee_d = {}
+				b_tallahassee_e = {}
+				b_tallahassee_f = {}
+				b_tallahassee_g = {}
+			}
+			c_woodville = {
+				color= { 149 82 166 }
+				color2={ 255 255 255 }
+				b_woodville_a = {}
+				b_woodville_b = {}
+				b_woodville_c = {}
+				b_woodville_d = {}
+				b_woodville_e = {}
+				b_woodville_f = {}
+				b_woodville_g = {}
+			}
+			c_wacissa = {
+				color= { 61 191 134 }
+				color2={ 255 255 255 }
+				b_wacissa_a = {}
+				b_wacissa_b = {}
+				b_wacissa_c = {}
+				b_wacissa_d = {}
+				b_wacissa_e = {}
+				b_wacissa_f = {}
+				b_wacissa_g = {}
+			}
+		}
+		d_tennille = {
+			color= { 54 196 241 }
+			color2={ 255 255 255 }
+			capital = 53
+			c_aucilla_wildlife_area = {
+				color= { 5 56 23 }
+				color2={ 255 255 255 }
+				b_aucilla_wildlife_area_a = {}
+				b_aucilla_wildlife_area_b = {}
+				b_aucilla_wildlife_area_c = {}
+				b_aucilla_wildlife_area_d = {}
+				b_aucilla_wildlife_area_e = {}
+				b_aucilla_wildlife_area_f = {}
+				b_aucilla_wildlife_area_g = {}
+			}
+			
+			c_franklin = {
+				color= { 229 37 65 }
+				color2={ 255 255 255 }
+				b_franklin_a = {}
+				b_franklin_b = {}
+				b_franklin_c = {}
+				b_franklin_d = {}
+				b_franklin_e = {}
+				b_franklin_f = {}
+				b_franklin_g = {}
+			}
+			c_live_oak = {
+				color= { 129 35 93 }
+				color2={ 255 255 255 }
+				b_live_oak_a = {}
+				b_live_oak_b = {}
+				b_live_oak_c = {}
+				b_live_oak_d = {}
+				b_live_oak_e = {}
+				b_live_oak_f = {}
+				b_live_oak_g = {}
+			}
+			c_tennille = {
+				color= { 54 196 241 }
+				color2={ 255 255 255 }
+				b_tennille_a = {}
+				b_tennille_b = {}
+				b_tennille_c = {}
+				b_tennille_d = {}
+				b_tennille_e = {}
+				b_tennille_f = {}
+				b_tennille_g = {}
+			}
+		}
+		d_cedar_key = {
+			color= { 54 136 158 }
+			color2={ 255 255 255 }
+			capital = 55
+			c_horseshoe_beach = {
+				color= { 108 89 212 }
+				color2={ 255 255 255 }
+				b_horseshoe_beach_a = {}
+				b_horseshoe_beach_b = {}
+				b_horseshoe_beach_c = {}
+				b_horseshoe_beach_d = {}
+				b_horseshoe_beach_e = {}
+				b_horseshoe_beach_f = {}
+				b_horseshoe_beach_g = {}
+			}
+			c_cedar_key = {
+				color= { 54 136 158 }
+				color2={ 255 255 255 }
+				b_cedar_key_a = {}
+				b_cedar_key_b = {}
+				b_cedar_key_c = {}
+				b_cedar_key_d = {}
+				b_cedar_key_e = {}
+				b_cedar_key_f = {}
+				b_cedar_key_g = {}
+			}
+			c_chiefland = {
+				color= { 240 187 86 }
+				color2={ 255 255 255 }
+				b_chiefland_a = {}
+				b_chiefland_b = {}
+				b_chiefland_c = {}
+				b_chiefland_d = {}
+				b_chiefland_e = {}
+				b_chiefland_f = {}
+				b_chiefland_g = {}
+			}
+			c_suwannee = {
+				color= { 138 112 201 }
+				color2={ 255 255 255 }
+				b_suwannee_a = {}
+				b_suwannee_b = {}
+				b_suwannee_c = {}
+				b_suwannee_d = {}
+				b_suwannee_e = {}
+				b_suwannee_f = {}
+				b_suwannee_g = {}
+			}
+		}
+		d_yellow_jacket = {
+			color= { 112 35 122 }
+			color2={ 255 255 255 }
+			capital = 158
+			c_fort_white = {
+				color= { 219 235 248 }
+				color2={ 255 255 255 }
+				b_fort_white_a = {}
+				b_fort_white_b = {}
+				b_fort_white_c = {}
+				b_fort_white_d = {}
+				b_fort_white_e = {}
+				b_fort_white_f = {}
+				b_fort_white_g = {}
+			}
+			c_white_springs = {
+				color= { 118 49 98 }
+				color2={ 255 255 255 }
+				b_white_springs_a = {}
+				b_white_springs_b = {}
+				b_white_springs_c = {}
+				b_white_springs_d = {}
+				b_white_springs_e = {}
+				b_white_springs_f = {}
+				b_white_springs_g = {}
+			}
+			c_yellow_jacket = {
+				color= { 112 35 122 }
+				color2={ 255 255 255 }
+				b_yellow_jacket_a = {}
+				b_yellow_jacket_b = {}
+				b_yellow_jacket_c = {}
+				b_yellow_jacket_d = {}
+				b_yellow_jacket_e = {}
+				b_yellow_jacket_f = {}
+				b_yellow_jacket_g = {}
+			}
+		}
+	}
+}

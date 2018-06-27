@@ -1,0 +1,8 @@
+# 212 - Camaguey
+title = c_camaguey
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_camaguey_a = castle
+b_camaguey_b = city
+b_camaguey_c = temple

@@ -1,0 +1,9 @@
+# 201 - Freeport
+title = c_freeport
+max_settlements = 4
+culture = antillais
+religion = baptist
+b_freeport_a = castle
+b_freeport_b = city
+b_freeport_c = temple
+2134.1.1 = {

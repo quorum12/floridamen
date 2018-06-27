@@ -1,0 +1,8 @@
+# 264 - Vero Corridor
+title = c_vero_corridor
+max_settlements = 4
+culture = orlandoan
+religion = catholic
+b_vero_corridor_a = castle
+b_vero_corridor_b = city
+b_vero_corridor_c = temple

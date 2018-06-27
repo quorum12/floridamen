@@ -1,0 +1,8 @@
+# 196 - Wesley Chapel
+title = c_wesley_chapel
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_wesley_chapel_a = temple
+b_wesley_chapel_b = city
+b_wesley_chapel_c = castle

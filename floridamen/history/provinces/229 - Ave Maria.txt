@@ -1,0 +1,8 @@
+# 229 - Ave Maria
+title = c_ave_maria
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_ave_maria_a = castle
+b_ave_maria_b = city
+b_ave_maria_c = temple

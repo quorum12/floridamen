@@ -1,0 +1,8 @@
+# 10 - Pecan Island
+title = c_pecan_island
+max_settlements = 4
+culture = louisianan
+religion = voodoo
+b_pecan_island_a = castle
+b_pecan_island_b = city
+b_pecan_island_c = temple

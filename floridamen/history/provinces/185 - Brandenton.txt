@@ -1,0 +1,8 @@
+# 185 - Brandenton
+title = c_brandenton
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_brandenton_a = castle
+b_brandenton_b = city
+b_brandenton_c = temple

@@ -1,0 +1,8 @@
+# 251 - Sanford
+title = c_sanford
+max_settlements = 6
+culture = orlandoan
+religion = baptist
+b_sanford_a = castle
+b_sanford_b = city
+b_sanford_c = temple

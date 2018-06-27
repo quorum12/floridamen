@@ -1,0 +1,8 @@
+# 16 - Atchafalaya Wildlife Refuge
+title = c_atchafalaya_wildlife_refuge
+max_settlements = 4
+culture = louisianan
+religion = catholic
+b_atchafalaya_wildlife_refuge_a = castle
+b_atchafalaya_wildlife_refuge_b = city
+b_atchafalaya_wildlife_refuge_c = temple

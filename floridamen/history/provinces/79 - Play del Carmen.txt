@@ -1,0 +1,8 @@
+# 79 - Play del Carmen
+title = c_play_del_carmen
+max_settlements = 4
+culture = antillais
+religion = catholic
+b_play_del_carmen_a = castle
+b_play_del_carmen_b = city
+b_play_del_carmen_c = temple

@@ -1,0 +1,8 @@
+# 159 - Suwannee
+title = c_suwannee
+max_settlements = 4
+culture = tallahassean
+religion = baptist
+b_suwannee_a = castle
+b_suwannee_b = city
+b_suwannee_c = temple

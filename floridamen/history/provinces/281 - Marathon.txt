@@ -1,0 +1,9 @@
+# 281 - Marathon
+title = c_marathon
+max_settlements = 4
+culture = americo_hispanic
+religion = catholic
+b_marathon_a = castle
+b_marathon_b = city
+b_marathon_c = temple
+2134.1.1 = {

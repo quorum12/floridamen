@@ -1,0 +1,7 @@
+# 258 - South Tiger Bay Forest
+title = c_south_tiger_bay_forest
+max_settlements = 2
+culture = orlandoan
+religion = catholic
+b_south_tiger_bay_forest_a = temple
+b_south_tiger_bay_forest_b = temple

@@ -1,0 +1,8 @@
+# 63 - Uman
+title = c_uman
+max_settlements = 4
+culture = mexican
+religion = catholic
+b_uman_a = castle
+b_uman_b = city
+b_uman_c = temple

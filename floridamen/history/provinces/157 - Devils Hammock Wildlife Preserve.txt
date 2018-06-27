@@ -1,0 +1,8 @@
+# 157 - Devils Hammock Wildlife Preserve
+title = c_devils_hammock_wildlife_preserve
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_devils_hammock_wildlife_preserve_a = castle
+b_devils_hammock_wildlife_preserve_b = city
+b_devils_hammock_wildlife_preserve_c = temple

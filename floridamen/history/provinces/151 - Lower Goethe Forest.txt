@@ -1,0 +1,8 @@
+# 151 - Lower Goethe Forest
+title = c_lower_goethe_forest
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_lower_goethe_forest_a = castle
+b_lower_goethe_forest_b = city
+b_lower_goethe_forest_c = temple

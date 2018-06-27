@@ -1,0 +1,8 @@
+# 226 - Arcadia
+title = c_arcadia
+max_settlements = 4
+culture = tampanian
+religion = baptist
+b_arcadia_a = castle
+b_arcadia_b = city
+b_arcadia_c = temple

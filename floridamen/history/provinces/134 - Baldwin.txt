@@ -1,0 +1,8 @@
+# 134 - Baldwin
+title = c_baldwin
+max_settlements = 4
+culture = jacksonvillean
+religion = baptist
+b_baldwin_a = castle
+b_baldwin_b = city
+b_baldwin_c = temple

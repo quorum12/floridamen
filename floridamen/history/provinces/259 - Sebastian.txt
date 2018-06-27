@@ -1,0 +1,8 @@
+# 259 - Sebastian
+title = c_sebastian
+max_settlements = 4
+culture = orlandoan
+religion = catholic
+b_sebastian_a = castle
+b_sebastian_b = city
+b_sebastian_c = temple

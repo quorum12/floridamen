@@ -1,0 +1,8 @@
+# 1 - Cameron
+title = c_cameron
+max_settlements = 4
+culture = texan
+religion = catholic
+b_cameron_a = castle
+b_cameron_b = city
+b_cameron_c = temple

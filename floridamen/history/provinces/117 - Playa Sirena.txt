@@ -1,0 +1,9 @@
+# 117 - Playa Sirena
+title = c_playa_sirena
+max_settlements = 4
+culture = antillais
+religion = none
+b_playa_sirena_a = castle
+b_playa_sirena_b = city
+b_playa_sirena_c = temple
+2134.1.1 = {

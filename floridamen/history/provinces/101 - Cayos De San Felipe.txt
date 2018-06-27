@@ -1,0 +1,8 @@
+# 101 - Cayos De San Felipe
+title = c_cayos_de_san_felipe
+max_settlements = 4
+culture = antillais
+religion = none
+b_cayos_de_san_felipe_a = castle
+b_cayos_de_san_felipe_b = city
+b_cayos_de_san_felipe_c = temple

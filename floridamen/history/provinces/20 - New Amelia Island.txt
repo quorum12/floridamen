@@ -1,0 +1,8 @@
+# 20 - New Amelia Island
+title = c_new_amelia_island
+max_settlements = 4
+culture = louisianan
+religion = voodoo
+b_new_amelia_island_a = castle
+b_new_amelia_island_b = city
+b_new_amelia_island_c = temple

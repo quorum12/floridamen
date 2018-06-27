@@ -1,0 +1,8 @@
+# 149 - Goethe Forest
+title = c_goethe_forest
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_goethe_forest_a = castle
+b_goethe_forest_b = city
+b_goethe_forest_c = temple

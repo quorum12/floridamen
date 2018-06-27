@@ -1,0 +1,8 @@
+# 261 - Vero Beach
+title = c_vero_beach
+max_settlements = 5
+culture = miamimen
+religion = catholic
+b_vero_beach_a = city
+b_vero_beach_b = castle
+b_vero_beach_c = temple

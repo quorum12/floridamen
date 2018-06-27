@@ -1,0 +1,8 @@
+# 99 - Harlem Bahia Honda
+title = c_harlem_bahia_honda
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_harlem_bahia_honda_a = castle
+b_harlem_bahia_honda_b = city
+b_harlem_bahia_honda_c = temple

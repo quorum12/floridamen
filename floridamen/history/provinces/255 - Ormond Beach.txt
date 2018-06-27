@@ -1,0 +1,8 @@
+# 255 - Ormond Beach
+title = c_ormond_beach
+max_settlements = 4
+culture = orlandoan
+religion = catholic
+b_ormond_beach_a = castle
+b_ormond_beach_b = city
+b_ormond_beach_c = temple

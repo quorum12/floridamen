@@ -1,0 +1,8 @@
+# 73 - Rio Lagartos
+title = c_rio_lagartos
+max_settlements = 4
+culture = mexican
+religion = catholic
+b_rio_lagartos_a = castle
+b_rio_lagartos_b = city
+b_rio_lagartos_c = temple

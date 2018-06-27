@@ -1,0 +1,8 @@
+# 61 - Celestun
+title = c_celestun
+max_settlements = 4
+culture = mexican
+religion = catholic
+b_celestun_a = castle
+b_celestun_b = city
+b_celestun_c = temple

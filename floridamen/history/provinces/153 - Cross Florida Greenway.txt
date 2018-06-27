@@ -1,0 +1,8 @@
+# 153 - Cross Florida Greenway
+title = c_cross_florida_greenway
+max_settlements = 4
+culture = tampanian
+religion = baptist
+b_cross_florida_greenway_a = castle
+b_cross_florida_greenway_b = city
+b_cross_florida_greenway_c = temple

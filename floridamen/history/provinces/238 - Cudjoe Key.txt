@@ -1,0 +1,8 @@
+# 238 - Cudjoe Key
+title = c_cudjoe_key
+max_settlements = 4
+culture = antillais
+religion = catholic
+b_cudjoe_key_a = castle
+b_cudjoe_key_b = city
+b_cudjoe_key_c = temple

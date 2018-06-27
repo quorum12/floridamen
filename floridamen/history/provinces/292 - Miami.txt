@@ -1,0 +1,9 @@
+# 292 - Miami
+title = c_miami
+max_settlements = 7
+culture = americo_hispanic
+religion = jewish
+b_miami_a = castle
+b_miami_b = city
+b_miami_c = temple
+b_miami_d = castle

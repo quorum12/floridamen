@@ -1,0 +1,8 @@
+# 204 - Cayo Romano
+title = c_cayo_romano
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_cayo_romano_a = castle
+b_cayo_romano_b = city
+b_cayo_romano_c = temple

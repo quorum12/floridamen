@@ -1,0 +1,8 @@
+# 206 - Las Tunas
+title = c_las_tunas
+max_settlements = 4
+culture = hispaniolan
+religion = none
+b_las_tunas_a = castle
+b_las_tunas_b = city
+b_las_tunas_c = temple

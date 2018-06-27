@@ -1,0 +1,8 @@
+# 214 - Moron
+title = c_moron
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_moron_a = castle
+b_moron_b = city
+b_moron_c = temple

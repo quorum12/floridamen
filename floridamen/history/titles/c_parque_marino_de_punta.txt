@@ -1,0 +1,4 @@
+2134.1.1 = {
+	holder = 4000069
+	liege = d_islas_de_mangles
+}

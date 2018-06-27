@@ -1,0 +1,341 @@
+province;red;green;blue;x;x
+1;11;101;1;Cameron;x
+2;21;101;1;Hackberry;x
+3;31;101;1;Lake Charles;x
+4;41;101;1;Jennings;x
+5;51;101;1;Iota;x
+6;61;101;1;Gueydan;x
+7;71;101;1;Creole;x
+8;81;101;1;White Lake Wetlands Conservation Area;x
+9;91;101;1;Crowley;x
+10;101;101;1;Pecan Island;x
+11;111;101;1;Lafayette;x
+12;121;101;1;Abbeville;x
+13;131;101;1;Breaux Bridge;x
+14;141;101;1;Marsh Island;x
+15;151;101;1;New Iberia;x
+16;161;101;1;Atchafalaya Wildlife Refuge;x
+17;171;101;1;Plaquemine;x
+18;181;101;1;Morgan;x
+19;191;101;1;Baton Rouge;x
+20;201;101;1;New Amelia Island;x
+21;11;101;11;Cocodrie;x
+22;21;101;11;Gray;x
+23;31;101;11;Houma;x
+24;41;101;11;Hammond;x
+25;51;101;11;Picayune;x
+26;61;101;11;Biloxi;x
+27;71;101;11;New Orleans;x
+28;81;101;11;Empire;x
+29;91;101;11;Shell Beach;x
+30;101;101;11;Orange Beach;x
+31;111;101;11;Pensacola;x
+32;121;101;11;Fort Walton;x
+33;131;101;11;Crestview;x
+34;141;101;11;Niceville;x
+35;151;101;11;Defunkiak Springs;x
+36;161;101;11;Panama City Beach;x
+37;171;101;11;Port Saint Joe;x
+38;181;101;11;Wewahitchka;x
+39;191;101;11;Estiffanulga;x
+40;201;101;11;Blountstown;x
+41;11;101;21;Cedar Keypoint;x
+42;21;101;21;Carrabelle;x
+43;31;101;21;Apalachicola Forest;x
+44;41;101;21;Hosford;x
+45;51;101;21;Fort Braden;x
+46;61;101;21;Sopchoppy;x
+47;71;101;21;Tallahassee;x
+48;81;101;21;Woodville;x
+49;91;101;21;Aucilla Wildlife Area;x
+50;101;101;21;Wacissa;x
+51;111;101;21;Franklin;x
+52;121;101;21;Live Oak;x
+53;131;101;21;Tennille;x
+54;141;101;21;Horseshoe Beach;x
+55;151;101;21;Cedar Key;x
+56;161;101;21;Chiefland;x
+57;171;101;21;Fort White;x
+58;181;101;21;White Springs;x
+59;191;101;21;Osceola Wildlife Management Area;x
+60;201;101;21;Lake City;x
+61;11;101;31;Celestun;x
+62;21;101;31;Hunucma;x
+63;31;101;31;Uman;x
+64;41;101;31;Progreso;x
+65;51;101;31;Merida;x
+66;61;101;31;Foxen Defunkiak Springsin;x
+67;71;101;31;Izamal;x
+68;81;101;31;Dzidzantun;x
+69;91;101;31;Piste;x
+70;101;101;31;La Gran Lucha;x
+71;111;101;31;Valladolid;x
+72;121;101;31;Tizimin;x
+73;131;101;31;Rio Lagartos;x
+74;141;101;31;Chemax;x
+75;151;101;31;El Cuyo;x
+76;161;101;31;Kantunilkin;x
+77;171;101;31;Holbox;x
+78;181;101;31;Coba;x
+79;191;101;31;Play del Carmen;x
+80;201;101;31;Cancun;x
+81;11;101;41;Maria La Gorda;x
+82;21;101;41;Sandino;x
+83;31;101;41;Mantua;x
+84;41;101;41;Minas De Matahambre;x
+85;51;101;41;Punta De La Sierra;x
+86;61;101;41;San Juan Y Martinez;x
+87;71;101;41;Santa Maria;x
+88;81;101;41;Vinalas;x
+89;91;101;41;La Palma;x
+90;101;101;41;Pinar Del Rio;x
+91;111;101;41;Las Tumbas;x
+92;121;101;41;La Coloma;x
+93;131;101;41;Alonso De Rojas;x
+94;141;101;41;Los Palacios;x
+95;151;101;41;Palma Rubia;x
+96;161;101;41;Los Pinos;x
+97;171;101;41;San Cristobal;x
+98;181;101;41;Soroa;x
+99;191;101;41;Harlem Bahia Honda;x
+100;201;101;41;Parque La Guira;x
+101;11;101;51;Cayos De San Felipe;x
+102;21;101;51;Islas De Mangles;x
+103;31;101;51;La Demajagua;x
+104;41;101;51;Carapachibey;x
+105;51;101;51;Delita;x
+106;61;101;51;Siguanea;x
+107;71;101;51;Parque Marino De Punta;x
+108;81;101;51;Santa Fe;x
+109;91;101;51;Nueva Gerona;x
+110;101;101;51;Cayos Los Cayuelos;x
+111;111;101;51;Islas De Batabanos;x
+112;121;101;51;Cayo Boca De Alonso;x
+113;131;101;51;Cayo Campos;x
+114;141;101;51;Cayo Ciprey;x
+115;151;101;51;Cayo Diego Perez;x
+116;161;101;51;Cayo Divisa;x
+117;171;101;51;Playa Sirena;x
+118;181;101;51;Parque Cienaga De Zapata;x
+119;191;101;51;Playa Larga;x
+120;201;101;51;Nueva Paz;x
+121;11;101;61;Gainesville;x
+122;21;101;61;Hawthorne;x
+123;31;101;61;Interlachen;x
+124;41;101;61;Palatka;x
+125;51;101;61;Hastings;x
+126;61;101;61;Palm Coast;x
+127;71;101;61;Saint Augustine;x
+128;81;101;61;Green Cove Springs;x
+129;91;101;61;Starke;x
+130;101;101;61;Alachua;x
+131;111;101;61;Moniac;x
+132;121;101;61;Macclenny;x
+133;131;101;61;Saint George;x
+134;141;101;61;Baldwin;x
+135;151;101;61;Callahan;x
+136;161;101;61;Franklintown;x
+137;171;101;61;Middleburg;x
+138;181;101;61;Orange Park;x
+139;191;101;61;Jacksonville;x
+140;201;101;61;Arlington;x
+141;11;101;71;Ocala Forest;x
+142;21;101;71;Belleview;x
+143;31;101;71;Ocala;x
+144;41;101;71;Morriston;x
+145;51;101;71;Marion Oaks;x
+146;61;101;71;Chatmire;x
+147;71;101;71;Citrus Springs;x
+148;81;101;71;Dunnellon;x
+149;91;101;71;Goethe Forest;x
+150;101;101;71;Williston Highlands;x
+151;111;101;71;Lower Goethe Forest;x
+152;121;101;71;Inglis;x
+153;131;101;71;Cross Florida Greenway;x
+154;141;101;71;Gulf Hammock Wildlife Preserve;x
+155;151;101;71;Bronston;x
+156;161;101;71;Otter Creek;x
+157;171;101;71;Devils Hammock Wildlife Preserve;x
+158;181;101;71;Yellow Jacket;x
+159;191;101;71;Suwannee;x
+160;201;101;71;Spring Hill;x
+161;11;101;81;Jaguey Grande;x
+162;21;101;81;Cardenas;x
+163;31;101;81;Eastern Parque Cienaga De Zapata;x
+164;41;101;81;Pedro Betancourt;x
+165;51;101;81;Matanzas;x
+166;61;101;81;Union De Reyes;x
+167;71;101;81;Central Parque Cienaga De Zapata;x
+168;81;101;81;Southern Parque Cienaga De Zapata;x
+169;91;101;81;Far Parque Cienaga De Zapata;x
+170;101;101;81;San Miguel De Los Banos;x
+171;111;101;81;Aguacate;x
+172;121;101;81;Bacunayagua;x
+173;131;101;81;San Nicolas De Bari;x
+174;141;101;81;Santa Cruz Del Norte;x
+175;151;101;81;Havana;x
+176;161;101;81;Surgidero De Batabano;x
+177;171;101;81;Playa Baracoa;x
+178;181;101;81;Artemisa;x
+179;191;101;81;Cabanas;x
+180;201;101;81;Candelaria;x
+181;11;101;91;Pine Island Sound Aquatic Preserve;x
+182;21;101;91;Port Charlotte;x
+183;31;101;91;Venice;x
+184;41;101;91;Sarasota;x
+185;51;101;91;Brandenton;x
+186;61;101;91;Sun City;x
+187;71;101;91;Apollo Beach;x
+188;81;101;91;South Tampa;x
+189;91;101;91;Saint Petersburg;x
+190;101;101;91;Clearwater;x
+191;111;101;91;Town N Country;x
+192;121;101;91;Palm Harbor;x
+193;131;101;91;Trinity;x
+194;141;101;91;Lutz;x
+195;151;101;91;Dade City;x
+196;161;101;91;Wesley Chapel;x
+197;171;101;91;Lithia;x
+198;181;101;91;Myakka;x
+199;191;101;91;Mayakk River Park;x
+200;201;101;91;North Port;x
+201;11;101;101;Freeport;x
+202;21;101;101;Left Islands;x
+203;31;101;101;Right Islands;x
+204;41;101;101;Cayo Romano;x
+205;51;101;101;Puerto Padre;x
+206;61;101;101;Las Tunas;x
+207;71;101;101;Bayamo;x
+208;81;101;101;Sabalo;x
+209;91;101;101;Colobia;x
+210;101;101;101;Candido Gonzalez;x
+211;111;101;101;Venezuela;x
+212;121;101;101;Camaguey;x
+213;131;101;101;Vilato;x
+214;141;101;101;Moron;x
+215;151;101;101;Cayo Fragoso;x
+216;161;101;101;Santa Clara;x
+217;171;101;101;Cienfuegos;x
+218;181;101;101;Constancia;x
+219;191;101;101;Colon;x
+220;201;101;101;La Teja;x
+221;11;101;111;Winter Haven;x
+222;21;101;111;Lakeland;x
+223;31;101;111;Plant City;x
+224;41;101;111;Avon Park;x
+225;51;101;111;Bowling Green;x
+226;61;101;111;Arcadia;x
+227;71;101;111;Southeast Arcadia;x
+228;81;101;111;Babcock Ranch Preserve;x
+229;91;101;111;Ave Maria;x
+230;101;101;111;Naples;x
+231;111;101;111;Orangetree;x
+232;121;101;111;Cape Romano;x
+233;131;101;111;Carnestown;x
+234;141;101;111;Everglades City;x
+235;151;101;111;Chokoloskee;x
+236;161;101;111;Everglades Park;x
+237;171;101;111;Big Pine Key;x
+238;181;101;111;Cudjoe Key;x
+239;191;101;111;Key West;x
+240;201;101;111;Dry Tortugas National Park;x
+241;11;101;121;Camp Ocala;x
+242;21;101;121;Alexander Springs;x
+243;31;101;121;Astor;x
+244;41;101;121;De Leon Springs;x
+245;51;101;121;Paisley;x
+246;61;101;121;Eustis;x
+247;71;101;121;Apopka;x
+248;81;101;121;Sorrento;x
+249;91;101;121;Stirling;x
+250;101;101;121;Pine Lakes;x
+251;111;101;121;Sanford;x
+252;121;101;121;Deland;x
+253;131;101;121;North Deland;x
+254;141;101;121;Relay Wma;x
+255;151;101;121;Ormond Beach;x
+256;161;101;121;Tiger Bay Forest;x
+257;171;101;121;Daytona Beach;x
+258;181;101;121;South Tiger Bay Forest;x
+259;191;101;121;Sebastian;x
+260;201;101;121;New Smyrna Beach;x
+261;11;101;131;Vero Beach;x
+262;21;101;131;Fort Pierce;x
+263;31;101;131;Port Saint Lucie;x
+264;41;101;131;Vero Corridor;x
+265;51;101;131;Yeehaw Junction;x
+266;61;101;131;White;x
+267;71;101;131;Pahokee;x
+268;81;101;131;West Palm Beach;x
+269;91;101;131;Belle Glade;x
+270;101;101;131;Clewiston;x
+271;111;101;131;Immokalee;x
+272;121;101;131;Labelle;x
+273;131;101;131;Muce;x
+274;141;101;131;Sebring;x
+275;151;101;131;Sylvan Shores;x
+276;161;101;131;Buckhead Ridge;x
+277;171;101;131;Kissimee Praire Preserve;x
+278;181;101;131;Basinger;x
+279;191;101;131;Whispering Pines;x
+280;201;101;131;Okeechobee;x
+281;11;101;141;Marathon;x
+282;21;101;141;South Everglades;x
+283;31;101;141;Islamorada;x
+284;41;101;141;North Everglades;x
+285;51;101;141;Key Largo;x
+286;61;101;141;Palmetto Bay;x
+287;71;101;141;Homestead;x
+288;81;101;141;Kendall;x
+289;91;101;141;Cutler Bay;x
+290;101;101;141;Coral Gables;x
+291;111;101;141;Doral;x
+292;121;101;141;Miami;x
+293;131;101;141;Hialeah;x
+294;141;101;141;Minneapolis;x
+295;151;101;141;Miami Shores;x
+296;161;101;141;Aventura;x
+297;171;101;141;Hollywood;x
+298;181;101;141;Horseshoe Beach Park;x
+299;191;101;141;Pembroke Pines;x
+300;201;101;141;Miramar;x
+301;11;1;151;Calcasieu Lake;x
+302;21;1;151;Grand Lake;x
+303;31;1;151;White Lake;x
+304;41;1;151;Lake Maurepas;x
+305;51;1;151;Lake Pontchartrain;x
+306;61;1;151;Lake George;x
+307;71;1;151;Lake Okeechobee;x
+308;81;1;151;Indian River;x
+309;91;1;151;Sea of First Coast;x
+310;101;1;151;Bay of South Keys;x
+311;111;1;151;Ocean of Miami;x
+312;121;1;151;Bay of South Cuba;x
+313;131;1;151;Sea of Louisianna;x
+314;141;1;151;Bay of Yucatan;x
+315;151;1;151;Bay of Orleans;x
+316;161;1;151;Bay of North Cuba;x
+317;171;1;151;Bay of Pensicola;x
+318;181;1;151;Bay of Havanna;x
+319;191;1;151;Bay of Tampa;x
+320;201;1;151;Gulf of The Keys;x
+321;211;1;151;Carribian Ocean;x
+322;131;11;151;Bay of Gray;x
+323;151;11;151;Bay of Biloxi;x
+324;171;11;151;Bay of East Pensicola;x
+325;191;11;151;Bay of Clearwater;x
+326;191;2;151;Bay of Fort Myers;x
+327;191;3;151;Bay of Naples;x
+328;201;11;151;Gulf of The Far Keys;x
+329;91;11;151;Sea of Jacksonville;x
+330;91;21;151;Sea of Space Coast;x
+331;111;11;151;Sea of Freeport;x
+332;111;2;151;South Ocean of Miami;x
+333;141;11;151;Ocean of Far Yucatan;x
+334;141;21;151;Bay of Cancun;x
+335;141;41;151;Bay of Merida;x
+336;121;11;151;Bay of Trinidad;x
+337;181;11;151;Bahia de Las Tumbas;x
+338;181;21;151;Bahia de Sandino;x
+339;101;11;151;Bahia de Pinar Norte;x
+340;161;11;151;Bahia de Santa Clara;x

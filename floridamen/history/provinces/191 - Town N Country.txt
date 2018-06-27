@@ -1,0 +1,8 @@
+# 191 - Town N Country
+title = c_town_n_country
+max_settlements = 4
+culture = tampanian
+religion = baptist
+b_town_n_country_a = castle
+b_town_n_country_b = city
+b_town_n_country_c = temple

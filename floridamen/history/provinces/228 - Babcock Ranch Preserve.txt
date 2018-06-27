@@ -1,0 +1,8 @@
+# 228 - Babcock Ranch Preserve
+title = c_babcock_ranch_preserve
+max_settlements = 4
+culture = calusa
+religion = baptist
+b_babcock_ranch_preserve_a = castle
+b_babcock_ranch_preserve_b = city
+b_babcock_ranch_preserve_c = temple

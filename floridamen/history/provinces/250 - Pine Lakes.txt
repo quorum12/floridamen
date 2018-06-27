@@ -1,0 +1,8 @@
+# 250 - Pine Lakes
+title = c_pine_lakes
+max_settlements = 4
+culture = miamimen
+religion = baptist
+b_pine_lakes_a = castle
+b_pine_lakes_b = city
+b_pine_lakes_c = temple

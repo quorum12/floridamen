@@ -1,0 +1,8 @@
+# 12 - Abbeville
+title = c_abbeville
+max_settlements = 4
+culture = louisianan
+religion = voodoo
+b_abbeville_a = castle
+b_abbeville_b = city
+b_abbeville_c = temple

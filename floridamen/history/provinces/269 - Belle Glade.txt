@@ -1,0 +1,8 @@
+# 269 - Belle Glade
+title = c_belle_glade
+max_settlements = 4
+culture = miamimen
+religion = baptist
+b_belle_glade_a = castle
+b_belle_glade_b = city
+b_belle_glade_c = temple

@@ -1,0 +1,8 @@
+# 22 - Gray
+title = c_gray
+max_settlements = 4
+culture = new_orleanser
+religion = voodoo
+b_gray_a = castle
+b_gray_b = city
+b_gray_c = temple

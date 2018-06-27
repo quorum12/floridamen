@@ -1,0 +1,8 @@
+# 122 - Hawthorne
+title = c_hawthorne
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_hawthorne_a = castle
+b_hawthorne_b = city
+b_hawthorne_c = temple

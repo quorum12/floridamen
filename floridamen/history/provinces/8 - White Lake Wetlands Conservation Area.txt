@@ -1,0 +1,7 @@
+# 8 - White Lake Wetlands Conservation Area
+title = c_white_lake_wetlands_conservation_area
+max_settlements = 2
+culture = louisianan
+religion = voodoo
+b_white_lake_wetlands_conservation_area_a = castle
+b_white_lake_wetlands_conservation_area_b = temple

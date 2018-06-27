@@ -1,0 +1,8 @@
+# 62 - Hunucma
+title = c_hunucma
+max_settlements = 4
+culture = mexican
+religion = catholic
+b_hunucma_a = castle
+b_hunucma_b = city
+b_hunucma_c = temple

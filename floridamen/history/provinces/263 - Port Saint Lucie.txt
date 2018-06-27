@@ -1,0 +1,8 @@
+# 263 - Port Saint Lucie
+title = c_port_saint_lucie
+max_settlements = 4
+culture = miamimen
+religion = baptist
+b_port_saint_lucie_a = city
+b_port_saint_lucie_b = castle
+b_port_saint_lucie_c = temple

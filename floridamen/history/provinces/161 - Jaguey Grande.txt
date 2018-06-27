@@ -1,0 +1,8 @@
+# 161 - Jaguey Grande
+title = c_jaguey_grande
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_jaguey_grande_a = castle
+b_jaguey_grande_b = city
+b_jaguey_grande_c = temple

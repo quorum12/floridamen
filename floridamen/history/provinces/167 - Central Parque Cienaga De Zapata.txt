@@ -1,0 +1,8 @@
+# 167 - Central Parque Cienaga De Zapata
+title = c_central_parque_cienaga_de_zapata
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_central_parque_cienaga_de_zapata_a = castle
+b_central_parque_cienaga_de_zapata_b = city
+b_central_parque_cienaga_de_zapata_c = temple

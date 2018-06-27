@@ -1,0 +1,8 @@
+# 46 - Sopchoppy
+title = c_sopchoppy
+max_settlements = 4
+culture = southerner
+religion = methodist
+b_sopchoppy_a = castle
+b_sopchoppy_b = city
+b_sopchoppy_c = temple

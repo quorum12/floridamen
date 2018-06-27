@@ -1,0 +1,9 @@
+# 102 - Islas De Mangles
+title = c_islas_de_mangles
+max_settlements = 4
+culture = antillais
+religion = none
+b_islas_de_mangles_a = castle
+b_islas_de_mangles_b = city
+b_islas_de_mangles_c = temple
+2134.1.1 = {

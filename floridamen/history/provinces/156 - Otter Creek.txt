@@ -1,0 +1,8 @@
+# 156 - Otter Creek
+title = c_otter_creek
+max_settlements = 4
+culture = tallahassean
+religion = baptist
+b_otter_creek_a = castle
+b_otter_creek_b = city
+b_otter_creek_c = temple

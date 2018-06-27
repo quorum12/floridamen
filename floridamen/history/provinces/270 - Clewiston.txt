@@ -1,0 +1,8 @@
+# 270 - Clewiston
+title = c_clewiston
+max_settlements = 4
+culture = calusa
+religion = baptist
+b_clewiston_a = castle
+b_clewiston_b = city
+b_clewiston_c = temple

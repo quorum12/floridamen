@@ -1,0 +1,1179 @@
+ # Triggers are in Province scope. The From Scope contains the settlement holder (character)
+ # start trigger is in title scope.
+ 
+ #<tag> = {
+ #	desc = description used in the tooltip of the building
+ #	trigger = used for tech requirement of the building, set to 0 if no requirement so it can be build automatically on new games
+ #	gold_cost = cost to build the building
+ #	build_time = time to build, in days
+ #	
+ #	ai_creation_factor = weight that the AI uses to determine what building to build
+ #	extra_tech_building_start = when starting a new game this building will be pre-built if the province has higher tech than the requirement + this + random 0-1
+ #}
+ 
+ # Castle
+castle = {
+	# All cultural buildings follow the same pattern:
+	# tech required is 0, 1, 2, 4 for the levels of the buildings
+	# cost is 200 + 100 per level
+	# 60 maintenance of troops + 20 per level
+	# + 0.15 bonus in either offensive, defensive or morale sometimes split over different units or stats same on all levels
+	
+	# Culture building names MUST start with ca_culture
+
+	#Mexican Archery Range
+	ca_culture_mexican_1 = {
+		desc = ca_culture_mexican_1_desc
+		potential = {
+			OR = {
+				culture = mexican
+				has_building = ca_culture_mexican_1
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = mexican
+				}
+			}
+		} 
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 0 
+			ROOT = {
+				OR = {
+					culture = mexican
+				}
+			}
+		}
+		prerequisites = { ca_wall_2 }
+		gold_cost = 200
+		build_time = 730
+		archers_offensive = 0.15
+		archers = 60
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_mexican_2 = {
+		desc = ca_culture_mexican_1_desc
+		potential = {
+			OR = {
+				culture = mexican
+				has_building = ca_culture_mexican_1
+				has_building = ca_culture_mexican_2
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = mexican
+				}
+			}
+		} 
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 1 
+			ROOT = {
+				OR = {
+					culture = mexican
+				}
+			}
+		}
+		upgrades_from = ca_culture_mexican_1
+		gold_cost = 300
+		build_time = 1095
+		archers_offensive = 0.15
+		archers = 80
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_mexican_3 = {
+		desc = ca_culture_mexican_1_desc
+		potential = {
+			OR = {
+				culture = mexican
+				has_building = ca_culture_mexican_1
+				has_building = ca_culture_mexican_2
+				has_building = ca_culture_mexican_3
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = mexican
+				}
+			}
+		} 
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 2 
+			ROOT = {
+				OR = {
+					culture = mexican
+				}
+			}
+		}
+		upgrades_from = ca_culture_mexican_2
+		gold_cost = 400
+		build_time = 2190
+		archers_offensive = 0.15
+		archers = 100
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_mexican_4 = {
+		desc = ca_culture_mexican_1_desc
+		potential = {
+			OR = {
+				culture = mexican
+				has_building = ca_culture_mexican_1
+				has_building = ca_culture_mexican_2
+				has_building = ca_culture_mexican_3
+				has_building = ca_culture_mexican_4
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = mexican
+				}
+			}
+		} 
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 4 
+			ROOT = {
+				OR = {
+					culture = mexican
+				}
+			}
+		}
+		upgrades_from = ca_culture_mexican_3
+		gold_cost = 500
+		build_time = 2190
+		archers_offensive = 0.15
+		archers = 120
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+
+	#tallahassean Schiltron
+	ca_culture_tallahassean_1 = {
+		desc = ca_culture_tallahassean_1_desc
+		potential = {
+			OR = {
+				culture = tallahassean
+				has_building = ca_culture_tallahassean_1
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture = tallahassean
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 0 
+			ROOT = {
+				culture = tallahassean
+			}
+		}
+		prerequisites = { ca_wall_2 }
+		gold_cost = 200
+		build_time = 730
+		pikemen = 30
+		pikemen_defensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_tallahassean_2 = {
+		desc = ca_culture_tallahassean_1_desc
+		potential = {
+			OR = {
+				culture = tallahassean
+				has_building = ca_culture_tallahassean_1
+				has_building = ca_culture_tallahassean_2
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture = tallahassean
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 1 
+			ROOT = {
+				culture = tallahassean
+			}
+		}
+		upgrades_from = ca_culture_tallahassean_1
+		gold_cost = 300
+		build_time = 1095
+		pikemen = 40
+		pikemen_defensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_tallahassean_3 = {
+		desc = ca_culture_tallahassean_1_desc
+		potential = {
+			OR = {
+				culture = tallahassean
+				has_building = ca_culture_tallahassean_1
+				has_building = ca_culture_tallahassean_2
+				has_building = ca_culture_tallahassean_3
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture = tallahassean
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 2
+			ROOT = {
+				culture = tallahassean
+			}
+		}
+		upgrades_from = ca_culture_tallahassean_2
+		gold_cost = 400
+		build_time = 2190
+		pikemen = 60
+		pikemen_defensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_tallahassean_4 = {
+		desc = ca_culture_tallahassean_1_desc
+		potential = {
+			OR = {
+				culture = tallahassean
+				has_building = ca_culture_tallahassean_1
+				has_building = ca_culture_tallahassean_2
+				has_building = ca_culture_tallahassean_3
+				has_building = ca_culture_tallahassean_4
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture = tallahassean
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 4
+			ROOT = {
+				culture = tallahassean
+			}
+		}
+		upgrades_from = ca_culture_tallahassean_3
+		gold_cost = 500
+		build_time = 2190
+		pikemen = 80
+		pikemen_defensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}	
+	
+	#southerner tribes Heavy Infantry camps
+	ca_culture_group_southerner_1 = {
+		desc = ca_culture_group_southerner_1_desc
+		potential = {
+			OR = {
+				culture_group = southerner
+				has_building = ca_culture_group_southerner_1
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture_group = southerner
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 0 
+			ROOT = {
+				culture_group = southerner
+			}
+		}
+		prerequisites = { ca_wall_2 }
+		gold_cost = 200
+		build_time = 730
+		heavy_infantry = 30
+		heavy_infantry_defensive = 0.15
+		ai_creation_factor = 101
+
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_southerner_2 = {
+		desc = ca_culture_group_southerner_1_desc
+		potential = {
+			OR = {
+				culture_group = southerner
+				has_building = ca_culture_group_southerner_1
+				has_building = ca_culture_group_southerner_2
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture_group = southerner
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 1
+			ROOT = {
+				culture_group = southerner
+			}
+		}
+		upgrades_from = ca_culture_group_southerner_1
+		gold_cost = 300
+		build_time = 1095
+		heavy_infantry = 40
+		heavy_infantry_defensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_southerner_3 = {
+		desc = ca_culture_group_southerner_1_desc
+		potential = {
+			OR = {
+				culture_group = southerner
+				has_building = ca_culture_group_southerner_1
+				has_building = ca_culture_group_southerner_2
+				has_building = ca_culture_group_southerner_3
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture_group = southerner
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 2 
+			ROOT = {
+				culture_group = southerner
+			}
+		}
+		upgrades_from = ca_culture_group_southerner_2
+		gold_cost = 400
+		build_time = 2190
+		heavy_infantry = 50
+		heavy_infantry_defensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_group_southerner_4 = {
+		desc = ca_culture_group_southerner_1_desc
+		potential = {
+			OR = {
+				culture_group = southerner
+				has_building = ca_culture_group_southerner_1
+				has_building = ca_culture_group_southerner_2
+				has_building = ca_culture_group_southerner_3
+				has_building = ca_culture_group_southerner_4
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				culture_group = southerner
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 4
+			ROOT = {
+				culture_group = southerner
+			}
+		}
+		upgrades_from = ca_culture_group_southerner_3
+		gold_cost = 500
+		build_time = 2190
+		heavy_infantry = 60
+		heavy_infantry_defensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+	
+	#Dixie, louisianan, jacksonvillean knights
+	ca_culture_dixie_louisianan_jacksonvillean_1 = {
+		desc = ca_culture_dixie_louisianan_jacksonvillean_1_desc
+		potential = {
+			OR = {
+				culture = dixie
+				culture = louisianan
+				culture = jacksonvillean
+				has_building = ca_culture_dixie_louisianan_jacksonvillean_1
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = dixie
+					culture = louisianan
+					culture = jacksonvillean
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 0 
+			ROOT = {
+				OR = {
+					culture = dixie
+					culture = louisianan
+					culture = jacksonvillean
+				}
+			}
+		}
+		prerequisites = { ca_wall_2 }
+		gold_cost = 200
+		build_time = 730
+		knights = 15
+		knights_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_dixie_louisianan_jacksonvillean_2 = {
+		desc = ca_culture_dixie_louisianan_jacksonvillean_1_desc
+		potential = {
+			OR = {
+				culture = dixie
+				culture = louisianan
+				culture = jacksonvillean
+				has_building = ca_culture_dixie_louisianan_jacksonvillean_1
+				has_building = ca_culture_dixie_louisianan_jacksonvillean_2
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = dixie
+					culture = louisianan
+					culture = jacksonvillean
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 1
+			ROOT = {
+				OR = {
+					culture = dixie
+					culture = louisianan
+					culture = jacksonvillean
+				}
+			}
+		}
+		upgrades_from = ca_culture_dixie_louisianan_jacksonvillean_1
+		gold_cost = 300
+		build_time = 1095
+		knights = 20
+		knights_offensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_dixie_louisianan_jacksonvillean_3 = {
+		desc = ca_culture_dixie_louisianan_jacksonvillean_1_desc
+		potential = {
+			OR = {
+				culture = dixie
+				culture = louisianan
+				culture = jacksonvillean
+				has_building = ca_culture_dixie_louisianan_jacksonvillean_1
+				has_building = ca_culture_dixie_louisianan_jacksonvillean_2
+				has_building = ca_culture_dixie_louisianan_jacksonvillean_3
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = dixie
+					culture = louisianan
+					culture = jacksonvillean
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 2
+			ROOT = {
+				OR = {
+					culture = dixie
+					culture = louisianan
+					culture = jacksonvillean
+				}
+			}
+		}		upgrades_from = ca_culture_dixie_louisianan_jacksonvillean_2
+		gold_cost = 400
+		build_time = 2190
+		knights = 25
+		knights_offensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_dixie_louisianan_jacksonvillean_4 = {
+		desc = ca_culture_dixie_louisianan_jacksonvillean_1_desc
+		potential = {
+			OR = {
+				culture = dixie
+				culture = louisianan
+				culture = jacksonvillean
+				has_building = ca_culture_dixie_louisianan_jacksonvillean_1
+				has_building = ca_culture_dixie_louisianan_jacksonvillean_2
+				has_building = ca_culture_dixie_louisianan_jacksonvillean_3
+				has_building = ca_culture_dixie_louisianan_jacksonvillean_4
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = dixie
+					culture = louisianan
+					culture = jacksonvillean
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 4
+			ROOT = {
+				OR = {
+					culture = dixie
+					culture = louisianan
+					culture = jacksonvillean
+				}
+			}
+		}
+		upgrades_from = ca_culture_dixie_louisianan_jacksonvillean_3
+		gold_cost = 500
+		build_time = 2190
+		knights = 30
+		knights_offensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}	
+	
+	#calusa and texan Fast horse breeders
+	ca_culture_texan_calusa_1 = {
+		desc = ca_culture_texan_calusa_1_desc
+		potential = {
+			OR = { 
+				culture = texan 
+				culture = calusa
+				has_building = ca_culture_texan_calusa_1
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = texan 
+					culture = calusa
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 0 
+			ROOT = {
+				OR = {
+					culture = texan 
+					culture = calusa
+				}
+			}
+		}
+		prerequisites = { ca_wall_2 }
+		gold_cost = 200
+		build_time = 730
+		light_cavalry = 30
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_texan_calusa_2 = {
+		desc = ca_culture_texan_calusa_1_desc
+		potential = {
+			OR = { 
+				culture = texan 
+				culture = calusa 
+				has_building = ca_culture_texan_calusa_1
+				has_building = ca_culture_texan_calusa_2
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = texan 
+					culture = calusa
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 1
+			ROOT = {
+				OR = {
+					culture = texan 
+					culture = calusa
+				}
+			}
+		}
+		upgrades_from = ca_culture_texan_calusa_1
+		gold_cost = 300
+		build_time = 1095
+		light_cavalry = 40
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 100
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_texan_calusa_3 = {
+		desc = ca_culture_texan_calusa_1_desc
+		potential = {
+			OR = { 
+				culture = texan 
+				culture = calusa 
+				has_building = ca_culture_texan_calusa_1
+				has_building = ca_culture_texan_calusa_2
+				has_building = ca_culture_texan_calusa_3
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = texan 
+					culture = calusa
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 2
+			ROOT = {
+				OR = {
+					culture = texan 
+					culture = calusa
+				}
+			}
+		}
+		upgrades_from = ca_culture_texan_calusa_2
+		gold_cost = 400
+		build_time = 2190
+		light_cavalry = 50
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 99
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_texan_calusa_4 = {
+		desc = ca_culture_texan_calusa_1_desc
+		potential = {
+			OR = { 
+				culture = texan 
+				culture = calusa 
+				has_building = ca_culture_texan_calusa_1
+				has_building = ca_culture_texan_calusa_2
+				has_building = ca_culture_texan_calusa_3
+				has_building = ca_culture_texan_calusa_4
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = texan 
+					culture = calusa
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 4
+			ROOT = {
+				OR = {
+					culture = texan 
+					culture = calusa
+				}
+			}
+		}
+		upgrades_from = ca_culture_texan_calusa_3
+		gold_cost = 500
+		build_time = 2190
+		light_cavalry = 60
+		light_cavalry_offensive = 0.15
+		ai_creation_factor = 98
+		
+		extra_tech_building_start = 0.8
+	}
+	
+	# new_orleanser_miamimen_tampanian_orlandoan Light Infantry Drilling Ground
+	ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1 = {
+		desc = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1_desc
+		potential = {
+			OR = { 
+				culture = new_orleanser
+				culture = miamimen
+				culture = tampanian
+				culture = orlandoan 
+				has_building = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = new_orleanser
+					culture = miamimen
+					culture = tampanian
+					culture = orlandoan
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 0 
+			ROOT = {
+				OR = {
+					culture = new_orleanser
+					culture = miamimen
+					culture = tampanian
+					culture = orlandoan
+				}
+			}
+		}
+		prerequisites = { ca_wall_2 }
+		gold_cost = 200
+		build_time = 730
+		light_infantry = 60
+		light_infantry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_new_orleanser_miamimen_tampanian_orlandoan_2 = {
+		desc = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1_desc
+		potential = {
+			OR = { 
+				culture = new_orleanser
+				culture = miamimen
+				culture = tampanian
+				culture = orlandoan 
+				has_building = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1
+				has_building = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_2
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = new_orleanser
+					culture = miamimen
+					culture = tampanian
+					culture = orlandoan
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 1
+			ROOT = {
+				OR = {
+					culture = new_orleanser
+					culture = miamimen
+					culture = tampanian
+					culture = orlandoan
+				}
+			}
+		}
+		upgrades_from = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1
+		gold_cost = 300
+		build_time = 1095
+		light_infantry = 80
+		light_infantry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_new_orleanser_miamimen_tampanian_orlandoan_3 = {
+		desc = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1_desc
+		potential = {
+			OR = { 
+				culture = new_orleanser
+				culture = miamimen
+				culture = tampanian
+				culture = orlandoan 
+				has_building = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1
+				has_building = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_2
+				has_building = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_3
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = new_orleanser
+					culture = miamimen
+					culture = tampanian
+					culture = orlandoan
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 2
+			ROOT = {
+				OR = {
+					culture = new_orleanser
+					culture = miamimen
+					culture = tampanian
+					culture = orlandoan
+				}
+			}
+		}
+		upgrades_from = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_2
+		gold_cost = 400
+		build_time = 2190
+		light_infantry = 100
+		light_infantry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_new_orleanser_miamimen_tampanian_orlandoan_4 = {
+		desc = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1_desc
+		potential = {
+			OR = { 
+				culture = new_orleanser
+				culture = miamimen
+				culture = tampanian
+				culture = orlandoan 
+				has_building = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1
+				has_building = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_2
+				has_building = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_3
+				has_building = ca_culture_ethopian_4
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = new_orleanser
+					culture = miamimen
+					culture = tampanian
+					culture = orlandoan
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 4
+			ROOT = {
+				OR = {
+					culture = new_orleanser
+					culture = miamimen
+					culture = tampanian
+					culture = orlandoan
+				}
+			}
+		}
+		upgrades_from = ca_culture_new_orleanser_miamimen_tampanian_orlandoan_3
+		gold_cost = 500
+		build_time = 2190
+		light_infantry = 120
+		light_infantry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	
+	# americo_hispanic_cubano Free Warrior Lodge
+	ca_culture_americo_hispanic_cubano_1 = {
+		desc = ca_culture_americo_hispanic_cubano_1_desc
+		potential = {
+			OR = { 
+				culture = americo_hispanic
+				culture = cubano 
+				has_building = ca_culture_americo_hispanic_cubano_1
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = americo_hispanic
+					culture = cubano
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 0 
+			ROOT = {
+				OR = {
+					culture = americo_hispanic
+					culture = cubano
+				}
+			}
+		}
+		prerequisites = { ca_wall_2 }
+		gold_cost = 200
+		build_time = 730
+		light_infantry = 30
+		archers = 30
+		light_infantry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_americo_hispanic_cubano_2 = {
+		desc = ca_culture_americo_hispanic_cubano_1_desc
+		potential = {
+			OR = { 
+				culture = americo_hispanic
+				culture = cubano 
+				has_building = ca_culture_americo_hispanic_cubano_1
+				has_building = ca_culture_americo_hispanic_cubano_2
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = americo_hispanic
+					culture = cubano
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 1
+			ROOT = {
+				OR = {
+					culture = americo_hispanic
+					culture = cubano
+				}
+			}
+		}
+		upgrades_from = ca_culture_americo_hispanic_cubano_1
+		gold_cost = 300
+		build_time = 1095
+		light_infantry = 40
+		archers = 40
+		light_infantry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_americo_hispanic_cubano_3 = {
+		desc = ca_culture_americo_hispanic_cubano_1_desc
+		potential = {
+			OR = { 
+				culture = americo_hispanic
+				culture = cubano 
+				has_building = ca_culture_americo_hispanic_cubano_1
+				has_building = ca_culture_americo_hispanic_cubano_2
+				has_building = ca_culture_americo_hispanic_cubano_3
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = americo_hispanic
+					culture = cubano
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 2
+			ROOT = {
+				OR = {
+					culture = americo_hispanic
+					culture = cubano
+				}
+			}
+		}
+		upgrades_from = ca_culture_americo_hispanic_cubano_2
+		gold_cost = 400
+		build_time = 2190
+		light_infantry = 50
+		archers = 50
+		light_infantry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_americo_hispanic_cubano_4 = {
+		desc = ca_culture_americo_hispanic_cubano_1_desc
+		potential = {
+			OR = { 
+				culture = americo_hispanic
+				culture = cubano 
+				has_building = ca_culture_americo_hispanic_cubano_1
+				has_building = ca_culture_americo_hispanic_cubano_2
+				has_building = ca_culture_americo_hispanic_cubano_3
+				has_building = ca_culture_americo_hispanic_cubano_4
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = americo_hispanic
+					culture = cubano
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 4 
+			ROOT = {
+				OR = {
+					culture = americo_hispanic
+					culture = cubano
+				}
+			}
+		}
+		upgrades_from = ca_culture_americo_hispanic_cubano_3
+		gold_cost = 500
+		build_time = 2190
+		light_infantry = 60
+		archers = 60
+		light_infantry_offensive = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	
+	# hispaniolan_antillais Jaguar Warriors
+	ca_culture_hispaniolan_antillais_1 = {
+		desc = ca_culture_hispaniolan_antillais_1_desc
+		potential = {
+			OR = { 
+				culture = hispaniolan
+				culture = antillais
+				has_building = ca_culture_hispaniolan_antillais_1
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = hispaniolan
+					culture = antillais
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 0 
+			ROOT = {
+				OR = {
+					culture = hispaniolan
+					culture = antillais
+				}
+			}
+		}
+		prerequisites = { ca_wall_2 }
+		gold_cost = 200
+		build_time = 730
+		heavy_infantry = 30
+		heavy_infantry_morale = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_hispaniolan_antillais_2 = {
+		desc = ca_culture_hispaniolan_antillais_1_desc
+		potential = {
+			OR = { 
+				culture = hispaniolan
+				culture = antillais
+				has_building = ca_culture_hispaniolan_antillais_1
+				has_building = ca_culture_hispaniolan_antillais_2
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = hispaniolan
+					culture = antillais
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 1
+			ROOT = {
+				OR = {
+					culture = hispaniolan
+					culture = antillais
+				}
+			}
+		}
+		upgrades_from = ca_culture_hispaniolan_antillais_1
+		gold_cost = 300
+		build_time = 1095
+		heavy_infantry = 40
+		heavy_infantry_morale = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_hispaniolan_antillais_3 = {
+		desc = ca_culture_hispaniolan_antillais_1_desc
+		potential = {
+			OR = { 
+				culture = hispaniolan
+				culture = antillais
+				has_building = ca_culture_hispaniolan_antillais_1
+				has_building = ca_culture_hispaniolan_antillais_2
+				has_building = ca_culture_hispaniolan_antillais_3
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = hispaniolan
+					culture = antillais
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 2
+			ROOT = {
+				OR = {
+					culture = hispaniolan
+					culture = antillais
+				}
+			}
+		}
+		upgrades_from = ca_culture_hispaniolan_antillais_2
+		gold_cost = 400
+		build_time = 2190
+		heavy_infantry = 50
+		heavy_infantry_morale = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+	ca_culture_hispaniolan_antillais_4 = {
+		desc = ca_culture_hispaniolan_antillais_1_desc
+		potential = {
+			OR = { 
+				culture = hispaniolan
+				culture = antillais
+				has_building = ca_culture_hispaniolan_antillais_1
+				has_building = ca_culture_hispaniolan_antillais_2
+				has_building = ca_culture_hispaniolan_antillais_3
+				has_building = ca_culture_hispaniolan_antillais_4
+			}
+		}
+		is_active_trigger = {
+			ROOT = {
+				OR = {
+					culture = hispaniolan
+					culture = antillais
+				}
+			}
+		}
+		trigger = { 
+			TECH_CASTLE_CONSTRUCTION = 4
+			ROOT = {
+				OR = {
+					culture = hispaniolan
+					culture = antillais
+				}
+			}
+		}
+		upgrades_from = ca_culture_hispaniolan_antillais_3
+		gold_cost = 500
+		build_time = 2190
+		heavy_infantry = 60
+		heavy_infantry_morale = 0.15
+		ai_creation_factor = 101
+		
+		extra_tech_building_start = 0.8
+	}
+}
+

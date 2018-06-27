@@ -1,0 +1,9 @@
+# 111 - Islas De Batabanos
+title = c_islas_de_batabanos
+max_settlements = 4
+culture = antillais
+religion = none
+b_islas_de_batabanos_a = castle
+b_islas_de_batabanos_b = city
+b_islas_de_batabanos_c = temple
+2134.1.1 = {

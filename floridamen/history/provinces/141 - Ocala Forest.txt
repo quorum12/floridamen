@@ -1,0 +1,8 @@
+# 141 - Ocala Forest
+title = c_ocala_forest
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_ocala_forest_a = castle
+b_ocala_forest_b = city
+b_ocala_forest_c = temple

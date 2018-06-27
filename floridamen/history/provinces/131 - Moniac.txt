@@ -1,0 +1,8 @@
+# 131 - Moniac
+title = c_moniac
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_moniac_a = castle
+b_moniac_b = city
+b_moniac_c = temple

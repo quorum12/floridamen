@@ -1,0 +1,10 @@
+# 27 - New Orleans
+title = c_new_orleans
+max_settlements = 7
+culture = southerner
+religion = voodoo
+b_new_orleans_a = castle
+b_new_orleans_b = city
+b_new_orleans_c = temple
+b_new_orleans_d = castle
+b_new_orleans_e = city

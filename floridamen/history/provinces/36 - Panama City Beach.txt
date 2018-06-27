@@ -1,0 +1,8 @@
+# 36 - Panama City Beach
+title = c_panama_city_beach
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_panama_city_beach_a = castle
+b_panama_city_beach_b = city
+b_panama_city_beach_c = temple

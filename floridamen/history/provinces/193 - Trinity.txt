@@ -1,0 +1,8 @@
+# 193 - Trinity
+title = c_trinity
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_trinity_a = castle
+b_trinity_b = city
+b_trinity_c = temple

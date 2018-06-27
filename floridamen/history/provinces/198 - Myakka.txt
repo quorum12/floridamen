@@ -1,0 +1,8 @@
+# 198 - Myakka
+title = c_myakka
+max_settlements = 4
+culture = tampanian
+religion = baptist
+b_myakka_a = castle
+b_myakka_b = city
+b_myakka_c = temple

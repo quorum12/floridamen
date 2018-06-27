@@ -1,0 +1,8 @@
+# 53 - Tennille
+title = c_tennille
+max_settlements = 4
+culture = tallahassean
+religion = baptist
+b_tennille_a = castle
+b_tennille_b = city
+b_tennille_c = temple

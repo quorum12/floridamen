@@ -1,0 +1,4 @@
+2134.1.1 = {
+	holder = 4000290
+	liege = k_papal_state
+}

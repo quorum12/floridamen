@@ -1,0 +1,8 @@
+# 296 - Aventura
+title = c_aventura
+max_settlements = 4
+culture = americo_hispanic
+religion = baptist
+b_aventura_a = castle
+b_aventura_b = city
+b_aventura_c = temple

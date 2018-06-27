@@ -1,0 +1,8 @@
+# 96 - Los Pinos
+title = c_los_pinos
+max_settlements = 4
+culture = antillais
+religion = catholic
+b_los_pinos_a = castle
+b_los_pinos_b = city
+b_los_pinos_c = temple

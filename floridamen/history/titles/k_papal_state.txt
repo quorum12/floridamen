@@ -1,0 +1,4 @@
+2134.1.1 = {
+	holder = 4000290
+	clr_global_flag = christian_crusades_unlocked
+}

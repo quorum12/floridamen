@@ -1,0 +1,8 @@
+# 68 - Dzidzantun
+title = c_dzidzantun
+max_settlements = 4
+culture = mexican
+religion = catholic
+b_dzidzantun_a = castle
+b_dzidzantun_b = city
+b_dzidzantun_c = temple

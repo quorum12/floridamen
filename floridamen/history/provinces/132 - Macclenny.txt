@@ -1,0 +1,8 @@
+# 132 - Macclenny
+title = c_macclenny
+max_settlements = 4
+culture = jacksonvillean
+religion = baptist
+b_macclenny_a = castle
+b_macclenny_b = city
+b_macclenny_c = temple

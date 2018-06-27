@@ -1,0 +1,8 @@
+# 210 - Candido Gonzalez
+title = c_candido_gonzalez
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_candido_gonzalez_a = castle
+b_candido_gonzalez_b = city
+b_candido_gonzalez_c = temple

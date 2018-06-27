@@ -1,0 +1,8 @@
+# 48 - Woodville
+title = c_woodville
+max_settlements = 4
+culture = southerner
+religion = baptist
+b_woodville_a = castle
+b_woodville_b = city
+b_woodville_c = temple

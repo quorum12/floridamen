@@ -1,0 +1,8 @@
+# 41 - Cedar Keypoint
+title = c_cedar_keypoint
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_cedar_keypoint_a = castle
+b_cedar_keypoint_b = city
+b_cedar_keypoint_c = temple

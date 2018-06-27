@@ -1,0 +1,8 @@
+# 236 - Everglades Park
+title = c_everglades_park
+max_settlements = 4
+culture = calusa
+religion = american_totemist_pagan
+b_everglades_park_a = castle
+b_everglades_park_b = city
+b_everglades_park_c = temple

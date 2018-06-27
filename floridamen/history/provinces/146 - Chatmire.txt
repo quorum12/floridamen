@@ -1,0 +1,8 @@
+# 146 - Chatmire
+title = c_chatmire
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_chatmire_a = castle
+b_chatmire_b = city
+b_chatmire_c = temple

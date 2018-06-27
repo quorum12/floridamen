@@ -1,0 +1,8 @@
+# 277 - Kissimee Praire Preserve
+title = c_kissimee_praire_preserve
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_kissimee_praire_preserve_a = castle
+b_kissimee_praire_preserve_b = city
+b_kissimee_praire_preserve_c = temple

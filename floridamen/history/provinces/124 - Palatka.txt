@@ -1,0 +1,8 @@
+# 124 - Palatka
+title = c_palatka
+max_settlements = 4
+culture = jacksonvillean
+religion = catholic
+b_palatka_a = castle
+b_palatka_b = city
+b_palatka_c = temple

@@ -1,0 +1,8 @@
+# 51 - Franklin
+title = c_franklin
+max_settlements = 4
+culture = tallahassean
+religion = methodist
+b_franklin_a = castle
+b_franklin_b = city
+b_franklin_c = temple

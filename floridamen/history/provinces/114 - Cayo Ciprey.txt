@@ -1,0 +1,8 @@
+# 114 - Cayo Ciprey
+title = c_cayo_ciprey
+max_settlements = 4
+culture = antillais
+religion = none
+b_cayo_ciprey_a = castle
+b_cayo_ciprey_b = city
+b_cayo_ciprey_c = temple

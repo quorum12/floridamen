@@ -1,0 +1,8 @@
+# 213 - Vilato
+title = c_vilato
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_vilato_a = castle
+b_vilato_b = city
+b_vilato_c = temple

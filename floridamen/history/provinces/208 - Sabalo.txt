@@ -1,0 +1,8 @@
+# 208 - Sabalo
+title = c_sabalo
+max_settlements = 4
+culture = hispaniolan
+religion = none
+b_sabalo_a = castle
+b_sabalo_b = city
+b_sabalo_c = temple

@@ -1,0 +1,8 @@
+# 273 - Muce
+title = c_muce
+max_settlements = 4
+culture = miamimen
+religion = baptist
+b_muce_a = castle
+b_muce_b = city
+b_muce_c = temple

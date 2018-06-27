@@ -1,0 +1,8 @@
+# 104 - Carapachibey
+title = c_carapachibey
+max_settlements = 4
+culture = antillais
+religion = none
+b_carapachibey_a = castle
+b_carapachibey_b = city
+b_carapachibey_c = temple

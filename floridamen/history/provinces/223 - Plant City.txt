@@ -1,0 +1,8 @@
+# 223 - Plant City
+title = c_plant_city
+max_settlements = 4
+culture = tampanian
+religion = baptist
+b_plant_city_a = castle
+b_plant_city_b = city
+b_plant_city_c = temple

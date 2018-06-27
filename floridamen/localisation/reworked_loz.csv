@@ -1,0 +1,2896 @@
+bear.6.undo;I should do less drugs...;;;;;;;;;;x
+c_palm_harbor;Palm Harbor;;;;;;;;;;x
+c_palm_harbor_adj;Palm Harboran;;;;;;;;;;x
+c_town_n_country;Town N' Country;;;;;;;;;;x
+c_town_n_country_adj;Town N' Countrian;;;;;;;;;;x
+c_south_tampa;South Tampa;;;;;;;;;;x
+c_south_tampa_adj;South Tampanian;;;;;;;;;;x
+c_white_lake_wetlands_conservation_area;White Lake Wetlands Conservation Area;;;;;;;;;;x
+c_white_lake_wetlands_conservation_area_adj;White Lake Wetlands Conservation Arean;;;;;;;;;;x
+c_niceville;Niceville;;;;;;;;;;x
+c_niceville_adj;Nicevillan;;;;;;;;;;x
+
+atheist;Atheist Movement;;;;;;;;;;;;;x
+atheist_desc;This character is part of an atheist movement to turn their realm into a secular state.;;;;;;;;;;;;;x
+atheistrev;Atheist Revolutionary;;;;;;;;;;;;;x
+atheistrev_desc;In a society that burns apostates, eventually the apostates are going to respond in kind.;;;;;;;;;;;;;x
+GK_GOD;Reason;;;;;;;;;;;;;x
+GK_HUMANITY;Humanity;;;;;;;;;;;;;x
+GK_REASON;Reason;;;;;;;;;;;;;x
+GK_CRUSADE;Liberation;;;;;;;;;;;;;x
+GK_SCRIPTURE;Science;;;;;;;;;;;;;x
+GK_PIETY_NAME;Reason;;;;;;;;;;;;;x
+GK_PRIEST_TITLE;Scholar;;;;;;;;;;;;;x
+GK_POPE;=Pope=;;;;;;;;;;;;;x
+STAT_PIETY_GK_REASON;Reason;;;;;;;;;;;;;x
+STAT_PIETY_DESC_GK_REASON;Reason is respected by other non-religious people. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;;x
+none;No Religion;;;;;;;;;;;;;x
+none_group;No Religion;;;;;;;;;;;;;x
+none_DESC;Atheism is the lack of belief in any gods. It is not a religion, but it is often wrongly treated as one. Atheists still have moral codes, including a sense of right and wrong. Those codes often come from an inner sense of compassion for their fellow human beings.;;;;;;;;;;;;;x
+d_militant_atheists;Communist Defense League;;;;;;;;;;;;;x
+d_legion_freethinkers;Legion of Freethinkers;;;;;;;;;;;;;x
+d_knights_reason;Knights of Reason;;;;;;;;;;;;;x
+CB_NAME_ATHEISTLIBERATION;Secular Liberation of [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_ATHEISTLIBERATION;Secular Liberation of [Title.GetBaseName];;;;;;;;;;;;;x
+secular_liberation_desc;Atheist rulers can liberate territory from religious ones. Nearby religious rulers will likely join in to help the defender. Conquered lands will be distributed to claimants and those who contributed most to the war, much like a crusade. If the target abandons religion, the war will invalidate.;;;;;;;;;;;;;x
+nick_the_liberator;The Liberator;;;;;;;;;;;;;x
+
+###########################   Culture/Religion Specific Title Holder Names   #####################
+temple_baron_voodoo;Priest;;;;;;;;;;;;;x
+temple_baron_voodoos;Priests;;;;;;;;;;;;;x
+temple_baron_american_totemist_pagan_reformeds;Priests;;;;;;;;;;;;;x
+temple_baron_american_totemist_pagans;Priests;;;;;;;;;;;;;x
+temple_baron_american_spiritual_pagan_reformeds;Priests;;;;;;;;;;;;;x
+temple_baron_american_spiritual_pagans;Priests;;;;;;;;;;;;;x
+
+######################## Baptists and their heresies ###############################################
+temple_baron_baptist;Pastor;;;;;;;;;;;;;x
+temple_baron_lutheran;Pastor;;;;;;;;;;;;;x
+temple_baron_methodist;Pastor;;;;;;;;;;;;;x
+temple_baron_baptists;Pastors;;;;;;;;;;;;;x
+temple_baron_lutherans;Pastors;;;;;;;;;;;;;x
+temple_baron_methodists;Pastors;;;;;;;;;;;;;x
+temple_barony_of_baptist;Church of;;;;;;;;;;;;;x
+temple_barony_of_lutheran;Church of;;;;;;;;;;;;;x
+temple_barony_of_methodist;Church of;;;;;;;;;;;;;x
+temple_barony_baptist;Church;;;;;;;;;;;;;x
+temple_barony_lutheran;Church;;;;;;;;;;;;;x
+temple_barony_methodist;Church;;;;;;;;;;;;;x
+
+temple_county_of_baptist;Mega Church of;;;;;;;;;;;;;x
+temple_county_of_lutheran;Mega Church of;;;;;;;;;;;;;x
+temple_county_of_methodist;Mega Church of;;;;;;;;;;;;;x
+temple_county_baptist;Mega Church;;;;;;;;;;;;;x
+temple_county_lutheran;Mega Church;;;;;;;;;;;;;x
+temple_county_methodist;Mega Church;;;;;;;;;;;;;x
+temple_count_baptist;Head Pastor;;;;;;;;;;;;;x
+temple_count_lutheran;Head Pastor;;;;;;;;;;;;;x
+temple_count_methodist;Head Pastor;;;;;;;;;;;;;x
+
+temple_duchy_of_baptist;Synod of;;;;;;;;;;;;;x
+temple_duchy_of_lutheran;Synod of;;;;;;;;;;;;;x
+temple_duchy_of_methodist;Synod of;;;;;;;;;;;;;x
+temple_duchy_baptist;Synod;;;;;;;;;;;;;x
+temple_duchy_lutheran;Synod;;;;;;;;;;;;;x
+temple_duchy_methodist;Synod;;;;;;;;;;;;;x
+temple_duke_baptist;President;;;;;;;;;;;;;x
+temple_duke_lutheran;President;;;;;;;;;;;;;x
+temple_duke_methodist;President;;;;;;;;;;;;;x
+
+######################## The Nones ###############################################
+temple_baron_none;Adjunct;;;;;;;;;;;;;x
+temple_baron_nones;Adjuncts;;;;;;;;;;;;;x
+temple_barony_of_none;Laboratory of;;;;;;;;;;;;;x
+temple_county_of_none;College of;;;;;;;;;;;;;x
+temple_count_none;Professor;;;;;;;;;;;;;x
+temple_duchy_of_none;University of;;;;;;;;;;;;;x
+temple_duke_none;Lord Provost;;;;;;;;;;;;;x
+job_spiritual_none;Court Rationalist;;;;;;;;;;;;;x
+temple_barony_none;Laboratory;;;;;;;;;;;;;x
+temple_county_none;College;;;;;;;;;;;;;x
+temple_duchy_none;University;;;;;;;;;;;;;x
+
+########################  Totemist Heresies [Totemist taken care of in original loz##################################
+american_spiritual_pagan;Spiritual;;;;;;;;;;;x
+american_spiritual_pagan_reformed;Spiritual;;;;;;;;;;;x
+american_spiritual_pagan_DESC;The Spiritual Native American religions shun the usage of totem polls, saying that they are distractions from the true gods, instead relying mainly on oral tales to pass down the legends.;;;;;;;;;;;x
+american_spiritual_pagan_reformed_DESC;Reformed Spiritualism has a organized set of beliefs and a holy book of their own.;;;;;;;;;;;x
+american_spiritual;Spiritual High Church;;;;;;;;;;;x
+american_spiritual_adj;Spiritualist;;;;;;;;;;;x
+
+############### CULTURES #########################################################################
+latin_american;Latin American;;;;;;;;;;;;;x
+mexican;Mexican;;;;;;;;;;;;;x
+americo_hispanic;Americano;;;;;;;;;;;;;x
+
+caribbean;Caribbean;;;;;;;;;;x
+cubano;Cubano;;;;;;;;;;x
+hispaniolan;Hispaniolan;;;;;;;;;;x
+antillais;Antillais;;;;;;;;;;x
+
+deepsouth;Dixie;;;;;;;;;;;;;x
+new_orleanser;New Orleanser;;;;;;;;;;;;;x
+louisianan;Louisianan;;;;;;;;;;;x
+dixie;Dixie;;;;;;;;;;;;;x
+texan;Texan;;;;;;;;;;;x
+
+afro-american;Afro-American;;;;;;;;;;;;x
+southerner;Southerner;;;;;;;;;;;;x
+
+floridian;Floridian;;;;;;;;;;;;x
+tallahassean;Tallahassean;;;;;;;;;;;;x
+jacksonvillean;Jacksonvillean;;;;;;;;;;x
+tampanian;Tampanian;;;;;;;;;;;;;x
+miamimen;Miamimen;;;;;;;;;;;;;x
+orlandoan;Orlandoan;;;;;;;;;;;;;x
+
+native;Native;;;;;;;;;;;;;x
+calusa;Calusan;;;;;;;;;;;;;x
+
+
+################## Religions ###########################
+reform;Reformed;;;;;;;;;;;;;x
+reform_desc;Reformed Judaism is a form of Judaism, initiated in Germany by the philosopher Moses Mendelssohn, that has reformed or abandoned aspects of Orthodox Jewish worship and ritual in an attempt to adapt to modern changes in social, political, and cultural life.;;;;;;;;;;;;;x
+
+################## Duke, King, Emperor Titles ################################
+e_miami;Miami;;;;;;;;;;x
+e_havanna;Havana;;;;;;;;;;x
+e_pinar_del_rio;Pinar Del Rio;;;;;;;;;;x
+e_jacksonville;Jacksonville;;;;;;;;;;x
+e_louisianna;Louisianna;;;;;;;;;;x
+k_miami;Miami;;;;;;;;;;x
+k_orlando;Orlando;;;;;;;;;;x
+k_okeechobee;Okeechobee;;;;;;;;;;x
+k_keys;Keys;;;;;;;;;;x
+k_havanna;Havana;;;;;;;;;;x
+k_santa_clara;Santa Clara;;;;;;;;;;x
+k_yucatan;Yucatan;;;;;;;;;;x
+k_juventud;Juventud;;;;;;;;;;x
+k_pinar_del_rio;Pinar Del Rio;;;;;;;;;;x
+k_jacksonville;Jacksonville;;;;;;;;;;x
+k_tampa;Tampa;;;;;;;;;;x
+k_gainesville;Gainesville;;;;;;;;;;x
+k_louisianna;Louisianna;;;;;;;;;;x
+k_alabama;Alabama;;;;;;;;;;x
+k_tallahassee;Tallahassee;;;;;;;;;;x
+d_everglades;Everglades;;;;;;;;;;x
+d_homestead;Homestead;;;;;;;;;;x
+d_miami;Miami;;;;;;;;;;x
+d_miramar;Miramar;;;;;;;;;;x
+d_hollywood;Hollywood;;;;;;;;;;x
+d_avon_park;Avon Park;;;;;;;;;;x
+d_stirling;Stirling;;;;;;;;;;x
+d_sanford;Sanford;;;;;;;;;;x
+d_deland;Deland;;;;;;;;;;x
+d_daytona_beach;Daytona Beach;;;;;;;;;;x
+d_muce;Muce;;;;;;;;;;x
+d_okeechobee;Okeechobee;;;;;;;;;;x
+d_vero_beach;Vero Beach;;;;;;;;;;x
+d_sebring;Sebring;;;;;;;;;;x
+d_arcadia;Arcadia;;;;;;;;;;x
+d_naples;Naples;;;;;;;;;;x
+d_orangetree;Orangetree;;;;;;;;;;x
+d_chokoloskee;Chokoloskee;;;;;;;;;;x
+d_key_west;Key West;;;;;;;;;;x
+d_havana;Havana;;;;;;;;;;x
+d_nueva_paz;Nueva Paz;;;;;;;;;;x
+d_central_parque_cienaga_de_zapata;Central Parque Cienaga De Zapata;;;;;;;;;;x
+d_matanzas;Matanzas;;;;;;;;;;x
+d_colon;Colon;;;;;;;;;;x
+d_puerto_padre;Puerto Padre;;;;;;;;;;x
+d_sabalo;Sabalo;;;;;;;;;;x
+d_santa_clara;Santa Clara;;;;;;;;;;x
+d_freeport;Freeport;;;;;;;;;;x
+d_hunucma;Hunucma;;;;;;;;;;x
+d_merida;Merida;;;;;;;;;;x
+d_la_gran_lucha;La Gran Lucha;;;;;;;;;;x
+d_chemax;Chemax;;;;;;;;;;x
+d_cancun;Cancun;;;;;;;;;;x
+d_delita;Delita;;;;;;;;;;x
+d_santa_fe;Santa Fe;;;;;;;;;;x
+d_islas_de_mangles;Islas De Mangles;;;;;;;;;;x
+d_cayo_diego_perez;Cayo Diego Perez;;;;;;;;;;x
+d_sandino;Sandino;;;;;;;;;;x
+d_santa_maria;Santa Maria;;;;;;;;;;x
+d_la_palma;La Palma;;;;;;;;;;x
+d_los_palacios;Los Palacios;;;;;;;;;;x
+d_cabanas;Cabanas;;;;;;;;;;x
+d_san_cristobal;San Cristobal;;;;;;;;;;x
+d_moniac;Moniac;;;;;;;;;;x
+d_baldwin;Baldwin;;;;;;;;;;x
+d_jacksonville;Jacksonville;;;;;;;;;;x
+d_interlachen;Interlachen;;;;;;;;;;x
+d_saint_augustine;Saint Augustine;;;;;;;;;;x
+d_wesley_chapel;Wesley Chapel;;;;;;;;;;x
+d_brandenton;Brandenton;;;;;;;;;;x
+d_lakeland;Lakeland;;;;;;;;;;x
+d_tampa;Tampa;;;;;;;;;;x
+d_lutz;Lutz;;;;;;;;;;x
+d_gainesville;Gainesville;;;;;;;;;;x
+d_goethe_forest;Goethe Forest;;;;;;;;;;x
+d_ocala;Ocala;;;;;;;;;;x
+d_chatmire;Chatmire;;;;;;;;;;x
+d_cameron;Cameron;;;;;;;;;;x
+d_white_lake;White Lake;;;;;;;;;;x
+d_abbeville;Abbeville;;;;;;;;;;x
+d_gray;Gray;;;;;;;;;;x
+d_new_orleans;New Orleans;;;;;;;;;;x
+d_lafayette;Lafayette;;;;;;;;;;x
+d_baton_rouge;Baton Rouge;;;;;;;;;;x
+d_biloxi;Biloxi;;;;;;;;;;x
+d_pensacola;Pensacola;;;;;;;;;;x
+d_panama_city_beach;Panama City Beach;;;;;;;;;;x
+d_fort_braden;Fort Braden;;;;;;;;;;x
+d_tallahassee;Tallahassee;;;;;;;;;;x
+d_tennille;Tennille;;;;;;;;;;x
+d_cedar_key;Cedar Key;;;;;;;;;;x
+d_yellow_jacket;Yellow Jacket;;;;;;;;;;x
+e_miami_adj;Miamimen;;;;;;;;;;x
+e_havanna_adj;Havanan;;;;;;;;;;x
+e_pinar_del_rio_adj;Pinar Del Rian;;;;;;;;;;x
+e_jacksonville_adj;Jacksonvillean;;;;;;;;;;x
+e_louisianna_adj;Louisiannain;;;;;;;;;;x
+k_miami_adj;Miamimen;;;;;;;;;;x
+k_orlando_adj;Orlandoan;;;;;;;;;;x
+k_okeechobee_adj;Okeechobean;;;;;;;;;;x
+k_keys_adj;Keysian;;;;;;;;;;x
+k_havanna_adj;Havanan;;;;;;;;;;x
+k_santa_clara_adj;Santa Claran;;;;;;;;;;x
+k_yucatan_adj;Yucatani;;;;;;;;;;x
+k_juventud_adj;Juventudan;;;;;;;;;;x
+k_pinar_del_rio_adj;Pinar Del Rian;;;;;;;;;;x
+k_jacksonville_adj;Jacksonvillean;;;;;;;;;;x
+k_tampa_adj;Tampanian;;;;;;;;;;x
+k_gainesville_adj;Gainesvillean;;;;;;;;;;x
+k_louisianna_adj;Louisiannain;;;;;;;;;;x
+k_alabama_adj;Alabaman;;;;;;;;;;x
+k_tallahassee_adj;Tallahasseean;;;;;;;;;;x
+d_everglades_adj;Evergladian;;;;;;;;;;x
+d_homestead_adj;Homesteadean;;;;;;;;;;x
+d_miami_adj;Miamimen;;;;;;;;;;x
+d_miramar_adj;Miramarmen;;;;;;;;;;x
+d_hollywood_adj;Hollywoodan;;;;;;;;;;x
+d_avon_park_adj;Avon Parker;;;;;;;;;;x
+d_stirling_adj;Stirlinger;;;;;;;;;;x
+d_sanford_adj;Sanforder;;;;;;;;;;x
+d_deland_adj;Delandan;;;;;;;;;;x
+d_daytona_beach_adj;Daytona Beacher;;;;;;;;;;x
+d_muce_adj;Mucen;;;;;;;;;;x
+d_okeechobee_adj;Okeechobeen;;;;;;;;;;x
+d_vero_beach_adj;Vero Beacher;;;;;;;;;;x
+d_sebring_adj;Sebringan;;;;;;;;;;x
+d_arcadia_adj;Arcadian;;;;;;;;;;x
+d_naples_adj;Naplier;;;;;;;;;;x
+d_orangetree_adj;Orangetrean;;;;;;;;;;x
+d_chokoloskee_adj;Chokoloskeen;;;;;;;;;;x
+d_key_west_adj;Key Wester;;;;;;;;;;x
+d_havana_adj;Havanan;;;;;;;;;;x
+d_nueva_paz_adj;Nueva Pazan;;;;;;;;;;x
+d_central_parque_cienaga_de_zapata_adj;Central Parque Cienaga De Zapatan;;;;;;;;;;x
+d_matanzas_adj;Matanzasian;;;;;;;;;;x
+d_colon_adj;Colonan;;;;;;;;;;x
+d_puerto_padre_adj;Puerto Padrean;;;;;;;;;;x
+d_sabalo_adj;Sabalon;;;;;;;;;;x
+d_santa_clara_adj;Santa Claran;;;;;;;;;;x
+d_freeport_adj;Freeporter;;;;;;;;;;x
+d_hunucma_adj;Hunucman;;;;;;;;;;x
+d_merida_adj;Meridan;;;;;;;;;;x
+d_la_gran_lucha_adj;La Gran Luchano;;;;;;;;;;x
+d_chemax_adj;Chemaxo;;;;;;;;;;x
+d_cancun_adj;Cancuno;;;;;;;;;;x
+d_delita_adj;Delito;;;;;;;;;;x
+d_santa_fe_adj;Santa Fean;;;;;;;;;;x
+d_islas_de_mangles_adj;Islas De Manglo;;;;;;;;;;x
+d_cayo_diego_perez_adj;Cayo Diego Perezo;;;;;;;;;;x
+d_sandino_adj;Sandino;;;;;;;;;;x
+d_santa_maria_adj;Santa Marian;;;;;;;;;;x
+d_la_palma_adj;La Palman;;;;;;;;;;x
+d_los_palacios_adj;Los Palacian;;;;;;;;;;x
+d_cabanas_adj;Cabano;;;;;;;;;;x
+d_san_cristobal_adj;San Cristobalan;;;;;;;;;;x
+d_moniac_adj;Moniacan;;;;;;;;;;x
+d_baldwin_adj;Baldwiner;;;;;;;;;;x
+d_jacksonville_adj;Jacksonvillean;;;;;;;;;;x
+d_interlachen_adj;Interlachener;;;;;;;;;;x
+d_saint_augustine_adj;Saint Augustiner;;;;;;;;;;x
+d_wesley_chapel_adj;Wesley Chapelan;;;;;;;;;;x
+d_brandenton_adj;Brandentonan;;;;;;;;;;x
+d_lakeland_adj;Lakelander;;;;;;;;;;x
+d_tampa_adj;Tampanian;;;;;;;;;;x
+d_lutz_adj;Lutzer;;;;;;;;;;x
+d_gainesville_adj;Gainesvillean;;;;;;;;;;x
+d_goethe_forest_adj;Goethe Forester;;;;;;;;;;x
+d_ocala_adj;Ocalan;;;;;;;;;;x
+d_chatmire_adj;Chatmiren;;;;;;;;;;x
+d_cameron_adj;Cameroner;;;;;;;;;;x
+d_white_lake_adj;White Laker;;;;;;;;;;x
+d_abbeville_adj;Abbevillen;;;;;;;;;;x
+d_gray_adj;Grayan;;;;;;;;;;x
+d_new_orleans_adj;New Orleansear;;;;;;;;;;x
+d_lafayette_adj;Lafayetten;;;;;;;;;;x
+d_baton_rouge_adj;Baton Rouger;;;;;;;;;;x
+d_biloxi_adj;Biloxian;;;;;;;;;;x
+d_pensacola_adj;Pensacolan;;;;;;;;;;x
+d_panama_city_beach_adj;Panama City Beacher;;;;;;;;;;x
+d_fort_braden_adj;Fort Bradener;;;;;;;;;;x
+d_tallahassee_adj;Tallahassean;;;;;;;;;;x
+d_tennille_adj;Tennillen;;;;;;;;;;x
+d_cedar_key_adj;Cedar Keyer;;;;;;;;;;x
+d_yellow_jacket_adj;Yellow Jacketan;;;;;;;;;;;x
+
+
+#######################  Baron Tier Titles - Proceedurally Generated in Python Sorry not gonna look up 2100 cities#############
+b_doral_a;Doral Locus;;;;;;;;;;x
+b_doral_b;Doral Station;;;;;;;;;;x
+b_doral_c;Doral Lay;;;;;;;;;;x
+b_doral_d;Doral Venue;;;;;;;;;;x
+b_doral_e;Doral Point;;;;;;;;;;x
+b_doral_f;Doral Quarter;;;;;;;;;;x
+b_doral_g;Doral Helm;;;;;;;;;;x
+b_kendall_a;Kendall Place;;;;;;;;;;x
+b_kendall_b;Kendall Locale;;;;;;;;;;x
+b_kendall_c;Kendall Quarter;;;;;;;;;;x
+b_kendall_d;Kendall House;;;;;;;;;;x
+b_kendall_e;Kendall Joint;;;;;;;;;;x
+b_kendall_f;Kendall Helm;;;;;;;;;;x
+b_kendall_g;Kendall Head;;;;;;;;;;x
+b_north_everglades_a;North Everglades Mansion;;;;;;;;;;x
+b_north_everglades_b;North Everglades Station;;;;;;;;;;x
+b_north_everglades_c;North Everglades House;;;;;;;;;;x
+b_north_everglades_d;North Everglades Point;;;;;;;;;;x
+b_north_everglades_e;North Everglades Quarter;;;;;;;;;;x
+b_north_everglades_f;North Everglades Site;;;;;;;;;;x
+b_north_everglades_g;North Everglades Clime;;;;;;;;;;x
+b_south_everglades_a;South Everglades Point;;;;;;;;;;x
+b_south_everglades_b;South Everglades Joint;;;;;;;;;;x
+b_south_everglades_c;South Everglades Stead;;;;;;;;;;x
+b_south_everglades_d;South Everglades Clime;;;;;;;;;;x
+b_south_everglades_e;South Everglades Pad;;;;;;;;;;x
+b_south_everglades_f;South Everglades Holding;;;;;;;;;;x
+b_south_everglades_g;South Everglades Berth;;;;;;;;;;x
+b_key_largo_a;Key Largo House;;;;;;;;;;x
+b_key_largo_b;Key Largo Place;;;;;;;;;;x
+b_key_largo_c;Key Largo Stead;;;;;;;;;;x
+b_key_largo_d;Key Largo Spot;;;;;;;;;;x
+b_key_largo_e;Key Largo Lay;;;;;;;;;;x
+b_key_largo_f;Key Largo Holding;;;;;;;;;;x
+b_key_largo_g;Key Largo Neighborhood;;;;;;;;;;x
+b_cutler_bay_a;Cutler Bay Place;;;;;;;;;;x
+b_cutler_bay_b;Cutler Bay Lay;;;;;;;;;;x
+b_cutler_bay_c;Cutler Bay Head;;;;;;;;;;x
+b_cutler_bay_d;Cutler Bay Station;;;;;;;;;;x
+b_cutler_bay_e;Cutler Bay Mansion;;;;;;;;;;x
+b_cutler_bay_f;Cutler Bay Holding;;;;;;;;;;x
+b_cutler_bay_g;Cutler Bay Quarter;;;;;;;;;;x
+b_homestead_a;Homestead Quarter;;;;;;;;;;x
+b_homestead_b;Homestead Venue;;;;;;;;;;x
+b_homestead_c;Homestead Helm;;;;;;;;;;x
+b_homestead_d;Homestead Spot;;;;;;;;;;x
+b_homestead_e;Homestead Stead;;;;;;;;;;x
+b_homestead_f;Homestead Station;;;;;;;;;;x
+b_homestead_g;Homestead Neighborhood;;;;;;;;;;x
+b_islamorada_a;Islamorada Spot;;;;;;;;;;x
+b_islamorada_b;Islamorada Mansion;;;;;;;;;;x
+b_islamorada_c;Islamorada Locus;;;;;;;;;;x
+b_islamorada_d;Islamorada Site;;;;;;;;;;x
+b_islamorada_e;Islamorada Helm;;;;;;;;;;x
+b_islamorada_f;Islamorada Joint;;;;;;;;;;x
+b_islamorada_g;Islamorada Place;;;;;;;;;;x
+b_palmetto_bay_a;Palmetto Bay Locale;;;;;;;;;;x
+b_palmetto_bay_b;Palmetto Bay Helm;;;;;;;;;;x
+b_palmetto_bay_c;Palmetto Bay House;;;;;;;;;;x
+b_palmetto_bay_d;Palmetto Bay Neighborhood;;;;;;;;;;x
+b_palmetto_bay_e;Palmetto Bay Place;;;;;;;;;;x
+b_palmetto_bay_f;Palmetto Bay Zone;;;;;;;;;;x
+b_palmetto_bay_g;Palmetto Bay Suburb;;;;;;;;;;x
+b_coral_gables_a;Coral Gables Venue;;;;;;;;;;x
+b_coral_gables_b;Coral Gables Locale;;;;;;;;;;x
+b_coral_gables_c;Coral Gables Mansion;;;;;;;;;;x
+b_coral_gables_d;Coral Gables Suburb;;;;;;;;;;x
+b_coral_gables_e;Coral Gables Spot;;;;;;;;;;x
+b_coral_gables_f;Coral Gables Stead;;;;;;;;;;x
+b_coral_gables_g;Coral Gables Place;;;;;;;;;;x
+b_miami_a;Miami Berth;;;;;;;;;;x
+b_miami_b;Miami Spot;;;;;;;;;;x
+b_miami_c;Miami Lay;;;;;;;;;;x
+b_miami_d;Miami Pad;;;;;;;;;;x
+b_miami_e;Miami Mansion;;;;;;;;;;x
+b_miami_f;Miami Corner;;;;;;;;;;x
+b_miami_g;Miami Venue;;;;;;;;;;x
+b_hialeah_a;Hialeah Lay;;;;;;;;;;x
+b_hialeah_b;Hialeah Head;;;;;;;;;;x
+b_hialeah_c;Hialeah Helm;;;;;;;;;;x
+b_hialeah_d;Hialeah Joint;;;;;;;;;;x
+b_hialeah_e;Hialeah Hamlet;;;;;;;;;;x
+b_hialeah_f;Hialeah House;;;;;;;;;;x
+b_hialeah_g;Hialeah Mansion;;;;;;;;;;x
+b_minneapolis_a;Minneapolis Point;;;;;;;;;;x
+b_minneapolis_b;Minneapolis Holding;;;;;;;;;;x
+b_minneapolis_c;Minneapolis Locus;;;;;;;;;;x
+b_minneapolis_d;Minneapolis Neighborhood;;;;;;;;;;x
+b_minneapolis_e;Minneapolis Venue;;;;;;;;;;x
+b_minneapolis_f;Minneapolis Head;;;;;;;;;;x
+b_minneapolis_g;Minneapolis Clime;;;;;;;;;;x
+b_miami_shores_a;Miami Shores Quarter;;;;;;;;;;x
+b_miami_shores_b;Miami Shores Helm;;;;;;;;;;x
+b_miami_shores_c;Miami Shores Locale;;;;;;;;;;x
+b_miami_shores_d;Miami Shores Joint;;;;;;;;;;x
+b_miami_shores_e;Miami Shores Holding;;;;;;;;;;x
+b_miami_shores_f;Miami Shores Neighborhood;;;;;;;;;;x
+b_miami_shores_g;Miami Shores Point;;;;;;;;;;x
+b_pembroke_pines_a;Pembroke Pines Locale;;;;;;;;;;x
+b_pembroke_pines_b;Pembroke Pines Lay;;;;;;;;;;x
+b_pembroke_pines_c;Pembroke Pines Locus;;;;;;;;;;x
+b_pembroke_pines_d;Pembroke Pines Corner;;;;;;;;;;x
+b_pembroke_pines_e;Pembroke Pines Spot;;;;;;;;;;x
+b_pembroke_pines_f;Pembroke Pines Site;;;;;;;;;;x
+b_pembroke_pines_g;Pembroke Pines Venue;;;;;;;;;;x
+b_miramar_a;Miramar Suburb;;;;;;;;;;x
+b_miramar_b;Miramar Neighborhood;;;;;;;;;;x
+b_miramar_c;Miramar Joint;;;;;;;;;;x
+b_miramar_d;Miramar Pad;;;;;;;;;;x
+b_miramar_e;Miramar Mansion;;;;;;;;;;x
+b_miramar_f;Miramar Locus;;;;;;;;;;x
+b_miramar_g;Miramar Clime;;;;;;;;;;x
+b_west_palm_beach_a;West Palm Beach Joint;;;;;;;;;;x
+b_west_palm_beach_b;West Palm Beach Holding;;;;;;;;;;x
+b_west_palm_beach_c;West Palm Beach Suburb;;;;;;;;;;x
+b_west_palm_beach_d;West Palm Beach Helm;;;;;;;;;;x
+b_west_palm_beach_e;West Palm Beach Station;;;;;;;;;;x
+b_west_palm_beach_f;West Palm Beach Neighborhood;;;;;;;;;;x
+b_west_palm_beach_g;West Palm Beach Place;;;;;;;;;;x
+b_aventura_a;Aventura Holding;;;;;;;;;;x
+b_aventura_b;Aventura Hamlet;;;;;;;;;;x
+b_aventura_c;Aventura Quarter;;;;;;;;;;x
+b_aventura_d;Aventura Suburb;;;;;;;;;;x
+b_aventura_e;Aventura Place;;;;;;;;;;x
+b_aventura_f;Aventura Pad;;;;;;;;;;x
+b_aventura_g;Aventura Berth;;;;;;;;;;x
+b_hollywood_a;Hollywood Clime;;;;;;;;;;x
+b_hollywood_b;Hollywood Helm;;;;;;;;;;x
+b_hollywood_c;Hollywood Head;;;;;;;;;;x
+b_hollywood_d;Hollywood Site;;;;;;;;;;x
+b_hollywood_e;Hollywood Point;;;;;;;;;;x
+b_hollywood_f;Hollywood Venue;;;;;;;;;;x
+b_hollywood_g;Hollywood Corner;;;;;;;;;;x
+b_horseshoe_beach_park_a;Horseshoe Beach Park Joint;;;;;;;;;;x
+b_horseshoe_beach_park_b;Horseshoe Beach Park Neighborhood;;;;;;;;;;x
+b_horseshoe_beach_park_c;Horseshoe Beach Park Locale;;;;;;;;;;x
+b_horseshoe_beach_park_d;Horseshoe Beach Park Zone;;;;;;;;;;x
+b_horseshoe_beach_park_e;Horseshoe Beach Park Spot;;;;;;;;;;x
+b_horseshoe_beach_park_f;Horseshoe Beach Park Locus;;;;;;;;;;x
+b_horseshoe_beach_park_g;Horseshoe Beach Park Mansion;;;;;;;;;;x
+b_eustis_a;Eustis Locale;;;;;;;;;;x
+b_eustis_b;Eustis Point;;;;;;;;;;x
+b_eustis_c;Eustis Zone;;;;;;;;;;x
+b_eustis_d;Eustis Joint;;;;;;;;;;x
+b_eustis_e;Eustis Holding;;;;;;;;;;x
+b_eustis_f;Eustis Mansion;;;;;;;;;;x
+b_eustis_g;Eustis Site;;;;;;;;;;x
+b_apopka_a;Apopka Spot;;;;;;;;;;x
+b_apopka_b;Apopka House;;;;;;;;;;x
+b_apopka_c;Apopka Quarter;;;;;;;;;;x
+b_apopka_d;Apopka Holding;;;;;;;;;;x
+b_apopka_e;Apopka Hamlet;;;;;;;;;;x
+b_apopka_f;Apopka Stead;;;;;;;;;;x
+b_apopka_g;Apopka Locus;;;;;;;;;;x
+b_avon_park_a;Avon Park Point;;;;;;;;;;x
+b_avon_park_b;Avon Park House;;;;;;;;;;x
+b_avon_park_c;Avon Park Station;;;;;;;;;;x
+b_avon_park_d;Avon Park Mansion;;;;;;;;;;x
+b_avon_park_e;Avon Park Head;;;;;;;;;;x
+b_avon_park_f;Avon Park Site;;;;;;;;;;x
+b_avon_park_g;Avon Park Clime;;;;;;;;;;x
+b_bowling_green_a;Bowling Green Place;;;;;;;;;;x
+b_bowling_green_b;Bowling Green Berth;;;;;;;;;;x
+b_bowling_green_c;Bowling Green Hamlet;;;;;;;;;;x
+b_bowling_green_d;Bowling Green Clime;;;;;;;;;;x
+b_bowling_green_e;Bowling Green Neighborhood;;;;;;;;;;x
+b_bowling_green_f;Bowling Green Pad;;;;;;;;;;x
+b_bowling_green_g;Bowling Green Point;;;;;;;;;;x
+b_sorrento_a;Sorrento Mansion;;;;;;;;;;x
+b_sorrento_b;Sorrento Place;;;;;;;;;;x
+b_sorrento_c;Sorrento Joint;;;;;;;;;;x
+b_sorrento_d;Sorrento Helm;;;;;;;;;;x
+b_sorrento_e;Sorrento Corner;;;;;;;;;;x
+b_sorrento_f;Sorrento Suburb;;;;;;;;;;x
+b_sorrento_g;Sorrento Berth;;;;;;;;;;x
+b_stirling_a;Stirling Station;;;;;;;;;;x
+b_stirling_b;Stirling Stead;;;;;;;;;;x
+b_stirling_c;Stirling Suburb;;;;;;;;;;x
+b_stirling_d;Stirling House;;;;;;;;;;x
+b_stirling_e;Stirling Clime;;;;;;;;;;x
+b_stirling_f;Stirling Site;;;;;;;;;;x
+b_stirling_g;Stirling Lay;;;;;;;;;;x
+b_pine_lakes_a;Pine Lakes Helm;;;;;;;;;;x
+b_pine_lakes_b;Pine Lakes Station;;;;;;;;;;x
+b_pine_lakes_c;Pine Lakes Clime;;;;;;;;;;x
+b_pine_lakes_d;Pine Lakes Holding;;;;;;;;;;x
+b_pine_lakes_e;Pine Lakes Stead;;;;;;;;;;x
+b_pine_lakes_f;Pine Lakes Spot;;;;;;;;;;x
+b_pine_lakes_g;Pine Lakes Neighborhood;;;;;;;;;;x
+b_sebastian_a;Sebastian Neighborhood;;;;;;;;;;x
+b_sebastian_b;Sebastian Berth;;;;;;;;;;x
+b_sebastian_c;Sebastian Quarter;;;;;;;;;;x
+b_sebastian_d;Sebastian Locale;;;;;;;;;;x
+b_sebastian_e;Sebastian Place;;;;;;;;;;x
+b_sebastian_f;Sebastian Locus;;;;;;;;;;x
+b_sebastian_g;Sebastian Mansion;;;;;;;;;;x
+b_alexander_springs_a;Alexander Springs Venue;;;;;;;;;;x
+b_alexander_springs_b;Alexander Springs Zone;;;;;;;;;;x
+b_alexander_springs_c;Alexander Springs Mansion;;;;;;;;;;x
+b_alexander_springs_d;Alexander Springs Head;;;;;;;;;;x
+b_alexander_springs_e;Alexander Springs Neighborhood;;;;;;;;;;x
+b_alexander_springs_f;Alexander Springs Pad;;;;;;;;;;x
+b_alexander_springs_g;Alexander Springs Joint;;;;;;;;;;x
+b_astor_a;Astor Place;;;;;;;;;;x
+b_astor_b;Astor House;;;;;;;;;;x
+b_astor_c;Astor Head;;;;;;;;;;x
+b_astor_d;Astor Zone;;;;;;;;;;x
+b_astor_e;Astor Holding;;;;;;;;;;x
+b_astor_f;Astor Venue;;;;;;;;;;x
+b_astor_g;Astor Site;;;;;;;;;;x
+b_de_leon_springs_a;De Leon Springs Clime;;;;;;;;;;x
+b_de_leon_springs_b;De Leon Springs Pad;;;;;;;;;;x
+b_de_leon_springs_c;De Leon Springs Site;;;;;;;;;;x
+b_de_leon_springs_d;De Leon Springs Zone;;;;;;;;;;x
+b_de_leon_springs_e;De Leon Springs Joint;;;;;;;;;;x
+b_de_leon_springs_f;De Leon Springs Lay;;;;;;;;;;x
+b_de_leon_springs_g;De Leon Springs Mansion;;;;;;;;;;x
+b_paisley_a;Paisley Lay;;;;;;;;;;x
+b_paisley_b;Paisley Point;;;;;;;;;;x
+b_paisley_c;Paisley Corner;;;;;;;;;;x
+b_paisley_d;Paisley Helm;;;;;;;;;;x
+b_paisley_e;Paisley Suburb;;;;;;;;;;x
+b_paisley_f;Paisley Place;;;;;;;;;;x
+b_paisley_g;Paisley Mansion;;;;;;;;;;x
+b_sanford_a;Sanford Pad;;;;;;;;;;x
+b_sanford_b;Sanford Head;;;;;;;;;;x
+b_sanford_c;Sanford Holding;;;;;;;;;;x
+b_sanford_d;Sanford Neighborhood;;;;;;;;;;x
+b_sanford_e;Sanford Suburb;;;;;;;;;;x
+b_sanford_f;Sanford Station;;;;;;;;;;x
+b_sanford_g;Sanford Helm;;;;;;;;;;x
+b_deland_a;Deland Helm;;;;;;;;;;x
+b_deland_b;Deland Venue;;;;;;;;;;x
+b_deland_c;Deland Place;;;;;;;;;;x
+b_deland_d;Deland Site;;;;;;;;;;x
+b_deland_e;Deland Stead;;;;;;;;;;x
+b_deland_f;Deland Spot;;;;;;;;;;x
+b_deland_g;Deland Clime;;;;;;;;;;x
+b_north_deland_a;North Deland Joint;;;;;;;;;;x
+b_north_deland_b;North Deland Locus;;;;;;;;;;x
+b_north_deland_c;North Deland Site;;;;;;;;;;x
+b_north_deland_d;North Deland Stead;;;;;;;;;;x
+b_north_deland_e;North Deland Station;;;;;;;;;;x
+b_north_deland_f;North Deland Mansion;;;;;;;;;;x
+b_north_deland_g;North Deland Lay;;;;;;;;;;x
+b_relay_wma_a;Relay Wma Lay;;;;;;;;;;x
+b_relay_wma_b;Relay Wma Hamlet;;;;;;;;;;x
+b_relay_wma_c;Relay Wma Neighborhood;;;;;;;;;;x
+b_relay_wma_d;Relay Wma Zone;;;;;;;;;;x
+b_relay_wma_e;Relay Wma House;;;;;;;;;;x
+b_relay_wma_f;Relay Wma Corner;;;;;;;;;;x
+b_relay_wma_g;Relay Wma Station;;;;;;;;;;x
+b_ormond_beach_a;Ormond Beach Clime;;;;;;;;;;x
+b_ormond_beach_b;Ormond Beach Pad;;;;;;;;;;x
+b_ormond_beach_c;Ormond Beach Joint;;;;;;;;;;x
+b_ormond_beach_d;Ormond Beach Venue;;;;;;;;;;x
+b_ormond_beach_e;Ormond Beach Site;;;;;;;;;;x
+b_ormond_beach_f;Ormond Beach Quarter;;;;;;;;;;x
+b_ormond_beach_g;Ormond Beach Neighborhood;;;;;;;;;;x
+b_tiger_bay_forest_a;Tiger Bay Forest Locale;;;;;;;;;;x
+b_tiger_bay_forest_b;Tiger Bay Forest Spot;;;;;;;;;;x
+b_tiger_bay_forest_c;Tiger Bay Forest Corner;;;;;;;;;;x
+b_tiger_bay_forest_d;Tiger Bay Forest Head;;;;;;;;;;x
+b_tiger_bay_forest_e;Tiger Bay Forest Berth;;;;;;;;;;x
+b_tiger_bay_forest_f;Tiger Bay Forest Holding;;;;;;;;;;x
+b_tiger_bay_forest_g;Tiger Bay Forest Suburb;;;;;;;;;;x
+b_daytona_beach_a;Daytona Beach Spot;;;;;;;;;;x
+b_daytona_beach_b;Daytona Beach Locale;;;;;;;;;;x
+b_daytona_beach_c;Daytona Beach Place;;;;;;;;;;x
+b_daytona_beach_d;Daytona Beach Joint;;;;;;;;;;x
+b_daytona_beach_e;Daytona Beach Site;;;;;;;;;;x
+b_daytona_beach_f;Daytona Beach Pad;;;;;;;;;;x
+b_daytona_beach_g;Daytona Beach House;;;;;;;;;;x
+b_south_tiger_bay_forest_a;South Tiger Bay Forest Lay;;;;;;;;;;x
+b_south_tiger_bay_forest_b;South Tiger Bay Forest Site;;;;;;;;;;x
+b_south_tiger_bay_forest_c;South Tiger Bay Forest Pad;;;;;;;;;;x
+b_south_tiger_bay_forest_d;South Tiger Bay Forest House;;;;;;;;;;x
+b_south_tiger_bay_forest_e;South Tiger Bay Forest Zone;;;;;;;;;;x
+b_south_tiger_bay_forest_f;South Tiger Bay Forest Quarter;;;;;;;;;;x
+b_south_tiger_bay_forest_g;South Tiger Bay Forest Venue;;;;;;;;;;x
+b_new_smyrna_beach_a;New Smyrna Beach House;;;;;;;;;;x
+b_new_smyrna_beach_b;New Smyrna Beach Locale;;;;;;;;;;x
+b_new_smyrna_beach_c;New Smyrna Beach Berth;;;;;;;;;;x
+b_new_smyrna_beach_d;New Smyrna Beach Clime;;;;;;;;;;x
+b_new_smyrna_beach_e;New Smyrna Beach Place;;;;;;;;;;x
+b_new_smyrna_beach_f;New Smyrna Beach Spot;;;;;;;;;;x
+b_new_smyrna_beach_g;New Smyrna Beach Lay;;;;;;;;;;x
+b_clewiston_a;Clewiston Corner;;;;;;;;;;x
+b_clewiston_b;Clewiston Helm;;;;;;;;;;x
+b_clewiston_c;Clewiston House;;;;;;;;;;x
+b_clewiston_d;Clewiston Point;;;;;;;;;;x
+b_clewiston_e;Clewiston Lay;;;;;;;;;;x
+b_clewiston_f;Clewiston Spot;;;;;;;;;;x
+b_clewiston_g;Clewiston Berth;;;;;;;;;;x
+b_belle_glade_a;Belle Glade Point;;;;;;;;;;x
+b_belle_glade_b;Belle Glade House;;;;;;;;;;x
+b_belle_glade_c;Belle Glade Mansion;;;;;;;;;;x
+b_belle_glade_d;Belle Glade Place;;;;;;;;;;x
+b_belle_glade_e;Belle Glade Neighborhood;;;;;;;;;;x
+b_belle_glade_f;Belle Glade Site;;;;;;;;;;x
+b_belle_glade_g;Belle Glade Quarter;;;;;;;;;;x
+b_immokalee_a;Immokalee Head;;;;;;;;;;x
+b_immokalee_b;Immokalee Neighborhood;;;;;;;;;;x
+b_immokalee_c;Immokalee Suburb;;;;;;;;;;x
+b_immokalee_d;Immokalee Joint;;;;;;;;;;x
+b_immokalee_e;Immokalee Mansion;;;;;;;;;;x
+b_immokalee_f;Immokalee Helm;;;;;;;;;;x
+b_immokalee_g;Immokalee Place;;;;;;;;;;x
+b_labelle_a;Labelle Joint;;;;;;;;;;x
+b_labelle_b;Labelle Berth;;;;;;;;;;x
+b_labelle_c;Labelle Point;;;;;;;;;;x
+b_labelle_d;Labelle Suburb;;;;;;;;;;x
+b_labelle_e;Labelle Quarter;;;;;;;;;;x
+b_labelle_f;Labelle Helm;;;;;;;;;;x
+b_labelle_g;Labelle Hamlet;;;;;;;;;;x
+b_muce_a;Muce House;;;;;;;;;;x
+b_muce_b;Muce Suburb;;;;;;;;;;x
+b_muce_c;Muce Holding;;;;;;;;;;x
+b_muce_d;Muce Clime;;;;;;;;;;x
+b_muce_e;Muce Pad;;;;;;;;;;x
+b_muce_f;Muce Station;;;;;;;;;;x
+b_muce_g;Muce Spot;;;;;;;;;;x
+b_pahokee_a;Pahokee Locale;;;;;;;;;;x
+b_pahokee_b;Pahokee Mansion;;;;;;;;;;x
+b_pahokee_c;Pahokee Helm;;;;;;;;;;x
+b_pahokee_d;Pahokee Station;;;;;;;;;;x
+b_pahokee_e;Pahokee Stead;;;;;;;;;;x
+b_pahokee_f;Pahokee Spot;;;;;;;;;;x
+b_pahokee_g;Pahokee Point;;;;;;;;;;x
+b_whispering_pines_a;Whispering Pines House;;;;;;;;;;x
+b_whispering_pines_b;Whispering Pines Site;;;;;;;;;;x
+b_whispering_pines_c;Whispering Pines Quarter;;;;;;;;;;x
+b_whispering_pines_d;Whispering Pines Venue;;;;;;;;;;x
+b_whispering_pines_e;Whispering Pines Locus;;;;;;;;;;x
+b_whispering_pines_f;Whispering Pines Hamlet;;;;;;;;;;x
+b_whispering_pines_g;Whispering Pines Zone;;;;;;;;;;x
+b_yeehaw_junction_a;Yeehaw Junction Hamlet;;;;;;;;;;x
+b_yeehaw_junction_b;Yeehaw Junction Place;;;;;;;;;;x
+b_yeehaw_junction_c;Yeehaw Junction Site;;;;;;;;;;x
+b_yeehaw_junction_d;Yeehaw Junction Zone;;;;;;;;;;x
+b_yeehaw_junction_e;Yeehaw Junction Pad;;;;;;;;;;x
+b_yeehaw_junction_f;Yeehaw Junction Head;;;;;;;;;;x
+b_yeehaw_junction_g;Yeehaw Junction Helm;;;;;;;;;;x
+b_okeechobee_a;Okeechobee Venue;;;;;;;;;;x
+b_okeechobee_b;Okeechobee Point;;;;;;;;;;x
+b_okeechobee_c;Okeechobee Locus;;;;;;;;;;x
+b_okeechobee_d;Okeechobee Neighborhood;;;;;;;;;;x
+b_okeechobee_e;Okeechobee Lay;;;;;;;;;;x
+b_okeechobee_f;Okeechobee Station;;;;;;;;;;x
+b_okeechobee_g;Okeechobee Stead;;;;;;;;;;x
+b_basinger_a;Basinger Hamlet;;;;;;;;;;x
+b_basinger_b;Basinger Clime;;;;;;;;;;x
+b_basinger_c;Basinger Locale;;;;;;;;;;x
+b_basinger_d;Basinger Berth;;;;;;;;;;x
+b_basinger_e;Basinger Corner;;;;;;;;;;x
+b_basinger_f;Basinger Pad;;;;;;;;;;x
+b_basinger_g;Basinger Venue;;;;;;;;;;x
+b_white_a;White Corner;;;;;;;;;;x
+b_white_b;White Clime;;;;;;;;;;x
+b_white_c;White Joint;;;;;;;;;;x
+b_white_d;White Mansion;;;;;;;;;;x
+b_white_e;White Lay;;;;;;;;;;x
+b_white_f;White Neighborhood;;;;;;;;;;x
+b_white_g;White Point;;;;;;;;;;x
+b_vero_beach_a;Vero Beach Neighborhood;;;;;;;;;;x
+b_vero_beach_b;Vero Beach Venue;;;;;;;;;;x
+b_vero_beach_c;Vero Beach Holding;;;;;;;;;;x
+b_vero_beach_d;Vero Beach Spot;;;;;;;;;;x
+b_vero_beach_e;Vero Beach Lay;;;;;;;;;;x
+b_vero_beach_f;Vero Beach Berth;;;;;;;;;;x
+b_vero_beach_g;Vero Beach Station;;;;;;;;;;x
+b_fort_pierce_a;Fort Pierce Neighborhood;;;;;;;;;;x
+b_fort_pierce_b;Fort Pierce Place;;;;;;;;;;x
+b_fort_pierce_c;Fort Pierce Hamlet;;;;;;;;;;x
+b_fort_pierce_d;Fort Pierce Spot;;;;;;;;;;x
+b_fort_pierce_e;Fort Pierce Site;;;;;;;;;;x
+b_fort_pierce_f;Fort Pierce Lay;;;;;;;;;;x
+b_fort_pierce_g;Fort Pierce Venue;;;;;;;;;;x
+b_port_saint_lucie_a;Port Saint Lucie Zone;;;;;;;;;;x
+b_port_saint_lucie_b;Port Saint Lucie Place;;;;;;;;;;x
+b_port_saint_lucie_c;Port Saint Lucie Mansion;;;;;;;;;;x
+b_port_saint_lucie_d;Port Saint Lucie Quarter;;;;;;;;;;x
+b_port_saint_lucie_e;Port Saint Lucie Locus;;;;;;;;;;x
+b_port_saint_lucie_f;Port Saint Lucie Clime;;;;;;;;;;x
+b_port_saint_lucie_g;Port Saint Lucie Pad;;;;;;;;;;x
+b_vero_corridor_a;Vero Corridor Point;;;;;;;;;;x
+b_vero_corridor_b;Vero Corridor Zone;;;;;;;;;;x
+b_vero_corridor_c;Vero Corridor Quarter;;;;;;;;;;x
+b_vero_corridor_d;Vero Corridor Lay;;;;;;;;;;x
+b_vero_corridor_e;Vero Corridor Berth;;;;;;;;;;x
+b_vero_corridor_f;Vero Corridor Pad;;;;;;;;;;x
+b_vero_corridor_g;Vero Corridor Holding;;;;;;;;;;x
+b_kissimee_praire_preserve_a;Kissimee Praire Preserve Place;;;;;;;;;;x
+b_kissimee_praire_preserve_b;Kissimee Praire Preserve Zone;;;;;;;;;;x
+b_kissimee_praire_preserve_c;Kissimee Praire Preserve Site;;;;;;;;;;x
+b_kissimee_praire_preserve_d;Kissimee Praire Preserve Suburb;;;;;;;;;;x
+b_kissimee_praire_preserve_e;Kissimee Praire Preserve Clime;;;;;;;;;;x
+b_kissimee_praire_preserve_f;Kissimee Praire Preserve Hamlet;;;;;;;;;;x
+b_kissimee_praire_preserve_g;Kissimee Praire Preserve Lay;;;;;;;;;;x
+b_sebring_a;Sebring Mansion;;;;;;;;;;x
+b_sebring_b;Sebring House;;;;;;;;;;x
+b_sebring_c;Sebring Neighborhood;;;;;;;;;;x
+b_sebring_d;Sebring Place;;;;;;;;;;x
+b_sebring_e;Sebring Berth;;;;;;;;;;x
+b_sebring_f;Sebring Zone;;;;;;;;;;x
+b_sebring_g;Sebring Joint;;;;;;;;;;x
+b_sylvan_shores_a;Sylvan Shores Lay;;;;;;;;;;x
+b_sylvan_shores_b;Sylvan Shores Point;;;;;;;;;;x
+b_sylvan_shores_c;Sylvan Shores Neighborhood;;;;;;;;;;x
+b_sylvan_shores_d;Sylvan Shores Hamlet;;;;;;;;;;x
+b_sylvan_shores_e;Sylvan Shores Place;;;;;;;;;;x
+b_sylvan_shores_f;Sylvan Shores Locale;;;;;;;;;;x
+b_sylvan_shores_g;Sylvan Shores Station;;;;;;;;;;x
+b_buckhead_ridge_a;Buckhead Ridge Suburb;;;;;;;;;;x
+b_buckhead_ridge_b;Buckhead Ridge Head;;;;;;;;;;x
+b_buckhead_ridge_c;Buckhead Ridge House;;;;;;;;;;x
+b_buckhead_ridge_d;Buckhead Ridge Station;;;;;;;;;;x
+b_buckhead_ridge_e;Buckhead Ridge Locus;;;;;;;;;;x
+b_buckhead_ridge_f;Buckhead Ridge Berth;;;;;;;;;;x
+b_buckhead_ridge_g;Buckhead Ridge Clime;;;;;;;;;;x
+b_north_port_a;North Port Quarter;;;;;;;;;;x
+b_north_port_b;North Port Neighborhood;;;;;;;;;;x
+b_north_port_c;North Port Helm;;;;;;;;;;x
+b_north_port_d;North Port Spot;;;;;;;;;;x
+b_north_port_e;North Port Mansion;;;;;;;;;;x
+b_north_port_f;North Port Locus;;;;;;;;;;x
+b_north_port_g;North Port Locale;;;;;;;;;;x
+b_arcadia_a;Arcadia Pad;;;;;;;;;;x
+b_arcadia_b;Arcadia Point;;;;;;;;;;x
+b_arcadia_c;Arcadia Zone;;;;;;;;;;x
+b_arcadia_d;Arcadia Joint;;;;;;;;;;x
+b_arcadia_e;Arcadia Neighborhood;;;;;;;;;;x
+b_arcadia_f;Arcadia Spot;;;;;;;;;;x
+b_arcadia_g;Arcadia Station;;;;;;;;;;x
+b_southeast_arcadia_a;Southeast Arcadia Helm;;;;;;;;;;x
+b_southeast_arcadia_b;Southeast Arcadia Neighborhood;;;;;;;;;;x
+b_southeast_arcadia_c;Southeast Arcadia Pad;;;;;;;;;;x
+b_southeast_arcadia_d;Southeast Arcadia Hamlet;;;;;;;;;;x
+b_southeast_arcadia_e;Southeast Arcadia Lay;;;;;;;;;;x
+b_southeast_arcadia_f;Southeast Arcadia Locale;;;;;;;;;;x
+b_southeast_arcadia_g;Southeast Arcadia Holding;;;;;;;;;;x
+b_babcock_ranch_preserve_a;Babcock Ranch Preserve Venue;;;;;;;;;;x
+b_babcock_ranch_preserve_b;Babcock Ranch Preserve Locus;;;;;;;;;;x
+b_babcock_ranch_preserve_c;Babcock Ranch Preserve Hamlet;;;;;;;;;;x
+b_babcock_ranch_preserve_d;Babcock Ranch Preserve Holding;;;;;;;;;;x
+b_babcock_ranch_preserve_e;Babcock Ranch Preserve Site;;;;;;;;;;x
+b_babcock_ranch_preserve_f;Babcock Ranch Preserve Zone;;;;;;;;;;x
+b_babcock_ranch_preserve_g;Babcock Ranch Preserve Locale;;;;;;;;;;x
+b_naples_a;Naples Point;;;;;;;;;;x
+b_naples_b;Naples Mansion;;;;;;;;;;x
+b_naples_c;Naples Stead;;;;;;;;;;x
+b_naples_d;Naples Suburb;;;;;;;;;;x
+b_naples_e;Naples Lay;;;;;;;;;;x
+b_naples_f;Naples Zone;;;;;;;;;;x
+b_naples_g;Naples Helm;;;;;;;;;;x
+b_pine_island_sound_aquatic_preserve_a;Pine Island Sound Aquatic Preserve Place;;;;;;;;;;x
+b_pine_island_sound_aquatic_preserve_b;Pine Island Sound Aquatic Preserve Helm;;;;;;;;;;x
+b_pine_island_sound_aquatic_preserve_c;Pine Island Sound Aquatic Preserve Neighborhood;;;;;;;;;;x
+b_pine_island_sound_aquatic_preserve_d;Pine Island Sound Aquatic Preserve Locale;;;;;;;;;;x
+b_pine_island_sound_aquatic_preserve_e;Pine Island Sound Aquatic Preserve Venue;;;;;;;;;;x
+b_pine_island_sound_aquatic_preserve_f;Pine Island Sound Aquatic Preserve Clime;;;;;;;;;;x
+b_pine_island_sound_aquatic_preserve_g;Pine Island Sound Aquatic Preserve Head;;;;;;;;;;x
+b_port_charlotte_a;Port Charlotte Spot;;;;;;;;;;x
+b_port_charlotte_b;Port Charlotte Joint;;;;;;;;;;x
+b_port_charlotte_c;Port Charlotte Holding;;;;;;;;;;x
+b_port_charlotte_d;Port Charlotte Head;;;;;;;;;;x
+b_port_charlotte_e;Port Charlotte Suburb;;;;;;;;;;x
+b_port_charlotte_f;Port Charlotte Locus;;;;;;;;;;x
+b_port_charlotte_g;Port Charlotte Corner;;;;;;;;;;x
+b_venice_a;Venice Venue;;;;;;;;;;x
+b_venice_b;Venice House;;;;;;;;;;x
+b_venice_c;Venice Pad;;;;;;;;;;x
+b_venice_d;Venice Helm;;;;;;;;;;x
+b_venice_e;Venice Clime;;;;;;;;;;x
+b_venice_f;Venice Mansion;;;;;;;;;;x
+b_venice_g;Venice Suburb;;;;;;;;;;x
+b_orangetree_a;Orangetree Spot;;;;;;;;;;x
+b_orangetree_b;Orangetree Pad;;;;;;;;;;x
+b_orangetree_c;Orangetree Neighborhood;;;;;;;;;;x
+b_orangetree_d;Orangetree Head;;;;;;;;;;x
+b_orangetree_e;Orangetree Stead;;;;;;;;;;x
+b_orangetree_f;Orangetree Locus;;;;;;;;;;x
+b_orangetree_g;Orangetree Holding;;;;;;;;;;x
+b_ave_maria_a;Ave Maria Head;;;;;;;;;;x
+b_ave_maria_b;Ave Maria Suburb;;;;;;;;;;x
+b_ave_maria_c;Ave Maria Holding;;;;;;;;;;x
+b_ave_maria_d;Ave Maria Stead;;;;;;;;;;x
+b_ave_maria_e;Ave Maria Corner;;;;;;;;;;x
+b_ave_maria_f;Ave Maria Quarter;;;;;;;;;;x
+b_ave_maria_g;Ave Maria Clime;;;;;;;;;;x
+b_cape_romano_a;Cape Romano Berth;;;;;;;;;;x
+b_cape_romano_b;Cape Romano Helm;;;;;;;;;;x
+b_cape_romano_c;Cape Romano Corner;;;;;;;;;;x
+b_cape_romano_d;Cape Romano Pad;;;;;;;;;;x
+b_cape_romano_e;Cape Romano Holding;;;;;;;;;;x
+b_cape_romano_f;Cape Romano Site;;;;;;;;;;x
+b_cape_romano_g;Cape Romano Neighborhood;;;;;;;;;;x
+b_carnestown_a;Carnestown Corner;;;;;;;;;;x
+b_carnestown_b;Carnestown Helm;;;;;;;;;;x
+b_carnestown_c;Carnestown Spot;;;;;;;;;;x
+b_carnestown_d;Carnestown Hamlet;;;;;;;;;;x
+b_carnestown_e;Carnestown Clime;;;;;;;;;;x
+b_carnestown_f;Carnestown Site;;;;;;;;;;x
+b_carnestown_g;Carnestown Venue;;;;;;;;;;x
+b_everglades_city_a;Everglades City Helm;;;;;;;;;;x
+b_everglades_city_b;Everglades City Holding;;;;;;;;;;x
+b_everglades_city_c;Everglades City Venue;;;;;;;;;;x
+b_everglades_city_d;Everglades City Suburb;;;;;;;;;;x
+b_everglades_city_e;Everglades City Joint;;;;;;;;;;x
+b_everglades_city_f;Everglades City Corner;;;;;;;;;;x
+b_everglades_city_g;Everglades City Clime;;;;;;;;;;x
+b_chokoloskee_a;Chokoloskee Suburb;;;;;;;;;;x
+b_chokoloskee_b;Chokoloskee Berth;;;;;;;;;;x
+b_chokoloskee_c;Chokoloskee Zone;;;;;;;;;;x
+b_chokoloskee_d;Chokoloskee Corner;;;;;;;;;;x
+b_chokoloskee_e;Chokoloskee Point;;;;;;;;;;x
+b_chokoloskee_f;Chokoloskee Holding;;;;;;;;;;x
+b_chokoloskee_g;Chokoloskee Quarter;;;;;;;;;;x
+b_everglades_park_a;Everglades Park Locale;;;;;;;;;;x
+b_everglades_park_b;Everglades Park Lay;;;;;;;;;;x
+b_everglades_park_c;Everglades Park Place;;;;;;;;;;x
+b_everglades_park_d;Everglades Park Venue;;;;;;;;;;x
+b_everglades_park_e;Everglades Park Pad;;;;;;;;;;x
+b_everglades_park_f;Everglades Park Joint;;;;;;;;;;x
+b_everglades_park_g;Everglades Park Stead;;;;;;;;;;x
+b_marathon_a;Marathon Pad;;;;;;;;;;x
+b_marathon_b;Marathon Point;;;;;;;;;;x
+b_marathon_c;Marathon Joint;;;;;;;;;;x
+b_marathon_d;Marathon Stead;;;;;;;;;;x
+b_marathon_e;Marathon Helm;;;;;;;;;;x
+b_marathon_f;Marathon Place;;;;;;;;;;x
+b_marathon_g;Marathon Neighborhood;;;;;;;;;;x
+b_big_pine_key_a;Big Pine Key Suburb;;;;;;;;;;x
+b_big_pine_key_b;Big Pine Key Quarter;;;;;;;;;;x
+b_big_pine_key_c;Big Pine Key Clime;;;;;;;;;;x
+b_big_pine_key_d;Big Pine Key House;;;;;;;;;;x
+b_big_pine_key_e;Big Pine Key Point;;;;;;;;;;x
+b_big_pine_key_f;Big Pine Key Head;;;;;;;;;;x
+b_big_pine_key_g;Big Pine Key Pad;;;;;;;;;;x
+b_cudjoe_key_a;Cudjoe Key Station;;;;;;;;;;x
+b_cudjoe_key_b;Cudjoe Key Locus;;;;;;;;;;x
+b_cudjoe_key_c;Cudjoe Key Zone;;;;;;;;;;x
+b_cudjoe_key_d;Cudjoe Key Helm;;;;;;;;;;x
+b_cudjoe_key_e;Cudjoe Key Neighborhood;;;;;;;;;;x
+b_cudjoe_key_f;Cudjoe Key Lay;;;;;;;;;;x
+b_cudjoe_key_g;Cudjoe Key Mansion;;;;;;;;;;x
+b_key_west_a;Key West Point;;;;;;;;;;x
+b_key_west_b;Key West Locale;;;;;;;;;;x
+b_key_west_c;Key West Site;;;;;;;;;;x
+b_key_west_d;Key West Neighborhood;;;;;;;;;;x
+b_key_west_e;Key West Locus;;;;;;;;;;x
+b_key_west_f;Key West Place;;;;;;;;;;x
+b_key_west_g;Key West Stead;;;;;;;;;;x
+b_dry_tortugas_national_park_a;Dry Tortugas National Park Quarter;;;;;;;;;;x
+b_dry_tortugas_national_park_b;Dry Tortugas National Park House;;;;;;;;;;x
+b_dry_tortugas_national_park_c;Dry Tortugas National Park Lay;;;;;;;;;;x
+b_dry_tortugas_national_park_d;Dry Tortugas National Park Locus;;;;;;;;;;x
+b_dry_tortugas_national_park_e;Dry Tortugas National Park Station;;;;;;;;;;x
+b_dry_tortugas_national_park_f;Dry Tortugas National Park Corner;;;;;;;;;;x
+b_dry_tortugas_national_park_g;Dry Tortugas National Park Site;;;;;;;;;;x
+b_san_nicolas_de_bari_a;San Nicolas De Bari Quarter;;;;;;;;;;x
+b_san_nicolas_de_bari_b;San Nicolas De Bari Lay;;;;;;;;;;x
+b_san_nicolas_de_bari_c;San Nicolas De Bari Mansion;;;;;;;;;;x
+b_san_nicolas_de_bari_d;San Nicolas De Bari Stead;;;;;;;;;;x
+b_san_nicolas_de_bari_e;San Nicolas De Bari Locale;;;;;;;;;;x
+b_san_nicolas_de_bari_f;San Nicolas De Bari Helm;;;;;;;;;;x
+b_san_nicolas_de_bari_g;San Nicolas De Bari Suburb;;;;;;;;;;x
+b_santa_cruz_del_norte_a;Santa Cruz Del Norte Neighborhood;;;;;;;;;;x
+b_santa_cruz_del_norte_b;Santa Cruz Del Norte Head;;;;;;;;;;x
+b_santa_cruz_del_norte_c;Santa Cruz Del Norte Site;;;;;;;;;;x
+b_santa_cruz_del_norte_d;Santa Cruz Del Norte Place;;;;;;;;;;x
+b_santa_cruz_del_norte_e;Santa Cruz Del Norte Stead;;;;;;;;;;x
+b_santa_cruz_del_norte_f;Santa Cruz Del Norte Corner;;;;;;;;;;x
+b_santa_cruz_del_norte_g;Santa Cruz Del Norte Lay;;;;;;;;;;x
+b_havana_a;Havana Point;;;;;;;;;;x
+b_havana_b;Havana Joint;;;;;;;;;;x
+b_havana_c;Havana Locus;;;;;;;;;;x
+b_havana_d;Havana Corner;;;;;;;;;;x
+b_havana_e;Havana Locale;;;;;;;;;;x
+b_havana_f;Havana Stead;;;;;;;;;;x
+b_havana_g;Havana House;;;;;;;;;;x
+b_surgidero_de_batabano_a;Surgidero De Batabano Berth;;;;;;;;;;x
+b_surgidero_de_batabano_b;Surgidero De Batabano Point;;;;;;;;;;x
+b_surgidero_de_batabano_c;Surgidero De Batabano Corner;;;;;;;;;;x
+b_surgidero_de_batabano_d;Surgidero De Batabano House;;;;;;;;;;x
+b_surgidero_de_batabano_e;Surgidero De Batabano Mansion;;;;;;;;;;x
+b_surgidero_de_batabano_f;Surgidero De Batabano Holding;;;;;;;;;;x
+b_surgidero_de_batabano_g;Surgidero De Batabano Site;;;;;;;;;;x
+b_playa_larga_a;Playa Larga Berth;;;;;;;;;;x
+b_playa_larga_b;Playa Larga Station;;;;;;;;;;x
+b_playa_larga_c;Playa Larga Helm;;;;;;;;;;x
+b_playa_larga_d;Playa Larga Venue;;;;;;;;;;x
+b_playa_larga_e;Playa Larga Locus;;;;;;;;;;x
+b_playa_larga_f;Playa Larga Holding;;;;;;;;;;x
+b_playa_larga_g;Playa Larga Place;;;;;;;;;;x
+b_nueva_paz_a;Nueva Paz Clime;;;;;;;;;;x
+b_nueva_paz_b;Nueva Paz Head;;;;;;;;;;x
+b_nueva_paz_c;Nueva Paz Station;;;;;;;;;;x
+b_nueva_paz_d;Nueva Paz Suburb;;;;;;;;;;x
+b_nueva_paz_e;Nueva Paz Venue;;;;;;;;;;x
+b_nueva_paz_f;Nueva Paz Holding;;;;;;;;;;x
+b_nueva_paz_g;Nueva Paz Zone;;;;;;;;;;x
+b_eastern_parque_cienaga_de_zapata_a;Eastern Parque Cienaga De Zapata Locale;;;;;;;;;;x
+b_eastern_parque_cienaga_de_zapata_b;Eastern Parque Cienaga De Zapata Lay;;;;;;;;;;x
+b_eastern_parque_cienaga_de_zapata_c;Eastern Parque Cienaga De Zapata Site;;;;;;;;;;x
+b_eastern_parque_cienaga_de_zapata_d;Eastern Parque Cienaga De Zapata Stead;;;;;;;;;;x
+b_eastern_parque_cienaga_de_zapata_e;Eastern Parque Cienaga De Zapata Joint;;;;;;;;;;x
+b_eastern_parque_cienaga_de_zapata_f;Eastern Parque Cienaga De Zapata Mansion;;;;;;;;;;x
+b_eastern_parque_cienaga_de_zapata_g;Eastern Parque Cienaga De Zapata Venue;;;;;;;;;;x
+b_jaguey_grande_a;Jaguey Grande Point;;;;;;;;;;x
+b_jaguey_grande_b;Jaguey Grande Hamlet;;;;;;;;;;x
+b_jaguey_grande_c;Jaguey Grande House;;;;;;;;;;x
+b_jaguey_grande_d;Jaguey Grande Site;;;;;;;;;;x
+b_jaguey_grande_e;Jaguey Grande Corner;;;;;;;;;;x
+b_jaguey_grande_f;Jaguey Grande Spot;;;;;;;;;;x
+b_jaguey_grande_g;Jaguey Grande Head;;;;;;;;;;x
+b_constancia_a;Constancia Place;;;;;;;;;;x
+b_constancia_b;Constancia Station;;;;;;;;;;x
+b_constancia_c;Constancia Berth;;;;;;;;;;x
+b_constancia_d;Constancia Joint;;;;;;;;;;x
+b_constancia_e;Constancia Holding;;;;;;;;;;x
+b_constancia_f;Constancia Locale;;;;;;;;;;x
+b_constancia_g;Constancia Helm;;;;;;;;;;x
+b_union_de_reyes_a;Union De Reyes House;;;;;;;;;;x
+b_union_de_reyes_b;Union De Reyes Place;;;;;;;;;;x
+b_union_de_reyes_c;Union De Reyes Locale;;;;;;;;;;x
+b_union_de_reyes_d;Union De Reyes Head;;;;;;;;;;x
+b_union_de_reyes_e;Union De Reyes Quarter;;;;;;;;;;x
+b_union_de_reyes_f;Union De Reyes Site;;;;;;;;;;x
+b_union_de_reyes_g;Union De Reyes Berth;;;;;;;;;;x
+b_san_miguel_de_los_banos_a;San Miguel De Los Banos Locus;;;;;;;;;;x
+b_san_miguel_de_los_banos_b;San Miguel De Los Banos Stead;;;;;;;;;;x
+b_san_miguel_de_los_banos_c;San Miguel De Los Banos Zone;;;;;;;;;;x
+b_san_miguel_de_los_banos_d;San Miguel De Los Banos Place;;;;;;;;;;x
+b_san_miguel_de_los_banos_e;San Miguel De Los Banos Holding;;;;;;;;;;x
+b_san_miguel_de_los_banos_f;San Miguel De Los Banos Site;;;;;;;;;;x
+b_san_miguel_de_los_banos_g;San Miguel De Los Banos Spot;;;;;;;;;;x
+b_aguacate_a;Aguacate Neighborhood;;;;;;;;;;x
+b_aguacate_b;Aguacate Locus;;;;;;;;;;x
+b_aguacate_c;Aguacate Quarter;;;;;;;;;;x
+b_aguacate_d;Aguacate Point;;;;;;;;;;x
+b_aguacate_e;Aguacate Clime;;;;;;;;;;x
+b_aguacate_f;Aguacate House;;;;;;;;;;x
+b_aguacate_g;Aguacate Mansion;;;;;;;;;;x
+b_central_parque_cienaga_de_zapata_a;Central Parque Cienaga De Zapata Zone;;;;;;;;;;x
+b_central_parque_cienaga_de_zapata_b;Central Parque Cienaga De Zapata Hamlet;;;;;;;;;;x
+b_central_parque_cienaga_de_zapata_c;Central Parque Cienaga De Zapata Neighborhood;;;;;;;;;;x
+b_central_parque_cienaga_de_zapata_d;Central Parque Cienaga De Zapata Pad;;;;;;;;;;x
+b_central_parque_cienaga_de_zapata_e;Central Parque Cienaga De Zapata Joint;;;;;;;;;;x
+b_central_parque_cienaga_de_zapata_f;Central Parque Cienaga De Zapata Berth;;;;;;;;;;x
+b_central_parque_cienaga_de_zapata_g;Central Parque Cienaga De Zapata Corner;;;;;;;;;;x
+b_southern_parque_cienaga_de_zapata_a;Southern Parque Cienaga De Zapata Quarter;;;;;;;;;;x
+b_southern_parque_cienaga_de_zapata_b;Southern Parque Cienaga De Zapata Zone;;;;;;;;;;x
+b_southern_parque_cienaga_de_zapata_c;Southern Parque Cienaga De Zapata Stead;;;;;;;;;;x
+b_southern_parque_cienaga_de_zapata_d;Southern Parque Cienaga De Zapata Locale;;;;;;;;;;x
+b_southern_parque_cienaga_de_zapata_e;Southern Parque Cienaga De Zapata Head;;;;;;;;;;x
+b_southern_parque_cienaga_de_zapata_f;Southern Parque Cienaga De Zapata House;;;;;;;;;;x
+b_southern_parque_cienaga_de_zapata_g;Southern Parque Cienaga De Zapata Mansion;;;;;;;;;;x
+b_far_parque_cienaga_de_zapata_a;Far Parque Cienaga De Zapata Joint;;;;;;;;;;x
+b_far_parque_cienaga_de_zapata_b;Far Parque Cienaga De Zapata Spot;;;;;;;;;;x
+b_far_parque_cienaga_de_zapata_c;Far Parque Cienaga De Zapata Mansion;;;;;;;;;;x
+b_far_parque_cienaga_de_zapata_d;Far Parque Cienaga De Zapata Hamlet;;;;;;;;;;x
+b_far_parque_cienaga_de_zapata_e;Far Parque Cienaga De Zapata Station;;;;;;;;;;x
+b_far_parque_cienaga_de_zapata_f;Far Parque Cienaga De Zapata Venue;;;;;;;;;;x
+b_far_parque_cienaga_de_zapata_g;Far Parque Cienaga De Zapata Quarter;;;;;;;;;;x
+b_parque_cienaga_de_zapata_a;Parque Cienaga De Zapata Joint;;;;;;;;;;x
+b_parque_cienaga_de_zapata_b;Parque Cienaga De Zapata Place;;;;;;;;;;x
+b_parque_cienaga_de_zapata_c;Parque Cienaga De Zapata House;;;;;;;;;;x
+b_parque_cienaga_de_zapata_d;Parque Cienaga De Zapata Point;;;;;;;;;;x
+b_parque_cienaga_de_zapata_e;Parque Cienaga De Zapata Head;;;;;;;;;;x
+b_parque_cienaga_de_zapata_f;Parque Cienaga De Zapata Helm;;;;;;;;;;x
+b_parque_cienaga_de_zapata_g;Parque Cienaga De Zapata Corner;;;;;;;;;;x
+b_cardenas_a;Cardenas Zone;;;;;;;;;;x
+b_cardenas_b;Cardenas Pad;;;;;;;;;;x
+b_cardenas_c;Cardenas Place;;;;;;;;;;x
+b_cardenas_d;Cardenas Suburb;;;;;;;;;;x
+b_cardenas_e;Cardenas Site;;;;;;;;;;x
+b_cardenas_f;Cardenas Corner;;;;;;;;;;x
+b_cardenas_g;Cardenas House;;;;;;;;;;x
+b_pedro_betancourt_a;Pedro Betancourt Quarter;;;;;;;;;;x
+b_pedro_betancourt_b;Pedro Betancourt Berth;;;;;;;;;;x
+b_pedro_betancourt_c;Pedro Betancourt Clime;;;;;;;;;;x
+b_pedro_betancourt_d;Pedro Betancourt Joint;;;;;;;;;;x
+b_pedro_betancourt_e;Pedro Betancourt Station;;;;;;;;;;x
+b_pedro_betancourt_f;Pedro Betancourt Venue;;;;;;;;;;x
+b_pedro_betancourt_g;Pedro Betancourt Lay;;;;;;;;;;x
+b_matanzas_a;Matanzas Point;;;;;;;;;;x
+b_matanzas_b;Matanzas House;;;;;;;;;;x
+b_matanzas_c;Matanzas Helm;;;;;;;;;;x
+b_matanzas_d;Matanzas Zone;;;;;;;;;;x
+b_matanzas_e;Matanzas Lay;;;;;;;;;;x
+b_matanzas_f;Matanzas Joint;;;;;;;;;;x
+b_matanzas_g;Matanzas Venue;;;;;;;;;;x
+b_bacunayagua_a;Bacunayagua Pad;;;;;;;;;;x
+b_bacunayagua_b;Bacunayagua Zone;;;;;;;;;;x
+b_bacunayagua_c;Bacunayagua Quarter;;;;;;;;;;x
+b_bacunayagua_d;Bacunayagua Locale;;;;;;;;;;x
+b_bacunayagua_e;Bacunayagua Neighborhood;;;;;;;;;;x
+b_bacunayagua_f;Bacunayagua Spot;;;;;;;;;;x
+b_bacunayagua_g;Bacunayagua Stead;;;;;;;;;;x
+b_moron_a;Moron Quarter;;;;;;;;;;x
+b_moron_b;Moron Station;;;;;;;;;;x
+b_moron_c;Moron Spot;;;;;;;;;;x
+b_moron_d;Moron Place;;;;;;;;;;x
+b_moron_e;Moron Lay;;;;;;;;;;x
+b_moron_f;Moron Head;;;;;;;;;;x
+b_moron_g;Moron Mansion;;;;;;;;;;x
+b_cayo_fragoso_a;Cayo Fragoso Spot;;;;;;;;;;x
+b_cayo_fragoso_b;Cayo Fragoso Suburb;;;;;;;;;;x
+b_cayo_fragoso_c;Cayo Fragoso Locale;;;;;;;;;;x
+b_cayo_fragoso_d;Cayo Fragoso Joint;;;;;;;;;;x
+b_cayo_fragoso_e;Cayo Fragoso Hamlet;;;;;;;;;;x
+b_cayo_fragoso_f;Cayo Fragoso House;;;;;;;;;;x
+b_cayo_fragoso_g;Cayo Fragoso Locus;;;;;;;;;;x
+b_colon_a;Colon Locale;;;;;;;;;;x
+b_colon_b;Colon Locus;;;;;;;;;;x
+b_colon_c;Colon Site;;;;;;;;;;x
+b_colon_d;Colon Joint;;;;;;;;;;x
+b_colon_e;Colon Quarter;;;;;;;;;;x
+b_colon_f;Colon Suburb;;;;;;;;;;x
+b_colon_g;Colon Stead;;;;;;;;;;x
+b_la_teja_a;La Teja Suburb;;;;;;;;;;x
+b_la_teja_b;La Teja Zone;;;;;;;;;;x
+b_la_teja_c;La Teja Station;;;;;;;;;;x
+b_la_teja_d;La Teja Berth;;;;;;;;;;x
+b_la_teja_e;La Teja Venue;;;;;;;;;;x
+b_la_teja_f;La Teja Quarter;;;;;;;;;;x
+b_la_teja_g;La Teja Corner;;;;;;;;;;x
+b_cayo_romano_a;Cayo Romano Clime;;;;;;;;;;x
+b_cayo_romano_b;Cayo Romano Point;;;;;;;;;;x
+b_cayo_romano_c;Cayo Romano House;;;;;;;;;;x
+b_cayo_romano_d;Cayo Romano Corner;;;;;;;;;;x
+b_cayo_romano_e;Cayo Romano Lay;;;;;;;;;;x
+b_cayo_romano_f;Cayo Romano Site;;;;;;;;;;x
+b_cayo_romano_g;Cayo Romano Quarter;;;;;;;;;;x
+b_puerto_padre_a;Puerto Padre Zone;;;;;;;;;;x
+b_puerto_padre_b;Puerto Padre House;;;;;;;;;;x
+b_puerto_padre_c;Puerto Padre Pad;;;;;;;;;;x
+b_puerto_padre_d;Puerto Padre Suburb;;;;;;;;;;x
+b_puerto_padre_e;Puerto Padre Place;;;;;;;;;;x
+b_puerto_padre_f;Puerto Padre Station;;;;;;;;;;x
+b_puerto_padre_g;Puerto Padre Site;;;;;;;;;;x
+b_colobia_a;Colobia Lay;;;;;;;;;;x
+b_colobia_b;Colobia Pad;;;;;;;;;;x
+b_colobia_c;Colobia Holding;;;;;;;;;;x
+b_colobia_d;Colobia Berth;;;;;;;;;;x
+b_colobia_e;Colobia Locus;;;;;;;;;;x
+b_colobia_f;Colobia Zone;;;;;;;;;;x
+b_colobia_g;Colobia Clime;;;;;;;;;;x
+b_vilato_a;Vilato Venue;;;;;;;;;;x
+b_vilato_b;Vilato Site;;;;;;;;;;x
+b_vilato_c;Vilato Zone;;;;;;;;;;x
+b_vilato_d;Vilato Helm;;;;;;;;;;x
+b_vilato_e;Vilato Spot;;;;;;;;;;x
+b_vilato_f;Vilato Lay;;;;;;;;;;x
+b_vilato_g;Vilato Stead;;;;;;;;;;x
+b_las_tunas_a;Las Tunas Locus;;;;;;;;;;x
+b_las_tunas_b;Las Tunas Helm;;;;;;;;;;x
+b_las_tunas_c;Las Tunas Pad;;;;;;;;;;x
+b_las_tunas_d;Las Tunas Quarter;;;;;;;;;;x
+b_las_tunas_e;Las Tunas Point;;;;;;;;;;x
+b_las_tunas_f;Las Tunas Holding;;;;;;;;;;x
+b_las_tunas_g;Las Tunas Site;;;;;;;;;;x
+b_bayamo_a;Bayamo Station;;;;;;;;;;x
+b_bayamo_b;Bayamo Berth;;;;;;;;;;x
+b_bayamo_c;Bayamo Quarter;;;;;;;;;;x
+b_bayamo_d;Bayamo Place;;;;;;;;;;x
+b_bayamo_e;Bayamo Corner;;;;;;;;;;x
+b_bayamo_f;Bayamo Locale;;;;;;;;;;x
+b_bayamo_g;Bayamo Mansion;;;;;;;;;;x
+b_sabalo_a;Sabalo Venue;;;;;;;;;;x
+b_sabalo_b;Sabalo Station;;;;;;;;;;x
+b_sabalo_c;Sabalo Suburb;;;;;;;;;;x
+b_sabalo_d;Sabalo House;;;;;;;;;;x
+b_sabalo_e;Sabalo Spot;;;;;;;;;;x
+b_sabalo_f;Sabalo Point;;;;;;;;;;x
+b_sabalo_g;Sabalo Hamlet;;;;;;;;;;x
+b_santa_clara_a;Santa Clara Hamlet;;;;;;;;;;x
+b_santa_clara_b;Santa Clara Neighborhood;;;;;;;;;;x
+b_santa_clara_c;Santa Clara Stead;;;;;;;;;;x
+b_santa_clara_d;Santa Clara Locus;;;;;;;;;;x
+b_santa_clara_e;Santa Clara Clime;;;;;;;;;;x
+b_santa_clara_f;Santa Clara Head;;;;;;;;;;x
+b_santa_clara_g;Santa Clara Joint;;;;;;;;;;x
+b_cienfuegos_a;Cienfuegos Helm;;;;;;;;;;x
+b_cienfuegos_b;Cienfuegos Pad;;;;;;;;;;x
+b_cienfuegos_c;Cienfuegos Locale;;;;;;;;;;x
+b_cienfuegos_d;Cienfuegos Place;;;;;;;;;;x
+b_cienfuegos_e;Cienfuegos Corner;;;;;;;;;;x
+b_cienfuegos_f;Cienfuegos Stead;;;;;;;;;;x
+b_cienfuegos_g;Cienfuegos Venue;;;;;;;;;;x
+b_candido_gonzalez_a;Candido Gonzalez Venue;;;;;;;;;;x
+b_candido_gonzalez_b;Candido Gonzalez Head;;;;;;;;;;x
+b_candido_gonzalez_c;Candido Gonzalez House;;;;;;;;;;x
+b_candido_gonzalez_d;Candido Gonzalez Quarter;;;;;;;;;;x
+b_candido_gonzalez_e;Candido Gonzalez Pad;;;;;;;;;;x
+b_candido_gonzalez_f;Candido Gonzalez Zone;;;;;;;;;;x
+b_candido_gonzalez_g;Candido Gonzalez Station;;;;;;;;;;x
+b_venezuela_a;Venezuela Berth;;;;;;;;;;x
+b_venezuela_b;Venezuela Locale;;;;;;;;;;x
+b_venezuela_c;Venezuela Neighborhood;;;;;;;;;;x
+b_venezuela_d;Venezuela Head;;;;;;;;;;x
+b_venezuela_e;Venezuela Holding;;;;;;;;;;x
+b_venezuela_f;Venezuela Venue;;;;;;;;;;x
+b_venezuela_g;Venezuela Corner;;;;;;;;;;x
+b_camaguey_a;Camaguey Lay;;;;;;;;;;x
+b_camaguey_b;Camaguey Place;;;;;;;;;;x
+b_camaguey_c;Camaguey Point;;;;;;;;;;x
+b_camaguey_d;Camaguey Site;;;;;;;;;;x
+b_camaguey_e;Camaguey Head;;;;;;;;;;x
+b_camaguey_f;Camaguey Suburb;;;;;;;;;;x
+b_camaguey_g;Camaguey Spot;;;;;;;;;;x
+b_freeport_a;Freeport Head;;;;;;;;;;x
+b_freeport_b;Freeport Lay;;;;;;;;;;x
+b_freeport_c;Freeport Locus;;;;;;;;;;x
+b_freeport_d;Freeport Corner;;;;;;;;;;x
+b_freeport_e;Freeport Holding;;;;;;;;;;x
+b_freeport_f;Freeport Clime;;;;;;;;;;x
+b_freeport_g;Freeport Hamlet;;;;;;;;;;x
+b_left_islands_a;Left Islands Hamlet;;;;;;;;;;x
+b_left_islands_b;Left Islands Head;;;;;;;;;;x
+b_left_islands_c;Left Islands Station;;;;;;;;;;x
+b_left_islands_d;Left Islands Site;;;;;;;;;;x
+b_left_islands_e;Left Islands Corner;;;;;;;;;;x
+b_left_islands_f;Left Islands Pad;;;;;;;;;;x
+b_left_islands_g;Left Islands Holding;;;;;;;;;;x
+b_right_islands_a;Right Islands Head;;;;;;;;;;x
+b_right_islands_b;Right Islands Corner;;;;;;;;;;x
+b_right_islands_c;Right Islands Station;;;;;;;;;;x
+b_right_islands_d;Right Islands Suburb;;;;;;;;;;x
+b_right_islands_e;Right Islands Site;;;;;;;;;;x
+b_right_islands_f;Right Islands Pad;;;;;;;;;;x
+b_right_islands_g;Right Islands Quarter;;;;;;;;;;x
+b_celestun_a;Celestun Venue;;;;;;;;;;x
+b_celestun_b;Celestun Mansion;;;;;;;;;;x
+b_celestun_c;Celestun Pad;;;;;;;;;;x
+b_celestun_d;Celestun Clime;;;;;;;;;;x
+b_celestun_e;Celestun Point;;;;;;;;;;x
+b_celestun_f;Celestun Holding;;;;;;;;;;x
+b_celestun_g;Celestun Locale;;;;;;;;;;x
+b_hunucma_a;Hunucma Helm;;;;;;;;;;x
+b_hunucma_b;Hunucma Station;;;;;;;;;;x
+b_hunucma_c;Hunucma Point;;;;;;;;;;x
+b_hunucma_d;Hunucma Berth;;;;;;;;;;x
+b_hunucma_e;Hunucma House;;;;;;;;;;x
+b_hunucma_f;Hunucma Locale;;;;;;;;;;x
+b_hunucma_g;Hunucma Spot;;;;;;;;;;x
+b_uman_a;Uman Zone;;;;;;;;;;x
+b_uman_b;Uman Holding;;;;;;;;;;x
+b_uman_c;Uman Lay;;;;;;;;;;x
+b_uman_d;Uman Berth;;;;;;;;;;x
+b_uman_e;Uman House;;;;;;;;;;x
+b_uman_f;Uman Locus;;;;;;;;;;x
+b_uman_g;Uman Hamlet;;;;;;;;;;x
+b_progreso_a;Progreso Corner;;;;;;;;;;x
+b_progreso_b;Progreso Head;;;;;;;;;;x
+b_progreso_c;Progreso Point;;;;;;;;;;x
+b_progreso_d;Progreso Stead;;;;;;;;;;x
+b_progreso_e;Progreso Place;;;;;;;;;;x
+b_progreso_f;Progreso Helm;;;;;;;;;;x
+b_progreso_g;Progreso Berth;;;;;;;;;;x
+b_merida_a;Merida Mansion;;;;;;;;;;x
+b_merida_b;Merida Hamlet;;;;;;;;;;x
+b_merida_c;Merida Locus;;;;;;;;;;x
+b_merida_d;Merida Suburb;;;;;;;;;;x
+b_merida_e;Merida Site;;;;;;;;;;x
+b_merida_f;Merida Corner;;;;;;;;;;x
+b_merida_g;Merida House;;;;;;;;;;x
+b_foxen_defunkiak_springsin_a;Motul Clime;;;;;;;;;;x
+b_foxen_defunkiak_springsin_b;Motul Zone;;;;;;;;;;x
+b_foxen_defunkiak_springsin_c;Motul Lay;;;;;;;;;;x
+b_foxen_defunkiak_springsin_d;Motul Place;;;;;;;;;;x
+b_foxen_defunkiak_springsin_e;Motul Quarter;;;;;;;;;;x
+b_foxen_defunkiak_springsin_f;Motul Mansion;;;;;;;;;;x
+b_foxen_defunkiak_springsin_g;Motul Stead;;;;;;;;;;x
+b_izamal_a;Izamal Mansion;;;;;;;;;;x
+b_izamal_b;Izamal Clime;;;;;;;;;;x
+b_izamal_c;Izamal Head;;;;;;;;;;x
+b_izamal_d;Izamal Joint;;;;;;;;;;x
+b_izamal_e;Izamal Locale;;;;;;;;;;x
+b_izamal_f;Izamal Zone;;;;;;;;;;x
+b_izamal_g;Izamal Berth;;;;;;;;;;x
+b_dzidzantun_a;Dzidzantun Holding;;;;;;;;;;x
+b_dzidzantun_b;Dzidzantun Station;;;;;;;;;;x
+b_dzidzantun_c;Dzidzantun Suburb;;;;;;;;;;x
+b_dzidzantun_d;Dzidzantun Hamlet;;;;;;;;;;x
+b_dzidzantun_e;Dzidzantun Venue;;;;;;;;;;x
+b_dzidzantun_f;Dzidzantun Neighborhood;;;;;;;;;;x
+b_dzidzantun_g;Dzidzantun Locus;;;;;;;;;;x
+b_piste_a;Piste Neighborhood;;;;;;;;;;x
+b_piste_b;Piste Venue;;;;;;;;;;x
+b_piste_c;Piste Pad;;;;;;;;;;x
+b_piste_d;Piste Site;;;;;;;;;;x
+b_piste_e;Piste Clime;;;;;;;;;;x
+b_piste_f;Piste Zone;;;;;;;;;;x
+b_piste_g;Piste Berth;;;;;;;;;;x
+b_la_gran_lucha_a;La Gran Lucha Helm;;;;;;;;;;x
+b_la_gran_lucha_b;La Gran Lucha Locus;;;;;;;;;;x
+b_la_gran_lucha_c;La Gran Lucha Mansion;;;;;;;;;;x
+b_la_gran_lucha_d;La Gran Lucha Neighborhood;;;;;;;;;;x
+b_la_gran_lucha_e;La Gran Lucha Clime;;;;;;;;;;x
+b_la_gran_lucha_f;La Gran Lucha Suburb;;;;;;;;;;x
+b_la_gran_lucha_g;La Gran Lucha Stead;;;;;;;;;;x
+b_valladolid_a;Valladolid Joint;;;;;;;;;;x
+b_valladolid_b;Valladolid Spot;;;;;;;;;;x
+b_valladolid_c;Valladolid Lay;;;;;;;;;;x
+b_valladolid_d;Valladolid Zone;;;;;;;;;;x
+b_valladolid_e;Valladolid Quarter;;;;;;;;;;x
+b_valladolid_f;Valladolid Head;;;;;;;;;;x
+b_valladolid_g;Valladolid Mansion;;;;;;;;;;x
+b_tizimin_a;Tizimin Neighborhood;;;;;;;;;;x
+b_tizimin_b;Tizimin Place;;;;;;;;;;x
+b_tizimin_c;Tizimin Station;;;;;;;;;;x
+b_tizimin_d;Tizimin Locale;;;;;;;;;;x
+b_tizimin_e;Tizimin Point;;;;;;;;;;x
+b_tizimin_f;Tizimin Joint;;;;;;;;;;x
+b_tizimin_g;Tizimin Site;;;;;;;;;;x
+b_rio_lagartos_a;Rio Lagartos Suburb;;;;;;;;;;x
+b_rio_lagartos_b;Rio Lagartos Corner;;;;;;;;;;x
+b_rio_lagartos_c;Rio Lagartos Point;;;;;;;;;;x
+b_rio_lagartos_d;Rio Lagartos House;;;;;;;;;;x
+b_rio_lagartos_e;Rio Lagartos Spot;;;;;;;;;;x
+b_rio_lagartos_f;Rio Lagartos Hamlet;;;;;;;;;;x
+b_rio_lagartos_g;Rio Lagartos Head;;;;;;;;;;x
+b_chemax_a;Chemax Point;;;;;;;;;;x
+b_chemax_b;Chemax Place;;;;;;;;;;x
+b_chemax_c;Chemax Site;;;;;;;;;;x
+b_chemax_d;Chemax Stead;;;;;;;;;;x
+b_chemax_e;Chemax Corner;;;;;;;;;;x
+b_chemax_f;Chemax Spot;;;;;;;;;;x
+b_chemax_g;Chemax Venue;;;;;;;;;;x
+b_el_cuyo_a;El Cuyo Quarter;;;;;;;;;;x
+b_el_cuyo_b;El Cuyo Locus;;;;;;;;;;x
+b_el_cuyo_c;El Cuyo Pad;;;;;;;;;;x
+b_el_cuyo_d;El Cuyo Suburb;;;;;;;;;;x
+b_el_cuyo_e;El Cuyo Lay;;;;;;;;;;x
+b_el_cuyo_f;El Cuyo Hamlet;;;;;;;;;;x
+b_el_cuyo_g;El Cuyo Stead;;;;;;;;;;x
+b_kantunilkin_a;Kantunilkin Point;;;;;;;;;;x
+b_kantunilkin_b;Kantunilkin Pad;;;;;;;;;;x
+b_kantunilkin_c;Kantunilkin Head;;;;;;;;;;x
+b_kantunilkin_d;Kantunilkin Place;;;;;;;;;;x
+b_kantunilkin_e;Kantunilkin Holding;;;;;;;;;;x
+b_kantunilkin_f;Kantunilkin Zone;;;;;;;;;;x
+b_kantunilkin_g;Kantunilkin House;;;;;;;;;;x
+b_holbox_a;Holbox Clime;;;;;;;;;;x
+b_holbox_b;Holbox House;;;;;;;;;;x
+b_holbox_c;Holbox Spot;;;;;;;;;;x
+b_holbox_d;Holbox Place;;;;;;;;;;x
+b_holbox_e;Holbox Quarter;;;;;;;;;;x
+b_holbox_f;Holbox Joint;;;;;;;;;;x
+b_holbox_g;Holbox Lay;;;;;;;;;;x
+b_coba_a;Coba Lay;;;;;;;;;;x
+b_coba_b;Coba Station;;;;;;;;;;x
+b_coba_c;Coba Mansion;;;;;;;;;;x
+b_coba_d;Coba Head;;;;;;;;;;x
+b_coba_e;Coba Place;;;;;;;;;;x
+b_coba_f;Coba Neighborhood;;;;;;;;;;x
+b_coba_g;Coba Locale;;;;;;;;;;x
+b_play_del_carmen_a;Play Del Carmen Holding;;;;;;;;;;x
+b_play_del_carmen_b;Play Del Carmen Head;;;;;;;;;;x
+b_play_del_carmen_c;Play Del Carmen Lay;;;;;;;;;;x
+b_play_del_carmen_d;Play Del Carmen Joint;;;;;;;;;;x
+b_play_del_carmen_e;Play Del Carmen House;;;;;;;;;;x
+b_play_del_carmen_f;Play Del Carmen Clime;;;;;;;;;;x
+b_play_del_carmen_g;Play Del Carmen Suburb;;;;;;;;;;x
+b_cancun_a;Cancun Locus;;;;;;;;;;x
+b_cancun_b;Cancun Locale;;;;;;;;;;x
+b_cancun_c;Cancun Lay;;;;;;;;;;x
+b_cancun_d;Cancun Venue;;;;;;;;;;x
+b_cancun_e;Cancun Holding;;;;;;;;;;x
+b_cancun_f;Cancun Station;;;;;;;;;;x
+b_cancun_g;Cancun Spot;;;;;;;;;;x
+b_carapachibey_a;Carapachibey Hamlet;;;;;;;;;;x
+b_carapachibey_b;Carapachibey Mansion;;;;;;;;;;x
+b_carapachibey_c;Carapachibey Venue;;;;;;;;;;x
+b_carapachibey_d;Carapachibey House;;;;;;;;;;x
+b_carapachibey_e;Carapachibey Head;;;;;;;;;;x
+b_carapachibey_f;Carapachibey Joint;;;;;;;;;;x
+b_carapachibey_g;Carapachibey Spot;;;;;;;;;;x
+b_cayos_de_san_felipe_a;Cayos De San Felipe Station;;;;;;;;;;x
+b_cayos_de_san_felipe_b;Cayos De San Felipe Hamlet;;;;;;;;;;x
+b_cayos_de_san_felipe_c;Cayos De San Felipe Corner;;;;;;;;;;x
+b_cayos_de_san_felipe_d;Cayos De San Felipe Mansion;;;;;;;;;;x
+b_cayos_de_san_felipe_e;Cayos De San Felipe Joint;;;;;;;;;;x
+b_cayos_de_san_felipe_f;Cayos De San Felipe Head;;;;;;;;;;x
+b_cayos_de_san_felipe_g;Cayos De San Felipe Zone;;;;;;;;;;x
+b_delita_a;Delita Neighborhood;;;;;;;;;;x
+b_delita_b;Delita Corner;;;;;;;;;;x
+b_delita_c;Delita Berth;;;;;;;;;;x
+b_delita_d;Delita Site;;;;;;;;;;x
+b_delita_e;Delita Point;;;;;;;;;;x
+b_delita_f;Delita Locale;;;;;;;;;;x
+b_delita_g;Delita Place;;;;;;;;;;x
+b_siguanea_a;Siguanea Joint;;;;;;;;;;x
+b_siguanea_b;Siguanea Pad;;;;;;;;;;x
+b_siguanea_c;Siguanea House;;;;;;;;;;x
+b_siguanea_d;Siguanea Berth;;;;;;;;;;x
+b_siguanea_e;Siguanea Corner;;;;;;;;;;x
+b_siguanea_f;Siguanea Locus;;;;;;;;;;x
+b_siguanea_g;Siguanea Suburb;;;;;;;;;;x
+b_parque_marino_de_punta_a;Parque Marino De Punta Head;;;;;;;;;;x
+b_parque_marino_de_punta_b;Parque Marino De Punta Site;;;;;;;;;;x
+b_parque_marino_de_punta_c;Parque Marino De Punta Suburb;;;;;;;;;;x
+b_parque_marino_de_punta_d;Parque Marino De Punta Zone;;;;;;;;;;x
+b_parque_marino_de_punta_e;Parque Marino De Punta Corner;;;;;;;;;;x
+b_parque_marino_de_punta_f;Parque Marino De Punta Quarter;;;;;;;;;;x
+b_parque_marino_de_punta_g;Parque Marino De Punta Venue;;;;;;;;;;x
+b_santa_fe_a;Santa Fe Quarter;;;;;;;;;;x
+b_santa_fe_b;Santa Fe Point;;;;;;;;;;x
+b_santa_fe_c;Santa Fe Pad;;;;;;;;;;x
+b_santa_fe_d;Santa Fe Station;;;;;;;;;;x
+b_santa_fe_e;Santa Fe Helm;;;;;;;;;;x
+b_santa_fe_f;Santa Fe Venue;;;;;;;;;;x
+b_santa_fe_g;Santa Fe Locus;;;;;;;;;;x
+b_nueva_gerona_a;Nueva Gerona Station;;;;;;;;;;x
+b_nueva_gerona_b;Nueva Gerona Neighborhood;;;;;;;;;;x
+b_nueva_gerona_c;Nueva Gerona Locale;;;;;;;;;;x
+b_nueva_gerona_d;Nueva Gerona Clime;;;;;;;;;;x
+b_nueva_gerona_e;Nueva Gerona Pad;;;;;;;;;;x
+b_nueva_gerona_f;Nueva Gerona Point;;;;;;;;;;x
+b_nueva_gerona_g;Nueva Gerona Berth;;;;;;;;;;x
+b_cayos_los_cayuelos_a;Cayos Los Cayuelos Quarter;;;;;;;;;;x
+b_cayos_los_cayuelos_b;Cayos Los Cayuelos Lay;;;;;;;;;;x
+b_cayos_los_cayuelos_c;Cayos Los Cayuelos Helm;;;;;;;;;;x
+b_cayos_los_cayuelos_d;Cayos Los Cayuelos Point;;;;;;;;;;x
+b_cayos_los_cayuelos_e;Cayos Los Cayuelos Head;;;;;;;;;;x
+b_cayos_los_cayuelos_f;Cayos Los Cayuelos Neighborhood;;;;;;;;;;x
+b_cayos_los_cayuelos_g;Cayos Los Cayuelos House;;;;;;;;;;x
+b_la_demajagua_a;La Demajagua Helm;;;;;;;;;;x
+b_la_demajagua_b;La Demajagua Holding;;;;;;;;;;x
+b_la_demajagua_c;La Demajagua Hamlet;;;;;;;;;;x
+b_la_demajagua_d;La Demajagua Pad;;;;;;;;;;x
+b_la_demajagua_e;La Demajagua Zone;;;;;;;;;;x
+b_la_demajagua_f;La Demajagua Place;;;;;;;;;;x
+b_la_demajagua_g;La Demajagua Suburb;;;;;;;;;;x
+b_islas_de_batabanos_a;Islas De Batabanos Station;;;;;;;;;;x
+b_islas_de_batabanos_b;Islas De Batabanos Pad;;;;;;;;;;x
+b_islas_de_batabanos_c;Islas De Batabanos Hamlet;;;;;;;;;;x
+b_islas_de_batabanos_d;Islas De Batabanos Holding;;;;;;;;;;x
+b_islas_de_batabanos_e;Islas De Batabanos Point;;;;;;;;;;x
+b_islas_de_batabanos_f;Islas De Batabanos Clime;;;;;;;;;;x
+b_islas_de_batabanos_g;Islas De Batabanos Stead;;;;;;;;;;x
+b_islas_de_mangles_a;Islas De Mangles Head;;;;;;;;;;x
+b_islas_de_mangles_b;Islas De Mangles Place;;;;;;;;;;x
+b_islas_de_mangles_c;Islas De Mangles Zone;;;;;;;;;;x
+b_islas_de_mangles_d;Islas De Mangles Pad;;;;;;;;;;x
+b_islas_de_mangles_e;Islas De Mangles Spot;;;;;;;;;;x
+b_islas_de_mangles_f;Islas De Mangles Venue;;;;;;;;;;x
+b_islas_de_mangles_g;Islas De Mangles Lay;;;;;;;;;;x
+b_cayo_boca_de_alonso_a;Cayo Boca De Alonso Place;;;;;;;;;;x
+b_cayo_boca_de_alonso_b;Cayo Boca De Alonso Station;;;;;;;;;;x
+b_cayo_boca_de_alonso_c;Cayo Boca De Alonso Locus;;;;;;;;;;x
+b_cayo_boca_de_alonso_d;Cayo Boca De Alonso Head;;;;;;;;;;x
+b_cayo_boca_de_alonso_e;Cayo Boca De Alonso Pad;;;;;;;;;;x
+b_cayo_boca_de_alonso_f;Cayo Boca De Alonso Clime;;;;;;;;;;x
+b_cayo_boca_de_alonso_g;Cayo Boca De Alonso House;;;;;;;;;;x
+b_cayo_campos_a;Cayo Campos Suburb;;;;;;;;;;x
+b_cayo_campos_b;Cayo Campos Point;;;;;;;;;;x
+b_cayo_campos_c;Cayo Campos Hamlet;;;;;;;;;;x
+b_cayo_campos_d;Cayo Campos Station;;;;;;;;;;x
+b_cayo_campos_e;Cayo Campos Stead;;;;;;;;;;x
+b_cayo_campos_f;Cayo Campos Helm;;;;;;;;;;x
+b_cayo_campos_g;Cayo Campos Zone;;;;;;;;;;x
+b_cayo_ciprey_a;Cayo Ciprey Stead;;;;;;;;;;x
+b_cayo_ciprey_b;Cayo Ciprey Spot;;;;;;;;;;x
+b_cayo_ciprey_c;Cayo Ciprey House;;;;;;;;;;x
+b_cayo_ciprey_d;Cayo Ciprey Head;;;;;;;;;;x
+b_cayo_ciprey_e;Cayo Ciprey Place;;;;;;;;;;x
+b_cayo_ciprey_f;Cayo Ciprey Lay;;;;;;;;;;x
+b_cayo_ciprey_g;Cayo Ciprey Station;;;;;;;;;;x
+b_cayo_diego_perez_a;Cayo Diego Perez Joint;;;;;;;;;;x
+b_cayo_diego_perez_b;Cayo Diego Perez Pad;;;;;;;;;;x
+b_cayo_diego_perez_c;Cayo Diego Perez Suburb;;;;;;;;;;x
+b_cayo_diego_perez_d;Cayo Diego Perez Locus;;;;;;;;;;x
+b_cayo_diego_perez_e;Cayo Diego Perez Quarter;;;;;;;;;;x
+b_cayo_diego_perez_f;Cayo Diego Perez Stead;;;;;;;;;;x
+b_cayo_diego_perez_g;Cayo Diego Perez Berth;;;;;;;;;;x
+b_cayo_divisa_a;Cayo Divisa Station;;;;;;;;;;x
+b_cayo_divisa_b;Cayo Divisa Zone;;;;;;;;;;x
+b_cayo_divisa_c;Cayo Divisa Neighborhood;;;;;;;;;;x
+b_cayo_divisa_d;Cayo Divisa Helm;;;;;;;;;;x
+b_cayo_divisa_e;Cayo Divisa House;;;;;;;;;;x
+b_cayo_divisa_f;Cayo Divisa Locus;;;;;;;;;;x
+b_cayo_divisa_g;Cayo Divisa Site;;;;;;;;;;x
+b_playa_sirena_a;Playa Sirena Neighborhood;;;;;;;;;;x
+b_playa_sirena_b;Playa Sirena Pad;;;;;;;;;;x
+b_playa_sirena_c;Playa Sirena Suburb;;;;;;;;;;x
+b_playa_sirena_d;Playa Sirena Mansion;;;;;;;;;;x
+b_playa_sirena_e;Playa Sirena Quarter;;;;;;;;;;x
+b_playa_sirena_f;Playa Sirena Helm;;;;;;;;;;x
+b_playa_sirena_g;Playa Sirena Zone;;;;;;;;;;x
+b_las_tumbas_a;Las Tumbas Locale;;;;;;;;;;x
+b_las_tumbas_b;Las Tumbas Site;;;;;;;;;;x
+b_las_tumbas_c;Las Tumbas Suburb;;;;;;;;;;x
+b_las_tumbas_d;Las Tumbas Helm;;;;;;;;;;x
+b_las_tumbas_e;Las Tumbas Joint;;;;;;;;;;x
+b_las_tumbas_f;Las Tumbas House;;;;;;;;;;x
+b_las_tumbas_g;Las Tumbas Berth;;;;;;;;;;x
+b_maria_la_gorda_a;Maria La Gorda Suburb;;;;;;;;;;x
+b_maria_la_gorda_b;Maria La Gorda Head;;;;;;;;;;x
+b_maria_la_gorda_c;Maria La Gorda Clime;;;;;;;;;;x
+b_maria_la_gorda_d;Maria La Gorda Place;;;;;;;;;;x
+b_maria_la_gorda_e;Maria La Gorda Joint;;;;;;;;;;x
+b_maria_la_gorda_f;Maria La Gorda Hamlet;;;;;;;;;;x
+b_maria_la_gorda_g;Maria La Gorda Neighborhood;;;;;;;;;;x
+b_sandino_a;Sandino Holding;;;;;;;;;;x
+b_sandino_b;Sandino Hamlet;;;;;;;;;;x
+b_sandino_c;Sandino Venue;;;;;;;;;;x
+b_sandino_d;Sandino Site;;;;;;;;;;x
+b_sandino_e;Sandino Berth;;;;;;;;;;x
+b_sandino_f;Sandino House;;;;;;;;;;x
+b_sandino_g;Sandino Quarter;;;;;;;;;;x
+b_mantua_a;Mantua Suburb;;;;;;;;;;x
+b_mantua_b;Mantua Point;;;;;;;;;;x
+b_mantua_c;Mantua Station;;;;;;;;;;x
+b_mantua_d;Mantua Locus;;;;;;;;;;x
+b_mantua_e;Mantua Place;;;;;;;;;;x
+b_mantua_f;Mantua Hamlet;;;;;;;;;;x
+b_mantua_g;Mantua Berth;;;;;;;;;;x
+b_minas_de_matahambre_a;Minas De Matahambre Clime;;;;;;;;;;x
+b_minas_de_matahambre_b;Minas De Matahambre Place;;;;;;;;;;x
+b_minas_de_matahambre_c;Minas De Matahambre Berth;;;;;;;;;;x
+b_minas_de_matahambre_d;Minas De Matahambre Lay;;;;;;;;;;x
+b_minas_de_matahambre_e;Minas De Matahambre Zone;;;;;;;;;;x
+b_minas_de_matahambre_f;Minas De Matahambre House;;;;;;;;;;x
+b_minas_de_matahambre_g;Minas De Matahambre Joint;;;;;;;;;;x
+b_punta_de_la_sierra_a;Punta De La Sierra Venue;;;;;;;;;;x
+b_punta_de_la_sierra_b;Punta De La Sierra Corner;;;;;;;;;;x
+b_punta_de_la_sierra_c;Punta De La Sierra Locale;;;;;;;;;;x
+b_punta_de_la_sierra_d;Punta De La Sierra Helm;;;;;;;;;;x
+b_punta_de_la_sierra_e;Punta De La Sierra Place;;;;;;;;;;x
+b_punta_de_la_sierra_f;Punta De La Sierra Locus;;;;;;;;;;x
+b_punta_de_la_sierra_g;Punta De La Sierra Clime;;;;;;;;;;x
+b_san_juan_y_martinez_a;San Juan Y Martinez Holding;;;;;;;;;;x
+b_san_juan_y_martinez_b;San Juan Y Martinez Quarter;;;;;;;;;;x
+b_san_juan_y_martinez_c;San Juan Y Martinez Clime;;;;;;;;;;x
+b_san_juan_y_martinez_d;San Juan Y Martinez Locus;;;;;;;;;;x
+b_san_juan_y_martinez_e;San Juan Y Martinez Stead;;;;;;;;;;x
+b_san_juan_y_martinez_f;San Juan Y Martinez Point;;;;;;;;;;x
+b_san_juan_y_martinez_g;San Juan Y Martinez Neighborhood;;;;;;;;;;x
+b_santa_maria_a;Santa Maria Lay;;;;;;;;;;x
+b_santa_maria_b;Santa Maria Hamlet;;;;;;;;;;x
+b_santa_maria_c;Santa Maria Corner;;;;;;;;;;x
+b_santa_maria_d;Santa Maria Clime;;;;;;;;;;x
+b_santa_maria_e;Santa Maria House;;;;;;;;;;x
+b_santa_maria_f;Santa Maria Locus;;;;;;;;;;x
+b_santa_maria_g;Santa Maria Holding;;;;;;;;;;x
+b_parque_la_guira_a;Parque La Guira Stead;;;;;;;;;;x
+b_parque_la_guira_b;Parque La Guira Neighborhood;;;;;;;;;;x
+b_parque_la_guira_c;Parque La Guira Station;;;;;;;;;;x
+b_parque_la_guira_d;Parque La Guira Locus;;;;;;;;;;x
+b_parque_la_guira_e;Parque La Guira Hamlet;;;;;;;;;;x
+b_parque_la_guira_f;Parque La Guira Site;;;;;;;;;;x
+b_parque_la_guira_g;Parque La Guira Lay;;;;;;;;;;x
+b_vinalas_a;Vinalas Clime;;;;;;;;;;x
+b_vinalas_b;Vinalas Place;;;;;;;;;;x
+b_vinalas_c;Vinalas Venue;;;;;;;;;;x
+b_vinalas_d;Vinalas Neighborhood;;;;;;;;;;x
+b_vinalas_e;Vinalas Mansion;;;;;;;;;;x
+b_vinalas_f;Vinalas Lay;;;;;;;;;;x
+b_vinalas_g;Vinalas Helm;;;;;;;;;;x
+b_la_palma_a;La Palma Clime;;;;;;;;;;x
+b_la_palma_b;La Palma Locale;;;;;;;;;;x
+b_la_palma_c;La Palma Site;;;;;;;;;;x
+b_la_palma_d;La Palma Quarter;;;;;;;;;;x
+b_la_palma_e;La Palma Helm;;;;;;;;;;x
+b_la_palma_f;La Palma Lay;;;;;;;;;;x
+b_la_palma_g;La Palma Hamlet;;;;;;;;;;x
+b_pinar_del_rio_a;Pinar Del Rio Site;;;;;;;;;;x
+b_pinar_del_rio_b;Pinar Del Rio Place;;;;;;;;;;x
+b_pinar_del_rio_c;Pinar Del Rio Clime;;;;;;;;;;x
+b_pinar_del_rio_d;Pinar Del Rio Joint;;;;;;;;;;x
+b_pinar_del_rio_e;Pinar Del Rio Hamlet;;;;;;;;;;x
+b_pinar_del_rio_f;Pinar Del Rio Zone;;;;;;;;;;x
+b_pinar_del_rio_g;Pinar Del Rio Station;;;;;;;;;;x
+b_la_coloma_a;La Coloma Holding;;;;;;;;;;x
+b_la_coloma_b;La Coloma Site;;;;;;;;;;x
+b_la_coloma_c;La Coloma Joint;;;;;;;;;;x
+b_la_coloma_d;La Coloma Venue;;;;;;;;;;x
+b_la_coloma_e;La Coloma Place;;;;;;;;;;x
+b_la_coloma_f;La Coloma Pad;;;;;;;;;;x
+b_la_coloma_g;La Coloma Quarter;;;;;;;;;;x
+b_alonso_de_rojas_a;Alonso De Rojas Venue;;;;;;;;;;x
+b_alonso_de_rojas_b;Alonso De Rojas Clime;;;;;;;;;;x
+b_alonso_de_rojas_c;Alonso De Rojas Berth;;;;;;;;;;x
+b_alonso_de_rojas_d;Alonso De Rojas Place;;;;;;;;;;x
+b_alonso_de_rojas_e;Alonso De Rojas Site;;;;;;;;;;x
+b_alonso_de_rojas_f;Alonso De Rojas Joint;;;;;;;;;;x
+b_alonso_de_rojas_g;Alonso De Rojas Head;;;;;;;;;;x
+b_los_palacios_a;Los Palacios Station;;;;;;;;;;x
+b_los_palacios_b;Los Palacios Stead;;;;;;;;;;x
+b_los_palacios_c;Los Palacios Helm;;;;;;;;;;x
+b_los_palacios_d;Los Palacios Head;;;;;;;;;;x
+b_los_palacios_e;Los Palacios Point;;;;;;;;;;x
+b_los_palacios_f;Los Palacios Locale;;;;;;;;;;x
+b_los_palacios_g;Los Palacios Spot;;;;;;;;;;x
+b_los_pinos_a;Los Pinos Suburb;;;;;;;;;;x
+b_los_pinos_b;Los Pinos Place;;;;;;;;;;x
+b_los_pinos_c;Los Pinos Mansion;;;;;;;;;;x
+b_los_pinos_d;Los Pinos Venue;;;;;;;;;;x
+b_los_pinos_e;Los Pinos Locus;;;;;;;;;;x
+b_los_pinos_f;Los Pinos Locale;;;;;;;;;;x
+b_los_pinos_g;Los Pinos Point;;;;;;;;;;x
+b_soroa_a;Soroa Quarter;;;;;;;;;;x
+b_soroa_b;Soroa Venue;;;;;;;;;;x
+b_soroa_c;Soroa Head;;;;;;;;;;x
+b_soroa_d;Soroa Zone;;;;;;;;;;x
+b_soroa_e;Soroa Place;;;;;;;;;;x
+b_soroa_f;Soroa Berth;;;;;;;;;;x
+b_soroa_g;Soroa Joint;;;;;;;;;;x
+b_palma_rubia_a;Palma Rubia Quarter;;;;;;;;;;x
+b_palma_rubia_b;Palma Rubia Head;;;;;;;;;;x
+b_palma_rubia_c;Palma Rubia Holding;;;;;;;;;;x
+b_palma_rubia_d;Palma Rubia Neighborhood;;;;;;;;;;x
+b_palma_rubia_e;Palma Rubia Mansion;;;;;;;;;;x
+b_palma_rubia_f;Palma Rubia Zone;;;;;;;;;;x
+b_palma_rubia_g;Palma Rubia Station;;;;;;;;;;x
+b_harlem_bahia_honda_a;Harlem Bahia Honda House;;;;;;;;;;x
+b_harlem_bahia_honda_b;Harlem Bahia Honda Spot;;;;;;;;;;x
+b_harlem_bahia_honda_c;Harlem Bahia Honda Joint;;;;;;;;;;x
+b_harlem_bahia_honda_d;Harlem Bahia Honda Site;;;;;;;;;;x
+b_harlem_bahia_honda_e;Harlem Bahia Honda Station;;;;;;;;;;x
+b_harlem_bahia_honda_f;Harlem Bahia Honda Venue;;;;;;;;;;x
+b_harlem_bahia_honda_g;Harlem Bahia Honda Mansion;;;;;;;;;;x
+b_cabanas_a;Cabanas Suburb;;;;;;;;;;x
+b_cabanas_b;Cabanas Locale;;;;;;;;;;x
+b_cabanas_c;Cabanas Spot;;;;;;;;;;x
+b_cabanas_d;Cabanas Quarter;;;;;;;;;;x
+b_cabanas_e;Cabanas Neighborhood;;;;;;;;;;x
+b_cabanas_f;Cabanas Station;;;;;;;;;;x
+b_cabanas_g;Cabanas Joint;;;;;;;;;;x
+b_san_cristobal_a;San Cristobal Zone;;;;;;;;;;x
+b_san_cristobal_b;San Cristobal Place;;;;;;;;;;x
+b_san_cristobal_c;San Cristobal Locale;;;;;;;;;;x
+b_san_cristobal_d;San Cristobal Pad;;;;;;;;;;x
+b_san_cristobal_e;San Cristobal Venue;;;;;;;;;;x
+b_san_cristobal_f;San Cristobal Mansion;;;;;;;;;;x
+b_san_cristobal_g;San Cristobal Clime;;;;;;;;;;x
+b_candelaria_a;Candelaria Clime;;;;;;;;;;x
+b_candelaria_b;Candelaria Head;;;;;;;;;;x
+b_candelaria_c;Candelaria Berth;;;;;;;;;;x
+b_candelaria_d;Candelaria Locale;;;;;;;;;;x
+b_candelaria_e;Candelaria House;;;;;;;;;;x
+b_candelaria_f;Candelaria Station;;;;;;;;;;x
+b_candelaria_g;Candelaria Pad;;;;;;;;;;x
+b_artemisa_a;Artemisa Head;;;;;;;;;;x
+b_artemisa_b;Artemisa Quarter;;;;;;;;;;x
+b_artemisa_c;Artemisa Locus;;;;;;;;;;x
+b_artemisa_d;Artemisa Clime;;;;;;;;;;x
+b_artemisa_e;Artemisa Mansion;;;;;;;;;;x
+b_artemisa_f;Artemisa Station;;;;;;;;;;x
+b_artemisa_g;Artemisa Pad;;;;;;;;;;x
+b_playa_baracoa_a;Playa Baracoa House;;;;;;;;;;x
+b_playa_baracoa_b;Playa Baracoa Place;;;;;;;;;;x
+b_playa_baracoa_c;Playa Baracoa Joint;;;;;;;;;;x
+b_playa_baracoa_d;Playa Baracoa Point;;;;;;;;;;x
+b_playa_baracoa_e;Playa Baracoa Locale;;;;;;;;;;x
+b_playa_baracoa_f;Playa Baracoa Venue;;;;;;;;;;x
+b_playa_baracoa_g;Playa Baracoa Corner;;;;;;;;;;x
+b_osceola_wildlife_management_area_a;Osceola Wildlife Management Area Neighborhood;;;;;;;;;;x
+b_osceola_wildlife_management_area_b;Osceola Wildlife Management Area Locus;;;;;;;;;;x
+b_osceola_wildlife_management_area_c;Osceola Wildlife Management Area Place;;;;;;;;;;x
+b_osceola_wildlife_management_area_d;Osceola Wildlife Management Area Corner;;;;;;;;;;x
+b_osceola_wildlife_management_area_e;Osceola Wildlife Management Area Clime;;;;;;;;;;x
+b_osceola_wildlife_management_area_f;Osceola Wildlife Management Area Holding;;;;;;;;;;x
+b_osceola_wildlife_management_area_g;Osceola Wildlife Management Area Joint;;;;;;;;;;x
+b_alachua_a;Alachua Corner;;;;;;;;;;x
+b_alachua_b;Alachua Quarter;;;;;;;;;;x
+b_alachua_c;Alachua Clime;;;;;;;;;;x
+b_alachua_d;Alachua Place;;;;;;;;;;x
+b_alachua_e;Alachua Stead;;;;;;;;;;x
+b_alachua_f;Alachua Locus;;;;;;;;;;x
+b_alachua_g;Alachua House;;;;;;;;;;x
+b_moniac_a;Moniac Point;;;;;;;;;;x
+b_moniac_b;Moniac Head;;;;;;;;;;x
+b_moniac_c;Moniac Helm;;;;;;;;;;x
+b_moniac_d;Moniac Site;;;;;;;;;;x
+b_moniac_e;Moniac Holding;;;;;;;;;;x
+b_moniac_f;Moniac Joint;;;;;;;;;;x
+b_moniac_g;Moniac Locus;;;;;;;;;;x
+b_macclenny_a;Macclenny Pad;;;;;;;;;;x
+b_macclenny_b;Macclenny Clime;;;;;;;;;;x
+b_macclenny_c;Macclenny Corner;;;;;;;;;;x
+b_macclenny_d;Macclenny House;;;;;;;;;;x
+b_macclenny_e;Macclenny Locale;;;;;;;;;;x
+b_macclenny_f;Macclenny Zone;;;;;;;;;;x
+b_macclenny_g;Macclenny Venue;;;;;;;;;;x
+b_saint_george_a;Saint George Neighborhood;;;;;;;;;;x
+b_saint_george_b;Saint George Corner;;;;;;;;;;x
+b_saint_george_c;Saint George Suburb;;;;;;;;;;x
+b_saint_george_d;Saint George House;;;;;;;;;;x
+b_saint_george_e;Saint George Locus;;;;;;;;;;x
+b_saint_george_f;Saint George Quarter;;;;;;;;;;x
+b_saint_george_g;Saint George Pad;;;;;;;;;;x
+b_baldwin_a;Baldwin Helm;;;;;;;;;;x
+b_baldwin_b;Baldwin Clime;;;;;;;;;;x
+b_baldwin_c;Baldwin Zone;;;;;;;;;;x
+b_baldwin_d;Baldwin Stead;;;;;;;;;;x
+b_baldwin_e;Baldwin House;;;;;;;;;;x
+b_baldwin_f;Baldwin Holding;;;;;;;;;;x
+b_baldwin_g;Baldwin Spot;;;;;;;;;;x
+b_callahan_a;Callahan Holding;;;;;;;;;;x
+b_callahan_b;Callahan Neighborhood;;;;;;;;;;x
+b_callahan_c;Callahan Zone;;;;;;;;;;x
+b_callahan_d;Callahan House;;;;;;;;;;x
+b_callahan_e;Callahan Place;;;;;;;;;;x
+b_callahan_f;Callahan Station;;;;;;;;;;x
+b_callahan_g;Callahan Lay;;;;;;;;;;x
+b_franklintown_a;Franklintown Corner;;;;;;;;;;x
+b_franklintown_b;Franklintown Hamlet;;;;;;;;;;x
+b_franklintown_c;Franklintown Place;;;;;;;;;;x
+b_franklintown_d;Franklintown Clime;;;;;;;;;;x
+b_franklintown_e;Franklintown Station;;;;;;;;;;x
+b_franklintown_f;Franklintown Quarter;;;;;;;;;;x
+b_franklintown_g;Franklintown Spot;;;;;;;;;;x
+b_middleburg_a;Middleburg Berth;;;;;;;;;;x
+b_middleburg_b;Middleburg Clime;;;;;;;;;;x
+b_middleburg_c;Middleburg Spot;;;;;;;;;;x
+b_middleburg_d;Middleburg Locus;;;;;;;;;;x
+b_middleburg_e;Middleburg Zone;;;;;;;;;;x
+b_middleburg_f;Middleburg Hamlet;;;;;;;;;;x
+b_middleburg_g;Middleburg Neighborhood;;;;;;;;;;x
+b_orange_park_a;Orange Park Hamlet;;;;;;;;;;x
+b_orange_park_b;Orange Park Spot;;;;;;;;;;x
+b_orange_park_c;Orange Park Corner;;;;;;;;;;x
+b_orange_park_d;Orange Park Holding;;;;;;;;;;x
+b_orange_park_e;Orange Park Stead;;;;;;;;;;x
+b_orange_park_f;Orange Park House;;;;;;;;;;x
+b_orange_park_g;Orange Park Lay;;;;;;;;;;x
+b_jacksonville_a;Jacksonville Clime;;;;;;;;;;x
+b_jacksonville_b;Jacksonville Mansion;;;;;;;;;;x
+b_jacksonville_c;Jacksonville Station;;;;;;;;;;x
+b_jacksonville_d;Jacksonville Head;;;;;;;;;;x
+b_jacksonville_e;Jacksonville Berth;;;;;;;;;;x
+b_jacksonville_f;Jacksonville Locus;;;;;;;;;;x
+b_jacksonville_g;Jacksonville Suburb;;;;;;;;;;x
+b_arlington_a;Arlington Venue;;;;;;;;;;x
+b_arlington_b;Arlington Neighborhood;;;;;;;;;;x
+b_arlington_c;Arlington Helm;;;;;;;;;;x
+b_arlington_d;Arlington Locus;;;;;;;;;;x
+b_arlington_e;Arlington Quarter;;;;;;;;;;x
+b_arlington_f;Arlington Clime;;;;;;;;;;x
+b_arlington_g;Arlington Joint;;;;;;;;;;x
+b_interlachen_a;Interlachen Stead;;;;;;;;;;x
+b_interlachen_b;Interlachen Place;;;;;;;;;;x
+b_interlachen_c;Interlachen Pad;;;;;;;;;;x
+b_interlachen_d;Interlachen Corner;;;;;;;;;;x
+b_interlachen_e;Interlachen Suburb;;;;;;;;;;x
+b_interlachen_f;Interlachen Mansion;;;;;;;;;;x
+b_interlachen_g;Interlachen Venue;;;;;;;;;;x
+b_ocala_forest_a;Ocala Forest Venue;;;;;;;;;;x
+b_ocala_forest_b;Ocala Forest Head;;;;;;;;;;x
+b_ocala_forest_c;Ocala Forest Site;;;;;;;;;;x
+b_ocala_forest_d;Ocala Forest Suburb;;;;;;;;;;x
+b_ocala_forest_e;Ocala Forest Clime;;;;;;;;;;x
+b_ocala_forest_f;Ocala Forest Lay;;;;;;;;;;x
+b_ocala_forest_g;Ocala Forest Quarter;;;;;;;;;;x
+b_green_cove_springs_a;Green Cove Springs Stead;;;;;;;;;;x
+b_green_cove_springs_b;Green Cove Springs Place;;;;;;;;;;x
+b_green_cove_springs_c;Green Cove Springs Head;;;;;;;;;;x
+b_green_cove_springs_d;Green Cove Springs Helm;;;;;;;;;;x
+b_green_cove_springs_e;Green Cove Springs Spot;;;;;;;;;;x
+b_green_cove_springs_f;Green Cove Springs Suburb;;;;;;;;;;x
+b_green_cove_springs_g;Green Cove Springs Site;;;;;;;;;;x
+b_starke_a;Starke Venue;;;;;;;;;;x
+b_starke_b;Starke Locus;;;;;;;;;;x
+b_starke_c;Starke Berth;;;;;;;;;;x
+b_starke_d;Starke Pad;;;;;;;;;;x
+b_starke_e;Starke Head;;;;;;;;;;x
+b_starke_f;Starke Lay;;;;;;;;;;x
+b_starke_g;Starke Quarter;;;;;;;;;;x
+b_palatka_a;Palatka Locus;;;;;;;;;;x
+b_palatka_b;Palatka Venue;;;;;;;;;;x
+b_palatka_c;Palatka Site;;;;;;;;;;x
+b_palatka_d;Palatka Suburb;;;;;;;;;;x
+b_palatka_e;Palatka Spot;;;;;;;;;;x
+b_palatka_f;Palatka Clime;;;;;;;;;;x
+b_palatka_g;Palatka Holding;;;;;;;;;;x
+b_hastings_a;Hastings Hamlet;;;;;;;;;;x
+b_hastings_b;Hastings Neighborhood;;;;;;;;;;x
+b_hastings_c;Hastings Quarter;;;;;;;;;;x
+b_hastings_d;Hastings Holding;;;;;;;;;;x
+b_hastings_e;Hastings Zone;;;;;;;;;;x
+b_hastings_f;Hastings Clime;;;;;;;;;;x
+b_hastings_g;Hastings Locale;;;;;;;;;;x
+b_palm_coast_a;Palm Coast Station;;;;;;;;;;x
+b_palm_coast_b;Palm Coast Place;;;;;;;;;;x
+b_palm_coast_c;Palm Coast Zone;;;;;;;;;;x
+b_palm_coast_d;Palm Coast Locus;;;;;;;;;;x
+b_palm_coast_e;Palm Coast Site;;;;;;;;;;x
+b_palm_coast_f;Palm Coast Clime;;;;;;;;;;x
+b_palm_coast_g;Palm Coast Head;;;;;;;;;;x
+b_saint_augustine_a;Saint Augustine Clime;;;;;;;;;;x
+b_saint_augustine_b;Saint Augustine Locale;;;;;;;;;;x
+b_saint_augustine_c;Saint Augustine Berth;;;;;;;;;;x
+b_saint_augustine_d;Saint Augustine Station;;;;;;;;;;x
+b_saint_augustine_e;Saint Augustine Locus;;;;;;;;;;x
+b_saint_augustine_f;Saint Augustine Quarter;;;;;;;;;;x
+b_saint_augustine_g;Saint Augustine Spot;;;;;;;;;;x
+b_apollo_beach_a;Apollo Beach Corner;;;;;;;;;;x
+b_apollo_beach_b;Apollo Beach Helm;;;;;;;;;;x
+b_apollo_beach_c;Apollo Beach Berth;;;;;;;;;;x
+b_apollo_beach_d;Apollo Beach Clime;;;;;;;;;;x
+b_apollo_beach_e;Apollo Beach Stead;;;;;;;;;;x
+b_apollo_beach_f;Apollo Beach Head;;;;;;;;;;x
+b_apollo_beach_g;Apollo Beach Venue;;;;;;;;;;x
+b_lithia_a;Lithia Hamlet;;;;;;;;;;x
+b_lithia_b;Lithia Lay;;;;;;;;;;x
+b_lithia_c;Lithia Zone;;;;;;;;;;x
+b_lithia_d;Lithia Locale;;;;;;;;;;x
+b_lithia_e;Lithia Helm;;;;;;;;;;x
+b_lithia_f;Lithia Venue;;;;;;;;;;x
+b_lithia_g;Lithia Point;;;;;;;;;;x
+b_wesley_chapel_a;Wesley Chapel Stead;;;;;;;;;;x
+b_wesley_chapel_b;Wesley Chapel Spot;;;;;;;;;;x
+b_wesley_chapel_c;Wesley Chapel Station;;;;;;;;;;x
+b_wesley_chapel_d;Wesley Chapel Mansion;;;;;;;;;;x
+b_wesley_chapel_e;Wesley Chapel Berth;;;;;;;;;;x
+b_wesley_chapel_f;Wesley Chapel Clime;;;;;;;;;;x
+b_wesley_chapel_g;Wesley Chapel Joint;;;;;;;;;;x
+b_myakka_a;Myakka Mansion;;;;;;;;;;x
+b_myakka_b;Myakka Joint;;;;;;;;;;x
+b_myakka_c;Myakka House;;;;;;;;;;x
+b_myakka_d;Myakka Spot;;;;;;;;;;x
+b_myakka_e;Myakka Locale;;;;;;;;;;x
+b_myakka_f;Myakka Stead;;;;;;;;;;x
+b_myakka_g;Myakka Clime;;;;;;;;;;x
+b_sun_city_a;Sun City House;;;;;;;;;;x
+b_sun_city_b;Sun City Head;;;;;;;;;;x
+b_sun_city_c;Sun City Station;;;;;;;;;;x
+b_sun_city_d;Sun City Zone;;;;;;;;;;x
+b_sun_city_e;Sun City Place;;;;;;;;;;x
+b_sun_city_f;Sun City Corner;;;;;;;;;;x
+b_sun_city_g;Sun City Holding;;;;;;;;;;x
+b_sarasota_a;Sarasota Venue;;;;;;;;;;x
+b_sarasota_b;Sarasota Mansion;;;;;;;;;;x
+b_sarasota_c;Sarasota Place;;;;;;;;;;x
+b_sarasota_d;Sarasota Joint;;;;;;;;;;x
+b_sarasota_e;Sarasota Site;;;;;;;;;;x
+b_sarasota_f;Sarasota Locus;;;;;;;;;;x
+b_sarasota_g;Sarasota Stead;;;;;;;;;;x
+b_brandenton_a;Brandenton Berth;;;;;;;;;;x
+b_brandenton_b;Brandenton Helm;;;;;;;;;;x
+b_brandenton_c;Brandenton Spot;;;;;;;;;;x
+b_brandenton_d;Brandenton Hamlet;;;;;;;;;;x
+b_brandenton_e;Brandenton Mansion;;;;;;;;;;x
+b_brandenton_f;Brandenton Head;;;;;;;;;;x
+b_brandenton_g;Brandenton Zone;;;;;;;;;;x
+b_mayakk_river_park_a;Mayakk River Park Helm;;;;;;;;;;x
+b_mayakk_river_park_b;Mayakk River Park Holding;;;;;;;;;;x
+b_mayakk_river_park_c;Mayakk River Park Berth;;;;;;;;;;x
+b_mayakk_river_park_d;Mayakk River Park House;;;;;;;;;;x
+b_mayakk_river_park_e;Mayakk River Park Locus;;;;;;;;;;x
+b_mayakk_river_park_f;Mayakk River Park Lay;;;;;;;;;;x
+b_mayakk_river_park_g;Mayakk River Park Joint;;;;;;;;;;x
+b_plant_city_a;Plant City Stead;;;;;;;;;;x
+b_plant_city_b;Plant City Joint;;;;;;;;;;x
+b_plant_city_c;Plant City Spot;;;;;;;;;;x
+b_plant_city_d;Plant City Pad;;;;;;;;;;x
+b_plant_city_e;Plant City Locale;;;;;;;;;;x
+b_plant_city_f;Plant City Mansion;;;;;;;;;;x
+b_plant_city_g;Plant City Head;;;;;;;;;;x
+b_lakeland_a;Lakeland Mansion;;;;;;;;;;x
+b_lakeland_b;Lakeland Berth;;;;;;;;;;x
+b_lakeland_c;Lakeland Venue;;;;;;;;;;x
+b_lakeland_d;Lakeland Zone;;;;;;;;;;x
+b_lakeland_e;Lakeland Suburb;;;;;;;;;;x
+b_lakeland_f;Lakeland Pad;;;;;;;;;;x
+b_lakeland_g;Lakeland Locale;;;;;;;;;;x
+b_citrus_springs_a;Citrus Springs Place;;;;;;;;;;x
+b_citrus_springs_b;Citrus Springs Spot;;;;;;;;;;x
+b_citrus_springs_c;Citrus Springs Joint;;;;;;;;;;x
+b_citrus_springs_d;Citrus Springs Neighborhood;;;;;;;;;;x
+b_citrus_springs_e;Citrus Springs Zone;;;;;;;;;;x
+b_citrus_springs_f;Citrus Springs Mansion;;;;;;;;;;x
+b_citrus_springs_g;Citrus Springs Suburb;;;;;;;;;;x
+b_cross_florida_greenway_a;Cross Florida Greenway Venue;;;;;;;;;;x
+b_cross_florida_greenway_b;Cross Florida Greenway Quarter;;;;;;;;;;x
+b_cross_florida_greenway_c;Cross Florida Greenway Point;;;;;;;;;;x
+b_cross_florida_greenway_d;Cross Florida Greenway Suburb;;;;;;;;;;x
+b_cross_florida_greenway_e;Cross Florida Greenway Head;;;;;;;;;;x
+b_cross_florida_greenway_f;Cross Florida Greenway Stead;;;;;;;;;;x
+b_cross_florida_greenway_g;Cross Florida Greenway Joint;;;;;;;;;;x
+b_south_tampa_a;South Tampa Hamlet;;;;;;;;;;x
+b_south_tampa_b;South Tampa Mansion;;;;;;;;;;x
+b_south_tampa_c;South Tampa Place;;;;;;;;;;x
+b_south_tampa_d;South Tampa Joint;;;;;;;;;;x
+b_south_tampa_e;South Tampa Locus;;;;;;;;;;x
+b_south_tampa_f;South Tampa Pad;;;;;;;;;;x
+b_south_tampa_g;South Tampa Spot;;;;;;;;;;x
+b_saint_petersburg_a;Saint Petersburg Helm;;;;;;;;;;x
+b_saint_petersburg_b;Saint Petersburg Place;;;;;;;;;;x
+b_saint_petersburg_c;Saint Petersburg Quarter;;;;;;;;;;x
+b_saint_petersburg_d;Saint Petersburg Neighborhood;;;;;;;;;;x
+b_saint_petersburg_e;Saint Petersburg Locus;;;;;;;;;;x
+b_saint_petersburg_f;Saint Petersburg Station;;;;;;;;;;x
+b_saint_petersburg_g;Saint Petersburg Joint;;;;;;;;;;x
+b_clearwater_a;Clearwater Locale;;;;;;;;;;x
+b_clearwater_b;Clearwater Point;;;;;;;;;;x
+b_clearwater_c;Clearwater Neighborhood;;;;;;;;;;x
+b_clearwater_d;Clearwater Joint;;;;;;;;;;x
+b_clearwater_e;Clearwater Head;;;;;;;;;;x
+b_clearwater_f;Clearwater Hamlet;;;;;;;;;;x
+b_clearwater_g;Clearwater Clime;;;;;;;;;;x
+b_town_n_country_a;Town N Country Berth;;;;;;;;;;x
+b_town_n_country_b;Town N Country Clime;;;;;;;;;;x
+b_town_n_country_c;Town N Country Neighborhood;;;;;;;;;;x
+b_town_n_country_d;Town N Country Helm;;;;;;;;;;x
+b_town_n_country_e;Town N Country Point;;;;;;;;;;x
+b_town_n_country_f;Town N Country Quarter;;;;;;;;;;x
+b_town_n_country_g;Town N Country Place;;;;;;;;;;x
+b_spring_hill_a;Spring Hill Stead;;;;;;;;;;x
+b_spring_hill_b;Spring Hill Station;;;;;;;;;;x
+b_spring_hill_c;Spring Hill Holding;;;;;;;;;;x
+b_spring_hill_d;Spring Hill House;;;;;;;;;;x
+b_spring_hill_e;Spring Hill Venue;;;;;;;;;;x
+b_spring_hill_f;Spring Hill Corner;;;;;;;;;;x
+b_spring_hill_g;Spring Hill Berth;;;;;;;;;;x
+b_palm_harbor_a;Palm Harbor Joint;;;;;;;;;;x
+b_palm_harbor_b;Palm Harbor Lay;;;;;;;;;;x
+b_palm_harbor_c;Palm Harbor Head;;;;;;;;;;x
+b_palm_harbor_d;Palm Harbor Holding;;;;;;;;;;x
+b_palm_harbor_e;Palm Harbor Point;;;;;;;;;;x
+b_palm_harbor_f;Palm Harbor Quarter;;;;;;;;;;x
+b_palm_harbor_g;Palm Harbor Zone;;;;;;;;;;x
+b_trinity_a;Trinity Lay;;;;;;;;;;x
+b_trinity_b;Trinity Joint;;;;;;;;;;x
+b_trinity_c;Trinity Zone;;;;;;;;;;x
+b_trinity_d;Trinity Place;;;;;;;;;;x
+b_trinity_e;Trinity Venue;;;;;;;;;;x
+b_trinity_f;Trinity Hamlet;;;;;;;;;;x
+b_trinity_g;Trinity Neighborhood;;;;;;;;;;x
+b_lutz_a;Lutz Point;;;;;;;;;;x
+b_lutz_b;Lutz Locus;;;;;;;;;;x
+b_lutz_c;Lutz Joint;;;;;;;;;;x
+b_lutz_d;Lutz Mansion;;;;;;;;;;x
+b_lutz_e;Lutz Place;;;;;;;;;;x
+b_lutz_f;Lutz House;;;;;;;;;;x
+b_lutz_g;Lutz Lay;;;;;;;;;;x
+b_dade_city_a;Dade City Locale;;;;;;;;;;x
+b_dade_city_b;Dade City Station;;;;;;;;;;x
+b_dade_city_c;Dade City Clime;;;;;;;;;;x
+b_dade_city_d;Dade City Site;;;;;;;;;;x
+b_dade_city_e;Dade City Holding;;;;;;;;;;x
+b_dade_city_f;Dade City Mansion;;;;;;;;;;x
+b_dade_city_g;Dade City Joint;;;;;;;;;;x
+b_gainesville_a;Gainesville Head;;;;;;;;;;x
+b_gainesville_b;Gainesville Point;;;;;;;;;;x
+b_gainesville_c;Gainesville Berth;;;;;;;;;;x
+b_gainesville_d;Gainesville Neighborhood;;;;;;;;;;x
+b_gainesville_e;Gainesville Venue;;;;;;;;;;x
+b_gainesville_f;Gainesville Clime;;;;;;;;;;x
+b_gainesville_g;Gainesville Locus;;;;;;;;;;x
+b_devils_hammock_wildlife_preserve_a;Devils Hammock Wildlife Preserve Hamlet;;;;;;;;;;x
+b_devils_hammock_wildlife_preserve_b;Devils Hammock Wildlife Preserve Head;;;;;;;;;;x
+b_devils_hammock_wildlife_preserve_c;Devils Hammock Wildlife Preserve Joint;;;;;;;;;;x
+b_devils_hammock_wildlife_preserve_d;Devils Hammock Wildlife Preserve Venue;;;;;;;;;;x
+b_devils_hammock_wildlife_preserve_e;Devils Hammock Wildlife Preserve Zone;;;;;;;;;;x
+b_devils_hammock_wildlife_preserve_f;Devils Hammock Wildlife Preserve Locus;;;;;;;;;;x
+b_devils_hammock_wildlife_preserve_g;Devils Hammock Wildlife Preserve House;;;;;;;;;;x
+b_lake_city_a;Lake City Suburb;;;;;;;;;;x
+b_lake_city_b;Lake City Mansion;;;;;;;;;;x
+b_lake_city_c;Lake City Stead;;;;;;;;;;x
+b_lake_city_d;Lake City Point;;;;;;;;;;x
+b_lake_city_e;Lake City House;;;;;;;;;;x
+b_lake_city_f;Lake City Zone;;;;;;;;;;x
+b_lake_city_g;Lake City Station;;;;;;;;;;x
+b_hawthorne_a;Hawthorne Joint;;;;;;;;;;x
+b_hawthorne_b;Hawthorne Spot;;;;;;;;;;x
+b_hawthorne_c;Hawthorne Place;;;;;;;;;;x
+b_hawthorne_d;Hawthorne Zone;;;;;;;;;;x
+b_hawthorne_e;Hawthorne Clime;;;;;;;;;;x
+b_hawthorne_f;Hawthorne Helm;;;;;;;;;;x
+b_hawthorne_g;Hawthorne Hamlet;;;;;;;;;;x
+b_goethe_forest_a;Goethe Forest Joint;;;;;;;;;;x
+b_goethe_forest_b;Goethe Forest Hamlet;;;;;;;;;;x
+b_goethe_forest_c;Goethe Forest Locale;;;;;;;;;;x
+b_goethe_forest_d;Goethe Forest Mansion;;;;;;;;;;x
+b_goethe_forest_e;Goethe Forest Spot;;;;;;;;;;x
+b_goethe_forest_f;Goethe Forest House;;;;;;;;;;x
+b_goethe_forest_g;Goethe Forest Venue;;;;;;;;;;x
+b_lower_goethe_forest_a;Lower Goethe Forest Joint;;;;;;;;;;x
+b_lower_goethe_forest_b;Lower Goethe Forest Locus;;;;;;;;;;x
+b_lower_goethe_forest_c;Lower Goethe Forest Lay;;;;;;;;;;x
+b_lower_goethe_forest_d;Lower Goethe Forest House;;;;;;;;;;x
+b_lower_goethe_forest_e;Lower Goethe Forest Holding;;;;;;;;;;x
+b_lower_goethe_forest_f;Lower Goethe Forest Helm;;;;;;;;;;x
+b_lower_goethe_forest_g;Lower Goethe Forest Mansion;;;;;;;;;;x
+b_inglis_a;Inglis Joint;;;;;;;;;;x
+b_inglis_b;Inglis Pad;;;;;;;;;;x
+b_inglis_c;Inglis Lay;;;;;;;;;;x
+b_inglis_d;Inglis Quarter;;;;;;;;;;x
+b_inglis_e;Inglis Corner;;;;;;;;;;x
+b_inglis_f;Inglis Spot;;;;;;;;;;x
+b_inglis_g;Inglis Zone;;;;;;;;;;x
+b_otter_creek_a;Otter Creek Venue;;;;;;;;;;x
+b_otter_creek_b;Otter Creek Holding;;;;;;;;;;x
+b_otter_creek_c;Otter Creek Point;;;;;;;;;;x
+b_otter_creek_d;Otter Creek Berth;;;;;;;;;;x
+b_otter_creek_e;Otter Creek Mansion;;;;;;;;;;x
+b_otter_creek_f;Otter Creek Locus;;;;;;;;;;x
+b_otter_creek_g;Otter Creek Head;;;;;;;;;;x
+b_gulf_hammock_wildlife_preserve_a;Gulf Hammock Wildlife Preserve Stead;;;;;;;;;;x
+b_gulf_hammock_wildlife_preserve_b;Gulf Hammock Wildlife Preserve Venue;;;;;;;;;;x
+b_gulf_hammock_wildlife_preserve_c;Gulf Hammock Wildlife Preserve Place;;;;;;;;;;x
+b_gulf_hammock_wildlife_preserve_d;Gulf Hammock Wildlife Preserve Neighborhood;;;;;;;;;;x
+b_gulf_hammock_wildlife_preserve_e;Gulf Hammock Wildlife Preserve Quarter;;;;;;;;;;x
+b_gulf_hammock_wildlife_preserve_f;Gulf Hammock Wildlife Preserve Point;;;;;;;;;;x
+b_gulf_hammock_wildlife_preserve_g;Gulf Hammock Wildlife Preserve Zone;;;;;;;;;;x
+b_bronston_a;Bronston Venue;;;;;;;;;;x
+b_bronston_b;Bronston Head;;;;;;;;;;x
+b_bronston_c;Bronston Pad;;;;;;;;;;x
+b_bronston_d;Bronston Berth;;;;;;;;;;x
+b_bronston_e;Bronston Neighborhood;;;;;;;;;;x
+b_bronston_f;Bronston Joint;;;;;;;;;;x
+b_bronston_g;Bronston Corner;;;;;;;;;;x
+b_belleview_a;Belleview Suburb;;;;;;;;;;x
+b_belleview_b;Belleview Locale;;;;;;;;;;x
+b_belleview_c;Belleview Locus;;;;;;;;;;x
+b_belleview_d;Belleview Head;;;;;;;;;;x
+b_belleview_e;Belleview Zone;;;;;;;;;;x
+b_belleview_f;Belleview Stead;;;;;;;;;;x
+b_belleview_g;Belleview Place;;;;;;;;;;x
+b_camp_ocala_a;Camp Ocala Stead;;;;;;;;;;x
+b_camp_ocala_b;Camp Ocala Point;;;;;;;;;;x
+b_camp_ocala_c;Camp Ocala Hamlet;;;;;;;;;;x
+b_camp_ocala_d;Camp Ocala Neighborhood;;;;;;;;;;x
+b_camp_ocala_e;Camp Ocala Venue;;;;;;;;;;x
+b_camp_ocala_f;Camp Ocala Berth;;;;;;;;;;x
+b_camp_ocala_g;Camp Ocala Locale;;;;;;;;;;x
+b_winter_haven_a;Winter Haven Locale;;;;;;;;;;x
+b_winter_haven_b;Winter Haven Venue;;;;;;;;;;x
+b_winter_haven_c;Winter Haven House;;;;;;;;;;x
+b_winter_haven_d;Winter Haven Quarter;;;;;;;;;;x
+b_winter_haven_e;Winter Haven Joint;;;;;;;;;;x
+b_winter_haven_f;Winter Haven Zone;;;;;;;;;;x
+b_winter_haven_g;Winter Haven Holding;;;;;;;;;;x
+b_ocala_a;Ocala Quarter;;;;;;;;;;x
+b_ocala_b;Ocala Suburb;;;;;;;;;;x
+b_ocala_c;Ocala Hamlet;;;;;;;;;;x
+b_ocala_d;Ocala Station;;;;;;;;;;x
+b_ocala_e;Ocala House;;;;;;;;;;x
+b_ocala_f;Ocala Place;;;;;;;;;;x
+b_ocala_g;Ocala Clime;;;;;;;;;;x
+b_morriston_a;Morriston Stead;;;;;;;;;;x
+b_morriston_b;Morriston Clime;;;;;;;;;;x
+b_morriston_c;Morriston Pad;;;;;;;;;;x
+b_morriston_d;Morriston Neighborhood;;;;;;;;;;x
+b_morriston_e;Morriston Zone;;;;;;;;;;x
+b_morriston_f;Morriston Place;;;;;;;;;;x
+b_morriston_g;Morriston Locale;;;;;;;;;;x
+b_marion_oaks_a;Marion Oaks House;;;;;;;;;;x
+b_marion_oaks_b;Marion Oaks Zone;;;;;;;;;;x
+b_marion_oaks_c;Marion Oaks Quarter;;;;;;;;;;x
+b_marion_oaks_d;Marion Oaks Spot;;;;;;;;;;x
+b_marion_oaks_e;Marion Oaks Corner;;;;;;;;;;x
+b_marion_oaks_f;Marion Oaks Helm;;;;;;;;;;x
+b_marion_oaks_g;Marion Oaks Holding;;;;;;;;;;x
+b_chatmire_a;Chatmire Station;;;;;;;;;;x
+b_chatmire_b;Chatmire Spot;;;;;;;;;;x
+b_chatmire_c;Chatmire Hamlet;;;;;;;;;;x
+b_chatmire_d;Chatmire Pad;;;;;;;;;;x
+b_chatmire_e;Chatmire Helm;;;;;;;;;;x
+b_chatmire_f;Chatmire Corner;;;;;;;;;;x
+b_chatmire_g;Chatmire Mansion;;;;;;;;;;x
+b_dunnellon_a;Dunnellon Clime;;;;;;;;;;x
+b_dunnellon_b;Dunnellon Stead;;;;;;;;;;x
+b_dunnellon_c;Dunnellon Joint;;;;;;;;;;x
+b_dunnellon_d;Dunnellon Mansion;;;;;;;;;;x
+b_dunnellon_e;Dunnellon House;;;;;;;;;;x
+b_dunnellon_f;Dunnellon Station;;;;;;;;;;x
+b_dunnellon_g;Dunnellon Suburb;;;;;;;;;;x
+b_williston_highlands_a;Williston Highlands Head;;;;;;;;;;x
+b_williston_highlands_b;Williston Highlands Point;;;;;;;;;;x
+b_williston_highlands_c;Williston Highlands House;;;;;;;;;;x
+b_williston_highlands_d;Williston Highlands Hamlet;;;;;;;;;;x
+b_williston_highlands_e;Williston Highlands Mansion;;;;;;;;;;x
+b_williston_highlands_f;Williston Highlands Zone;;;;;;;;;;x
+b_williston_highlands_g;Williston Highlands Lay;;;;;;;;;;x
+b_cameron_a;Cameron Quarter;;;;;;;;;;x
+b_cameron_b;Cameron House;;;;;;;;;;x
+b_cameron_c;Cameron Suburb;;;;;;;;;;x
+b_cameron_d;Cameron Hamlet;;;;;;;;;;x
+b_cameron_e;Cameron Clime;;;;;;;;;;x
+b_cameron_f;Cameron Head;;;;;;;;;;x
+b_cameron_g;Cameron Spot;;;;;;;;;;x
+b_hackberry_a;Hackberry Corner;;;;;;;;;;x
+b_hackberry_b;Hackberry Head;;;;;;;;;;x
+b_hackberry_c;Hackberry Venue;;;;;;;;;;x
+b_hackberry_d;Hackberry Mansion;;;;;;;;;;x
+b_hackberry_e;Hackberry Locus;;;;;;;;;;x
+b_hackberry_f;Hackberry Site;;;;;;;;;;x
+b_hackberry_g;Hackberry House;;;;;;;;;;x
+b_lake_charles_a;Lake Charles Stead;;;;;;;;;;x
+b_lake_charles_b;Lake Charles Joint;;;;;;;;;;x
+b_lake_charles_c;Lake Charles Locus;;;;;;;;;;x
+b_lake_charles_d;Lake Charles Place;;;;;;;;;;x
+b_lake_charles_e;Lake Charles Clime;;;;;;;;;;x
+b_lake_charles_f;Lake Charles House;;;;;;;;;;x
+b_lake_charles_g;Lake Charles Locale;;;;;;;;;;x
+b_jennings_a;Jennings Helm;;;;;;;;;;x
+b_jennings_b;Jennings Hamlet;;;;;;;;;;x
+b_jennings_c;Jennings House;;;;;;;;;;x
+b_jennings_d;Jennings Lay;;;;;;;;;;x
+b_jennings_e;Jennings Point;;;;;;;;;;x
+b_jennings_f;Jennings Locale;;;;;;;;;;x
+b_jennings_g;Jennings Zone;;;;;;;;;;x
+b_gueydan_a;Gueydan Stead;;;;;;;;;;x
+b_gueydan_b;Gueydan Point;;;;;;;;;;x
+b_gueydan_c;Gueydan Suburb;;;;;;;;;;x
+b_gueydan_d;Gueydan Berth;;;;;;;;;;x
+b_gueydan_e;Gueydan Neighborhood;;;;;;;;;;x
+b_gueydan_f;Gueydan Head;;;;;;;;;;x
+b_gueydan_g;Gueydan Lay;;;;;;;;;;x
+b_white_lake_wetlands_conservation_area_a;White Lake Wetlands Conservation Area Locale;;;;;;;;;;x
+b_white_lake_wetlands_conservation_area_b;White Lake Wetlands Conservation Area Point;;;;;;;;;;x
+b_white_lake_wetlands_conservation_area_c;White Lake Wetlands Conservation Area Locus;;;;;;;;;;x
+b_white_lake_wetlands_conservation_area_d;White Lake Wetlands Conservation Area Zone;;;;;;;;;;x
+b_white_lake_wetlands_conservation_area_e;White Lake Wetlands Conservation Area Venue;;;;;;;;;;x
+b_white_lake_wetlands_conservation_area_f;White Lake Wetlands Conservation Area Site;;;;;;;;;;x
+b_white_lake_wetlands_conservation_area_g;White Lake Wetlands Conservation Area Joint;;;;;;;;;;x
+b_pecan_island_a;Pecan Island Joint;;;;;;;;;;x
+b_pecan_island_b;Pecan Island Stead;;;;;;;;;;x
+b_pecan_island_c;Pecan Island Helm;;;;;;;;;;x
+b_pecan_island_d;Pecan Island House;;;;;;;;;;x
+b_pecan_island_e;Pecan Island Point;;;;;;;;;;x
+b_pecan_island_f;Pecan Island Place;;;;;;;;;;x
+b_pecan_island_g;Pecan Island Locale;;;;;;;;;;x
+b_creole_a;Creole Venue;;;;;;;;;;x
+b_creole_b;Creole Mansion;;;;;;;;;;x
+b_creole_c;Creole Stead;;;;;;;;;;x
+b_creole_d;Creole Spot;;;;;;;;;;x
+b_creole_e;Creole Head;;;;;;;;;;x
+b_creole_f;Creole Zone;;;;;;;;;;x
+b_creole_g;Creole Neighborhood;;;;;;;;;;x
+b_morgan_a;Morgan Venue;;;;;;;;;;x
+b_morgan_b;Morgan Neighborhood;;;;;;;;;;x
+b_morgan_c;Morgan Place;;;;;;;;;;x
+b_morgan_d;Morgan Holding;;;;;;;;;;x
+b_morgan_e;Morgan House;;;;;;;;;;x
+b_morgan_f;Morgan Point;;;;;;;;;;x
+b_morgan_g;Morgan Pad;;;;;;;;;;x
+b_new_iberia_a;New Iberia Place;;;;;;;;;;x
+b_new_iberia_b;New Iberia Suburb;;;;;;;;;;x
+b_new_iberia_c;New Iberia Berth;;;;;;;;;;x
+b_new_iberia_d;New Iberia Station;;;;;;;;;;x
+b_new_iberia_e;New Iberia Locale;;;;;;;;;;x
+b_new_iberia_f;New Iberia Helm;;;;;;;;;;x
+b_new_iberia_g;New Iberia Spot;;;;;;;;;;x
+b_marsh_island_a;Marsh Island Corner;;;;;;;;;;x
+b_marsh_island_b;Marsh Island Suburb;;;;;;;;;;x
+b_marsh_island_c;Marsh Island Venue;;;;;;;;;;x
+b_marsh_island_d;Marsh Island Locus;;;;;;;;;;x
+b_marsh_island_e;Marsh Island Berth;;;;;;;;;;x
+b_marsh_island_f;Marsh Island Site;;;;;;;;;;x
+b_marsh_island_g;Marsh Island Locale;;;;;;;;;;x
+b_abbeville_a;Abbeville Point;;;;;;;;;;x
+b_abbeville_b;Abbeville Site;;;;;;;;;;x
+b_abbeville_c;Abbeville Station;;;;;;;;;;x
+b_abbeville_d;Abbeville Stead;;;;;;;;;;x
+b_abbeville_e;Abbeville Hamlet;;;;;;;;;;x
+b_abbeville_f;Abbeville Quarter;;;;;;;;;;x
+b_abbeville_g;Abbeville Holding;;;;;;;;;;x
+b_new_amelia_island_a;New Amelia Island House;;;;;;;;;;x
+b_new_amelia_island_b;New Amelia Island Locale;;;;;;;;;;x
+b_new_amelia_island_c;New Amelia Island Suburb;;;;;;;;;;x
+b_new_amelia_island_d;New Amelia Island Mansion;;;;;;;;;;x
+b_new_amelia_island_e;New Amelia Island Berth;;;;;;;;;;x
+b_new_amelia_island_f;New Amelia Island Neighborhood;;;;;;;;;;x
+b_new_amelia_island_g;New Amelia Island Clime;;;;;;;;;;x
+b_cocodrie_a;Cocodrie Point;;;;;;;;;;x
+b_cocodrie_b;Cocodrie Corner;;;;;;;;;;x
+b_cocodrie_c;Cocodrie Joint;;;;;;;;;;x
+b_cocodrie_d;Cocodrie Zone;;;;;;;;;;x
+b_cocodrie_e;Cocodrie Venue;;;;;;;;;;x
+b_cocodrie_f;Cocodrie Stead;;;;;;;;;;x
+b_cocodrie_g;Cocodrie Helm;;;;;;;;;;x
+b_gray_a;Gray Zone;;;;;;;;;;x
+b_gray_b;Gray Head;;;;;;;;;;x
+b_gray_c;Gray Hamlet;;;;;;;;;;x
+b_gray_d;Gray Stead;;;;;;;;;;x
+b_gray_e;Gray Lay;;;;;;;;;;x
+b_gray_f;Gray Locus;;;;;;;;;;x
+b_gray_g;Gray Clime;;;;;;;;;;x
+b_houma_a;Houma Holding;;;;;;;;;;x
+b_houma_b;Houma Berth;;;;;;;;;;x
+b_houma_c;Houma Spot;;;;;;;;;;x
+b_houma_d;Houma Point;;;;;;;;;;x
+b_houma_e;Houma Venue;;;;;;;;;;x
+b_houma_f;Houma Lay;;;;;;;;;;x
+b_houma_g;Houma Quarter;;;;;;;;;;x
+b_shell_beach_a;Shell Beach Locus;;;;;;;;;;x
+b_shell_beach_b;Shell Beach Quarter;;;;;;;;;;x
+b_shell_beach_c;Shell Beach Berth;;;;;;;;;;x
+b_shell_beach_d;Shell Beach Station;;;;;;;;;;x
+b_shell_beach_e;Shell Beach Site;;;;;;;;;;x
+b_shell_beach_f;Shell Beach Spot;;;;;;;;;;x
+b_shell_beach_g;Shell Beach House;;;;;;;;;;x
+b_empire_a;Empire Hamlet;;;;;;;;;;x
+b_empire_b;Empire Venue;;;;;;;;;;x
+b_empire_c;Empire Lay;;;;;;;;;;x
+b_empire_d;Empire House;;;;;;;;;;x
+b_empire_e;Empire Berth;;;;;;;;;;x
+b_empire_f;Empire Clime;;;;;;;;;;x
+b_empire_g;Empire Helm;;;;;;;;;;x
+b_new_orleans_a;New Orleans Lay;;;;;;;;;;x
+b_new_orleans_b;New Orleans Hamlet;;;;;;;;;;x
+b_new_orleans_c;New Orleans Head;;;;;;;;;;x
+b_new_orleans_d;New Orleans Corner;;;;;;;;;;x
+b_new_orleans_e;New Orleans Venue;;;;;;;;;;x
+b_new_orleans_f;New Orleans Neighborhood;;;;;;;;;;x
+b_new_orleans_g;New Orleans Locale;;;;;;;;;;x
+b_lafayette_a;Lafayette Stead;;;;;;;;;;x
+b_lafayette_b;Lafayette Quarter;;;;;;;;;;x
+b_lafayette_c;Lafayette Station;;;;;;;;;;x
+b_lafayette_d;Lafayette Head;;;;;;;;;;x
+b_lafayette_e;Lafayette Lay;;;;;;;;;;x
+b_lafayette_f;Lafayette Zone;;;;;;;;;;x
+b_lafayette_g;Lafayette Helm;;;;;;;;;;x
+b_crowley_a;Crowley Joint;;;;;;;;;;x
+b_crowley_b;Crowley Pad;;;;;;;;;;x
+b_crowley_c;Crowley Quarter;;;;;;;;;;x
+b_crowley_d;Crowley Hamlet;;;;;;;;;;x
+b_crowley_e;Crowley Corner;;;;;;;;;;x
+b_crowley_f;Crowley Neighborhood;;;;;;;;;;x
+b_crowley_g;Crowley Zone;;;;;;;;;;x
+b_breaux_bridge_a;Breaux Bridge Head;;;;;;;;;;x
+b_breaux_bridge_b;Breaux Bridge Zone;;;;;;;;;;x
+b_breaux_bridge_c;Breaux Bridge Pad;;;;;;;;;;x
+b_breaux_bridge_d;Breaux Bridge Neighborhood;;;;;;;;;;x
+b_breaux_bridge_e;Breaux Bridge Locale;;;;;;;;;;x
+b_breaux_bridge_f;Breaux Bridge Spot;;;;;;;;;;x
+b_breaux_bridge_g;Breaux Bridge Corner;;;;;;;;;;x
+b_iota_a;Iota Neighborhood;;;;;;;;;;x
+b_iota_b;Iota Locus;;;;;;;;;;x
+b_iota_c;Iota Venue;;;;;;;;;;x
+b_iota_d;Iota Hamlet;;;;;;;;;;x
+b_iota_e;Iota Station;;;;;;;;;;x
+b_iota_f;Iota Clime;;;;;;;;;;x
+b_iota_g;Iota Locale;;;;;;;;;;x
+b_plaquemine_a;Plaquemine Point;;;;;;;;;;x
+b_plaquemine_b;Plaquemine Site;;;;;;;;;;x
+b_plaquemine_c;Plaquemine Pad;;;;;;;;;;x
+b_plaquemine_d;Plaquemine Clime;;;;;;;;;;x
+b_plaquemine_e;Plaquemine Holding;;;;;;;;;;x
+b_plaquemine_f;Plaquemine Station;;;;;;;;;;x
+b_plaquemine_g;Plaquemine Spot;;;;;;;;;;x
+b_atchafalaya_wildlife_refuge_a;Atchafalaya Wildlife Refuge Site;;;;;;;;;;x
+b_atchafalaya_wildlife_refuge_b;Atchafalaya Wildlife Refuge Mansion;;;;;;;;;;x
+b_atchafalaya_wildlife_refuge_c;Atchafalaya Wildlife Refuge Venue;;;;;;;;;;x
+b_atchafalaya_wildlife_refuge_d;Atchafalaya Wildlife Refuge Locus;;;;;;;;;;x
+b_atchafalaya_wildlife_refuge_e;Atchafalaya Wildlife Refuge Clime;;;;;;;;;;x
+b_atchafalaya_wildlife_refuge_f;Atchafalaya Wildlife Refuge Station;;;;;;;;;;x
+b_atchafalaya_wildlife_refuge_g;Atchafalaya Wildlife Refuge Suburb;;;;;;;;;;x
+b_baton_rouge_a;Baton Rouge Spot;;;;;;;;;;x
+b_baton_rouge_b;Baton Rouge Lay;;;;;;;;;;x
+b_baton_rouge_c;Baton Rouge Berth;;;;;;;;;;x
+b_baton_rouge_d;Baton Rouge Zone;;;;;;;;;;x
+b_baton_rouge_e;Baton Rouge Station;;;;;;;;;;x
+b_baton_rouge_f;Baton Rouge Holding;;;;;;;;;;x
+b_baton_rouge_g;Baton Rouge Stead;;;;;;;;;;x
+b_hammond_a;Hammond Helm;;;;;;;;;;x
+b_hammond_b;Hammond Point;;;;;;;;;;x
+b_hammond_c;Hammond Suburb;;;;;;;;;;x
+b_hammond_d;Hammond Clime;;;;;;;;;;x
+b_hammond_e;Hammond Zone;;;;;;;;;;x
+b_hammond_f;Hammond Hamlet;;;;;;;;;;x
+b_hammond_g;Hammond Neighborhood;;;;;;;;;;x
+b_picayune_a;Picayune Station;;;;;;;;;;x
+b_picayune_b;Picayune Locus;;;;;;;;;;x
+b_picayune_c;Picayune Site;;;;;;;;;;x
+b_picayune_d;Picayune Helm;;;;;;;;;;x
+b_picayune_e;Picayune Berth;;;;;;;;;;x
+b_picayune_f;Picayune Suburb;;;;;;;;;;x
+b_picayune_g;Picayune Lay;;;;;;;;;;x
+b_biloxi_a;Biloxi Lay;;;;;;;;;;x
+b_biloxi_b;Biloxi Hamlet;;;;;;;;;;x
+b_biloxi_c;Biloxi Berth;;;;;;;;;;x
+b_biloxi_d;Biloxi Stead;;;;;;;;;;x
+b_biloxi_e;Biloxi Joint;;;;;;;;;;x
+b_biloxi_f;Biloxi Suburb;;;;;;;;;;x
+b_biloxi_g;Biloxi Locus;;;;;;;;;;x
+b_orange_beach_a;Orange Beach Site;;;;;;;;;;x
+b_orange_beach_b;Orange Beach Corner;;;;;;;;;;x
+b_orange_beach_c;Orange Beach Quarter;;;;;;;;;;x
+b_orange_beach_d;Orange Beach Holding;;;;;;;;;;x
+b_orange_beach_e;Orange Beach Clime;;;;;;;;;;x
+b_orange_beach_f;Orange Beach Zone;;;;;;;;;;x
+b_orange_beach_g;Orange Beach Place;;;;;;;;;;x
+b_pensacola_a;Pensacola Locale;;;;;;;;;;x
+b_pensacola_b;Pensacola Zone;;;;;;;;;;x
+b_pensacola_c;Pensacola Corner;;;;;;;;;;x
+b_pensacola_d;Pensacola Head;;;;;;;;;;x
+b_pensacola_e;Pensacola Stead;;;;;;;;;;x
+b_pensacola_f;Pensacola Lay;;;;;;;;;;x
+b_pensacola_g;Pensacola Holding;;;;;;;;;;x
+b_fort_walton_a;Fort Walton Stead;;;;;;;;;;x
+b_fort_walton_b;Fort Walton Site;;;;;;;;;;x
+b_fort_walton_c;Fort Walton Zone;;;;;;;;;;x
+b_fort_walton_d;Fort Walton Quarter;;;;;;;;;;x
+b_fort_walton_e;Fort Walton Point;;;;;;;;;;x
+b_fort_walton_f;Fort Walton Lay;;;;;;;;;;x
+b_fort_walton_g;Fort Walton Berth;;;;;;;;;;x
+b_crestview_a;Crestview Venue;;;;;;;;;;x
+b_crestview_b;Crestview Station;;;;;;;;;;x
+b_crestview_c;Crestview Hamlet;;;;;;;;;;x
+b_crestview_d;Crestview Neighborhood;;;;;;;;;;x
+b_crestview_e;Crestview Stead;;;;;;;;;;x
+b_crestview_f;Crestview Head;;;;;;;;;;x
+b_crestview_g;Crestview Place;;;;;;;;;;x
+b_niceville_a;Niceville Head;;;;;;;;;;x
+b_niceville_b;Niceville Suburb;;;;;;;;;;x
+b_niceville_c;Niceville House;;;;;;;;;;x
+b_niceville_d;Niceville Pad;;;;;;;;;;x
+b_niceville_e;Niceville Clime;;;;;;;;;;x
+b_niceville_f;Niceville Site;;;;;;;;;;x
+b_niceville_g;Niceville Zone;;;;;;;;;;x
+b_defunkiak_springs_a;Defunkiak Springs Zone;;;;;;;;;;x
+b_defunkiak_springs_b;Defunkiak Springs Quarter;;;;;;;;;;x
+b_defunkiak_springs_c;Defunkiak Springs Place;;;;;;;;;;x
+b_defunkiak_springs_d;Defunkiak Springs Berth;;;;;;;;;;x
+b_defunkiak_springs_e;Defunkiak Springs Site;;;;;;;;;;x
+b_defunkiak_springs_f;Defunkiak Springs Pad;;;;;;;;;;x
+b_defunkiak_springs_g;Defunkiak Springs Lay;;;;;;;;;;x
+b_panama_city_beach_a;Panama City Beach Stead;;;;;;;;;;x
+b_panama_city_beach_b;Panama City Beach Station;;;;;;;;;;x
+b_panama_city_beach_c;Panama City Beach Point;;;;;;;;;;x
+b_panama_city_beach_d;Panama City Beach Venue;;;;;;;;;;x
+b_panama_city_beach_e;Panama City Beach Corner;;;;;;;;;;x
+b_panama_city_beach_f;Panama City Beach Helm;;;;;;;;;;x
+b_panama_city_beach_g;Panama City Beach House;;;;;;;;;;x
+b_port_saint_joe_a;Port Saint Joe Head;;;;;;;;;;x
+b_port_saint_joe_b;Port Saint Joe Quarter;;;;;;;;;;x
+b_port_saint_joe_c;Port Saint Joe Zone;;;;;;;;;;x
+b_port_saint_joe_d;Port Saint Joe Spot;;;;;;;;;;x
+b_port_saint_joe_e;Port Saint Joe Lay;;;;;;;;;;x
+b_port_saint_joe_f;Port Saint Joe Point;;;;;;;;;;x
+b_port_saint_joe_g;Port Saint Joe Stead;;;;;;;;;;x
+b_estiffanulga_a;Estiffanulga Holding;;;;;;;;;;x
+b_estiffanulga_b;Estiffanulga Hamlet;;;;;;;;;;x
+b_estiffanulga_c;Estiffanulga Stead;;;;;;;;;;x
+b_estiffanulga_d;Estiffanulga Neighborhood;;;;;;;;;;x
+b_estiffanulga_e;Estiffanulga Clime;;;;;;;;;;x
+b_estiffanulga_f;Estiffanulga Zone;;;;;;;;;;x
+b_estiffanulga_g;Estiffanulga Lay;;;;;;;;;;x
+b_wewahitchka_a;Wewahitchka Zone;;;;;;;;;;x
+b_wewahitchka_b;Wewahitchka Spot;;;;;;;;;;x
+b_wewahitchka_c;Wewahitchka Quarter;;;;;;;;;;x
+b_wewahitchka_d;Wewahitchka Helm;;;;;;;;;;x
+b_wewahitchka_e;Wewahitchka Place;;;;;;;;;;x
+b_wewahitchka_f;Wewahitchka Berth;;;;;;;;;;x
+b_wewahitchka_g;Wewahitchka Point;;;;;;;;;;x
+b_blountstown_a;Blountstown Neighborhood;;;;;;;;;;x
+b_blountstown_b;Blountstown House;;;;;;;;;;x
+b_blountstown_c;Blountstown Clime;;;;;;;;;;x
+b_blountstown_d;Blountstown Head;;;;;;;;;;x
+b_blountstown_e;Blountstown Zone;;;;;;;;;;x
+b_blountstown_f;Blountstown Helm;;;;;;;;;;x
+b_blountstown_g;Blountstown Station;;;;;;;;;;x
+b_cedar_keypoint_a;Cedar Keypoint Place;;;;;;;;;;x
+b_cedar_keypoint_b;Cedar Keypoint Pad;;;;;;;;;;x
+b_cedar_keypoint_c;Cedar Keypoint Berth;;;;;;;;;;x
+b_cedar_keypoint_d;Cedar Keypoint Venue;;;;;;;;;;x
+b_cedar_keypoint_e;Cedar Keypoint Zone;;;;;;;;;;x
+b_cedar_keypoint_f;Cedar Keypoint Head;;;;;;;;;;x
+b_cedar_keypoint_g;Cedar Keypoint Point;;;;;;;;;;x
+b_apalachicola_forest_a;Apalachicola Forest Suburb;;;;;;;;;;x
+b_apalachicola_forest_b;Apalachicola Forest Zone;;;;;;;;;;x
+b_apalachicola_forest_c;Apalachicola Forest Berth;;;;;;;;;;x
+b_apalachicola_forest_d;Apalachicola Forest Venue;;;;;;;;;;x
+b_apalachicola_forest_e;Apalachicola Forest Point;;;;;;;;;;x
+b_apalachicola_forest_f;Apalachicola Forest Clime;;;;;;;;;;x
+b_apalachicola_forest_g;Apalachicola Forest Pad;;;;;;;;;;x
+b_carrabelle_a;Carrabelle Stead;;;;;;;;;;x
+b_carrabelle_b;Carrabelle Holding;;;;;;;;;;x
+b_carrabelle_c;Carrabelle Lay;;;;;;;;;;x
+b_carrabelle_d;Carrabelle Point;;;;;;;;;;x
+b_carrabelle_e;Carrabelle Locale;;;;;;;;;;x
+b_carrabelle_f;Carrabelle Hamlet;;;;;;;;;;x
+b_carrabelle_g;Carrabelle Head;;;;;;;;;;x
+b_hosford_a;Hosford Suburb;;;;;;;;;;x
+b_hosford_b;Hosford Spot;;;;;;;;;;x
+b_hosford_c;Hosford Venue;;;;;;;;;;x
+b_hosford_d;Hosford Joint;;;;;;;;;;x
+b_hosford_e;Hosford Zone;;;;;;;;;;x
+b_hosford_f;Hosford Site;;;;;;;;;;x
+b_hosford_g;Hosford Quarter;;;;;;;;;;x
+b_fort_braden_a;Fort Braden Zone;;;;;;;;;;x
+b_fort_braden_b;Fort Braden House;;;;;;;;;;x
+b_fort_braden_c;Fort Braden Site;;;;;;;;;;x
+b_fort_braden_d;Fort Braden Place;;;;;;;;;;x
+b_fort_braden_e;Fort Braden Berth;;;;;;;;;;x
+b_fort_braden_f;Fort Braden Spot;;;;;;;;;;x
+b_fort_braden_g;Fort Braden Stead;;;;;;;;;;x
+b_sopchoppy_a;Sopchoppy Holding;;;;;;;;;;x
+b_sopchoppy_b;Sopchoppy Quarter;;;;;;;;;;x
+b_sopchoppy_c;Sopchoppy Locale;;;;;;;;;;x
+b_sopchoppy_d;Sopchoppy Venue;;;;;;;;;;x
+b_sopchoppy_e;Sopchoppy Suburb;;;;;;;;;;x
+b_sopchoppy_f;Sopchoppy Site;;;;;;;;;;x
+b_sopchoppy_g;Sopchoppy Lay;;;;;;;;;;x
+b_tallahassee_a;Tallahassee Locus;;;;;;;;;;x
+b_tallahassee_b;Tallahassee Lay;;;;;;;;;;x
+b_tallahassee_c;Tallahassee Locale;;;;;;;;;;x
+b_tallahassee_d;Tallahassee Mansion;;;;;;;;;;x
+b_tallahassee_e;Tallahassee Corner;;;;;;;;;;x
+b_tallahassee_f;Tallahassee Zone;;;;;;;;;;x
+b_tallahassee_g;Tallahassee Place;;;;;;;;;;x
+b_woodville_a;Woodville Spot;;;;;;;;;;x
+b_woodville_b;Woodville Suburb;;;;;;;;;;x
+b_woodville_c;Woodville Locale;;;;;;;;;;x
+b_woodville_d;Woodville Site;;;;;;;;;;x
+b_woodville_e;Woodville Head;;;;;;;;;;x
+b_woodville_f;Woodville Hamlet;;;;;;;;;;x
+b_woodville_g;Woodville House;;;;;;;;;;x
+b_wacissa_a;Wacissa Place;;;;;;;;;;x
+b_wacissa_b;Wacissa Lay;;;;;;;;;;x
+b_wacissa_c;Wacissa Quarter;;;;;;;;;;x
+b_wacissa_d;Wacissa Locale;;;;;;;;;;x
+b_wacissa_e;Wacissa Joint;;;;;;;;;;x
+b_wacissa_f;Wacissa Hamlet;;;;;;;;;;x
+b_wacissa_g;Wacissa Zone;;;;;;;;;;x
+b_aucilla_wildlife_area_a;Aucilla Wildlife Area Place;;;;;;;;;;x
+b_aucilla_wildlife_area_b;Aucilla Wildlife Area Zone;;;;;;;;;;x
+b_aucilla_wildlife_area_c;Aucilla Wildlife Area Helm;;;;;;;;;;x
+b_aucilla_wildlife_area_d;Aucilla Wildlife Area Pad;;;;;;;;;;x
+b_aucilla_wildlife_area_e;Aucilla Wildlife Area Point;;;;;;;;;;x
+b_aucilla_wildlife_area_f;Aucilla Wildlife Area Locale;;;;;;;;;;x
+b_aucilla_wildlife_area_g;Aucilla Wildlife Area Joint;;;;;;;;;;x
+b_franklin_a;Franklin Hamlet;;;;;;;;;;x
+b_franklin_b;Franklin Spot;;;;;;;;;;x
+b_franklin_c;Franklin Neighborhood;;;;;;;;;;x
+b_franklin_d;Franklin Pad;;;;;;;;;;x
+b_franklin_e;Franklin Locale;;;;;;;;;;x
+b_franklin_f;Franklin Helm;;;;;;;;;;x
+b_franklin_g;Franklin House;;;;;;;;;;x
+b_live_oak_a;Live Oak Hamlet;;;;;;;;;;x
+b_live_oak_b;Live Oak Neighborhood;;;;;;;;;;x
+b_live_oak_c;Live Oak Place;;;;;;;;;;x
+b_live_oak_d;Live Oak Pad;;;;;;;;;;x
+b_live_oak_e;Live Oak Venue;;;;;;;;;;x
+b_live_oak_f;Live Oak Holding;;;;;;;;;;x
+b_live_oak_g;Live Oak Helm;;;;;;;;;;x
+b_tennille_a;Tennille Locale;;;;;;;;;;x
+b_tennille_b;Tennille Holding;;;;;;;;;;x
+b_tennille_c;Tennille Pad;;;;;;;;;;x
+b_tennille_d;Tennille Berth;;;;;;;;;;x
+b_tennille_e;Tennille Lay;;;;;;;;;;x
+b_tennille_f;Tennille Head;;;;;;;;;;x
+b_tennille_g;Tennille Suburb;;;;;;;;;;x
+b_horseshoe_beach_a;Horseshoe Beach Head;;;;;;;;;;x
+b_horseshoe_beach_b;Horseshoe Beach Stead;;;;;;;;;;x
+b_horseshoe_beach_c;Horseshoe Beach Joint;;;;;;;;;;x
+b_horseshoe_beach_d;Horseshoe Beach Venue;;;;;;;;;;x
+b_horseshoe_beach_e;Horseshoe Beach Hamlet;;;;;;;;;;x
+b_horseshoe_beach_f;Horseshoe Beach House;;;;;;;;;;x
+b_horseshoe_beach_g;Horseshoe Beach Suburb;;;;;;;;;;x
+b_cedar_key_a;Cedar Key Zone;;;;;;;;;;x
+b_cedar_key_b;Cedar Key Joint;;;;;;;;;;x
+b_cedar_key_c;Cedar Key Point;;;;;;;;;;x
+b_cedar_key_d;Cedar Key Hamlet;;;;;;;;;;x
+b_cedar_key_e;Cedar Key Station;;;;;;;;;;x
+b_cedar_key_f;Cedar Key Holding;;;;;;;;;;x
+b_cedar_key_g;Cedar Key Lay;;;;;;;;;;x
+b_chiefland_a;Chiefland Stead;;;;;;;;;;x
+b_chiefland_b;Chiefland Lay;;;;;;;;;;x
+b_chiefland_c;Chiefland Helm;;;;;;;;;;x
+b_chiefland_d;Chiefland Locale;;;;;;;;;;x
+b_chiefland_e;Chiefland Berth;;;;;;;;;;x
+b_chiefland_f;Chiefland Neighborhood;;;;;;;;;;x
+b_chiefland_g;Chiefland Suburb;;;;;;;;;;x
+b_suwannee_a;Suwannee Spot;;;;;;;;;;x
+b_suwannee_b;Suwannee Stead;;;;;;;;;;x
+b_suwannee_c;Suwannee Helm;;;;;;;;;;x
+b_suwannee_d;Suwannee Neighborhood;;;;;;;;;;x
+b_suwannee_e;Suwannee Locus;;;;;;;;;;x
+b_suwannee_f;Suwannee Zone;;;;;;;;;;x
+b_suwannee_g;Suwannee Pad;;;;;;;;;;x
+b_fort_white_a;Fort White Joint;;;;;;;;;;x
+b_fort_white_b;Fort White Berth;;;;;;;;;;x
+b_fort_white_c;Fort White Holding;;;;;;;;;;x
+b_fort_white_d;Fort White Place;;;;;;;;;;x
+b_fort_white_e;Fort White Clime;;;;;;;;;;x
+b_fort_white_f;Fort White Quarter;;;;;;;;;;x
+b_fort_white_g;Fort White Stead;;;;;;;;;;x
+b_white_springs_a;White Springs Joint;;;;;;;;;;x
+b_white_springs_b;White Springs Site;;;;;;;;;;x
+b_white_springs_c;White Springs Berth;;;;;;;;;;x
+b_white_springs_d;White Springs Stead;;;;;;;;;;x
+b_white_springs_e;White Springs Suburb;;;;;;;;;;x
+b_white_springs_f;White Springs Neighborhood;;;;;;;;;;x
+b_white_springs_g;White Springs Pad;;;;;;;;;;x
+b_yellow_jacket_a;Yellow Jacket Point;;;;;;;;;;x
+b_yellow_jacket_b;Yellow Jacket Stead;;;;;;;;;;x
+b_yellow_jacket_c;Yellow Jacket Pad;;;;;;;;;;x
+b_yellow_jacket_d;Yellow Jacket Holding;;;;;;;;;;x
+b_yellow_jacket_e;Yellow Jacket Helm;;;;;;;;;;x
+b_yellow_jacket_f;Yellow Jacket Station;;;;;;;;;;x
+b_yellow_jacket_g;Yellow Jacket Lay;;;;;;;;;;x
+
+
+#############  Famous Dynasty Descriptions #######################3
+
+DYN1_DESC;With a score of $SCORE$ you$FAILED$ beat House Castro, which formerly ruled over a united Cuba for many generatons.;;;;;;;;;;;;;x
+DYN2_DESC;With a score of $SCORE$ you$FAILED$ beat House Landrieu, a family that has produced numerous mayors, senators, and even governors from the Louisianna region.;;;;;;;;;;;;;x
+DYN3_DESC;With a score of $SCORE$ you$FAILED$ beat House Scott, an astoundingly rich family that once layed claim to all of Florida as a result of their holdings on the governorship.;;;;;;;;;;;;;x
+DYN4_DESC;With a score of $SCORE$ you$FAILED$ beat House Ros-Lehtinen, a politician from the Everglades known for her dogged persistance in increasingly difficult elections.;;;;;;;;;;;;;x
+DYN5_DESC;With a score of $SCORE$ you$FAILED$ beat House Poe, which once ruled over all Gainesville.;;;;;;;;;;;;;x
+DYN6_DESC;With a score of $SCORE$ you$FAILED$ beat House Cruz.  Originally from the distant lands of Canada, House Cruz reigned over all Texas, and at one point had designs on the entire united states.;;;;;;;;;;;;;x
+DYN7_DESC;With a score of $SCORE$ you$FAILED$ beat House Vives, the original settlers of the Isle of Youth.  Though their lifespans were as ours, they found a way to live forever - in the memory of history.;;;;;;;;;;;;;x
+DYN8_DESC;With a score of $SCORE$ you$FAILED$ beat House Tarrazo, which at one point hosted the King of the Yucatan.;;;;;;;;;;;;;x
+DYN9_DESC;With a score of $SCORE$ you$FAILED$ beat House Dyer, mayors of Orlando in the early 21st century.;;;;;;;;;;;;;x
+DYN10_DESC;With a score of $SCORE$ you$FAILED$ beat House Hood, another family that sired mayors of Orlando in the early 21st century.;;;;;;;;;;;;;x
+DYN11_DESC;With a score of $SCORE$ you$FAILED$ beat House Dosal, rulers of Merida.;;;;;;;;;;;;;x
+DYN12_DESC;With a score of $SCORE$ you$FAILED$ beat House Latimer, mayors of Tampa.;;;;;;;;;;;;;x
+DYN13_DESC;With a score of $SCORE$ you$FAILED$ beat House Shaver, the true mayors of Jacksonville.;;;;;;;;;;;;;x
+DYN14_DESC;With a score of $SCORE$ you$FAILED$ beat House Caalus, which once ruled over the - now greatly reduced - Calusa tribesmen.;;;;;;;;;;;;;x
+DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Barnett, mayors of Naples.;;;;;;;;;;;;;x
+
+
+
+########### Selectable Characters ########################################3
+
+ERA_CHAR_NAME_4000265;Brandon Landrieu;;;;;;;;;;;;;x
+ERA_CHAR_INFO_4000265;Surrounded on most sides by infidels and with disgrunted vassals due to culture differences, the Kingdom of Louisanna needs strong leadership.  Can the last of the famous Landrieu line placate the Duke of Gray and subjugate the aggressive neighbors, and even then, who can withstand the Christian onslaught?;;;;;;;;;;;;;x
+
+ERA_CHAR_NAME_4000079;Gabriel Leake;;;;;;;;;;;;;x
+ERA_CHAR_INFO_4000079;Located in the best approximation in Florida's version of the HRE, Count Leake is surrounded by numerous other counts, each vying for dominance.  Some will succeed, but far more will be picked off by their hostile neighbors or the growing realms of Gainesville, Sanford, and Tampa.;;;;;;;;;;;;;x
+
+ERA_CHAR_NAME_4000122;Ethan Commanda;;;;;;;;;;;;;x
+ERA_CHAR_INFO_4000122;As a Totemist surrounded by those who are not, Ethan will face constant threats from the surrounding baptists and the holy-warring duchy of Sanford.  However, Ethan is a bright individual, and well-trained in the ways of war.  Will it be enough?;;;;;;;;;;;;;x
+
+ERA_CHAR_NAME_4000165;Maximo Castro;;;;;;;;;;;;;x
+ERA_CHAR_INFO_4000165;Ruler of a disconnected Kingdom centered on Havana, Maximo may yet struggle to repair the kingdom of his forefathers.  Surrounded by atheists from the Isle of Youth and the Duchy of Sabalo, can the last of the Castros create a baston of Catholicism before it's too late?;;;;;;;;;;;;;x
+
+ERA_CHAR_NAME_4000022;Micaela Overmars;;;;;;;;;;;;;x
+ERA_CHAR_INFO_4000022;As the weaker of the two atheist realms on the Isle of Youth, Micaela must choose to either swear feality to the Island's king or brave war after war - against both neighboring King Sergio and the zealous catholics.  Can her beauty and charm launch the boats she needs to survive?;;;;;;;;;;;;;x
+
+BM_NEW_WORLD;The Florida Men;;;;;;;;;;;;x
+BM_NEW_WORLD_INFO;The enterprising Dukes and upright Kings rebuild, and the tribes of the Everglades and Voodoomen of Louisianna rise in conquest once more.  The greedy mayors and holy priests bemoan the rise of the irreligious - while the Baptist-Catholic conflict heats to a boil.  The pines whisper, and the world awaits the one to be called ... Florida Man.;;;;;;;;;;;;x
+
+################## Knights of Santa Maria #########################
+EVTNAME39102;The Teutonic Order;L'Ordre teutonique;Der Deutsche Orden;;La Orden Teutónica;;;;;;;;;x
+#EVTDESC39102;The Order of Brothers of the Floridian House of Saint Mary in Carnestown has been formed, sponsored by [ThePope.GetTitledFirstName] and the good Catholic rulers. The Teutonic Order, much like the Knights of St. John and the Knights Templar, primarily protect and care for pilgrims to the Holy Land, but will serve any good Catholic ruler willing to pay for their upkeep. Being a religious order, they will not fight other Catholics.;;Unterstützt von [ThePope.GetTitledFirstName] und dem Heiligen Römischen Kaiser wurde der Orden der Brüder vom Deutschen Haus Sankt Mariens in Jerusalem gegründet. Wie die Johanniter und die Tempelritter bieten auch die Ritter des Deutschen Ordens hauptsächlich Pilgern im Heiligen Land Schutz und Pflege. Generell aber dienen sie jedem rechtschaffenen katholischen Herrscher, der für ihren Unterhalt aufkommt. Als religiöser Orden kämpfen sie nicht gegen katholische Glaubensbrüder.;;Se ha creado la Orden de los Caballeros Teutónicos del Hospital de Santa María de Jerusalén, auspiciada por [ThePope.GetTitledFirstName] y el Sacro Emperador Romano. La principal tarea de dicha Orden, igual que en el caso de los Caballeros de San Juan y los Templarios, es proteger a los peregrinos a Tierra Santa, pero servirán a cualquier buen gobernante católico dispuesto a pagar su mantenimiento. Al ser una Orden religiosa, no lucharán contra otros católicos.;;;;;;;;;x
+EVTOPTA39102;The infidels will fall.;;;;;;;;;x
+EVTOPTB39102;The infidels come in many flavors;Il existe toutes sortes d'infidèles.;Die Ungläubigen sind gar vielfältiger Natur;;Los infieles tienen muchos sabores;;;;;;;;;x
+
+EVTDESC39100;The Kingdoms of the North are lost.  With the loss of the Tallahassee and Gainesville kingdoms - Christianity's greatest defense against the voodoomen and home to the breadbasket of Florida, the dire situation has convinced His Holiness to issue a decree confirming the formation of a new religious military order - the Knights of Santa Maria. The Knights, who have already protected and cared for sick pilgrims in Cuba for some time, now have the full weight of the [Root.Religion.GetName] Church behind them. Pious [Root.Religion.GetName] rulers may call on their support in wars against heretics and heathens, but they will not fight those of their own faith.;;;;;;;;;x
+EVTNAME39100;The Knights of Santa Maria;Les Chevaliers de Saint Jean;Die Ritter des Johanniterordens;;Los Caballeros de San Juan;;;;;;;;;x
+d_knights_hospitaler;Knights of Santa Maria;;;;;;;;;x
+EVTDESC39100_CABANAS;The baston of Catholicism in the South.  With the loss of Canabas to the infidels, Christianity recoils at the thought of possbile destruction at the hands of the vile atheists.  The dire situation has convinced His Holiness to issue a decree confirming the formation of a new religious military order - the Knights of Santa Maria. The Knights, who have already protected and cared for sick pilgrims in Cuba for some time, now have the full weight of the [Root.Religion.GetName] Church behind them. Pious [Root.Religion.GetName] rulers may call on their support in wars against heretics and heathens, but they will not fight those of their own faith.;;;;;;;;;x
+EVTDESC39100_Saint_Augustine;The fall of Saint Augustine, one of Florida's oldest Christian lands has shaken the pope to the very core.  The dire situation has convinced His Holiness to issue a decree confirming the formation of a new religious military order - the Knights of Santa Maria. The Knights, who have already protected and cared for sick pilgrims in Cuba for some time, now have the full weight of the [Root.Religion.GetName] Church behind them. Pious [Root.Religion.GetName] rulers may call on their support in wars against heretics and heathens, but they will not fight those of their own faith.;;;;;;;;;x
+EVTDESC39100_HOMESTEAD;Homestead has fallen.  With the loss of the Miami region - Christianity's firm defense against the Carribbean and home to some of its most valuable lands, the dire situation has convinced His Holiness to issue a decree confirming the formation of a new religious military order - the Knights of Santa Maria. The Knights, who have already protected and cared for sick pilgrims in Cuba for some time, now have the full weight of the [Root.Religion.GetName] Church behind them. Pious [Root.Religion.GetName] rulers may call on their support in wars against heretics and heathens, but they will not fight those of their own faith.;;;;;;;;;x
+
+######### Cultural Buildings ####################3####
+ca_culture_mexican_1;Tequihua Workshop;;;;;;;;;x
+ca_culture_mexican_2;Tequihua Camp;;;;;;;;;x
+ca_culture_mexican_3;Tequihua Training Grounds;;;;;;;;;x
+ca_culture_mexican_4;Tequihua Barracks;;;;;;;;;x
+ca_culture_mexican_1_desc;The Mexican archers - refered to as Tequihua in the local language - are legendary for their fights against other Mexican tribes.;;;;;;;;;x
+
+ca_culture_tallahassean_1;Pikemen Workshop;;;;;;;;;x
+ca_culture_tallahassean_2;Pikemen Camp;;;;;;;;;x
+ca_culture_tallahassean_3;Pikemen Training Grounds;;;;;;;;;x
+ca_culture_tallahassean_4;Pikemen Barracks;;;;;;;;;x
+ca_culture_tallahassean_1_desc;The Tallahassee Pikemen are trained to present an impenetrable wall of steel to enemy cavalry and infantry.;;;;;;;;;x
+
+ca_culture_group_southerner_1;Heavy Infanty Workshop;;;;;;;;;x
+ca_culture_group_southerner_2;Heavy Infanty Camp;;;;;;;;;x
+ca_culture_group_southerner_3;Heavy Infanty Training Grounds;;;;;;;;;x
+ca_culture_group_southerner_4;Heavy Infanty Barracks;;;;;;;;;x
+ca_culture_group_southerner_1_desc;This is where the strongest and bravest of the Southern heavy infantry are trained.;;;;;;;;;x
+
+ca_culture_dixie_louisianan_jacksonvillean_1;Knights Workshop;;;;;;;;;x
+ca_culture_dixie_louisianan_jacksonvillean_2;Knights Camp;;;;;;;;;x
+ca_culture_dixie_louisianan_jacksonvillean_3;Knights Training Grounds;;;;;;;;;x
+ca_culture_dixie_louisianan_jacksonvillean_4;Knights Barracks;;;;;;;;;x
+ca_culture_dixie_louisianan_jacksonvillean_1_desc;Here the knights of the Floridian North face off against each other in jousting tournaments and other chivalrous competitions.;;;;;;;;;x
+
+ca_culture_texan_calusa_1;Light Calvary Workshop;;;;;;;;;x
+ca_culture_texan_calusa_2;Light Calvary Camp;;;;;;;;;x
+ca_culture_texan_calusa_3;Light Calvary Training Grounds;;;;;;;;;x
+ca_culture_texan_calusa_4;Light Calvary Barracks;;;;;;;;;x
+ca_culture_texan_calusa_1_desc;The agile light cavalry of the Calusa and Texan kingdoms are raised here. These horsemen are skilled in skirmishing and harassment.;;;;;;;;;x
+
+ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1;Light Infantry Workshop;;;;;;;;;x
+ca_culture_new_orleanser_miamimen_tampanian_orlandoan_2;Light Infantry Camp;;;;;;;;;x
+ca_culture_new_orleanser_miamimen_tampanian_orlandoan_3;Light Infantry Training Grounds;;;;;;;;;x
+ca_culture_new_orleanser_miamimen_tampanian_orlandoan_4;Light Infantry Barracks;;;;;;;;;x
+ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1_desc;The adapt light infantry trained here are pulled from the strongest and most capable subjects.;;;;;;;;;x
+
+ca_culture_americo_hispanic_cubano_1;Free Warrior Workshop;;;;;;;;;x
+ca_culture_americo_hispanic_cubano_2;Free Warrior Camp;;;;;;;;;x
+ca_culture_americo_hispanic_cubano_3;Free Warrior Training Grounds;;;;;;;;;x
+ca_culture_americo_hispanic_cubano_4;Free Warrior Barracks;;;;;;;;;x
+ca_culture_americo_hispanic_cubano_1_desc;The free warriors from proper hispanic society are treated far better than regular peasants, and their skill shows from it.;;;;;;;;;x
+
+ca_culture_hispaniolan_antillais_1;Island Fighter Workshop;;;;;;;;;x
+ca_culture_hispaniolan_antillais_2;Island Fighter Camp;;;;;;;;;x
+ca_culture_hispaniolan_antillais_3;Island Fighter Training Grounds;;;;;;;;;x
+ca_culture_hispaniolan_antillais_4;Island Fighter Barracks;;;;;;;;;x
+ca_culture_hispaniolan_antillais_1_desc;The harsh conditions of the open sea life create an ideal climate for powerful heavy infantry to smash through weaker defenses.;;;;;;;;;x
+
+##############  Pagan Reformation ############################
+EVTDESC670_FL;The ancient [Root.Religion.GetName] religion is proving unable to withstand the onslaught of the Cross and the Void. Rather than abandoning the old ways, [Root.GetTitledName] and the most powerful priests have decided to reform the [Root.Religion.GetName] faith. With codified rites, a holy scripture and a strict church hierarchy under a single leader, they hope that the reformed [Root.Religion.GetName] faith is better armed to fight back against the weak and effeminate foreign beliefs!;L'ancienne religion [Root.Religion.GetName] n'est pas à même de résister à l'assaut de la Croix et de la Lune. Plutôt que d'abandonner leur ancienne foi, [Root.Get_le_Title][Root.GetTitledName], ainsi que les plus puissants prêtres, ont décidé de la réformer. Grâce à des rites codifiés, à des textes sacrés et à une hiérarchie religieuse sous un seul chef, ils espèrent que la foi [Root.Religion.GetName] réformée est ainsi mieux armée pour repousser les croyances étrangères faibles et efféminées ! ;Die altertümliche [Root.Religion.GetName]e Religion kann dem Ansturm des Kreuzes und des Mondes nichts entgegensetzen. Doch statt die alten Pfade zu verlassen, haben sich [Root.GetTitledName] und die mächtigsten Priester dazu entschlossen, den [Root.Religion.GetName]en Glauben zu reformieren. Mit kodifizierten Riten, einer heiligen Schrift und einer strikten Kirchenhierarchie unter einem einzelnen Oberhaupt hoffen sie, dass der reformierte [Root.Religion.GetName]e Glaube besser gegen die schwachen und infamen, fremden Ansichten bestehen kann!;;La antigua religión [Root.Religion.GetName] está demostrando ser incapaz de resistir la arremetida de la Cruz y de la Luna. En lugar de abandonar las viejas costumbres, [Root.GetTitledName] y los más poderosos sacerdotes han decidido reformar la fe [Root.Religion.GetName]. Con ritos codificados, una escritura sagrada y una jerarquía estricta en la iglesia bajo un solo líder, esperan que la fe [Root.Religion.GetName] reformada esté mejor armada para luchar contra las creencias extranjeras débiles y afeminadas!;;;;;;;;;x
+EVIL_TOTEMS1;The Evil Spirits;;;;;;;;;x
+EVIL_TOTEMS2;The Vulture;;;;;;;;;x
+
+
+
+################ Province Names #################################
+PROV1;Cameron;;;;;;;;;;;;;x
+PROV2;Hackberry;;;;;;;;;;;;;x
+PROV3;Lake Charles;;;;;;;;;;;;;x
+PROV4;Jennings;;;;;;;;;;;;;x
+PROV5;Iota;;;;;;;;;;;;;x
+PROV6;Gueydan;;;;;;;;;;;;;x
+PROV7;Creole;;;;;;;;;;;;;x
+PROV8;White Lake Wetlands Conservation Area;;;;;;;;;;;;;x
+PROV9;Crowley;;;;;;;;;;;;;x
+PROV10;Pecan Island;;;;;;;;;;;;;x
+PROV11;Lafayette;;;;;;;;;;;;;x
+PROV12;Abbeville;;;;;;;;;;;;;x
+PROV13;Breaux Bridge;;;;;;;;;;;;;x
+PROV14;Marsh Island;;;;;;;;;;;;;x
+PROV15;New Iberia;;;;;;;;;;;;;x
+PROV16;Atchafalaya Wildlife Refuge;;;;;;;;;;;;;x
+PROV17;Plaquemine;;;;;;;;;;;;;x
+PROV18;Morgan;;;;;;;;;;;;;x
+PROV19;Baton Rouge;;;;;;;;;;;;;x
+PROV20;New Amelia Island;;;;;;;;;;;;;x
+PROV21;Cocodrie;;;;;;;;;;;;;x
+PROV22;Gray;;;;;;;;;;;;;x
+PROV23;Houma;;;;;;;;;;;;;x
+PROV24;Hammond;;;;;;;;;;;;;x
+PROV25;Picayune;;;;;;;;;;;;;x
+PROV26;Biloxi;;;;;;;;;;;;;x
+PROV27;New Orleans;;;;;;;;;;;;;x
+PROV28;Empire;;;;;;;;;;;;;x
+PROV29;Shell Beach;;;;;;;;;;;;;x
+PROV30;Orange Beach;;;;;;;;;;;;;x
+PROV31;Pensacola;;;;;;;;;;;;;x
+PROV32;Fort Walton;;;;;;;;;;;;;x
+PROV33;Crestview;;;;;;;;;;;;;x
+PROV34;Niceville;;;;;;;;;;;;;x
+PROV35;Defunkiak Springs;;;;;;;;;;;;;x
+PROV36;Panama City Beach;;;;;;;;;;;;;x
+PROV37;Port Saint Joe;;;;;;;;;;;;;x
+PROV38;Wewahitchka;;;;;;;;;;;;;x
+PROV39;Estiffanulga;;;;;;;;;;;;;x
+PROV40;Blountstown;;;;;;;;;;;;;x
+PROV41;Cedar Keypoint;;;;;;;;;;;;;x
+PROV42;Carrabelle;;;;;;;;;;;;;x
+PROV43;Apalachicola Forest;;;;;;;;;;;;;x
+PROV44;Hosford;;;;;;;;;;;;;x
+PROV45;Fort Braden;;;;;;;;;;;;;x
+PROV46;Sopchoppy;;;;;;;;;;;;;x
+PROV47;Tallahassee;;;;;;;;;;;;;x
+PROV48;Woodville;;;;;;;;;;;;;x
+PROV49;Aucilla Wildlife Area-Iles;;;;;;;;;;;;;x
+PROV50;Wacissa;;;;;;;;;;;;;x
+PROV51;Franklin;;;;;;;;;;;;;x
+PROV52;Live Oak;;;;;;;;;;;;;x
+PROV53;Tennille;;;;;;;;;;;;;x
+PROV54;Horseshoe Beach;;;;;;;;;;;;;x
+PROV55;Cedar Key;;;;;;;;;;;;;x
+PROV56;Chiefland;;;;;;;;;;;;;x
+PROV57;Fort White;;;;;;;;;;;;;x
+PROV58;White Springs;;;;;;;;;;;;;x
+PROV59;Osceola Wildlife Management Area;;;;;;;;;;;;;x
+PROV60;Lake City;;;;;;;;;;;;;x
+PROV61;Celestun;;;;;;;;;;;;;x
+PROV62;Hunucma;;;;;;;;;;;;;x
+PROV63;Uman;;;;;;;;;;;;;x
+PROV64;Progreso;;;;;;;;;;;;;x
+PROV65;Merida;;;;;;;;;;;;;x
+PROV66;Motul;;;;;;;;;;;;;x
+PROV67;Izamal;;;;;;;;;;;;;;x
+PROV68;Dzidzantun;;;;;;;;;;;;;x
+PROV69;Piste;;;;;;;;;;;;;x
+PROV70;La Gran Lucha;;;;;;;;;;;;;x
+PROV71;Valladolid;;;;;;;;;;;;;x
+PROV72;Tizimin;;;;;;;;;;;;;x
+PROV73;Rio Lagartos;;;;;;;;;;;;;x
+PROV74;Chemax;;;;;;;;;;;;;x
+PROV75;El Cuyo;;;;;;;;;;;;;x
+PROV76;Kantunilkin;;;;;;;;;;;;;x
+PROV77;Holbox;;;;;;;;;;;;x
+PROV78;Coba;;;;;;;;;;;;x
+PROV79;Play del Carmen;;;;;;;;;;;;x
+PROV80;Cancun;;;;;;;;;;;;x
+PROV81;Maria La Gorda;;;;;;;;;;;;x
+PROV82;Sandino;;;;;;;;;;;;x
+PROV83;Mantua;;;;;;;;;;;;x
+PROV84;Minas De Matahambre;;;;;;;;;;;;x
+PROV85;Punta De La Sierra;;;;;;;;;;;;x
+PROV86;San Juan Y Martinez;;;;;;;;;;;;x
+PROV87;Santa Maria;;;;;;;;;;;;x
+PROV88;Vinalas;;;;;;;;;;;;x
+PROV89;La Palma;;;;;;;;;;;;x
+PROV90;Pinar Del Rio;;;;;;;;;;;;x
+PROV91;Las Tumbas;;;;;;;;;;;;x
+PROV92;La Coloma;;;;;;;;;;;;x
+PROV93;Alonso De Rojas;;;;;;;;;;;;x
+PROV94;Los Palacios;;;;;;;;;;;;x
+PROV95;Palma Rubia;;;;;;;;;;;;x
+PROV96;Los Pinos;;;;;;;;;;;;x
+PROV97;San Cristobal;;;;;;;;;;;;x
+PROV98;Soroa;;;;;;;;;;;;x
+PROV99;Harlem Bahia Honda;;;;;;;;;;;;x
+PROV100;Parque La Guira;;;;;;;;;;;;x
+PROV101;Cayos De San Felipe;;;;;;;;;;;;x
+PROV102;Islas De Mangles;;;;;;;;;;;;x
+PROV103;La Demajagua;;;;;;;;;;;;x
+PROV104;Carapachibay;;;;;;;;;;;;;x
+PROV105;Delita;;;;;;;;;;;;;x
+PROV106;Siguanea;;;;;;;;;;;;;x
+PROV107;Parque Marino De Punta;;;;;;;;;;;;;x
+PROV108;Santa Fe;;;;;;;;;;;;;x
+PROV109;Nueva Gerona;;;;;;;;;;;;x
+PROV110;Cayos Los Cayuelos;;;;;;;;;;;;x
+PROV111;Islas De Batabanos;;;;;;;;;;;;x
+PROV112;Cayo Boca De Alonso;;;;;;;;;;;x
+PROV113;Cayo Campos;;;;;;;;;;;x
+PROV114;Cayo Ciprey;;;;;;;;;;;x
+PROV115;Cayo Diego Perez;;;;;;;;;;;x
+PROV116;Cayo Divisa;;;;;;;;;;;x
+PROV117;Playa Sirena;;;;;;;;;;;x
+PROV118;Parque Cienaga De Zapata;;;;;;;;;;;x
+PROV119;Playa Larga;;;;;;;;;;;x
+PROV120;Nueva Paz;;;;;;;;;;;x
+PROV121;Gainesville;;;;;;;;;;;x
+PROV122;Hawthorne;;;;;;;;;;;x
+PROV123;Interlachen;;;;;;;;;;;x
+PROV124;Palatka;;;;;;;;;;;x
+PROV125;Hastings;;;;;;;;;;;x
+PROV126;Palm Coast;;;;;;;;;;;x
+PROV127;Saint Augustine;;;;;;;;;;;x
+PROV128;Green Cove Springs;;;;;;;;;;;x
+PROV129;Starke;;;;;;;;;;;x
+PROV130;Alachua;;;;;;;;;;;x
+PROV131;Moniac;;;;;;;;;;;x
+PROV132;Macclenny;;;;;;;;;;;x
+PROV133;Saint George;;;;;;;;;;;x
+PROV134;Baldwin;;;;;;;;;;;x
+PROV135;Callahan;;;;;;;;;;;;x
+PROV136;Franklintown;;;;;;;;;;;x
+PROV137;Middleburg;;;;;;;;;;;x
+PROV138;Orange Park;;;;;;;;;;;x
+PROV139;Jacksonville;;;;;;;;;;;x
+PROV140;Arlington;;;;;;;;;;;x
+PROV141;Ocala Forest;;;;;;;;;;;x
+PROV142;Belleview;;;;;;;;;;;x
+PROV143;Ocala;;;;;;;;;;;x
+PROV144;Morriston;;;;;;;;;;;x
+PROV145;Marion Oaks;;;;;;;;;;;x
+PROV146;Chatmire;;;;;;;;;;;x
+PROV147;Citrus Springs;;;;;;;;;;;x
+PROV148;Dunnellon;;;;;;;;;;;x
+PROV149;Goethe Forest;;;;;;;;;;;x
+PROV150;Williston Highlands;;;;;;;;;;;x
+PROV151;Lower Goethe Forest;;;;;;;;;;;x
+PROV152;Inglis;;;;;;;;;;;x
+PROV153;Cross Florida Greenway;;;;;;;;;;;x
+PROV154;Gulf Hammock Wildlife Preserve;;;;;;;;;;;x
+PROV155;Bronston;;;;;;;;;;;x
+PROV156;Otter Creek;;;;;;;;;;;x
+PROV157;Devils Hammock Wildlife Preserve;;;;;;;;;;;x
+PROV158;Yellow Jacket;;;;;;;;;;;x
+PROV159;Suwannee;;;;;;;;;;;x
+PROV160;Spring Hill;;;;;;;;;;;x
+PROV161;Jaguey Grande;;;;;;;;;;;x
+PROV162;Cardenas;;;;;;;;;;;x
+PROV163;Eastern Parque Cienaga De Zapata;;;;;;;;;;;x
+PROV164;Pedro Betancourt;;;;;;;;;;;x
+PROV165;Matanzas;;;;;;;;;;;x
+PROV166;Union De Reyes;;;;;;;;;;;x
+PROV167;Central Parque Cienaga De Zapata;;;;;;;;;;;x
+PROV168;Southern Parque Cienaga De Zapata;;;;;;;;;;;x
+PROV169;Far Parque Cienaga De Zapata;;;;;;;;;;x
+PROV170;San Miguel De Los Banos;;;;;;;;;;x
+PROV171;Aguacate;;;;;;;;;;x
+PROV172;Bacunayagua;;;;;;;;;;x
+PROV173;San Nicolas De Bari;;;;;;;;;;x
+PROV174;Santa Cruz Del Norte;;;;;;;;;;x
+PROV175;Havana;;;;;;;;;;x
+PROV176;Surgidero De Batabano;;;;;;;;;;x
+PROV177;Playa Baracoa;;;;;;;;;;x
+PROV178;Artemisa;;;;;;;;;;x
+PROV179;Cabanas;;;;;;;;;;x
+PROV180;Candelaria;;;;;;;;;;x
+PROV181;Pine Island Sound Aquatic Preserve;;;;;;;;;;x
+PROV182;Port Charlotte;;;;;;;;;;x
+PROV183;Venice;;;;;;;;;;x
+PROV184;Sarasota;;;;;;;;;;x
+PROV185;Brandenton;;;;;;;;;;x
+PROV186;Sun City;;;;;;;;;;x
+PROV187;Apollo Beach;;;;;;;;;;x
+PROV188;South Tampa;;;;;;;;;;x
+PROV189;Saint Petersburg;;;;;;;;;;x
+PROV190;Clearwater;;;;;;;;;;x
+PROV191;Town N Country;;;;;;;;;;x
+PROV192;Palm Harbor;;;;;;;;;;x
+PROV193;Trinity;;;;;;;;;;x
+PROV194;Lutz;;;;;;;;;;x
+PROV195;Dade City;;;;;;;;;;x
+PROV196;Wesley Chapel;;;;;;;;;;x
+PROV197;Lithia;;;;;;;;;;x
+PROV198;Myakka;;;;;;;;;;x
+PROV199;Mayakk River Park;;;;;;;;;;x
+PROV200;North Port;;;;;;;;;;x
+PROV201;Freeport;;;;;;;;;;x
+PROV202;Left Islands;;;;;;;;;;x
+PROV203;Right Islands;;;;;;;;;;x
+PROV204;Cayo Romano;;;;;;;;;;x
+PROV205;Puerto Padre;;;;;;;;;;x
+PROV206;Las Tunas;;;;;;;;;;x
+PROV207;Bayamo;;;;;;;;;;x
+PROV208;Sabalo;;;;;;;;;;x
+PROV209;Colobia;;;;;;;;;;x
+PROV210;Candido Gonzalez;;;;;;;;;;x
+PROV211;Venezuela;;;;;;;;;;x
+PROV212;Camaguey;;;;;;;;;;x
+PROV213;Vilato;;;;;;;;;;x
+PROV214;Moron;;;;;;;;;;x
+PROV215;Cayo Fragoso;;;;;;;;;;x
+PROV216;Santa Clara;;;;;;;;;;x
+PROV217;Cienfuegos;;;;;;;;;;x
+PROV218;Constancia;;;;;;;;;;x
+PROV219;Colon;;;;;;;;;;x
+PROV220;La Teja;;;;;;;;;;x
+PROV221;Winter Haven;;;;;;;;;;x
+PROV222;Lakeland;;;;;;;;;;x
+PROV223;Plant City;;;;;;;;;;x
+PROV224;Avon Park;;;;;;;;;;x
+PROV225;Bowling Green;;;;;;;;;;x
+PROV226;Arcadia;;;;;;;;;;x
+PROV227;Southeast Arcadia;;;;;;;;;;x
+PROV228;Babcock Ranch Preserve;;;;;;;;;;x
+PROV229;Ave Maria;;;;;;;;;;x
+PROV230;Naples;;;;;;;;;;x
+PROV231;Orangetree;;;;;;;;;;x
+PROV232;Cape Romano;;;;;;;;;;x
+PROV233;Carnestown;;;;;;;;;;x
+PROV234;Everglades City;;;;;;;;;;x
+PROV235;Chokoloskee;;;;;;;;;;x
+PROV236;Everglades Park;;;;;;;;;;x
+PROV237;Big Pine Key;;;;;;;;;;x
+PROV238;Cudjoe Key;;;;;;;;;;x
+PROV239;Key West;;;;;;;;;;x
+PROV240;Dry Tortugas National Park;;;;;;;;;;x
+PROV241;Camp Ocala;;;;;;;;;;x
+PROV242;Alexander Springs;;;;;;;;;;x
+PROV243;Astor;;;;;;;;;;x
+PROV244;De Leon Springs;;;;;;;;;;x
+PROV245;Paisley;;;;;;;;;;x
+PROV246;Eustis;;;;;;;;;;x
+PROV247;Apopka;;;;;;;;;;x
+PROV248;Sorrento;;;;;;;;;;x
+PROV249;Stirling;;;;;;;;;;x
+PROV250;Pine Lakes;;;;;;;;;;x
+PROV251;Sanford;;;;;;;;;;X
+PROV252;Deland;;;;;;;;;;X
+PROV253;North Deland;;;;;;;;;;X
+PROV254;Relay Wma;;;;;;;;;;X
+PROV255;Ormond Beach;;;;;;;;;;X
+PROV256;Tiger Bay Forest;;;;;;;;;;X
+PROV257;Daytona Beach;;;;;;;;;;X
+PROV258;South Tiger Bay Forest;;;;;;;;;;X
+PROV259;Sebastian;;;;;;;;;;X
+PROV260;New Smyrna Beach;;;;;;;;;;X
+PROV261;Vero Beach;;;;;;;;;;X
+PROV262;Fort Pierce;;;;;;;;;;X
+PROV263;Port Saint Lucie;;;;;;;;;;X
+PROV264;Vero Corridor;;;;;;;;;;X
+PROV265;Yeehaw Junction;;;;;;;;;;X
+PROV266;White;;;;;;;;;;X
+PROV267;Pahokee;;;;;;;;;;X
+PROV268;West Palm Beach;;;;;;;;;;X
+PROV269;Belle Glade;;;;;;;;;;X
+PROV270;Clewiston;;;;;;;;;;X
+PROV271;Immokalee;;;;;;;;;;X
+PROV272;Labelle;;;;;;;;;;X
+PROV273;Muce;;;;;;;;;;X
+PROV274;Sebring;;;;;;;;;;X
+PROV275;Sylvan Shores;;;;;;;;;;X
+PROV276;Buckhead Ridge;;;;;;;;;;X
+PROV277;Kissimee Praire Preserve;;;;;;;;;;X
+PROV278;Basinger;;;;;;;;;;X
+PROV279;Whispering Pines;;;;;;;;;;X
+PROV280;Okeechobee;;;;;;;;;;X
+PROV281;Marathon;;;;;;;;;;X
+PROV282;South Everglades;;;;;;;;;;X
+PROV283;Islamorada;;;;;;;;;;X
+PROV284;North Everglades;;;;;;;;;;X
+PROV285;Key Largo;;;;;;;;;;X
+PROV286;Palmetto Bay;;;;;;;;;;X
+PROV287;Homestead;;;;;;;;;;X
+PROV288;Kendall;;;;;;;;;;X
+PROV289;Cutler Bay;;;;;;;;;;X
+PROV290;Coral Gables;;;;;;;;;;X
+PROV291;Doral;;;;;;;;;;X
+PROV292;Miami;;;;;;;;;;X
+PROV293;Hialeah;;;;;;;;;;X
+PROV294;Minneapolis;;;;;;;;;;X
+PROV295;Miami Shores;;;;;;;;;;X
+PROV296;Aventura;;;;;;;;;;X
+PROV297;Hollywood;;;;;;;;;;X
+PROV298;Horseshoe Beach Park;;;;;;;;;;X
+PROV299;Pembroke Pines;;;;;;;;;;X
+PROV300; Miramar;;;;;;;;;;X
+
+################### Sea Tiles #############################
+
+PROV301;Calcasieu Lake;;;;;;;;;;X
+PROV302;Grand Lake;;;;;;;;;;X
+PROV303;White Lake;;;;;;;;;;X
+PROV304;Lake Maurepas;;;;;;;;;;X
+PROV305;Lake Pontchartrain;;;;;;;;;;X
+PROV306;Lake George;;;;;;;;;;X
+PROV307;Lake Okeechobee;;;;;;;;;;X
+PROV308;Indian River;;;;;;;;;;X
+PROV309;Sea of First Coast;;;;;;;;;;X
+PROV310;Bay of South Keys;;;;;;;;;;X
+PROV311;Ocean of Miami;;;;;;;;;;X
+PROV312;Bay of South Cuba;;;;;;;;;;X
+PROV313;Sea of Louisianna;;;;;;;;;;X
+PROV314;Bay of Yucatan;;;;;;;;;;X
+PROV315;Bay of Orleans;;;;;;;;;;X
+PROV316;Bay of North Cuba;;;;;;;;;;X
+PROV317;Bay of Pensicola;;;;;;;;;;X
+PROV318;Bay of Havana;;;;;;;;;;X
+PROV319;Bay of Tampa;;;;;;;;;;X
+PROV320;Gulf of The Keys;;;;;;;;;;X
+PROV321;Carribian Ocean;;;;;;;;;;X
+PROV322;Bay of Gray;;;;;;;;;;X
+PROV323;Bay of Biloxi;;;;;;;;;;X
+PROV324;Bay of East Pensicola;;;;;;;;;;X
+PROV325;Bay of Clearwater;;;;;;;;;;X
+PROV326;Bay of Fort Myers;;;;;;;;;;X
+PROV327;Bay of Naples;;;;;;;;;;X
+PROV328;Bay of Far Keys;;;;;;;;;;X
+PROV329;Sea of Jacksonville;;;;;;;;;;X
+PROV330;Sea of Space Coast;;;;;;;;;;X
+PROV331;Sea of Freeport;;;;;;;;;;X
+PROV332;South Ocean of Miami;;;;;;;;;;X
+PROV333;Ocean of Far Yucatan;;;;;;;;;;X
+PROV334;Bay of Cancun;;;;;;;;;;X
+PROV335;Bay of Merida;;;;;;;;;;X
+PROV336;Bay of Trinidad;;;;;;;;;;X
+PROV337;Bahia de Las Tumbas;;;;;;;;;;X
+PROV338;Bahia de Sandino;;;;;;;;;;X
+PROV339;Bahia de Pinar Norte;;;;;;;;;;X
+PROV340;Bahia de Santa Clara;;;;;;;;;;X
+
+
+###############  Florida Man ############################
+EVT_NAME_FLMAN1;The Rise of Florida Man;;;;;;;;;;X
+EVTN_DESC_FLMAN1;A local Florida man has arisen, proclaiming that he knows how to save us from what is about to come.  He warns that the world will soon be again destroyed unless all Floridians follow him and atone for their misdeeds.  Many prophets have come before him, preaching similar doctrines of fated destruction but attracting few followers, but this man is different. This prophet's oratory has given him thousands of followers, who are now spreading their doctrine across Florida by his words and by the sword.;;;;;;;;;;X
+EVT_OPT_A_FLMAN_REVOLT;That's me! Yahoo!;;;;;;;;;;X
+EVT_OPT_B_FLMAN_REVOLT;Do I dare fight the legends?;;;;;;;;;;X
+EVT_OPT_C_FLMAN_REVOLT;Just another lunatic.;;;;;;;;;;X
+EVT_OPT_D_FLMAN_REVOLT;That's what I've been saying!;;;;;;;;;;X
+EVT_OPT_E_FLMAN_REVOLT;His gods will be no match for mine.;;;;;;;;;;X
+d_flman;Florida Man's Dominion;;;;;;;;;;X
+d_flman_adj;Lunatic;;;;;;;;;;X
+FLMAN_REVOLT;Florida Man's Dominion;;;;;;;;;;X
+nick_the_flman;The Florida Man;;;;;;;;;;X
+FLMAN_TITLE;Chief;;;;;;;;;;X
+COMPL_SAYYID_FLMAN;legend;;;;;;;;;;X
+COMPL_SAYYID_FLMAN_ADJ;legendary;;;;;;;;;;X
+sayyid_flman;Descendant of Florida Man;;;;;;;;;;X
+sayyid_flman_desc;This character is either Florida Man himself or descended from him;;;;;;;;;;X

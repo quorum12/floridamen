@@ -1,0 +1,9 @@
+# 203 - Right Islands
+title = c_right_islands
+max_settlements = 4
+culture = antillais
+religion = baptist
+b_right_islands_a = castle
+b_right_islands_b = city
+b_right_islands_c = temple
+2134.1.1 = {

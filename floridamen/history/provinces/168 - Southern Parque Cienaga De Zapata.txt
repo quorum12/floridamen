@@ -1,0 +1,8 @@
+# 168 - Southern Parque Cienaga De Zapata
+title = c_southern_parque_cienaga_de_zapata
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_southern_parque_cienaga_de_zapata_a = castle
+b_southern_parque_cienaga_de_zapata_b = city
+b_southern_parque_cienaga_de_zapata_c = temple

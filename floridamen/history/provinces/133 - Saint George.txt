@@ -1,0 +1,8 @@
+# 133 - Saint George
+title = c_saint_george
+max_settlements = 4
+culture = jacksonvillean
+religion = baptist
+b_saint_george_a = castle
+b_saint_george_b = city
+b_saint_george_c = temple

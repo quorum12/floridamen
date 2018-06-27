@@ -1,0 +1,8 @@
+# 6 - Gueydan
+title = c_gueydan
+max_settlements = 4
+culture = louisianan
+religion = catholic
+b_gueydan_a = castle
+b_gueydan_b = city
+b_gueydan_c = temple

@@ -1,0 +1,59 @@
+# Island regions - no land path from the continent
+# The AI needs these to optimize path finding
+#
+# NOTE: do not add any regions here that are NOT islands
+
+# Regions can be declared with one or more of the following fields:
+#	duchies = { }, takes duchy title names declared in landed_titles.txt
+#	counties = { }, takes county title names declared in landed_titles.txt
+#	provinces = { }, takes province id numbers declared in /history/provinces
+#	regions = { }, a region can also include other regions, however the subregions needs to be declared before the parent region. 
+#		E.g. If the region world_europe contains the region world_europe_west then world_europe_west needs to be declared as a region before (i.e. higher up in this file) world_europe.
+
+region_keys = {
+	provinces = { 237 238 239 240 }
+}
+
+region_freeport = {
+	provinces = { 201 }
+}
+
+region_left_islands = {
+	provinces = { 202 }
+}
+
+region_right_islands = {
+	provinces = { 203 }
+}
+
+region_yucatan = {
+	provinces = { 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80}
+}
+
+region_cayos_de_san_felipe = {
+	provinces = { 101 }
+}
+
+region_islas_de_mangles = {
+	provinces = { 102 }
+}
+
+region_islas_de_batabanos = {
+	provinces = { 111 }
+}
+
+region_cayo_campos = {
+	provinces = { 112 113 114 }
+}
+
+region_cayo_divisa = {
+	provinces = { 116 }
+}
+
+region_juventud = {
+	provinces = { 103 104 105 106 107 108 109 110 }
+}
+
+region_cuba = {
+	provinces = { 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 115 117 118 119 120 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 }
+}

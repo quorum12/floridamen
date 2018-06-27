@@ -1,0 +1,8 @@
+# 115 - Cayo Diego Perez
+title = c_cayo_diego_perez
+max_settlements = 4
+culture = antillais
+religion = none
+b_cayo_diego_perez_a = castle
+b_cayo_diego_perez_b = city
+b_cayo_diego_perez_c = temple

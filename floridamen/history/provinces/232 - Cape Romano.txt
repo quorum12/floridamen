@@ -1,0 +1,8 @@
+# 232 - Cape Romano
+title = c_cape_romano
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_cape_romano_a = castle
+b_cape_romano_b = city
+b_cape_romano_c = temple

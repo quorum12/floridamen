@@ -1,0 +1,8 @@
+# 205 - Puerto Padre
+title = c_puerto_padre
+max_settlements = 4
+culture = antillais
+religion = catholic
+b_puerto_padre_a = castle
+b_puerto_padre_b = city
+b_puerto_padre_c = temple

@@ -1,0 +1,8 @@
+# 199 - Mayakk River Park
+title = c_mayakk_river_park
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_mayakk_river_park_a = castle
+b_mayakk_river_park_b = city
+b_mayakk_river_park_c = temple

@@ -1,0 +1,8 @@
+# 34 - Niceville
+title = c_niceville
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_niceville_a = castle
+b_niceville_b = city
+b_niceville_c = temple

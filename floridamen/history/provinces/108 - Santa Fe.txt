@@ -1,0 +1,8 @@
+# 108 - Santa Fe
+title = c_santa_fe
+max_settlements = 4
+culture = antillais
+religion = none
+b_santa_fe_a = castle
+b_santa_fe_b = city
+b_santa_fe_c = temple

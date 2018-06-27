@@ -1,0 +1,8 @@
+# 254 - Relay Wma
+title = c_relay_wma
+max_settlements = 4
+culture = jacksonvillean
+religion = catholic
+b_relay_wma_a = castle
+b_relay_wma_b = city
+b_relay_wma_c = temple
